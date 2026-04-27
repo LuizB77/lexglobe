@@ -138,7 +138,9 @@ async function scrapeCode(code) {
       return null
     }
 
-    const html = await res.text()
+    // Planalto uses ISO-8859-1 — decode as binary then re-encode
+    const buffer = await res.arrayBuffer()
+    const html = new TextDecoder('iso-8859-1').decode(buffer)
     console.log(`  ✓ Fetched ${Math.round(html.length / 1024)}KB`)
 
     const articles = extractArticles(html, code.prefix)
