@@ -52,8 +52,14 @@ const CODES = [
 
 function cleanText(text) {
   return text
-    .replace(/\s+/g, ' ')
+    .replace(/&nbsp;/g, ' ')
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&#\d+;/g, ' ')
     .replace(/\u00a0/g, ' ')
+    .replace(/\s+/g, ' ')
     .trim()
 }
 
@@ -116,6 +122,13 @@ function extractArticles(html, prefix) {
     // Stop at 500 articles per code to keep files reasonable
     if (articles.length >= 500) break
   }
+
+  // Sort by article number numerically
+  articles.sort((a, b) => {
+    const numA = parseInt(a.number, 10)
+    const numB = parseInt(b.number, 10)
+    return numA - numB
+  })
 
   return articles
 }
