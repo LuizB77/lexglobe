@@ -120,7 +120,7 @@ function extractArticles(html, prefix) {
     })
 
     // Stop at 500 articles per code to keep files reasonable
-    if (articles.length >= 500) break
+    if (articles.length >= 2500) break
   }
 
   // Sort by article number numerically
