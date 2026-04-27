@@ -7,42 +7,2789 @@
     {
       "id": "eca_1",
       "number": "1",
-      "title": "Proteção Integral",
-      "text": "Esta Lei dispõe sobre a proteção integral à criança e ao adolescente.",
-      "tags": ["criança", "adolescente", "proteção", "integral"],
-      "relatedArticles": ["eca_2", "eca_3"]
+      "title": "Artigo 1",
+      "text": "Art. 1� Esta Lei disp�e sobre a prote��o integral � crian�a e ao adolescente. &nbsp; Art. 2� Considera-se crian�a, para os efeitos desta Lei, a pessoa at� doze anos de idade incompletos, e adolescente aquela entre doze e dezoito anos de idade. Par�grafo �nico. Nos casos expressos em lei, aplica-se excepcionalmente este Estatuto �s pessoas entre dezoito e vinte e um anos de idade. &nbsp; Art. 3� A crian�a e o adolescente gozam de todos os direitos fundamentais inerentes � pessoa humana, sem preju�zo da prote��o integral de que trata esta Lei, assegurando-se-lhes, por lei ou por outros meios, todas as oportunidades e facilidades, a fim de lhes facultar o desenvolvimento f�sico, mental, moral, espiritual e social, em condi��es de liberdade e de dignidade. Par�grafo �nico. �Os direitos enunciados nesta Lei aplicam-se a todas as crian�as e adolescentes, sem discrimina��o de nascimento, situa��o familiar, idade, sexo, ra�a, etnia ou cor, religi�o ou cren�a, defici�ncia, condi��o pessoal de desenvolvimento e aprendizagem, condi��o econ�mica, ambiente social, regi�o e local de moradia ou outra condi��o que diferencie as pessoas, as fam�lias ou a comunidade em que vivem. (Inclu�do pela Lei ...",
+      "tags": [
+        "criana",
+        "adolescente",
+        "condio",
+        "proteo",
+        "integral"
+      ],
+      "relatedArticles": []
     },
     {
-      "id": "eca_2",
-      "number": "2",
-      "title": "Definição de Criança e Adolescente",
-      "text": "Considera-se criança, para os efeitos desta Lei, a pessoa até doze anos de idade incompletos, e adolescente aquela entre doze e dezoito anos de idade.",
-      "tags": ["criança", "adolescente", "idade", "definição", "menor"],
-      "relatedArticles": ["eca_1", "eca_3"]
+      "id": "eca_10",
+      "number": "10",
+      "title": "Os hospitais e demais estabelecimentos de aten��o � sa�de de",
+      "text": "Art. 10. Os hospitais e demais estabelecimentos de aten��o � sa�de de gestantes, p�blicos e particulares, s�o obrigados a: &nbsp; I - manter registro das atividades desenvolvidas, atrav�s de prontu�rios individuais, pelo prazo de dezoito anos; &nbsp; II - identificar o rec�m-nascido mediante o registro de sua impress�o plantar e digital e da impress�o digital da m�e, sem preju�zo de outras formas normatizadas pela autoridade administrativa competente; &nbsp; III - proceder a exames visando ao diagn�stico e terap�utica de anormalidades no metabolismo do rec�m-nascido, bem como prestar orienta��o aos pais; &nbsp; IV - fornecer declara��o de nascimento onde constem necessariamente as intercorr�ncias do parto e do desenvolvimento do neonato; &nbsp; V - manter alojamento conjunto, possibilitando ao neonato a perman�ncia junto � m�e. &nbsp; VI - acompanhar a pr�tica do processo de amamenta��o, prestando orienta��es quanto � t�cnica adequada, enquanto a m�e permanecer na unidade hospitalar, utilizando o corpo t�cnico j� existente. (Inclu�do pela Lei n� 13.436, de 2017) (Vig�ncia) VII � desenvolver atividades de educa��o, de conscientiza��o e de esclarecimentos a respeito da sa�de mental d...",
+      "tags": [
+        "manter",
+        "registro",
+        "atividades",
+        "recmnascido",
+        "impresso"
+      ],
+      "relatedArticles": []
     },
     {
-      "id": "eca_4",
-      "number": "4",
-      "title": "Dever de Proteção",
-      "text": "É dever da família, da comunidade, da sociedade em geral e do poder público assegurar, com absoluta prioridade, a efetivação dos direitos referentes à vida, à saúde, à alimentação, à educação, ao esporte, ao lazer, à profissionalização, à cultura, à dignidade, ao respeito, à liberdade e à convivência familiar e comunitária.",
-      "tags": ["proteção", "família", "sociedade", "direitos", "prioridade", "criança"],
-      "relatedArticles": ["eca_1", "eca_5"]
+      "id": "eca_11",
+      "number": "11",
+      "title": "Artigo 11",
+      "text": "Art. 11. � assegurado atendimento m�dico � crian�a e ao adolescente, atrav�s do Sistema �nico de Sa�de, garantido o acesso universal e igualit�rio �s a��es e servi�os para promo��o, prote��o e recupera��o da sa�de.",
+      "tags": [
+        "assegurado",
+        "atendimento",
+        "criana",
+        "adolescente",
+        "atravs"
+      ],
+      "relatedArticles": []
     },
     {
-      "id": "eca_7",
-      "number": "7",
-      "title": "Direito à Vida e à Saúde",
-      "text": "A criança e o adolescente têm direito a proteção à vida e à saúde, mediante a efetivação de políticas sociais públicas que permitam o nascimento e o desenvolvimento sadio e harmonioso, em condições dignas de existência.",
-      "tags": ["vida", "saúde", "criança", "nascimento", "desenvolvimento"],
-      "relatedArticles": ["eca_4", "eca_8"]
+      "id": "eca_12",
+      "number": "12",
+      "title": "Os estabelecimentos de atendimento � sa�de dever�o proporcion",
+      "text": "Art. 12. Os estabelecimentos de atendimento � sa�de dever�o proporcionar condi��es para a perman�ncia em tempo integral de um dos pais ou respons�vel, nos casos de interna��o de crian�a ou adolescente. &nbsp;",
+      "tags": [
+        "estabelecimentos",
+        "atendimento",
+        "devero",
+        "proporcionar",
+        "condies"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_13",
+      "number": "13",
+      "title": "Os casos de suspeita ou confirma��o de maus-tratos contra cri",
+      "text": "Art. 13. Os casos de suspeita ou confirma��o de maus-tratos contra crian�a ou adolescente ser�o obrigatoriamente comunicados ao Conselho Tutelar da respectiva localidade, sem preju�zo de outras provid�ncias legais. &nbsp;",
+      "tags": [
+        "suspeita",
+        "confirmao",
+        "maustratos",
+        "contra",
+        "criana"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_14",
+      "number": "14",
+      "title": "O Sistema �nico de Sa�de promover� programas de assist�ncia m",
+      "text": "Art. 14. O Sistema �nico de Sa�de promover� programas de assist�ncia m�dica e odontol�gica para a preven��o das enfermidades que ordinariamente afetam a popula��o infantil, e campanhas de educa��o sanit�ria para pais, educadores e alunos. Par�grafo �nico. � obrigat�ria a vacina��o das crian�as nos casos recomendados pelas autoridades sanit�rias. � 1 o � obrigat�ria a vacina��o das crian�as nos casos recomendados pelas autoridades sanit�rias. (Renumerado do par�grafo �nico pela Lei n� 13.257, de 2016) � 2 o O Sistema �nico de Sa�de promover� a aten��o � sa�de bucal das crian�as e das gestantes, de forma transversal, integral e intersetorial com as demais linhas de cuidado direcionadas � mulher e � crian�a. (Inclu�do pela Lei n� 13.257, de 2016) � 3 o A aten��o odontol�gica � crian�a ter� fun��o educativa protetiva e ser� prestada, inicialmente, antes de o beb� nascer, por meio de aconselhamento pr�-natal, e, posteriormente, no sexto e no d�cimo segundo anos de vida, com orienta��es sobre sa�de bucal. (Inclu�do pela Lei n� 13.257, de 2016) � 4 o A crian�a com necessidade de cuidados odontol�gicos especiais ser� atendida pelo Sistema �nico de Sa�de. (Inclu�do pela Lei n� 13.257, de 20...",
+      "tags": [
+        "sistema",
+        "crianas",
+        "criana",
+        "includo",
+        "promover"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_15",
+      "number": "15",
+      "title": "A crian�a e o adolescente t�m direito � liberdade, ao respeit",
+      "text": "Art. 15. A crian�a e o adolescente t�m direito � liberdade, ao respeito e � dignidade como pessoas humanas em processo de desenvolvimento e como sujeitos de direitos civis, humanos e sociais garantidos na Constitui��o e nas leis. &nbsp;",
+      "tags": [
+        "criana",
+        "adolescente",
+        "direito",
+        "liberdade",
+        "respeito"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_16",
+      "number": "16",
+      "title": "O direito � liberdade compreende os seguintes aspectos",
+      "text": "Art. 16. O direito � liberdade compreende os seguintes aspectos: I - ir, vir e estar nos logradouros p�blicos e espa�os comunit�rios, ressalvadas as restri��es legais; II - opini�o e express�o; III - cren�a e culto religioso; IV - brincar, praticar esportes e divertir-se; V - participar da vida familiar e comunit�ria, sem discrimina��o; VI - participar da vida pol�tica, na forma da lei; VII - buscar ref�gio, aux�lio e orienta��o. &nbsp;",
+      "tags": [
+        "participar",
+        "direito",
+        "liberdade",
+        "compreende",
+        "seguintes"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_17",
+      "number": "17",
+      "title": "O direito ao respeito consiste na inviolabilidade da integrid",
+      "text": "Art. 17. O direito ao respeito consiste na inviolabilidade da integridade f�sica, ps�quica e moral da crian�a e do adolescente, abrangendo a preserva��o da imagem, da identidade, da autonomia, dos valores, id�ias e cren�as, dos espa�os e objetos pessoais. &nbsp;",
+      "tags": [
+        "direito",
+        "respeito",
+        "consiste",
+        "inviolabilidade",
+        "integridade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_18",
+      "number": "18",
+      "title": "Artigo 18",
+      "text": "Art. 18. � dever de todos velar pela dignidade da crian�a e do adolescente, pondo-os a salvo de qualquer tratamento desumano, violento, aterrorizante, vexat�rio ou constrangedor. &nbsp;",
+      "tags": [
+        "dignidade",
+        "criana",
+        "adolescente",
+        "pondoos",
+        "qualquer"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_19",
+      "number": "19",
+      "title": "Toda crian�a ou adolescente tem direito a ser criado e educad",
+      "text": "Art. 19. Toda crian�a ou adolescente tem direito a ser criado e educado no seio da sua fam�lia e, excepcionalmente, em fam�lia substituta, assegurada a conviv�ncia familiar e comunit�ria, em ambiente livre da presen�a de pessoas dependentes de subst�ncias entorpecentes. &nbsp;",
+      "tags": [
+        "famlia",
+        "criana",
+        "adolescente",
+        "direito",
+        "criado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_20",
+      "number": "20",
+      "title": "Os filhos, havidos ou n�o da rela��o do casamento, ou por ado",
+      "text": "Art. 20. Os filhos, havidos ou n�o da rela��o do casamento, ou por ado��o, ter�o os mesmos direitos e qualifica��es, proibidas quaisquer designa��es discriminat�rias relativas � filia��o. &nbsp;",
+      "tags": [
+        "filhos",
+        "havidos",
+        "casamento",
+        "mesmos",
+        "direitos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_21",
+      "number": "21",
+      "title": "O p�trio poder poder familiar ser� exercido, em igualdade de",
+      "text": "Art. 21. O p�trio poder poder familiar ser� exercido, em igualdade de condi��es, pelo pai e pela m�e, na forma do que dispuser a legisla��o civil, assegurado a qualquer deles o direito de, em caso de discord�ncia, recorrer � autoridade judici�ria competente para a solu��o da diverg�ncia. (Express�o substitu�da pela Lei n� 12.010, de 2009) Vig�ncia &nbsp;",
+      "tags": [
+        "familiar",
+        "exercido",
+        "igualdade",
+        "condies",
+        "dispuser"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_22",
+      "number": "22",
+      "title": "Aos pais incumbe o dever de sustento, guarda e educa��o dos f",
+      "text": "Art. 22. Aos pais incumbe o dever de sustento, guarda e educa��o dos filhos menores, cabendo-lhes ainda, no interesse destes, a obriga��o de cumprir e fazer cumprir as determina��es judiciais.",
+      "tags": [
+        "cumprir",
+        "incumbe",
+        "sustento",
+        "guarda",
+        "educao"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_23",
+      "number": "23",
+      "title": "A falta ou a car�ncia de recursos materiais n�o constitui mot",
+      "text": "Art. 23. A falta ou a car�ncia de recursos materiais n�o constitui motivo suficiente para a perda ou a suspens�o do p�trio poder poder familiar . (Express�o substitu�da pela Lei n� 12.010, de 2009) Vig�ncia Par�grafo �nico. N�o existindo outro motivo que por si s� autorize a decreta��o da medida, a crian�a ou o adolescente ser� mantido em sua fam�lia de origem, a qual dever� obrigatoriamente ser inclu�da em programas oficiais de aux�lio. � 1 o N�o existindo outro motivo que por si s� autorize a decreta��o da medida, a crian�a ou o adolescente ser� mantido em sua fam�lia de origem, a qual dever� obrigatoriamente ser inclu�da em programas oficiais de aux�lio. (Inclu�do pela Lei n� 12.962, de 2014 � 1 o N�o existindo outro motivo que por si s� autorize a decreta��o da medida, a crian�a ou o adolescente ser� mantido em sua fam�lia de origem, a qual dever� obrigatoriamente ser inclu�da em servi�os e programas oficiais de prote��o, apoio e promo��o. (Reda��o dada pela Lei n� 13.257, de 2016) � 2 o A condena��o criminal do pai ou da m�e n�o implicar� a destitui��o do poder familiar, exceto na hip�tese de condena��o por crime doloso, sujeito � pena de reclus�o, contra o pr�prio filho ou fi...",
+      "tags": [
+        "motivo",
+        "existindo",
+        "autorize",
+        "decretao",
+        "medida"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_24",
+      "number": "24",
+      "title": "A perda e a suspens�o do p�trio poder poder familiar ser�o de",
+      "text": "Art. 24. A perda e a suspens�o do p�trio poder poder familiar ser�o decretadas judicialmente, em procedimento contradit�rio, nos casos previstos na legisla��o civil, bem como na hip�tese de descumprimento injustificado dos deveres e obriga��es a que alude o",
+      "tags": [
+        "suspenso",
+        "familiar",
+        "decretadas",
+        "judicialmente",
+        "procedimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_25",
+      "number": "25",
+      "title": "Entende-se por fam�lia natural a comunidade formada pelos pai",
+      "text": "Art. 25. Entende-se por fam�lia natural a comunidade formada pelos pais ou qualquer deles e seus descendentes. Par�grafo �nico.� Entende-se por fam�lia extensa ou ampliada aquela que se estende para al�m da unidade pais e filhos ou da unidade do casal, formada por parentes pr�ximos com os quais a crian�a ou adolescente convive e mant�m v�nculos de afinidade e afetividade. (Inclu�do pela Lei n� 12.010, de 2009) Vig�ncia &nbsp;",
+      "tags": [
+        "entendese",
+        "famlia",
+        "formada",
+        "unidade",
+        "natural"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_26",
+      "number": "26",
+      "title": "Os filhos havidos fora do casamento poder�o ser reconhecidos",
+      "text": "Art. 26. Os filhos havidos fora do casamento poder�o ser reconhecidos pelos pais, conjunta ou separadamente, no pr�prio termo de nascimento, por testamento, mediante escritura ou outro documento p�blico, qualquer que seja a origem da filia��o. Par�grafo �nico. O reconhecimento pode preceder o nascimento do filho ou suceder-lhe ao falecimento, se deixar descendentes. &nbsp;",
+      "tags": [
+        "nascimento",
+        "filhos",
+        "havidos",
+        "casamento",
+        "podero"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_27",
+      "number": "27",
+      "title": "O reconhecimento do estado de filia��o � direito personal�ssi",
+      "text": "Art. 27. O reconhecimento do estado de filia��o � direito personal�ssimo, indispon�vel e imprescrit�vel, podendo ser exercitado contra os pais ou seus herdeiros, sem qualquer restri��o, observado o segredo de Justi�a. Se��o III Da Fam�lia Substituta Subse��o I Disposi��es Gerais &nbsp;",
+      "tags": [
+        "reconhecimento",
+        "estado",
+        "filiao",
+        "direito",
+        "personalssimo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_28",
+      "number": "28",
+      "title": "A coloca��o em fam�lia substituta far-se-� mediante guarda, t",
+      "text": "Art. 28. A coloca��o em fam�lia substituta far-se-� mediante guarda, tutela ou ado��o, independentemente da situa��o jur�dica da crian�a ou adolescente, nos termos desta Lei. � 1� Sempre que poss�vel, a crian�a ou adolescente dever� ser previamente ouvido e a sua opini�o devidamente considerada. � 1 o Sempre que poss�vel, a crian�a ou o adolescente ser� previamente ouvido por equipe interprofissional, respeitado seu est�gio de desenvolvimento e grau de compreens�o sobre as implica��es da medida, e ter� sua opini�o devidamente considerada. (Reda��o dada pela Lei n� 12.010, de 2009) Vig�ncia � 2� Na aprecia��o do pedido levar-se-� em conta o grau de parentesco e a rela��o de afinidade ou de afetividade, a fim de evitar ou minorar as conseq��ncias decorrentes da medida. � 2 o Tratando-se de maior de 12 (doze) anos de idade, ser� necess�rio seu consentimento, colhido em audi�ncia. (Reda��o dada pela Lei n� 12.010, de 2009) Vig�ncia � 3 o Na aprecia��o do pedido levar-se-� em conta o grau de parentesco e a rela��o de afinidade ou de afetividade, a fim de evitar ou minorar as consequ�ncias decorrentes da medida. (Inclu�do pela Lei n� 12.010, de 2009) Vig�ncia � 4 o Os grupos de irm�os se...",
+      "tags": [
+        "criana",
+        "adolescente",
+        "medida",
+        "vigncia",
+        "sempre"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_29",
+      "number": "29",
+      "title": "N�o se deferir� coloca��o em fam�lia substituta a pessoa que",
+      "text": "Art. 29. N�o se deferir� coloca��o em fam�lia substituta a pessoa que revele, por qualquer modo, incompatibilidade com a natureza da medida ou n�o ofere�a ambiente familiar adequado. &nbsp;",
+      "tags": [
+        "deferir",
+        "colocao",
+        "famlia",
+        "substituta",
+        "pessoa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_30",
+      "number": "30",
+      "title": "A coloca��o em fam�lia substituta n�o admitir� transfer�ncia",
+      "text": "Art. 30. A coloca��o em fam�lia substituta n�o admitir� transfer�ncia da crian�a ou adolescente a terceiros ou a entidades governamentais ou n�o-governamentais, sem autoriza��o judicial. &nbsp;",
+      "tags": [
+        "colocao",
+        "famlia",
+        "substituta",
+        "admitir",
+        "transferncia"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_31",
+      "number": "31",
+      "title": "A coloca��o em fam�lia substituta estrangeira constitui medid",
+      "text": "Art. 31. A coloca��o em fam�lia substituta estrangeira constitui medida excepcional, somente admiss�vel na modalidade de ado��o. &nbsp;",
+      "tags": [
+        "colocao",
+        "famlia",
+        "substituta",
+        "estrangeira",
+        "constitui"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_32",
+      "number": "32",
+      "title": "Ao assumir a guarda ou a tutela, o respons�vel prestar� compr",
+      "text": "Art. 32. Ao assumir a guarda ou a tutela, o respons�vel prestar� compromisso de bem e fielmente desempenhar o encargo, mediante termo nos autos. Subse��o II Da Guarda &nbsp;",
+      "tags": [
+        "guarda",
+        "assumir",
+        "tutela",
+        "responsvel",
+        "prestar"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_33",
+      "number": "33",
+      "title": "A guarda obriga a presta��o de assist�ncia material, moral e",
+      "text": "Art. 33. A guarda obriga a presta��o de assist�ncia material, moral e educacional � crian�a ou adolescente, conferindo a seu detentor o direito de opor-se a terceiros, inclusive aos pais. (Vide Lei n� 12.010, de 2009) Vig�ncia � 1� A guarda destina-se a regularizar a posse de fato, podendo ser deferida, liminar ou incidentalmente, nos procedimentos de tutela e ado��o, exceto no de ado��o por estrangeiros. � 2� Excepcionalmente, deferir-se-� a guarda, fora dos casos de tutela e ado��o, para atender a situa��es peculiares ou suprir a falta eventual dos pais ou respons�vel, podendo ser deferido o direito de representa��o para a pr�tica de atos determinados. � 3� A guarda confere � crian�a ou adolescente a condi��o de dependente, para todos os fins e efeitos de direito, inclusive previdenci�rios. � 4 o Salvo expressa e fundamentada determina��o em contr�rio, da autoridade judici�ria competente, ou quando a medida for aplicada em prepara��o para ado��o, o deferimento da guarda de crian�a ou adolescente a terceiros n�o impede o exerc�cio do direito de visitas pelos pais, assim como o dever de prestar alimentos, que ser�o objeto de regulamenta��o espec�fica, a pedido do interessado ou do ...",
+      "tags": [
+        "guarda",
+        "direito",
+        "criana",
+        "adolescente",
+        "terceiros"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_34",
+      "number": "34",
+      "title": "O poder p�blico estimular�, atrav�s de assist�ncia jur�dica,",
+      "text": "Art. 34. O poder p�blico estimular�, atrav�s de assist�ncia jur�dica, incentivos fiscais e subs�dios, o acolhimento, sob a forma de guarda, de crian�a ou adolescente �rf�o ou abandonado. &nbsp;",
+      "tags": [
+        "pblico",
+        "estimular",
+        "atravs",
+        "assistncia",
+        "jurdica"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_35",
+      "number": "35",
+      "title": "A guarda poder� ser revogada a qualquer tempo, mediante ato j",
+      "text": "Art. 35. A guarda poder� ser revogada a qualquer tempo, mediante ato judicial fundamentado, ouvido o Minist�rio P�blico. Subse��o III Da Tutela",
+      "tags": [
+        "guarda",
+        "revogada",
+        "qualquer",
+        "mediante",
+        "judicial"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_36",
+      "number": "36",
+      "title": "A tutela ser� deferida, nos termos da lei civil, a pessoa de",
+      "text": "Art. 36. A tutela ser� deferida, nos termos da lei civil, a pessoa de at� vinte e um anos incompletos. &nbsp;",
+      "tags": [
+        "tutela",
+        "deferida",
+        "termos",
+        "pessoa",
+        "incompletos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_37",
+      "number": "37",
+      "title": "A especializa��o de hipoteca legal ser� dispensada, sempre qu",
+      "text": "Art. 37. A especializa��o de hipoteca legal ser� dispensada, sempre que o tutelado n�o possuir bens ou rendimentos ou por qualquer outro motivo relevante. Par�grafo �nico. A especializa��o de hipoteca legal ser� tamb�m dispensada se os bens, porventura existentes em nome do tutelado, constarem de instrumento p�blico, devidamente registrado no registro de im�veis, ou se os rendimentos forem suficientes apenas para a manten�a do tutelado, n�o havendo sobra significativa ou prov�vel. &nbsp;",
+      "tags": [
+        "tutelado",
+        "especializao",
+        "hipoteca",
+        "dispensada",
+        "rendimentos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_38",
+      "number": "38",
+      "title": "Aplica-se � destitui��o da tutela o disposto no",
+      "text": "Art. 38. Aplica-se � destitui��o da tutela o disposto no",
+      "tags": [
+        "aplicase",
+        "destituio",
+        "tutela",
+        "disposto"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_39",
+      "number": "39",
+      "title": "A ado��o de crian�a e de adolescente reger-se-� segundo o dis",
+      "text": "Art. 39. A ado��o de crian�a e de adolescente reger-se-� segundo o disposto nesta Lei. Par�grafo �nico. � vedada a ado��o por procura��o. � 1 o A ado��o � medida excepcional e irrevog�vel, � qual se deve recorrer apenas quando esgotados os recursos de manuten��o da crian�a ou adolescente na fam�lia natural ou extensa, na forma do par�grafo �nico do art. 25 desta Lei. (Inclu�do pela Lei n� 12.010, de 2009) Vig�ncia � 2 o � vedada a ado��o por procura��o. (Inclu�do pela Lei n� 12.010, de 2009) Vig�ncia � 3 o Em caso de conflito entre direitos e interesses do adotando e de outras pessoas, inclusive seus pais biol�gicos, devem prevalecer os direitos e os interesses do adotando. (Inclu�do pela Lei n� 13.509, de 2017) &nbsp;",
+      "tags": [
+        "includo",
+        "criana",
+        "adolescente",
+        "pargrafo",
+        "vedada"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_40",
+      "number": "40",
+      "title": "O adotando deve contar com, no m�ximo, dezoito anos � data do",
+      "text": "Art. 40. O adotando deve contar com, no m�ximo, dezoito anos � data do pedido, salvo se j� estiver sob a guarda ou tutela dos adotantes. &nbsp;",
+      "tags": [
+        "adotando",
+        "contar",
+        "dezoito",
+        "pedido",
+        "estiver"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_41",
+      "number": "41",
+      "title": "A ado��o atribui a condi��o de filho ao adotado, com os mesmo",
+      "text": "Art. 41. A ado��o atribui a condi��o de filho ao adotado, com os mesmos direitos e deveres, inclusive sucess�rios, desligando-o de qualquer v�nculo com pais e parentes, salvo os impedimentos matrimoniais. � 1� Se um dos c�njuges ou concubinos adota o filho do outro, mant�m-se os v�nculos de filia��o entre o adotado e o c�njuge ou concubino do adotante e os respectivos parentes. � 2� � rec�proco o direito sucess�rio entre o adotado, seus descendentes, o adotante, seus ascendentes, descendentes e colaterais at� o 4� grau, observada a ordem de voca��o heredit�ria.",
+      "tags": [
+        "adotado",
+        "parentes",
+        "adotante",
+        "descendentes",
+        "atribui"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_42",
+      "number": "42",
+      "title": "Podem adotar os maiores de vinte e um anos, independentemente",
+      "text": "Art. 42. Podem adotar os maiores de vinte e um anos, independentemente de estado civil. &nbsp;",
+      "tags": [
+        "adotar",
+        "maiores",
+        "independentemente",
+        "estado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_43",
+      "number": "43",
+      "title": "A ado��o ser� deferida quando apresentar reais vantagens para",
+      "text": "Art. 43. A ado��o ser� deferida quando apresentar reais vantagens para o adotando e fundar-se em motivos leg�timos. &nbsp;",
+      "tags": [
+        "deferida",
+        "quando",
+        "apresentar",
+        "vantagens",
+        "adotando"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_44",
+      "number": "44",
+      "title": "Enquanto n�o der conta de sua administra��o e saldar o seu al",
+      "text": "Art. 44. Enquanto n�o der conta de sua administra��o e saldar o seu alcance, n�o pode o tutor ou o curador adotar o pupilo ou o curatelado. &nbsp;",
+      "tags": [
+        "enquanto",
+        "administrao",
+        "saldar",
+        "alcance",
+        "curador"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_45",
+      "number": "45",
+      "title": "A ado��o depende do consentimento dos pais ou do representant",
+      "text": "Art. 45. A ado��o depende do consentimento dos pais ou do representante legal do adotando. � 1�. O consentimento ser� dispensado em rela��o � crian�a ou adolescente cujos pais sejam desconhecidos ou tenham sido destitu�dos do p�trio poder poder familiar . (Express�o substitu�da pela Lei n� 12.010, de 2009) Vig�ncia � 2�. Em se tratando de adotando maior de doze anos de idade, ser� tamb�m necess�rio o seu consentimento.",
+      "tags": [
+        "consentimento",
+        "adotando",
+        "depende",
+        "representante",
+        "dispensado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_46",
+      "number": "46",
+      "title": "A ado��o ser� precedida de est�gio de conviv�ncia com a crian",
+      "text": "Art. 46. A ado��o ser� precedida de est�gio de conviv�ncia com a crian�a ou adolescente, pelo prazo que a autoridade judici�ria fixar, observadas as peculiaridades do caso. &nbsp;",
+      "tags": [
+        "precedida",
+        "estgio",
+        "convivncia",
+        "criana",
+        "adolescente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_47",
+      "number": "47",
+      "title": "O v�nculo da ado��o constitui-se por senten�a judicial, que s",
+      "text": "Art. 47. O v�nculo da ado��o constitui-se por senten�a judicial, que ser� inscrita no registro civil mediante mandado do qual n�o se fornecer� certid�o. � 1� A inscri��o consignar� o nome dos adotantes como pais, bem como o nome de seus ascendentes. � 2� O mandado judicial, que ser� arquivado, cancelar� o registro original do adotado. � 3� Nenhuma observa��o sobre a origem do ato poder� constar nas certid�es do registro. � 3 o A pedido do adotante, o novo registro poder� ser lavrado no Cart�rio do Registro Civil do Munic�pio de sua resid�ncia. (Reda��o dada pela Lei n� 12.010, de 2009) Vig�ncia � 4� A crit�rio da autoridade judici�ria, poder� ser fornecida certid�o para a salvaguarda de direitos. � 4 o Nenhuma observa��o sobre a origem do ato poder� constar nas certid�es do registro. (Reda��o dada pela Lei n� 12.010, de 2009) Vig�ncia � 5� A senten�a conferir� ao adotado o nome do adotante e, a pedido deste, poder� determinar a modifica��o do prenome. � 5 o A senten�a conferir� ao adotado o nome do adotante e, a pedido de qualquer deles, poder� determinar a modifica��o do prenome. (Reda��o dada pela Lei n� 12.010, de 2009) Vig�ncia � 6� A ado��o produz seus efeitos a partir do tr�n...",
+      "tags": [
+        "registro",
+        "sentena",
+        "adotado",
+        "pedido",
+        "adotante"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_48",
+      "number": "48",
+      "title": "A ado��o � irrevog�vel",
+      "text": "Art. 48. A ado��o � irrevog�vel. &nbsp;",
+      "tags": [
+        "irrevogvel"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_49",
+      "number": "49",
+      "title": "A morte dos adotantes n�o restabelece o p�trio poder poder fa",
+      "text": "Art. 49. A morte dos adotantes n�o restabelece o p�trio poder poder familiar dos pais naturais. (Express�o substitu�da pela Lei n� 12.010, de 2009) Vig�ncia &nbsp;",
+      "tags": [
+        "adotantes",
+        "restabelece",
+        "familiar",
+        "naturais",
+        "expresso"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_50",
+      "number": "50",
+      "title": "A autoridade judici�ria manter�, em cada comarca ou foro regi",
+      "text": "Art. 50. A autoridade judici�ria manter�, em cada comarca ou foro regional, um registro de crian�as e adolescentes em condi��es de serem adotados e outro de pessoas interessadas na ado��o. (Vide Lei n� 12.010, de 2009) Vig�ncia � 1� O deferimento da inscri��o dar-se-� ap�s pr�via consulta aos �rg�os t�cnicos do juizado, ouvido o Minist�rio P�blico. � 2� N�o ser� deferida a inscri��o se o interessado n�o satisfizer os requisitos legais, ou verificada qualquer das hip�teses previstas no",
+      "tags": [
+        "inscrio",
+        "autoridade",
+        "judiciria",
+        "manter",
+        "comarca"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_51",
+      "number": "51",
+      "title": "Artigo 51",
+      "text": "Art. 51.� Considera-se ado��o internacional aquela na qual a pessoa ou casal postulante � residente ou domiciliado fora do Brasil, conforme previsto no Artigo 2 da Conven��o de Haia, de 29 de maio de 1993, Relativa � Prote��o das Crian�as e � Coopera��o em Mat�ria de Ado��o Internacional, aprovada pelo Decreto Legislativo n o 1, de 14 de janeiro de 1999, e promulgada pelo Decreto n o 3.087, de 21 de junho de 1999 . (Reda��o dada pela Lei n� 12.010, de 2009) Vig�ncia &nbsp;",
+      "tags": [
+        "internacional",
+        "decreto",
+        "considerase",
+        "aquela",
+        "pessoa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_52",
+      "number": "52",
+      "title": "A ado��o internacional poder� ser condicionada a estudo pr�vi",
+      "text": "Art. 52. A ado��o internacional poder� ser condicionada a estudo pr�vio e an�lise de uma comiss�o estadual judici�ria de ado��o, que fornecer� o respectivo laudo de habilita��o para instruir o processo competente. Par�grafo �nico. Competir� � comiss�o manter registro centralizado de interessados estrangeiros em ado��o. &nbsp;",
+      "tags": [
+        "comisso",
+        "internacional",
+        "condicionada",
+        "estudo",
+        "anlise"
+      ],
+      "relatedArticles": []
     },
     {
       "id": "eca_53",
       "number": "53",
-      "title": "Direito à Educação",
-      "text": "A criança e o adolescente têm direito à educação, visando ao pleno desenvolvimento de sua pessoa, preparo para o exercício da cidadania e qualificação para o trabalho, assegurando-se-lhes: I - igualdade de condições para o acesso e permanência na escola; II - direito de ser respeitado por seus educadores; III - direito de contestar critérios avaliativos, podendo recorrer às instâncias escolares superiores; IV - direito de organização e participação em entidades estudantis; V - acesso à escola pública e gratuita próxima de sua residência.",
-      "tags": ["educação", "escola", "criança", "adolescente", "acesso"],
-      "relatedArticles": ["eca_54", "eca_55"]
+      "title": "A crian�a e o adolescente t�m direito � educa��o, visando ao",
+      "text": "Art. 53. A crian�a e o adolescente t�m direito � educa��o, visando ao pleno desenvolvimento de sua pessoa, preparo para o exerc�cio da cidadania e qualifica��o para o trabalho, assegurando-se-lhes: I - igualdade de condi��es para o acesso e perman�ncia na escola; II - direito de ser respeitado por seus educadores; III - direito de contestar crit�rios avaliativos, podendo recorrer �s inst�ncias escolares superiores; IV - direito de organiza��o e participa��o em entidades estudantis; V - acesso � escola p�blica e gratuita pr�xima de sua resid�ncia. V - acesso � escola p�blica e gratuita, pr�xima de sua resid�ncia, garantindo-se vagas no mesmo estabelecimento a irm�os que frequentem a mesma etapa ou ciclo de ensino da educa��o b�sica. (Reda��o dada pela Lei n� 13.845, de 2019) Par�grafo �nico. � direito dos pais ou respons�veis ter ci�ncia do processo pedag�gico, bem como participar da defini��o das propostas educacionais. &nbsp;",
+      "tags": [
+        "direito",
+        "acesso",
+        "escola",
+        "educao",
+        "pblica"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_54",
+      "number": "54",
+      "title": "Artigo 54",
+      "text": "Art. 54. � dever do Estado assegurar � crian�a e ao adolescente: I - ensino fundamental, obrigat�rio e gratuito, inclusive para os que a ele n�o tiveram acesso na idade pr�pria; II - progressiva extens�o da obrigatoriedade e gratuidade ao ensino m�dio; III - atendimento educacional especializado aos portadores de defici�ncia, preferencialmente na rede regular de ensino; IV - atendimento em creche e pr�-escola �s crian�as de zero a seis anos de idade; IV � atendimento em creche e pr�-escola �s crian�as de zero a cinco anos de idade; (Reda��o dada pela Lei n� 13.306, de 2016) V - acesso aos n�veis mais elevados do ensino, da pesquisa e da cria��o art�stica, segundo a capacidade de cada um; VI - oferta de ensino noturno regular, adequado �s condi��es do adolescente trabalhador; VII - atendimento no ensino fundamental, atrav�s de programas suplementares de material did�tico-escolar, transporte, alimenta��o e assist�ncia � sa�de. � 1� O acesso ao ensino obrigat�rio e gratuito � direito p�blico subjetivo. � 2� O n�o oferecimento do ensino obrigat�rio pelo poder p�blico ou sua oferta irregular importa responsabilidade da autoridade competente. � 3� Compete ao poder p�blico recensear os ed...",
+      "tags": [
+        "ensino",
+        "atendimento",
+        "obrigatrio",
+        "acesso",
+        "pblico"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_55",
+      "number": "55",
+      "title": "Os pais ou respons�vel t�m a obriga��o de matricular seus fil",
+      "text": "Art. 55. Os pais ou respons�vel t�m a obriga��o de matricular seus filhos ou pupilos na rede regular de ensino. &nbsp;",
+      "tags": [
+        "responsvel",
+        "obrigao",
+        "matricular",
+        "filhos",
+        "pupilos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_56",
+      "number": "56",
+      "title": "Os dirigentes de estabelecimentos de ensino fundamental comun",
+      "text": "Art. 56. Os dirigentes de estabelecimentos de ensino fundamental comunicar�o ao Conselho Tutelar os casos de: I - maus-tratos envolvendo seus alunos; II - reitera��o de faltas injustificadas e de evas�o escolar, esgotados os recursos escolares; III - elevados n�veis de repet�ncia. IV � neglig�ncia, abuso ou abandono na forma prevista nos arts. 4� e 5� desta Lei. &nbsp;&nbsp; (Inclu�do pela Lei n� 15.240, de 2025) &nbsp;",
+      "tags": [
+        "dirigentes",
+        "estabelecimentos",
+        "ensino",
+        "fundamental",
+        "comunicaro"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_57",
+      "number": "57",
+      "title": "O poder p�blico estimular� pesquisas, experi�ncias e novas pr",
+      "text": "Art. 57. O poder p�blico estimular� pesquisas, experi�ncias e novas propostas relativas a calend�rio, seria��o, curr�culo, metodologia, did�tica e avalia��o, com vistas � inser��o de crian�as e adolescentes exclu�dos do ensino fundamental obrigat�rio. &nbsp;",
+      "tags": [
+        "pblico",
+        "estimular",
+        "pesquisas",
+        "experincias",
+        "propostas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_58",
+      "number": "58",
+      "title": "No processo educacional respeitar-se-�o os valores culturais,",
+      "text": "Art. 58. No processo educacional respeitar-se-�o os valores culturais, art�sticos e hist�ricos pr�prios do contexto social da crian�a e do adolescente, garantindo-se a estes a liberdade da cria��o e o acesso �s fontes de cultura.",
+      "tags": [
+        "processo",
+        "educacional",
+        "respeitarseo",
+        "valores",
+        "culturais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_59",
+      "number": "59",
+      "title": "Os munic�pios, com apoio dos estados e da Uni�o, estimular�o",
+      "text": "Art. 59. Os munic�pios, com apoio dos estados e da Uni�o, estimular�o e facilitar�o a destina��o de recursos e espa�os para programa��es culturais, esportivas e de lazer voltadas para a inf�ncia e a juventude.",
+      "tags": [
+        "municpios",
+        "estados",
+        "estimularo",
+        "facilitaro",
+        "destinao"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_60",
+      "number": "60",
+      "title": "Artigo 60",
+      "text": "Art. 60. � proibido qualquer trabalho a menores de quatorze anos de idade, salvo na condi��o de aprendiz. (Vide Constitui��o Federal) &nbsp;",
+      "tags": [
+        "proibido",
+        "qualquer",
+        "trabalho",
+        "menores",
+        "quatorze"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_61",
+      "number": "61",
+      "title": "A prote��o ao trabalho dos adolescentes � regulada por legisl",
+      "text": "Art. 61. A prote��o ao trabalho dos adolescentes � regulada por legisla��o especial, sem preju�zo do disposto nesta Lei. &nbsp;",
+      "tags": [
+        "proteo",
+        "trabalho",
+        "adolescentes",
+        "regulada",
+        "legislao"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_62",
+      "number": "62",
+      "title": "Considera-se aprendizagem a forma��o t�cnico-profissional min",
+      "text": "Art. 62. Considera-se aprendizagem a forma��o t�cnico-profissional ministrada segundo as diretrizes e bases da legisla��o de educa��o em vigor. &nbsp;",
+      "tags": [
+        "considerase",
+        "aprendizagem",
+        "formao",
+        "tcnicoprofissional",
+        "ministrada"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_63",
+      "number": "63",
+      "title": "A forma��o t�cnico-profissional obedecer� aos seguintes princ",
+      "text": "Art. 63. A forma��o t�cnico-profissional obedecer� aos seguintes princ�pios: I - garantia de acesso e freq��ncia obrigat�ria ao ensino regular; II - atividade compat�vel com o desenvolvimento do adolescente; III - hor�rio especial para o exerc�cio das atividades. &nbsp;",
+      "tags": [
+        "formao",
+        "tcnicoprofissional",
+        "obedecer",
+        "seguintes",
+        "princpios"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_64",
+      "number": "64",
+      "title": "Ao adolescente at� quatorze anos de idade � assegurada bolsa",
+      "text": "Art. 64. Ao adolescente at� quatorze anos de idade � assegurada bolsa de aprendizagem. &nbsp;",
+      "tags": [
+        "adolescente",
+        "quatorze",
+        "assegurada",
+        "aprendizagem"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_65",
+      "number": "65",
+      "title": "Ao adolescente aprendiz, maior de quatorze anos, s�o assegura",
+      "text": "Art. 65. Ao adolescente aprendiz, maior de quatorze anos, s�o assegurados os direitos trabalhistas e ���� previdenci�rios. &nbsp;",
+      "tags": [
+        "adolescente",
+        "aprendiz",
+        "quatorze",
+        "assegurados",
+        "direitos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_66",
+      "number": "66",
+      "title": "Ao adolescente portador de defici�ncia � assegurado trabalho",
+      "text": "Art. 66. Ao adolescente portador de defici�ncia � assegurado trabalho protegido. &nbsp;",
+      "tags": [
+        "adolescente",
+        "portador",
+        "deficincia",
+        "assegurado",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_67",
+      "number": "67",
+      "title": "Ao adolescente empregado, aprendiz, em regime familiar de tra",
+      "text": "Art. 67. Ao adolescente empregado, aprendiz, em regime familiar de trabalho, aluno de escola t�cnica, assistido em entidade governamental ou n�o-governamental, � vedado trabalho: I - noturno, realizado entre as vinte e duas horas de um dia e as cinco horas do dia seguinte; II - perigoso, insalubre ou penoso; III - realizado em locais prejudiciais � sua forma��o e ao seu desenvolvimento f�sico, ps�quico, moral e social; IV - realizado em hor�rios e locais que n�o permitam a freq��ncia � escola. &nbsp;",
+      "tags": [
+        "realizado",
+        "trabalho",
+        "escola",
+        "locais",
+        "adolescente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_68",
+      "number": "68",
+      "title": "O programa social que tenha por base o trabalho educativo, so",
+      "text": "Art. 68. O programa social que tenha por base o trabalho educativo, sob responsabilidade de entidade governamental ou n�o-governamental sem fins lucrativos, dever� assegurar ao adolescente que dele participe condi��es de capacita��o para o exerc�cio de atividade regular remunerada. � 1� Entende-se por trabalho educativo a atividade laboral em que as exig�ncias pedag�gicas relativas ao desenvolvimento pessoal e social do educando prevalecem sobre o aspecto produtivo. � 2� A remunera��o que o adolescente recebe pelo trabalho efetuado ou a participa��o na venda dos produtos de seu trabalho n�o desfigura o car�ter educativo. &nbsp;",
+      "tags": [
+        "trabalho",
+        "educativo",
+        "social",
+        "adolescente",
+        "atividade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_69",
+      "number": "69",
+      "title": "O adolescente tem direito � profissionaliza��o e � prote��o n",
+      "text": "Art. 69. O adolescente tem direito � profissionaliza��o e � prote��o no trabalho, observados os seguintes aspectos, entre outros: I - respeito � condi��o peculiar de pessoa em desenvolvimento; II - capacita��o profissional adequada ao mercado de trabalho. T�tulo III Da Preven��o Cap�tulo I Disposi��es Gerais &nbsp;",
+      "tags": [
+        "trabalho",
+        "adolescente",
+        "direito",
+        "profissionalizao",
+        "proteo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_70",
+      "number": "70",
+      "title": "Artigo 70",
+      "text": "Art. 70. � dever de todos prevenir a ocorr�ncia de amea�a ou viola��o dos direitos da crian�a e do adolescente. &nbsp;",
+      "tags": [
+        "prevenir",
+        "ocorrncia",
+        "violao",
+        "direitos",
+        "criana"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_71",
+      "number": "71",
+      "title": "A crian�a e o adolescente t�m direito a informa��o, cultura,",
+      "text": "Art. 71. A crian�a e o adolescente t�m direito a informa��o, cultura, lazer, esportes, divers�es, espet�culos e produtos e servi�os que respeitem sua condi��o peculiar de pessoa em desenvolvimento. &nbsp;",
+      "tags": [
+        "criana",
+        "adolescente",
+        "direito",
+        "informao",
+        "cultura"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_72",
+      "number": "72",
+      "title": "As obriga��es previstas nesta Lei n�o excluem da preven��o es",
+      "text": "Art. 72. As obriga��es previstas nesta Lei n�o excluem da preven��o especial outras decorrentes dos princ�pios por ela adotados. &nbsp;",
+      "tags": [
+        "obrigaes",
+        "previstas",
+        "excluem",
+        "preveno",
+        "especial"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_73",
+      "number": "73",
+      "title": "A inobserv�ncia das normas de preven��o importar� em responsa",
+      "text": "Art. 73. A inobserv�ncia das normas de preven��o importar� em responsabilidade da pessoa f�sica ou jur�dica, nos termos desta Lei. Cap�tulo II Da Preven��o Especial Se��o I Da informa��o, Cultura, Lazer, Esportes, Divers�es e Espet�culos &nbsp;",
+      "tags": [
+        "preveno",
+        "inobservncia",
+        "normas",
+        "importar",
+        "responsabilidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_74",
+      "number": "74",
+      "title": "O poder p�blico, atrav�s do �rg�o competente, regular� as div",
+      "text": "Art. 74. O poder p�blico, atrav�s do �rg�o competente, regular� as divers�es e espet�culos p�blicos, informando sobre a natureza deles, as faixas et�rias a que n�o se recomendem, locais e hor�rios em que sua apresenta��o se mostre inadequada. Par�grafo �nico. Os respons�veis pelas divers�es e espet�culos p�blicos dever�o afixar, em lugar vis�vel e de f�cil acesso, � entrada do local de exibi��o, informa��o destacada sobre a natureza do espet�culo e a faixa et�ria especificada no certificado de classifica��o. &nbsp;",
+      "tags": [
+        "diverses",
+        "espetculos",
+        "pblicos",
+        "natureza",
+        "pblico"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_75",
+      "number": "75",
+      "title": "Toda crian�a ou adolescente ter� acesso �s divers�es e espet�",
+      "text": "Art. 75. Toda crian�a ou adolescente ter� acesso �s divers�es e espet�culos p�blicos classificados como adequados � sua faixa et�ria. Par�grafo �nico. As crian�as menores de dez anos somente poder�o ingressar e permanecer nos locais de apresenta��o ou exibi��o quando acompanhadas dos pais ou respons�vel. &nbsp;",
+      "tags": [
+        "criana",
+        "adolescente",
+        "acesso",
+        "diverses",
+        "espetculos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_76",
+      "number": "76",
+      "title": "As emissoras de r�dio e televis�o somente exibir�o, no hor�ri",
+      "text": "Art. 76. As emissoras de r�dio e televis�o somente exibir�o, no hor�rio recomendado para o p�blico infanto juvenil, programas com finalidades educativas, art�sticas, culturais e informativas. Par�grafo �nico. Nenhum espet�culo ser� apresentado ou anunciado sem aviso de sua classifica��o, antes de sua transmiss�o, apresenta��o ou exibi��o. &nbsp;",
+      "tags": [
+        "emissoras",
+        "televiso",
+        "somente",
+        "exibiro",
+        "horrio"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_77",
+      "number": "77",
+      "title": "Os propriet�rios, diretores, gerentes e funcion�rios de empre",
+      "text": "Art. 77. Os propriet�rios, diretores, gerentes e funcion�rios de empresas que explorem a venda ou aluguel de fitas de programa��o em v�deo cuidar�o para que n�o haja venda ou loca��o em desacordo com a classifica��o atribu�da pelo �rg�o competente. Par�grafo �nico. As fitas a que alude este artigo dever�o exibir, no inv�lucro, informa��o sobre a natureza da obra e a faixa et�ria a que se destinam. &nbsp;",
+      "tags": [
+        "proprietrios",
+        "diretores",
+        "gerentes",
+        "funcionrios",
+        "empresas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_78",
+      "number": "78",
+      "title": "As revistas e publica��es contendo material impr�prio ou inad",
+      "text": "Art. 78. As revistas e publica��es contendo material impr�prio ou inadequado a crian�as e adolescentes dever�o ser comercializadas em embalagem lacrada, com a advert�ncia de seu conte�do. Par�grafo �nico. As editoras cuidar�o para que as capas que contenham mensagens pornogr�ficas ou obscenas sejam protegidas com embalagem opaca. &nbsp;",
+      "tags": [
+        "embalagem",
+        "revistas",
+        "publicaes",
+        "contendo",
+        "material"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_79",
+      "number": "79",
+      "title": "As revistas e publica��es destinadas ao p�blico infanto-juven",
+      "text": "Art. 79. As revistas e publica��es destinadas ao p�blico infanto-juvenil n�o poder�o conter ilustra��es, fotografias, legendas, cr�nicas ou an�ncios de bebidas alco�licas, tabaco, armas e muni��es, e dever�o respeitar os valores �ticos e sociais da pessoa e da fam�lia. &nbsp;",
+      "tags": [
+        "revistas",
+        "publicaes",
+        "destinadas",
+        "pblico",
+        "infantojuvenil"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_80",
+      "number": "80",
+      "title": "Os respons�veis por estabelecimentos que explorem comercialme",
+      "text": "Art. 80. Os respons�veis por estabelecimentos que explorem comercialmente bilhar, sinuca ou cong�nere ou por casas de jogos, assim entendidas as que realizem apostas, ainda que eventualmente, cuidar�o para que n�o seja permitida a entrada e a perman�ncia de crian�as e adolescentes no local, afixando aviso para orienta��o do p�blico. Se��o II Dos Produtos e Servi�os &nbsp;",
+      "tags": [
+        "responsveis",
+        "estabelecimentos",
+        "explorem",
+        "comercialmente",
+        "bilhar"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_81",
+      "number": "81",
+      "title": "Artigo 81",
+      "text": "Art. 81. � proibida a venda � crian�a ou ao adolescente de: I - armas, muni��es e explosivos; II - bebidas alco�licas; III - produtos cujos componentes possam causar depend�ncia f�sica ou ps�quica ainda que por utiliza��o indevida; IV - fogos de estampido e de artif�cio, exceto aqueles que pelo seu reduzido potencial sejam incapazes de provocar qualquer dano f�sico em caso de utiliza��o indevida; V - revistas e publica��es a que alude o art. 78; VI - bilhetes lot�ricos e equivalentes. &nbsp;",
+      "tags": [
+        "utilizao",
+        "indevida",
+        "proibida",
+        "criana",
+        "adolescente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_82",
+      "number": "82",
+      "title": "Artigo 82",
+      "text": "Art. 82. � proibida a hospedagem de crian�a ou adolescente em hotel, motel, pens�o ou estabelecimento cong�nere, salvo se autorizado ou acompanhado pelos pais ou respons�vel. Se��o III Da Autoriza��o para Viajar",
+      "tags": [
+        "proibida",
+        "hospedagem",
+        "criana",
+        "adolescente",
+        "estabelecimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_83",
+      "number": "83",
+      "title": "Nenhuma crian�a poder� viajar para fora da comarca onde resid",
+      "text": "Art. 83. Nenhuma crian�a poder� viajar para fora da comarca onde reside, desacompanhada dos pais ou respons�vel, sem expressa autoriza��o judicial. &nbsp;",
+      "tags": [
+        "nenhuma",
+        "criana",
+        "viajar",
+        "comarca",
+        "reside"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_84",
+      "number": "84",
+      "title": "Quando se tratar de viagem ao exterior, a autoriza��o � dispe",
+      "text": "Art. 84. Quando se tratar de viagem ao exterior, a autoriza��o � dispens�vel, se a crian�a ou adolescente: I - estiver acompanhado de ambos os pais ou respons�vel; II - viajar na companhia de um dos pais, autorizado expressamente pelo outro atrav�s de documento com firma reconhecida. &nbsp;",
+      "tags": [
+        "quando",
+        "tratar",
+        "viagem",
+        "exterior",
+        "autorizao"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_85",
+      "number": "85",
+      "title": "Sem pr�via e expressa autoriza��o judicial, nenhuma crian�a o",
+      "text": "Art. 85. Sem pr�via e expressa autoriza��o judicial, nenhuma crian�a ou adolescente nascido em territ�rio nacional poder� sair do Pa�s em companhia de estrangeiro residente ou domiciliado no exterior. Parte Especial T�tulo I Da Pol�tica de Atendimento Cap�tulo I Disposi��es Gerais &nbsp;",
+      "tags": [
+        "expressa",
+        "autorizao",
+        "judicial",
+        "nenhuma",
+        "criana"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_86",
+      "number": "86",
+      "title": "A pol�tica de atendimento dos direitos da crian�a e do adoles",
+      "text": "Art. 86. A pol�tica de atendimento dos direitos da crian�a e do adolescente far-se-� atrav�s de um conjunto articulado de a��es governamentais e n�o-governamentais, da Uni�o, dos estados, do Distrito Federal e dos munic�pios. &nbsp;",
+      "tags": [
+        "poltica",
+        "atendimento",
+        "direitos",
+        "criana",
+        "adolescente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_87",
+      "number": "87",
+      "title": "S�o linhas de a��o da pol�tica de atendimento",
+      "text": "Art. 87. S�o linhas de a��o da pol�tica de atendimento: I - pol�ticas sociais b�sicas; II - pol�ticas e programas de assist�ncia social, em car�ter supletivo, para aqueles que deles necessitem II - servi�os, programas, projetos e benef�cios de assist�ncia social de garantia de prote��o social e de preven��o e redu��o de viola��es de direitos, seus agravamentos ou reincid�ncias; (Reda��o dada pela Lei n� 13.257, de 2016) III - servi�os especiais de preven��o e atendimento m�dico e psicossocial �s v�timas de neglig�ncia, maus-tratos, explora��o, abuso, crueldade e opress�o; III � servi�os especiais de preven��o e atendimento m�dico e psicossocial �s v�timas de neglig�ncia, maus-tratos, explora��o, abuso, crueldade e opress�o e �s crian�as e aos adolescentes que tiverem qualquer dos pais ou respons�veis vitimado por grave viol�ncia ou preso em regime fechado;&nbsp;&nbsp;&nbsp; (Reda��o dada pela Lei n� 14.987, de 2024) &nbsp;&nbsp;&nbsp;&nbsp; Vig�ncia IV - servi�o de identifica��o e localiza��o de pais, respons�vel, crian�as e adolescentes desaparecidos; V - prote��o jur�dico-social por entidades de defesa dos direitos da crian�a e do adolescente. VI - pol�ticas e programas destinado...",
+      "tags": [
+        "atendimento",
+        "polticas",
+        "programas",
+        "social",
+        "servios"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_88",
+      "number": "88",
+      "title": "S�o diretrizes da pol�tica de atendimento",
+      "text": "Art. 88. S�o diretrizes da pol�tica de atendimento: I - municipaliza��o do atendimento; II - cria��o de conselhos municipais, estaduais e nacional dos direitos da crian�a e do adolescente, �rg�os deliberativos e controladores das a��es em todos os n�veis, assegurada a participa��o popular parit�ria por meio de organiza��es representativas, segundo leis federal, estaduais e municipais; III - cria��o e manuten��o de programas espec�ficos, observada a descentraliza��o pol�tico-administrativa; IV - manuten��o de fundos nacional, estaduais e municipais vinculados aos respectivos conselhos dos direitos da crian�a e do adolescente; V - integra��o operacional de �rg�os do Judici�rio, Minist�rio P�blico, Defensoria, Seguran�a P�blica e Assist�ncia Social, preferencialmente em um mesmo local, para efeito de agiliza��o do atendimento inicial a adolescente a quem se atribua autoria de ato infracional; VI - mobiliza��o da opini�o p�blica no sentido da indispens�vel participa��o dos diversos segmentos da sociedade. VI - integra��o operacional de �rg�os do Judici�rio, Minist�rio P�blico, Defensoria, Conselho Tutelar e encarregados da execu��o das pol�ticas sociais b�sicas e de assist�ncia social,...",
+      "tags": [
+        "atendimento",
+        "municipais",
+        "estaduais",
+        "adolescente",
+        "conselhos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_89",
+      "number": "89",
+      "title": "A fun��o de membro do conselho nacional e dos conselhos estad",
+      "text": "Art. 89. A fun��o de membro do conselho nacional e dos conselhos estaduais e municipais dos direitos da crian�a e do adolescente � considerada de interesse p�blico relevante e n�o ser� remunerada. Cap�tulo II Das Entidades de Atendimento Se��o I Disposi��es Gerais &nbsp;",
+      "tags": [
+        "membro",
+        "conselho",
+        "nacional",
+        "conselhos",
+        "estaduais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_90",
+      "number": "90",
+      "title": "As entidades de atendimento s�o respons�veis pela manuten��o",
+      "text": "Art. 90. As entidades de atendimento s�o respons�veis pela manuten��o das pr�prias unidades, assim como pelo planejamento e execu��o de programas de prote��o e s�cio-educativos destinados a crian�as e adolescentes, em regime de: (Vide) I - orienta��o e apoio s�cio-familiar; II - apoio s�cio-educativo em meio aberto; III - coloca��o familiar; I V - abrigo; IV - acolhimento institucional; (Reda��o dada pela Lei n� 12.010, de 2009) Vig�ncia V - liberdade assistida; V - presta��o de servi�os � comunidade; (Reda��o dada pela Lei n� 12.594, de 2012) (Vide) VI - semi-liberdade; VI - liberdade assistida; (Reda��o dada pela Lei n� 12.594, de 2012) (Vide) VII - interna��o. VII - semiliberdade; e (Reda��o dada pela Lei n� 12.594, de 2012) (Vide) VIII - interna��o. (Inclu�do pela Lei n� 12.594, de 2012) (Vide) Par�grafo �nico. As entidades governamentais e n�o-governamentais dever�o proceder � inscri��o de seus programas, especificando os regimes de atendimento, na forma definida neste artigo, junto ao Conselho Municipal dos Direitos da Crian�a e do Adolescente, o qual manter� registro das inscri��es e de suas altera��es, do que far� comunica��o ao Conselho Tutelar e � autoridade judici�ria. �...",
+      "tags": [
+        "entidades",
+        "atendimento",
+        "programas",
+        "liberdade",
+        "assistida"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_91",
+      "number": "91",
+      "title": "As entidades n�o-governamentais somente poder�o funcionar dep",
+      "text": "Art. 91. As entidades n�o-governamentais somente poder�o funcionar depois de registradas no Conselho Municipal dos Direitos da Crian�a e do Adolescente, o qual comunicar� o registro ao Conselho Tutelar e � autoridade judici�ria da respectiva localidade. Par�grafo �nico. Ser� negado o registro � entidade que: � 1 o Ser� negado o registro � entidade que: (Inclu�do pela Lei n� 12.010, de 2009) Vig�ncia a) n�o ofere�a instala��es f�sicas em condi��es adequadas de habitabilidade, higiene, salubridade e seguran�a; b) n�o apresente plano de trabalho compat�vel com os princ�pios desta Lei; c) esteja irregularmente constitu�da; d) tenha em seus quadros pessoas inid�neas. e) n�o se adequar ou deixar de cumprir as resolu��es e delibera��es relativas � modalidade de atendimento prestado expedidas pelos Conselhos de Direitos da Crian�a e do Adolescente, em todos os n�veis. (Inclu�da pela Lei n� 12.010, de 2009) Vig�ncia � 2 o O registro ter� validade m�xima de 4 (quatro) anos, cabendo ao Conselho Municipal dos Direitos da Crian�a e do Adolescente, periodicamente, reavaliar o cabimento de sua renova��o, observado o disposto no � 1 o deste artigo. (Inclu�do pela Lei n� 12.010, de 2009) Vig�ncia",
+      "tags": [
+        "registro",
+        "conselho",
+        "direitos",
+        "criana",
+        "adolescente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_92",
+      "number": "92",
+      "title": "As entidades que desenvolvam programas de abrigo dever�o adot",
+      "text": "Art. 92. As entidades que desenvolvam programas de abrigo dever�o adotar os seguintes princ�pios: &nbsp;",
+      "tags": [
+        "entidades",
+        "desenvolvam",
+        "programas",
+        "abrigo",
+        "devero"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_93",
+      "number": "93",
+      "title": "As entidades que mantenham programas de abrigo poder�o, em ca",
+      "text": "Art. 93. As entidades que mantenham programas de abrigo poder�o, em car�ter excepcional e de urg�ncia, abrigar crian�as e adolescentes sem pr�via determina��o da autoridade competente, fazendo comunica��o do fato at� o 2� dia �til imediato. &nbsp;",
+      "tags": [
+        "entidades",
+        "mantenham",
+        "programas",
+        "abrigo",
+        "podero"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_94",
+      "number": "94",
+      "title": "As entidades que desenvolvem programas de interna��o t�m as s",
+      "text": "Art. 94. As entidades que desenvolvem programas de interna��o t�m as seguintes obriga��es, entre outras: I - observar os direitos e garantias de que s�o titulares os adolescentes; II - n�o restringir nenhum direito que n�o tenha sido objeto de restri��o na decis�o de interna��o; III - oferecer atendimento personalizado, em pequenas unidades e grupos reduzidos; IV - preservar a identidade e oferecer ambiente de respeito e dignidade ao adolescente; V - diligenciar no sentido do restabelecimento e da preserva��o dos v�nculos familiares; VI - comunicar � autoridade judici�ria, periodicamente, os casos em que se mostre invi�vel ou imposs�vel o reatamento dos v�nculos familiares; VII - oferecer instala��es f�sicas em condi��es adequadas de habitabilidade, higiene, salubridade e seguran�a e os objetos necess�rios � higiene pessoal; VIII - oferecer vestu�rio e alimenta��o suficientes e adequados � faixa et�ria dos adolescentes atendidos; IX - oferecer cuidados m�dicos, psicol�gicos, odontol�gicos e farmac�uticos; X - propiciar escolariza��o e profissionaliza��o; XI - propiciar atividades culturais, esportivas e de lazer; XII - propiciar assist�ncia religiosa �queles que desejarem, de acord...",
+      "tags": [
+        "oferecer",
+        "propiciar",
+        "internao",
+        "adolescentes",
+        "vnculos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_95",
+      "number": "95",
+      "title": "As entidades governamentais e n�o-governamentais referidas no",
+      "text": "Art. 95. As entidades governamentais e n�o-governamentais referidas no art. 90 ser�o fiscalizadas pelo Judici�rio, pelo Minist�rio P�blico e pelos Conselhos Tutelares. &nbsp;",
+      "tags": [
+        "entidades",
+        "governamentais",
+        "nogovernamentais",
+        "referidas",
+        "fiscalizadas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_96",
+      "number": "96",
+      "title": "Os planos de aplica��o e as presta��es de contas ser�o aprese",
+      "text": "Art. 96. Os planos de aplica��o e as presta��es de contas ser�o apresentados ao estado ou ao munic�pio, conforme a origem das dota��es or�ament�rias. &nbsp;",
+      "tags": [
+        "planos",
+        "aplicao",
+        "prestaes",
+        "contas",
+        "apresentados"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_97",
+      "number": "97",
+      "title": "S�o medidas aplic�veis �s entidades de atendimento que descum",
+      "text": "Art. 97. S�o medidas aplic�veis �s entidades de atendimento que descumprirem obriga��o constante do art. 94, sem preju�zo da responsabilidade civil e criminal de seus dirigentes ou prepostos: I - �s entidades governamentais: a) advert�ncia; b) afastamento provis�rio de seus dirigentes; c) afastamento definitivo de seus dirigentes; d) fechamento de unidade ou interdi��o de programa. II - �s entidades n�o-governamentais: a) advert�ncia; b) suspens�o total ou parcial do repasse de verbas p�blicas; c) interdi��o de unidades ou suspens�o de programa; d) cassa��o do registro. Par�grafo �nico. Em caso de reiteradas infra��es cometidas por entidades de atendimento, que coloquem em risco os direitos assegurados nesta Lei, dever� ser o fato comunicado ao Minist�rio P�blico ou representado perante autoridade judici�ria competente para as provid�ncias cab�veis, inclusive suspens�o das atividades ou dissolu��o da entidade. � 1 o Em caso de reiteradas infra��es cometidas por entidades de atendimento, que coloquem em risco os direitos assegurados nesta Lei, dever� ser o fato comunicado ao Minist�rio P�blico ou representado perante autoridade judici�ria competente para as provid�ncias cab�veis, in...",
+      "tags": [
+        "entidades",
+        "atendimento",
+        "dirigentes",
+        "suspenso",
+        "advertncia"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_98",
+      "number": "98",
+      "title": "As medidas de prote��o � crian�a e ao adolescente s�o aplic�v",
+      "text": "Art. 98. As medidas de prote��o � crian�a e ao adolescente s�o aplic�veis sempre que os direitos reconhecidos nesta Lei forem amea�ados ou violados: I - por a��o ou omiss�o da sociedade ou do Estado; II - por falta, omiss�o ou abuso dos pais ou respons�vel; III - em raz�o de sua conduta. Cap�tulo II Das Medidas Espec�ficas de Prote��o &nbsp;",
+      "tags": [
+        "medidas",
+        "proteo",
+        "omisso",
+        "criana",
+        "adolescente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_99",
+      "number": "99",
+      "title": "As medidas previstas neste Cap�tulo poder�o ser aplicadas iso",
+      "text": "Art. 99. As medidas previstas neste Cap�tulo poder�o ser aplicadas isolada ou cumulativamente, bem como substitu�das a qualquer tempo. &nbsp;",
+      "tags": [
+        "medidas",
+        "previstas",
+        "captulo",
+        "podero",
+        "aplicadas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_100",
+      "number": "100",
+      "title": "Na aplica��o das medidas levar-se-�o em conta as necessidades",
+      "text": "Art. 100. Na aplica��o das medidas levar-se-�o em conta as necessidades pedag�gicas, preferindo-se aquelas que visem ao fortalecimento dos v�nculos familiares e comunit�rios. Par�grafo �nico.� S�o tamb�m princ�pios que regem a aplica��o das medidas: (Inclu�do pela Lei n� 12.010, de 2009) Vig�ncia I - condi��o da crian�a e do adolescente como sujeitos de direitos: crian�as e adolescentes s�o os titulares dos direitos previstos nesta e em outras Leis, bem como na Constitui��o Federal; (Inclu�do pela Lei n� 12.010, de 2009) Vig�ncia II - prote��o integral e priorit�ria: a interpreta��o e aplica��o de toda e qualquer norma contida nesta Lei deve ser voltada � prote��o integral e priorit�ria dos direitos de que crian�as e adolescentes s�o titulares; (Inclu�do pela Lei n� 12.010, de 2009) Vig�ncia III - responsabilidade prim�ria e solid�ria do poder p�blico: a plena efetiva��o dos direitos assegurados a crian�as e a adolescentes por esta Lei e pela Constitui��o Federal, salvo nos casos por esta expressamente ressalvados, � de responsabilidade prim�ria e solid�ria das 3 (tr�s) esferas de governo, sem preju�zo da municipaliza��o do atendimento e da possibilidade da execu��o de programas po...",
+      "tags": [
+        "direitos",
+        "aplicao",
+        "includo",
+        "vigncia",
+        "crianas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_101",
+      "number": "101",
+      "title": "Verificada qualquer das hip�teses previstas no art",
+      "text": "Art. 101. Verificada qualquer das hip�teses previstas no art. 98, a autoridade competente poder� determinar, dentre outras, as seguintes medidas: I - encaminhamento aos pais ou respons�vel, mediante termo de responsabilidade; II - orienta��o, apoio e acompanhamento tempor�rios; III - matr�cula e freq��ncia obrigat�rias em estabelecimento oficial de ensino fundamental; IV - inclus�o em programa comunit�rio ou oficial de aux�lio � fam�lia, � crian�a e ao adolescente; IV - inclus�o em servi�os e programas oficiais ou comunit�rios de prote��o, apoio e promo��o da fam�lia, da crian�a e do adolescente; (Reda��o dada pela Lei n� 13.257, de 2016) V - requisi��o de tratamento m�dico, psicol�gico ou psiqui�trico, em regime hospitalar ou ambulatorial; V � requisi��o de tratamento m�dico, psicol�gico ou psiqui�trico, em regime hospitalar ou ambulatorial, extensivo �s fam�lias, se for o caso, especialmente em caso de vitimiza��o em crime contra a dignidade sexual;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Reda��o dada pela Lei n� 15.280, de 2025) VI - inclus�o em programa oficial ou comunit�rio de aux�lio, orienta��o e tratamento a alco�latras e toxic�manos; VII - abrigo em entidade; VII - acolhimento ins...",
+      "tags": [
+        "oficial",
+        "incluso",
+        "tratamento",
+        "orientao",
+        "programa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_102",
+      "number": "102",
+      "title": "As medidas de prote��o de que trata este Cap�tulo ser�o acomp",
+      "text": "Art. 102. As medidas de prote��o de que trata este Cap�tulo ser�o acompanhadas da regulariza��o do registro�civil. (Vide Lei n� 12.010, de 2009) Vig�ncia � 1� Verificada a inexist�ncia de registro anterior, o assento de nascimento da crian�a ou adolescente ser� feito � vista dos elementos dispon�veis, mediante requisi��o da autoridade judici�ria. � 2� Os registros e certid�es necess�rios � regulariza��o de que trata este artigo s�o isentos de multas, custas e emolumentos, gozando de absoluta prioridade. � 3 o Caso ainda n�o definida a paternidade, ser� deflagrado procedimento espec�fico destinado � sua averigua��o, conforme previsto pela Lei n o 8.560, de 29 de dezembro de 1992. (Inclu�do pela Lei n� 12.010, de 2009) Vig�ncia � 4 o Nas hip�teses previstas no � 3 o deste artigo, � dispens�vel o ajuizamento de a��o de investiga��o de paternidade pelo Minist�rio P�blico se, ap�s o n�o comparecimento ou a recusa do suposto pai em assumir a paternidade a ele atribu�da, a crian�a for encaminhada para ado��o. (Inclu�do pela Lei n� 12.010, de 2009) Vig�ncia � 5 o Os registros e certid�es necess�rios � inclus�o, a qualquer tempo, do nome do pai no assento de nascimento s�o isentos de multas...",
+      "tags": [
+        "vigncia",
+        "paternidade",
+        "regularizao",
+        "assento",
+        "nascimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_103",
+      "number": "103",
+      "title": "Considera-se ato infracional a conduta descrita como crime ou",
+      "text": "Art. 103. Considera-se ato infracional a conduta descrita como crime ou contraven��o penal. &nbsp;",
+      "tags": [
+        "considerase",
+        "infracional",
+        "conduta",
+        "descrita",
+        "contraveno"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_104",
+      "number": "104",
+      "title": "S�o penalmente inimput�veis os menores de dezoito anos, sujei",
+      "text": "Art. 104. S�o penalmente inimput�veis os menores de dezoito anos, sujeitos �s medidas previstas nesta Lei. Par�grafo �nico. Para os efeitos desta Lei, deve ser considerada a idade do adolescente � data do fato. &nbsp;",
+      "tags": [
+        "penalmente",
+        "inimputveis",
+        "menores",
+        "dezoito",
+        "sujeitos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_105",
+      "number": "105",
+      "title": "Ao ato infracional praticado por crian�a corresponder�o as me",
+      "text": "Art. 105. Ao ato infracional praticado por crian�a corresponder�o as medidas previstas no",
+      "tags": [
+        "infracional",
+        "praticado",
+        "criana",
+        "correspondero",
+        "medidas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_106",
+      "number": "106",
+      "title": "Nenhum adolescente ser� privado de sua liberdade sen�o em fla",
+      "text": "Art. 106. Nenhum adolescente ser� privado de sua liberdade sen�o em flagrante de ato infracional ou por ordem escrita e fundamentada da autoridade judici�ria competente. Par�grafo �nico. O adolescente tem direito � identifica��o dos respons�veis pela sua apreens�o, devendo ser informado acerca de seus direitos. &nbsp;",
+      "tags": [
+        "adolescente",
+        "nenhum",
+        "privado",
+        "liberdade",
+        "flagrante"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_107",
+      "number": "107",
+      "title": "A apreens�o de qualquer adolescente e o local onde se encontr",
+      "text": "Art. 107. A apreens�o de qualquer adolescente e o local onde se encontra recolhido ser�o incontinenti comunicados � autoridade judici�ria competente e � fam�lia do apreendido ou � pessoa por ele indicada. Par�grafo �nico. Examinar-se-�, desde logo e sob pena de responsabilidade, a possibilidade de libera��o imediata. &nbsp;",
+      "tags": [
+        "apreenso",
+        "qualquer",
+        "adolescente",
+        "encontra",
+        "recolhido"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_108",
+      "number": "108",
+      "title": "A interna��o, antes da senten�a, pode ser determinada pelo pr",
+      "text": "Art. 108. A interna��o, antes da senten�a, pode ser determinada pelo prazo m�ximo de quarenta e cinco dias. Par�grafo �nico. A decis�o dever� ser fundamentada e basear-se em ind�cios suficientes de autoria e materialidade, demonstrada a necessidade imperiosa da medida. &nbsp;",
+      "tags": [
+        "internao",
+        "sentena",
+        "determinada",
+        "quarenta",
+        "pargrafo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_109",
+      "number": "109",
+      "title": "O adolescente civilmente identificado n�o ser� submetido a id",
+      "text": "Art. 109. O adolescente civilmente identificado n�o ser� submetido a identifica��o compuls�ria pelos �rg�os policiais, de prote��o e judiciais, salvo para efeito de confronta��o, havendo d�vida fundada. Cap�tulo III Das Garantias Processuais &nbsp;",
+      "tags": [
+        "adolescente",
+        "civilmente",
+        "identificado",
+        "submetido",
+        "identificao"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_110",
+      "number": "110",
+      "title": "Nenhum adolescente ser� privado de sua liberdade sem o devido",
+      "text": "Art. 110. Nenhum adolescente ser� privado de sua liberdade sem o devido processo legal. &nbsp;",
+      "tags": [
+        "nenhum",
+        "adolescente",
+        "privado",
+        "liberdade",
+        "devido"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_111",
+      "number": "111",
+      "title": "S�o asseguradas ao adolescente, entre outras, as seguintes ga",
+      "text": "Art. 111. S�o asseguradas ao adolescente, entre outras, as seguintes garantias: I - pleno e formal conhecimento da atribui��o de ato infracional, mediante cita��o ou meio equivalente; II - igualdade na rela��o processual, podendo confrontar-se com v�timas e testemunhas e produzir todas as provas necess�rias � sua defesa; III - defesa t�cnica por advogado; IV - assist�ncia judici�ria gratuita e integral aos necessitados, na forma da lei; V - direito de ser ouvido pessoalmente pela autoridade competente; VI - direito de solicitar a presen�a de seus pais ou respons�vel em qualquer fase do procedimento. Cap�tulo IV Das Medidas S�cio-Educativas Se��o I Disposi��es Gerais &nbsp;",
+      "tags": [
+        "defesa",
+        "direito",
+        "asseguradas",
+        "adolescente",
+        "outras"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_112",
+      "number": "112",
+      "title": "Verificada a pr�tica de ato infracional, a autoridade compete",
+      "text": "Art. 112. Verificada a pr�tica de ato infracional, a autoridade competente poder� aplicar ao adolescente as seguintes medidas: I - advert�ncia; II - obriga��o de reparar o dano; III - presta��o de servi�os � comunidade; IV - liberdade assistida; V - inser��o em regime de semi-liberdade; VI - interna��o em estabelecimento educacional; VII - qualquer uma das previstas no art. 101, I a VI. � 1� A medida aplicada ao adolescente levar� em conta a sua capacidade de cumpri-la, as circunst�ncias e a gravidade da infra��o. � 2� Em hip�tese alguma e sob pretexto algum, ser� admitida a presta��o de trabalho for�ado. � 3� Os adolescentes portadores de doen�a ou defici�ncia mental receber�o tratamento individual e especializado, em local adequado �s suas condi��es. &nbsp;",
+      "tags": [
+        "adolescente",
+        "prestao",
+        "verificada",
+        "prtica",
+        "infracional"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_113",
+      "number": "113",
+      "title": "Aplica-se a este Cap�tulo o disposto nos arts",
+      "text": "Art. 113. Aplica-se a este Cap�tulo o disposto nos arts. 99 e 100. &nbsp;",
+      "tags": [
+        "aplicase",
+        "captulo",
+        "disposto"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_114",
+      "number": "114",
+      "title": "A imposi��o das medidas previstas nos incisos II a VI do art",
+      "text": "Art. 114. A imposi��o das medidas previstas nos incisos II a VI do art. 112 pressup�e a exist�ncia de provas suficientes da autoria e da materialidade da infra��o, ressalvada a hip�tese de remiss�o, nos termos do",
+      "tags": [
+        "imposio",
+        "medidas",
+        "previstas",
+        "incisos",
+        "pressupe"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_127",
+      "number": "127",
+      "title": "Artigo 127",
+      "text": "art. 127. Par�grafo �nico. A advert�ncia poder� ser aplicada sempre que houver prova da materialidade e ind�cios suficientes da autoria. Se��o II Da Advert�ncia &nbsp;",
+      "tags": [
+        "advertncia",
+        "pargrafo",
+        "aplicada",
+        "sempre",
+        "houver"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_115",
+      "number": "115",
+      "title": "A advert�ncia consistir� em admoesta��o verbal, que ser� redu",
+      "text": "Art. 115. A advert�ncia consistir� em admoesta��o verbal, que ser� reduzida a termo e assinada. Se��o III Da Obriga��o de Reparar o Dano &nbsp;",
+      "tags": [
+        "advertncia",
+        "consistir",
+        "admoestao",
+        "verbal",
+        "reduzida"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_116",
+      "number": "116",
+      "title": "Em se tratando de ato infracional com reflexos patrimoniais,",
+      "text": "Art. 116. Em se tratando de ato infracional com reflexos patrimoniais, a autoridade poder� determinar, se for o caso, que o adolescente restitua a coisa, promova o ressarcimento do dano, ou, por outra forma, compense o preju�zo da v�tima. Par�grafo �nico. Havendo manifesta impossibilidade, a medida poder� ser substitu�da por outra adequada. Se��o IV Da Presta��o de Servi�os � Comunidade &nbsp;",
+      "tags": [
+        "tratando",
+        "infracional",
+        "reflexos",
+        "patrimoniais",
+        "autoridade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_117",
+      "number": "117",
+      "title": "A presta��o de servi�os comunit�rios consiste na realiza��o d",
+      "text": "Art. 117. A presta��o de servi�os comunit�rios consiste na realiza��o de tarefas gratuitas de interesse geral, por per�odo n�o excedente a seis meses, junto a entidades assistenciais, hospitais, escolas e outros estabelecimentos cong�neres, bem como em programas comunit�rios ou governamentais. Par�grafo �nico. As tarefas ser�o atribu�das conforme as aptid�es do adolescente, devendo ser cumpridas durante jornada m�xima de oito horas semanais, aos s�bados, domingos e feriados ou em dias �teis, de modo a n�o prejudicar a freq��ncia � escola ou � jornada normal de trabalho. Se��o V Da Liberdade Assistida &nbsp;",
+      "tags": [
+        "comunitrios",
+        "tarefas",
+        "jornada",
+        "prestao",
+        "servios"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_118",
+      "number": "118",
+      "title": "A liberdade assistida ser� adotada sempre que se afigurar a m",
+      "text": "Art. 118. A liberdade assistida ser� adotada sempre que se afigurar a medida mais adequada para o fim de acompanhar, auxiliar e orientar o adolescente. � 1� A autoridade designar� pessoa capacitada para acompanhar o caso, a qual poder� ser recomendada por entidade ou programa de atendimento. � 2� A liberdade assistida ser� fixada pelo prazo m�nimo de seis meses, podendo a qualquer tempo ser prorrogada, revogada ou substitu�da por outra medida, ouvido o orientador, o Minist�rio P�blico e o defensor. &nbsp;",
+      "tags": [
+        "liberdade",
+        "assistida",
+        "medida",
+        "acompanhar",
+        "adotada"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_119",
+      "number": "119",
+      "title": "Incumbe ao orientador, com o apoio e a supervis�o da autorida",
+      "text": "Art. 119. Incumbe ao orientador, com o apoio e a supervis�o da autoridade competente, a realiza��o dos seguintes encargos, entre outros: I - promover socialmente o adolescente e sua fam�lia, fornecendo-lhes orienta��o e inserindo-os, se necess�rio, em programa oficial ou comunit�rio de aux�lio e assist�ncia social; II - supervisionar a freq��ncia e o aproveitamento escolar do adolescente, promovendo, inclusive, sua matr�cula; III - diligenciar no sentido da profissionaliza��o do adolescente e de sua inser��o no mercado de trabalho; IV - apresentar relat�rio do caso. Se��o VI Do Regime de Semi-liberdade &nbsp;",
+      "tags": [
+        "adolescente",
+        "incumbe",
+        "orientador",
+        "superviso",
+        "autoridade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_120",
+      "number": "120",
+      "title": "O regime de semi-liberdade pode ser determinado desde o in�ci",
+      "text": "Art. 120. O regime de semi-liberdade pode ser determinado desde o in�cio, ou como forma de transi��o para o meio aberto, possibilitada a realiza��o de atividades externas, independentemente de autoriza��o judicial. � 1� S�o obrigat�rias a escolariza��o e a profissionaliza��o, devendo, sempre que poss�vel, ser utilizados os recursos existentes na comunidade. � 2� A medida n�o comporta prazo determinado aplicando-se, no que couber, as disposi��es relativas � interna��o. Se��o VII Da Interna��o &nbsp;",
+      "tags": [
+        "determinado",
+        "internao",
+        "regime",
+        "semiliberdade",
+        "transio"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_121",
+      "number": "121",
+      "title": "A interna��o constitui medida privativa da liberdade, sujeita",
+      "text": "Art. 121. A interna��o constitui medida privativa da liberdade, sujeita aos princ�pios de brevidade, excepcionalidade e respeito � condi��o peculiar de pessoa em desenvolvimento. � 1� Ser� permitida a realiza��o de atividades externas, a crit�rio da equipe t�cnica da entidade, salvo expressa determina��o judicial em contr�rio. � 2� A medida n�o comporta prazo determinado, devendo sua manuten��o ser reavaliada, mediante decis�o fundamentada, no m�ximo a cada seis meses. � 3� Em nenhuma hip�tese o per�odo m�ximo de interna��o exceder� a tr�s anos. � 4� Atingido o limite estabelecido no par�grafo anterior, o adolescente dever� ser liberado, colocado em regime de semi-liberdade ou de liberdade assistida. � 5� A libera��o ser� compuls�ria aos vinte e um anos de idade. � 6� Em qualquer hip�tese a desinterna��o ser� precedida de autoriza��o judicial, ouvido o Minist�rio P�blico. � 7 o A determina��o judicial mencionada no � 1 o poder� ser revista a qualquer tempo pela autoridade judici�ria. (Inclu�do pela Lei n� 12.594, de 2012) (Vide) &nbsp;",
+      "tags": [
+        "judicial",
+        "internao",
+        "medida",
+        "liberdade",
+        "determinao"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_122",
+      "number": "122",
+      "title": "A medida de interna��o s� poder� ser aplicada quando",
+      "text": "Art. 122. A medida de interna��o s� poder� ser aplicada quando: I - tratar-se de ato infracional cometido mediante grave amea�a ou viol�ncia a pessoa; II - por reitera��o no cometimento de outras infra��es graves; III - por descumprimento reiterado e injustific�vel da medida anteriormente imposta. � 1� O prazo de interna��o na hip�tese do inciso III deste artigo n�o poder� ser superior a tr�s meses. � 1 o O prazo de interna��o na hip�tese do inciso III deste artigo n�o poder� ser superior a 3 (tr�s) meses, devendo ser decretada judicialmente ap�s o devido processo legal. (Reda��o dada pela Lei n� 12.594, de 2012) (Vide) � 2�. Em nenhuma hip�tese ser� aplicada a interna��o, havendo outra medida adequada. &nbsp;",
+      "tags": [
+        "internao",
+        "medida",
+        "hiptese",
+        "aplicada",
+        "inciso"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_123",
+      "number": "123",
+      "title": "A interna��o dever� ser cumprida em entidade exclusiva para a",
+      "text": "Art. 123. A interna��o dever� ser cumprida em entidade exclusiva para adolescentes, em local distinto daquele destinado ao abrigo, obedecida rigorosa separa��o por crit�rios de idade, complei��o f�sica e gravidade da infra��o. Par�grafo �nico. Durante o per�odo de interna��o, inclusive provis�ria, ser�o obrigat�rias atividades pedag�gicas. &nbsp;",
+      "tags": [
+        "internao",
+        "cumprida",
+        "entidade",
+        "exclusiva",
+        "adolescentes"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_124",
+      "number": "124",
+      "title": "S�o direitos do adolescente privado de liberdade, entre outro",
+      "text": "Art. 124. S�o direitos do adolescente privado de liberdade, entre outros, os seguintes: I - entrevistar-se pessoalmente com o representante do Minist�rio P�blico; II - peticionar diretamente a qualquer autoridade; III - avistar-se reservadamente com seu defensor; IV - ser informado de sua situa��o processual, sempre que solicitada; V - ser tratado com respeito e dignidade; VI - permanecer internado na mesma localidade ou naquela mais pr�xima ao domic�lio de seus pais ou respons�vel; VII - receber visitas, ao menos, semanalmente; VIII - corresponder-se com seus familiares e amigos; IX - ter acesso aos objetos necess�rios � higiene e asseio pessoal; X - habitar alojamento em condi��es adequadas de higiene e salubridade; XI - receber escolariza��o e profissionaliza��o; XII - realizar atividades culturais, esportivas e de lazer: XIII - ter acesso aos meios de comunica��o social; XIV - receber assist�ncia religiosa, segundo a sua cren�a, e desde que assim o deseje; XV - manter a posse de seus objetos pessoais e dispor de local seguro para guard�-los, recebendo comprovante daqueles porventura depositados em poder da entidade; XVI - receber, quando de sua desinterna��o, os documentos pess...",
+      "tags": [
+        "receber",
+        "acesso",
+        "objetos",
+        "higiene",
+        "direitos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_125",
+      "number": "125",
+      "title": "Artigo 125",
+      "text": "Art. 125. � dever do Estado zelar pela integridade f�sica e mental dos internos, cabendo-lhe adotar as medidas adequadas de conten��o e seguran�a. Cap�tulo V Da Remiss�o &nbsp;",
+      "tags": [
+        "estado",
+        "integridade",
+        "mental",
+        "internos",
+        "cabendolhe"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_126",
+      "number": "126",
+      "title": "Antes de iniciado o procedimento judicial para apura��o de at",
+      "text": "Art. 126. Antes de iniciado o procedimento judicial para apura��o de ato infracional, o representante do Minist�rio P�blico poder� conceder a remiss�o, como forma de exclus�o do processo, atendendo �s circunst�ncias e conseq��ncias do fato, ao contexto social, bem como � personalidade do adolescente e sua maior ou menor participa��o no ato infracional. Par�grafo �nico. Iniciado o procedimento, a concess�o da remiss�o pela autoridade judici�ria importar� na suspens�o ou extin��o do processo. &nbsp;",
+      "tags": [
+        "iniciado",
+        "procedimento",
+        "infracional",
+        "remisso",
+        "processo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_128",
+      "number": "128",
+      "title": "A medida aplicada por for�a da remiss�o poder� ser revista ju",
+      "text": "Art. 128. A medida aplicada por for�a da remiss�o poder� ser revista judicialmente, a qualquer tempo, mediante pedido expresso do adolescente ou de seu representante legal, ou do Minist�rio P�blico. T�tulo IV Das Medidas Pertinentes aos Pais ou Respons�vel &nbsp;",
+      "tags": [
+        "medida",
+        "aplicada",
+        "remisso",
+        "revista",
+        "judicialmente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_129",
+      "number": "129",
+      "title": "S�o medidas aplic�veis aos pais ou respons�vel",
+      "text": "Art. 129. S�o medidas aplic�veis aos pais ou respons�vel: I - encaminhamento a programa oficial ou comunit�rio de prote��o � fam�lia; I - encaminhamento a servi�os e programas oficiais ou comunit�rios de prote��o, apoio e promo��o da fam�lia; (Reda��o dada dada pela Lei n� 13.257, de 2016) II - inclus�o em programa oficial ou comunit�rio de aux�lio, orienta��o e tratamento a alco�latras e toxic�manos; III - encaminhamento a tratamento psicol�gico ou psiqui�trico; IV - encaminhamento a cursos ou programas de orienta��o; V - obriga��o de matricular o filho ou pupilo e acompanhar sua freq��ncia e aproveitamento escolar; VI - obriga��o de encaminhar a crian�a ou adolescente a tratamento especializado; VII - advert�ncia; VIII - perda da guarda; IX - destitui��o da tutela; X - suspens�o ou destitui��o do p�trio poder poder familiar . (Express�o substitu�da pela Lei n� 12.010, de 2009) Vig�ncia Par�grafo �nico. Na aplica��o das medidas previstas nos incisos IX e X deste artigo, observar-se-� o disposto nos arts. 23 e 24. Par�grafo �nico. Na aplica��o das medidas previstas nos incisos IX e X do caput deste artigo, observar-se-� o disposto nos arts. 22, 23 e 24 desta Lei. &nbsp;&nbsp; (Reda...",
+      "tags": [
+        "encaminhamento",
+        "medidas",
+        "tratamento",
+        "programa",
+        "oficial"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_130",
+      "number": "130",
+      "title": "Verificada a hip�tese de maus-tratos, opress�o ou abuso sexua",
+      "text": "Art. 130. Verificada a hip�tese de maus-tratos, opress�o ou abuso sexual impostos pelos pais ou respons�vel, a autoridade judici�ria poder� determinar, como medida cautelar, o afastamento do agressor da moradia comum.",
+      "tags": [
+        "verificada",
+        "hiptese",
+        "maustratos",
+        "opresso",
+        "sexual"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_131",
+      "number": "131",
+      "title": "O Conselho Tutelar � �rg�o permanente e aut�nomo, n�o jurisdi",
+      "text": "Art. 131. O Conselho Tutelar � �rg�o permanente e aut�nomo, n�o jurisdicional, encarregado pela sociedade de zelar pelo cumprimento dos direitos da crian�a e do adolescente, definidos nesta Lei.",
+      "tags": [
+        "conselho",
+        "tutelar",
+        "permanente",
+        "autnomo",
+        "jurisdicional"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_132",
+      "number": "132",
+      "title": "Em cada Munic�pio haver�, no m�nimo, um Conselho Tutelar comp",
+      "text": "Art. 132. Em cada Munic�pio haver�, no m�nimo, um Conselho Tutelar composto de cinco membros, eleitos pelos cidad�os locais para mandato de tr�s anos, permitida uma reelei��o.",
+      "tags": [
+        "municpio",
+        "conselho",
+        "tutelar",
+        "composto",
+        "membros"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_133",
+      "number": "133",
+      "title": "Para a candidatura a membro do Conselho Tutelar, ser�o exigid",
+      "text": "Art. 133. Para a candidatura a membro do Conselho Tutelar, ser�o exigidos os seguintes requisitos: I - reconhecida idoneidade moral; II - idade superior a vinte e um anos; III - residir no munic�pio.",
+      "tags": [
+        "candidatura",
+        "membro",
+        "conselho",
+        "tutelar",
+        "exigidos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_134",
+      "number": "134",
+      "title": "Lei municipal dispor� sobre local, dia e hor�rio de funcionam",
+      "text": "Art. 134. Lei municipal dispor� sobre local, dia e hor�rio de funcionamento do Conselho Tutelar, inclusive quanto a eventual remunera��o de seus membros. &nbsp;",
+      "tags": [
+        "municipal",
+        "dispor",
+        "horrio",
+        "funcionamento",
+        "conselho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_135",
+      "number": "135",
+      "title": "O exerc�cio efetivo da fun��o de conselheiro constituir� serv",
+      "text": "Art. 135. O exerc�cio efetivo da fun��o de conselheiro constituir� servi�o p�blico relevante, estabelecer� presun��o de idoneidade moral e assegurar� pris�o especial, em caso de crime comum, at� o julgamento definitivo. &nbsp;",
+      "tags": [
+        "exerccio",
+        "efetivo",
+        "conselheiro",
+        "constituir",
+        "servio"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_136",
+      "number": "136",
+      "title": "S�o atribui��es do Conselho Tutelar",
+      "text": "Art. 136. S�o atribui��es do Conselho Tutelar: I - atender as crian�as e adolescentes nas hip�teses previstas nos arts. 98 e 105, aplicando as medidas previstas no art. 101, I a VII; II - atender e aconselhar os pais ou respons�vel, aplicando as medidas previstas no art. 129, I a VII; III - promover a execu��o de suas decis�es, podendo para tanto: a) requisitar servi�os p�blicos nas �reas de sa�de, educa��o, servi�o social, previd�ncia, trabalho e seguran�a; a) requisitar servi�os p�blicos nas �reas de sa�de, educa��o, assist�ncia social, previd�ncia, trabalho e seguran�a;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Reda��o dada pela Lei n� 15.268, de 2025) b) representar junto � autoridade judici�ria nos casos de descumprimento injustificado de suas delibera��es. IV - encaminhar ao Minist�rio P�blico not�cia de fato que constitua infra��o administrativa ou penal contra os direitos da crian�a ou adolescente; V - encaminhar � autoridade judici�ria os casos de sua compet�ncia; VI - providenciar a medida estabelecida pela autoridade judici�ria, dentre as previstas no art. 101, de I a VI, para o adolescente autor de ato infracional; VII - expedir notifica��es; VIII - requisitar certid�es de nascime...",
+      "tags": [
+        "previstas",
+        "requisitar",
+        "autoridade",
+        "judiciria",
+        "atender"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_137",
+      "number": "137",
+      "title": "As decis�es do Conselho Tutelar somente poder�o ser revistas",
+      "text": "Art. 137. As decis�es do Conselho Tutelar somente poder�o ser revistas pela autoridade judici�ria a pedido de quem tenha leg�timo interesse. Cap�tulo III Da Compet�ncia &nbsp;",
+      "tags": [
+        "decises",
+        "conselho",
+        "tutelar",
+        "somente",
+        "podero"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_138",
+      "number": "138",
+      "title": "Aplica-se ao Conselho Tutelar a regra de compet�ncia constant",
+      "text": "Art. 138. Aplica-se ao Conselho Tutelar a regra de compet�ncia constante do",
+      "tags": [
+        "aplicase",
+        "conselho",
+        "tutelar",
+        "competncia",
+        "constante"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_147",
+      "number": "147",
+      "title": "Artigo 147",
+      "text": "art. 147. Cap�tulo IV Da Escolha dos Conselheiros",
+      "tags": [
+        "captulo",
+        "escolha",
+        "conselheiros"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_139",
+      "number": "139",
+      "title": "O processo eleitoral para a escolha dos membros do Conselho T",
+      "text": "Art. 139. O processo eleitoral para a escolha dos membros do Conselho Tutelar ser� estabelecido em Lei Municipal e realizado sob a presid�ncia de Juiz eleitoral e a fiscaliza��o do Minist�rio P�blico. &nbsp;",
+      "tags": [
+        "eleitoral",
+        "processo",
+        "escolha",
+        "membros",
+        "conselho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_140",
+      "number": "140",
+      "title": "S�o impedidos de servir no mesmo Conselho marido e mulher, as",
+      "text": "Art. 140. S�o impedidos de servir no mesmo Conselho marido e mulher, ascendentes e descendentes, sogro e genro ou nora, irm�os, cunhados, durante o cunhadio, tio e sobrinho, padrasto ou madrasta e enteado. Par�grafo �nico. Estende-se o impedimento do conselheiro, na forma deste artigo, em rela��o � autoridade judici�ria e ao representante do Minist�rio P�blico com atua��o na Justi�a da Inf�ncia e da Juventude, em exerc�cio na comarca, foro regional ou distrital. T�tulo VI Do Acesso � Justi�a Cap�tulo I Disposi��es Gerais &nbsp;",
+      "tags": [
+        "justia",
+        "impedidos",
+        "servir",
+        "conselho",
+        "marido"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_141",
+      "number": "141",
+      "title": "Artigo 141",
+      "text": "Art. 141. � garantido o acesso de toda crian�a ou adolescente � Defensoria P�blica, ao Minist�rio P�blico e ao Poder Judici�rio, por qualquer de seus �rg�os. � 1�. A assist�ncia judici�ria gratuita ser� prestada aos que dela necessitarem, atrav�s de defensor p�blico ou advogado nomeado. � 2� As a��es judiciais da compet�ncia da Justi�a da Inf�ncia e da Juventude s�o isentas de custas e emolumentos, ressalvada a hip�tese de litig�ncia de m�-f�. &nbsp;",
+      "tags": [
+        "pblico",
+        "garantido",
+        "acesso",
+        "criana",
+        "adolescente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_142",
+      "number": "142",
+      "title": "Os menores de dezesseis anos ser�o representados e os maiores",
+      "text": "Art. 142. Os menores de dezesseis anos ser�o representados e os maiores de dezesseis e menores de vinte e um anos assistidos por seus pais, tutores ou curadores, na forma da legisla��o civil ou processual. Par�grafo �nico. A autoridade judici�ria dar� curador especial � crian�a ou adolescente, sempre que os interesses destes colidirem com os de seus pais ou respons�vel, ou quando carecer de representa��o ou assist�ncia legal ainda que eventual. &nbsp;",
+      "tags": [
+        "menores",
+        "dezesseis",
+        "representados",
+        "maiores",
+        "assistidos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_143",
+      "number": "143",
+      "title": "E vedada a divulga��o de atos judiciais, policiais e administ",
+      "text": "Art. 143. E vedada a divulga��o de atos judiciais, policiais e administrativos que digam respeito a crian�as e adolescentes a que se atribua autoria de ato infracional. Par�grafo �nico. Qualquer not�cia a respeito do fato n�o poder� identificar a crian�a ou adolescente, vedando-se fotografia, refer�ncia a nome, apelido, filia��o, parentesco e resid�ncia. Par�grafo �nico. Qualquer not�cia a respeito do fato n�o poder� identificar a crian�a ou adolescente, vedando-se fotografia, refer�ncia a nome, apelido, filia��o, parentesco, resid�ncia e, inclusive, iniciais do nome e sobrenome. (Reda��o dada pela Lei n� 10.764, de 12.11.2003) &nbsp;",
+      "tags": [
+        "respeito",
+        "pargrafo",
+        "qualquer",
+        "notcia",
+        "identificar"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_144",
+      "number": "144",
+      "title": "A expedi��o de c�pia ou certid�o de atos a que se refere o ar",
+      "text": "Art. 144. A expedi��o de c�pia ou certid�o de atos a que se refere o artigo anterior somente ser� deferida pela autoridade judici�ria competente, se demonstrado o interesse e justificada a finalidade. Cap�tulo II Da Justi�a da Inf�ncia e da Juventude Se��o I Disposi��es Gerais &nbsp;",
+      "tags": [
+        "expedio",
+        "certido",
+        "refere",
+        "artigo",
+        "anterior"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_145",
+      "number": "145",
+      "title": "Os estados e o Distrito Federal poder�o criar varas especiali",
+      "text": "Art. 145. Os estados e o Distrito Federal poder�o criar varas especializadas e exclusivas da inf�ncia e da juventude, cabendo ao Poder Judici�rio estabelecer sua proporcionalidade por n�mero de habitantes, dot�-las de infra-estrutura e dispor sobre o atendimento, inclusive em plant�es. Se��o II Do Juiz &nbsp;",
+      "tags": [
+        "estados",
+        "distrito",
+        "federal",
+        "podero",
+        "especializadas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_146",
+      "number": "146",
+      "title": "A autoridade a que se refere esta Lei � o Juiz da Inf�ncia e",
+      "text": "Art. 146. A autoridade a que se refere esta Lei � o Juiz da Inf�ncia e da Juventude, ou o juiz que exerce essa fun��o, na forma da lei de organiza��o judici�ria local. &nbsp;",
+      "tags": [
+        "autoridade",
+        "refere",
+        "infncia",
+        "juventude",
+        "exerce"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_148",
+      "number": "148",
+      "title": "A Justi�a da Inf�ncia e da Juventude � competente para",
+      "text": "Art. 148. A Justi�a da Inf�ncia e da Juventude � competente para: I - conhecer de representa��es promovidas pelo Minist�rio P�blico, para apura��o de ato infracional atribu�do a adolescente, aplicando as medidas cab�veis; II - conceder a remiss�o, como forma de suspens�o ou extin��o do processo; III - conhecer de pedidos de ado��o e seus incidentes; IV - conhecer de a��es civis fundadas em interesses individuais, difusos ou coletivos afetos � crian�a e ao adolescente, observado o disposto no art. 209; V - conhecer de a��es decorrentes de irregularidades em entidades de atendimento, aplicando as medidas cab�veis; VI - aplicar penalidades administrativas nos casos de infra��es contra norma de prote��o � crian�a ou adolescente; VII - conhecer de casos encaminhados pelo Conselho Tutelar, aplicando as medidas cab�veis. Par�grafo �nico. Quando se tratar de crian�a ou adolescente nas hip�teses do art. 98, � tamb�m competente a Justi�a da Inf�ncia e da Juventude para o fim de: a) conhecer de pedidos de guarda e tutela; b) conhecer de a��es de destitui��o do p�trio poder poder familiar , perda ou modifica��o da tutela ou guarda; (Express�o substitu�da pela Lei n� 12.010, de 2009) Vig�ncia c...",
+      "tags": [
+        "conhecer",
+        "adolescente",
+        "aplicando",
+        "medidas",
+        "cabveis"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_149",
+      "number": "149",
+      "title": "Compete � autoridade judici�ria disciplinar, atrav�s de porta",
+      "text": "Art. 149. Compete � autoridade judici�ria disciplinar, atrav�s de portaria, ou autorizar, mediante alvar�: I - a entrada e perman�ncia de crian�a ou adolescente, desacompanhado dos pais ou respons�vel, em: a) est�dio, gin�sio e campo desportivo; b) bailes ou promo��es dan�antes; c) boate ou cong�neres; d) casa que explore comercialmente divers�es eletr�nicas; e) est�dios cinematogr�ficos, de teatro, r�dio e televis�o. II - a participa��o de crian�a e adolescente em: a) espet�culos p�blicos e seus ensaios; b) certames de beleza. � 1� Para os fins do disposto neste artigo, a autoridade judici�ria levar� em conta, dentre outros fatores: a) os princ�pios desta Lei; b) as peculiaridades locais; c) a exist�ncia de instala��es adequadas; d) o tipo de freq��ncia habitual ao local; e) a adequa��o do ambiente a eventual participa��o ou freq��ncia de crian�as e adolescentes; f) a natureza do espet�culo. � 2� As medidas adotadas na conformidade deste artigo dever�o ser fundamentadas, caso a caso, vedadas as determina��es de car�ter geral. Se��o III Dos Servi�os Auxiliares &nbsp;",
+      "tags": [
+        "autoridade",
+        "judiciria",
+        "criana",
+        "adolescente",
+        "participao"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_150",
+      "number": "150",
+      "title": "Cabe ao Poder Judici�rio, na elabora��o de sua proposta or�am",
+      "text": "Art. 150. Cabe ao Poder Judici�rio, na elabora��o de sua proposta or�ament�ria, prever recursos para manuten��o de equipe interprofissional, destinada a assessorar a Justi�a da Inf�ncia e da Juventude. &nbsp;",
+      "tags": [
+        "judicirio",
+        "elaborao",
+        "proposta",
+        "oramentria",
+        "prever"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_151",
+      "number": "151",
+      "title": "Compete � equipe interprofissional dentre outras atribui��es",
+      "text": "Art. 151. Compete � equipe interprofissional dentre outras atribui��es que lhe forem reservadas pela legisla��o local, fornecer subs�dios por escrito, mediante laudos, ou verbalmente, na audi�ncia, e bem assim desenvolver trabalhos de aconselhamento, orienta��o, encaminhamento, preven��o e outros, tudo sob a imediata subordina��o � autoridade judici�ria, assegurada a livre manifesta��o do ponto de vista t�cnico. Par�grafo �nico. �Na aus�ncia ou insufici�ncia de servidores p�blicos integrantes do Poder Judici�rio respons�veis pela realiza��o dos estudos psicossociais ou de quaisquer outras esp�cies de avalia��es t�cnicas exigidas por esta Lei ou por determina��o judicial, a autoridade judici�ria poder� proceder � nomea��o de perito, nos termos do art. 156 da Lei no 13.105, de 16 de mar�o de 2015 (C�digo de Processo Civil) . (Inclu�do pela Lei n� 13.509, de 2017) Cap�tulo III Dos Procedimentos Se��o I Disposi��es Gerais &nbsp;",
+      "tags": [
+        "outras",
+        "autoridade",
+        "judiciria",
+        "compete",
+        "equipe"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_152",
+      "number": "152",
+      "title": "Aos procedimentos regulados nesta Lei aplicam-se subsidiariam",
+      "text": "Art. 152. Aos procedimentos regulados nesta Lei aplicam-se subsidiariamente as normas gerais previstas na legisla��o processual pertinente. Par�grafo �nico.� � assegurada, sob pena de responsabilidade, prioridade absoluta na tramita��o dos processos e procedimentos previstos nesta Lei, assim como na execu��o dos atos e dilig�ncias judiciais a eles referentes. (Inclu�do pela Lei n� 12.010, de 2009) Vig�ncia � 1� � assegurada, sob pena de responsabilidade, prioridade absoluta na tramita��o dos processos e procedimentos previstos nesta Lei, assim como na execu��o dos atos e dilig�ncias judiciais a eles referentes. (Inclu�do pela Lei n� 12.010, de 2009) Vig�ncia � 2� �Os prazos estabelecidos nesta Lei e aplic�veis aos seus procedimentos s�o contados em dias corridos, exclu�do o dia do come�o e inclu�do o dia do vencimento, vedado o prazo em dobro para a Fazenda P�blica e o Minist�rio P�blico. (Inclu�do pela Lei n� 13.509, de 2017) &nbsp;",
+      "tags": [
+        "procedimentos",
+        "includo",
+        "assegurada",
+        "responsabilidade",
+        "prioridade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_153",
+      "number": "153",
+      "title": "Se a medida judicial a ser adotada n�o corresponder a procedi",
+      "text": "Art. 153. Se a medida judicial a ser adotada n�o corresponder a procedimento previsto nesta ou em outra lei, a autoridade judici�ria poder� investigar os fatos e ordenar de of�cio as provid�ncias necess�rias, ouvido o Minist�rio P�blico. Par�grafo �nico.� O disposto neste artigo n�o se aplica para o fim de afastamento da crian�a ou do adolescente de sua fam�lia de origem e em outros procedimentos necessariamente contenciosos. (Inclu�do pela Lei n� 12.010, de 2009) Vig�ncia &nbsp;",
+      "tags": [
+        "medida",
+        "judicial",
+        "adotada",
+        "corresponder",
+        "procedimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_154",
+      "number": "154",
+      "title": "Aplica-se �s multas o disposto no",
+      "text": "Art. 154. Aplica-se �s multas o disposto no",
+      "tags": [
+        "aplicase",
+        "multas",
+        "disposto"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_214",
+      "number": "214",
+      "title": "Artigo 214",
+      "text": "art. 214. Se��o II Da Perda e da Suspens�o do P�trio Poder Poder Familiar (Express�o substitu�da pela Lei n� 12.010, de 2009) Vig�ncia &nbsp;",
+      "tags": [
+        "suspenso",
+        "familiar",
+        "expresso",
+        "substituda",
+        "vigncia"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_155",
+      "number": "155",
+      "title": "O procedimento para a perda ou a suspens�o do p�trio poder po",
+      "text": "Art. 155. O procedimento para a perda ou a suspens�o do p�trio poder poder familiar ter� in�cio por provoca��o do Minist�rio P�blico ou de quem tenha leg�timo interesse. (Express�o substitu�da pela Lei n� 12.010, de 2009) Vig�ncia &nbsp;",
+      "tags": [
+        "procedimento",
+        "suspenso",
+        "familiar",
+        "provocao",
+        "ministrio"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_156",
+      "number": "156",
+      "title": "A peti��o inicial indicar�",
+      "text": "Art. 156. A peti��o inicial indicar�: I - a autoridade judici�ria a que for dirigida; II - o nome, o estado civil, a profiss�o e a resid�ncia do requerente e do requerido, dispensada a qualifica��o em se tratando de pedido formulado por representante do Minist�rio P�blico; III - a exposi��o sum�ria do fato e o pedido; IV - as provas que ser�o produzidas, oferecendo, desde logo, o rol de testemunhas e documentos. &nbsp;",
+      "tags": [
+        "pedido",
+        "inicial",
+        "indicar",
+        "autoridade",
+        "judiciria"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_157",
+      "number": "157",
+      "title": "Havendo motivo grave, poder� a autoridade judici�ria, ouvido",
+      "text": "Art. 157. Havendo motivo grave, poder� a autoridade judici�ria, ouvido o Minist�rio P�blico, decretar a suspens�o do p�trio poder poder familiar , liminar ou incidentalmente, at� o julgamento definitivo da causa, ficando a crian�a ou adolescente confiado a pessoa id�nea, mediante termo de responsabilidade. (Express�o substitu�da pela Lei n� 12.010, de 2009) Vig�ncia � 1 o Recebida a peti��o inicial, a autoridade judici�ria determinar�, concomitantemente ao despacho de cita��o e independentemente de requerimento do interessado, a realiza��o de estudo social ou per�cia por equipe interprofissional ou multidisciplinar para comprovar a presen�a de uma das causas de suspens�o ou destitui��o do poder familiar, ressalvado o disposto no � 10 do art. 101 desta Lei, e observada a Lei��� n o 13.431, de 4 de abril de 2017 . (Inclu�do pela Lei n� 13.509, de 2017) � 2 o Em sendo os pais oriundos de comunidades ind�genas, � ainda obrigat�ria a interven��o, junto � equipe interprofissional ou multidisciplinar referida no � 1 o deste artigo, de representantes do �rg�o federal respons�vel pela pol�tica indigenista, observado o disposto no � 6 o do art. 28 desta Lei. (Inclu�do pela Lei n� 13.509, de ...",
+      "tags": [
+        "autoridade",
+        "judiciria",
+        "suspenso",
+        "familiar",
+        "equipe"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_158",
+      "number": "158",
+      "title": "O requerido ser� citado para, no prazo de dez dias, oferecer",
+      "text": "Art. 158. O requerido ser� citado para, no prazo de dez dias, oferecer resposta escrita, indicando as provas a serem produzidas e oferecendo desde logo o rol de testemunhas e documentos. Par�grafo �nico. Dever�o ser esgotados todos os meios para a cita��o pessoal. � 1 o A cita��o ser� pessoal, salvo se esgotados todos os meios para sua realiza��o. (Inclu�do pela Lei n� 12.962, de 2014) � 2 o O requerido privado de liberdade dever� ser citado pessoalmente. (Inclu�do pela Lei n� 12.962, de 2014) � 3 o Quando, por 2 (duas) vezes, o oficial de justi�a houver procurado o citando em seu domic�lio ou resid�ncia sem o encontrar, dever�, havendo suspeita de oculta��o, informar qualquer pessoa da fam�lia ou, em sua falta, qualquer vizinho do dia �til em que voltar� a fim de efetuar a cita��o, na hora que designar, nos termos do art. 252 e seguintes da Lei n o 13.105, de 16 de mar�o de 2015 (C�digo de Processo Civil) . (Inclu�do pela Lei n� 13.509, de 2017) � 4 o Na hip�tese de os genitores encontrarem-se em local incerto ou n�o sabido, ser�o citados por edital no prazo de 10 (dez) dias, em publica��o �nica, dispensado o envio de of�cios para a localiza��o. (Inclu�do pela Lei n� 13.509, de 20...",
+      "tags": [
+        "includo",
+        "requerido",
+        "citado",
+        "esgotados",
+        "pessoal"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_159",
+      "number": "159",
+      "title": "Se o requerido n�o tiver possibilidade de constituir advogado",
+      "text": "Art. 159. Se o requerido n�o tiver possibilidade de constituir advogado, sem preju�zo do pr�prio sustento e de sua fam�lia, poder� requerer, em cart�rio, que lhe seja nomeado dativo, ao qual incumbir� a apresenta��o de resposta, contando-se o prazo a partir da intima��o do despacho de nomea��o. Par�grafo��nico. �Na hip�tese de requerido privado de liberdade, o oficial de justi�a dever� perguntar, no momento da cita��o pessoal, se deseja que lhe seja nomeado defensor. (Inclu�do pela Lei n� 12.962, de 2014) &nbsp;",
+      "tags": [
+        "requerido",
+        "nomeado",
+        "possibilidade",
+        "constituir",
+        "advogado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_160",
+      "number": "160",
+      "title": "Sendo necess�rio, a autoridade judici�ria requisitar� de qual",
+      "text": "Art. 160. Sendo necess�rio, a autoridade judici�ria requisitar� de qualquer reparti��o ou �rg�o p�blico a apresenta��o de documento que interesse � causa, de of�cio ou a requerimento das partes ou do Minist�rio P�blico.",
+      "tags": [
+        "pblico",
+        "necessrio",
+        "autoridade",
+        "judiciria",
+        "requisitar"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_161",
+      "number": "161",
+      "title": "N�o sendo contestado o pedido, a autoridade judici�ria dar� v",
+      "text": "Art. 161. N�o sendo contestado o pedido, a autoridade judici�ria dar� vista dos autos ao Minist�rio P�blico, por cinco dias, salvo quando este for o requerente, decidindo em igual prazo. &nbsp;",
+      "tags": [
+        "contestado",
+        "pedido",
+        "autoridade",
+        "judiciria",
+        "ministrio"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_162",
+      "number": "162",
+      "title": "Apresentada a resposta, a autoridade judici�ria dar� vista do",
+      "text": "Art. 162. Apresentada a resposta, a autoridade judici�ria dar� vista dos autos ao Minist�rio P�blico, por cinco dias, salvo quando este for o requerente, designando, desde logo, audi�ncia de instru��o e julgamento. � 1� A requerimento de qualquer das partes, do Minist�rio P�blico, ou de of�cio, a autoridade judici�ria poder� determinar a realiza��o de estudo social ou, se poss�vel, de per�cia por equipe interprofissional. � 1� (Revogado) . (Reda��o dada pela Lei n� 13.509, de 2017) � 2� Na audi�ncia, presentes as partes e o Minist�rio P�blico, ser�o ouvidas as testemunhas, colhendo-se oralmente o parecer t�cnico, salvo quando apresentado por escrito, manifestando-se sucessivamente o requerente, o requerido e o Minist�rio P�blico, pelo tempo de vinte minutos cada um, prorrog�vel por mais dez. A decis�o ser� proferida na audi�ncia, podendo a autoridade judici�ria, excepcionalmente, designar data para sua leitura no prazo m�ximo de cinco dias. � 2 o Na audi�ncia, presentes as partes e o Minist�rio P�blico, ser�o ouvidas as testemunhas, colhendo-se oralmente o parecer t�cnico, salvo quando apresentado por escrito, manifestando-se sucessivamente o requerente, o requerido e o Minist�rio ...",
+      "tags": [
+        "ministrio",
+        "pblico",
+        "audincia",
+        "autoridade",
+        "judiciria"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_163",
+      "number": "163",
+      "title": "A senten�a que decretar a perda ou a suspens�o do p�trio pode",
+      "text": "Art. 163. A senten�a que decretar a perda ou a suspens�o do p�trio poder poder familiar ser� averbada � margem do registro de nascimento da crian�a ou adolescente. (Express�o substitu�da pela Lei n� 12.010, de 2009) Vig�ncia",
+      "tags": [
+        "sentena",
+        "decretar",
+        "suspenso",
+        "familiar",
+        "averbada"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_164",
+      "number": "164",
+      "title": "Na destitui��o da tutela, observar-se-� o procedimento para a",
+      "text": "Art. 164. Na destitui��o da tutela, observar-se-� o procedimento para a remo��o de tutor previsto na lei processual civil e, no que couber, o disposto na se��o anterior. Se��o IV Da Coloca��o em Fam�lia Substituta &nbsp;",
+      "tags": [
+        "destituio",
+        "tutela",
+        "observarse",
+        "procedimento",
+        "previsto"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_165",
+      "number": "165",
+      "title": "S�o requisitos para a concess�o de pedidos de coloca��o em fa",
+      "text": "Art. 165. S�o requisitos para a concess�o de pedidos de coloca��o em fam�lia substituta: I - qualifica��o completa do requerente e de seu eventual c�njuge, ou companheiro, com expressa anu�ncia deste; II - indica��o de eventual parentesco do requerente e de seu c�njuge, ou companheiro, com a crian�a ou adolescente, especificando se tem ou n�o parente vivo; III - qualifica��o completa da crian�a ou adolescente e de seus pais, se conhecidos; IV - indica��o do cart�rio onde foi inscrito nascimento, anexando, se poss�vel, uma c�pia da respectiva certid�o; V - declara��o sobre a exist�ncia de bens, direitos ou rendimentos relativos � crian�a ou ao adolescente. Par�grafo �nico. Em se tratando de ado��o, observar-se-�o tamb�m os requisitos espec�ficos.",
+      "tags": [
+        "criana",
+        "adolescente",
+        "requisitos",
+        "qualificao",
+        "completa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_166",
+      "number": "166",
+      "title": "Se os pais forem falecidos, tiverem sido destitu�dos ou suspe",
+      "text": "Art. 166. Se os pais forem falecidos, tiverem sido destitu�dos ou suspensos do p�trio poder poder familiar , ou houverem aderido expressamente ao pedido de coloca��o em fam�lia substituta, este poder� ser formulado diretamente em cart�rio, em peti��o assinada pelos pr�prios requerentes. (Express�o substitu�da pela Lei n� 12.010, de 2009) Vig�ncia Par�grafo �nico. Na hip�tese de concord�ncia dos pais, eles ser�o ouvidos pela autoridade judici�ria e pelo representante do Minist�rio P�blico, tomando-se por termo as declara��es. &nbsp;",
+      "tags": [
+        "falecidos",
+        "tiverem",
+        "destitudos",
+        "suspensos",
+        "familiar"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_167",
+      "number": "167",
+      "title": "A autoridade judici�ria, de of�cio ou a requerimento das part",
+      "text": "Art. 167. A autoridade judici�ria, de of�cio ou a requerimento das partes ou do Minist�rio P�blico, determinar� a realiza��o de estudo social ou, se poss�vel, per�cia por equipe interprofissional, decidindo sobre a concess�o de guarda provis�ria, bem como, no caso de ado��o, sobre o est�gio de conviv�ncia. Par�grafo �nico.� Deferida a concess�o da guarda provis�ria ou do est�gio de conviv�ncia, a crian�a ou o adolescente ser� entregue ao interessado, mediante termo de responsabilidade. (Inclu�do pela Lei n� 12.010, de 2009) Vig�ncia &nbsp;",
+      "tags": [
+        "concesso",
+        "guarda",
+        "provisria",
+        "estgio",
+        "convivncia"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_168",
+      "number": "168",
+      "title": "Apresentado o relat�rio social ou o laudo pericial, e ouvida,",
+      "text": "Art. 168. Apresentado o relat�rio social ou o laudo pericial, e ouvida, sempre que poss�vel, a crian�a ou o adolescente, dar-se-� vista dos autos ao Minist�rio P�blico, pelo prazo de cinco dias, decidindo a autoridade judici�ria em igual prazo. &nbsp;",
+      "tags": [
+        "apresentado",
+        "relatrio",
+        "social",
+        "pericial",
+        "ouvida"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_169",
+      "number": "169",
+      "title": "Nas hip�teses em que a destitui��o da tutela, a perda ou a su",
+      "text": "Art. 169. Nas hip�teses em que a destitui��o da tutela, a perda ou a suspens�o do p�trio poder poder familiar constituir pressuposto l�gico da medida principal de coloca��o em fam�lia substituta, ser� observado o procedimento contradit�rio previsto nas Se��es II e III deste Cap�tulo. (Express�o substitu�da pela Lei n� 12.010, de 2009) Vig�ncia Par�grafo �nico. A perda ou a modifica��o da guarda poder� ser decretada nos mesmos autos do procedimento, observado o disposto no",
+      "tags": [
+        "observado",
+        "procedimento",
+        "hipteses",
+        "destituio",
+        "tutela"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_170",
+      "number": "170",
+      "title": "Concedida a guarda ou a tutela, observar-se-� o disposto no a",
+      "text": "Art. 170. Concedida a guarda ou a tutela, observar-se-� o disposto no art. 32, e, quanto � ado��o, o contido no",
+      "tags": [
+        "concedida",
+        "guarda",
+        "tutela",
+        "observarse",
+        "disposto"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_171",
+      "number": "171",
+      "title": "O adolescente apreendido por for�a de ordem judicial ser�, de",
+      "text": "Art. 171. O adolescente apreendido por for�a de ordem judicial ser�, desde logo, encaminhado � autoridade judici�ria. &nbsp;",
+      "tags": [
+        "adolescente",
+        "apreendido",
+        "judicial",
+        "encaminhado",
+        "autoridade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_172",
+      "number": "172",
+      "title": "O adolescente apreendido em flagrante de ato infracional ser�",
+      "text": "Art. 172. O adolescente apreendido em flagrante de ato infracional ser�, desde logo, encaminhado � autoridade policial competente. Par�grafo �nico. Havendo reparti��o policial especializada para atendimento de adolescente e em se tratando de ato infracional praticado em co-autoria com maior, prevalecer� a atribui��o da reparti��o especializada, que, ap�s as provid�ncias necess�rias e conforme o caso, encaminhar� o adulto � reparti��o policial pr�pria. &nbsp;",
+      "tags": [
+        "policial",
+        "repartio",
+        "adolescente",
+        "infracional",
+        "especializada"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_173",
+      "number": "173",
+      "title": "Em caso de flagrante de ato infracional cometido mediante vio",
+      "text": "Art. 173. Em caso de flagrante de ato infracional cometido mediante viol�ncia ou grave amea�a a pessoa, a autoridade policial, sem preju�zo do disposto nos arts. 106, par�grafo �nico, e 107, dever�: I - lavrar auto de apreens�o, ouvidos as testemunhas e o adolescente; II - apreender o produto e os instrumentos da infra��o; III - requisitar os exames ou per�cias necess�rios � comprova��o da materialidade e autoria da infra��o. Par�grafo �nico. Nas demais hip�teses de flagrante, a lavratura do auto poder� ser substitu�da por boletim de ocorr�ncia circunstanciada. &nbsp;",
+      "tags": [
+        "flagrante",
+        "pargrafo",
+        "infrao",
+        "infracional",
+        "cometido"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_174",
+      "number": "174",
+      "title": "Comparecendo qualquer dos pais ou respons�vel, o adolescente",
+      "text": "Art. 174. Comparecendo qualquer dos pais ou respons�vel, o adolescente ser� prontamente liberado pela autoridade policial, sob termo de compromisso e responsabilidade de sua apresenta��o ao representante do Minist�rio P�blico, no mesmo dia ou, sendo imposs�vel, no primeiro dia �til imediato, exceto quando, pela gravidade do ato infracional e sua repercuss�o social, deva o adolescente permanecer sob interna��o para garantia de sua seguran�a pessoal ou manuten��o da ordem p�blica. &nbsp;",
+      "tags": [
+        "adolescente",
+        "comparecendo",
+        "qualquer",
+        "responsvel",
+        "prontamente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_175",
+      "number": "175",
+      "title": "Em caso de n�o libera��o, a autoridade policial encaminhar�,",
+      "text": "Art. 175. Em caso de n�o libera��o, a autoridade policial encaminhar�, desde logo, o adolescente ao representante do Minist�rio P�blico, juntamente com c�pia do auto de apreens�o ou boletim de ocorr�ncia. � 1� Sendo imposs�vel a apresenta��o imediata, a autoridade policial encaminhar� o adolescente � entidade de atendimento, que far� a apresenta��o ao representante do Minist�rio P�blico no prazo de vinte e quatro horas. � 2� Nas localidades onde n�o houver entidade de atendimento, a apresenta��o far-se-� pela autoridade policial. � falta de reparti��o policial especializada, o adolescente aguardar� a apresenta��o em depend�ncia separada da destinada a maiores, n�o podendo, em qualquer hip�tese, exceder o prazo referido no par�grafo anterior. &nbsp;",
+      "tags": [
+        "policial",
+        "apresentao",
+        "autoridade",
+        "adolescente",
+        "encaminhar"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_176",
+      "number": "176",
+      "title": "Sendo o adolescente liberado, a autoridade policial encaminha",
+      "text": "Art. 176. Sendo o adolescente liberado, a autoridade policial encaminhar� imediatamente ao representante do Minist�rio P�blico c�pia do auto de apreens�o ou boletim de ocorr�ncia. &nbsp;",
+      "tags": [
+        "adolescente",
+        "liberado",
+        "autoridade",
+        "policial",
+        "encaminhar"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_177",
+      "number": "177",
+      "title": "Se, afastada a hip�tese de flagrante, houver ind�cios de part",
+      "text": "Art. 177. Se, afastada a hip�tese de flagrante, houver ind�cios de participa��o de adolescente na pr�tica de ato infracional, a autoridade policial encaminhar� ao representante do Minist�rio P�blico relat�rio das investiga��es e demais documentos. &nbsp;",
+      "tags": [
+        "afastada",
+        "hiptese",
+        "flagrante",
+        "houver",
+        "indcios"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_178",
+      "number": "178",
+      "title": "O adolescente a quem se atribua autoria de ato infracional n�",
+      "text": "Art. 178. O adolescente a quem se atribua autoria de ato infracional n�o poder� ser conduzido ou transportado em compartimento fechado de ve�culo policial, em condi��es atentat�rias � sua dignidade, ou que impliquem risco � sua integridade f�sica ou mental, sob pena de responsabilidade. &nbsp;",
+      "tags": [
+        "adolescente",
+        "atribua",
+        "autoria",
+        "infracional",
+        "conduzido"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_179",
+      "number": "179",
+      "title": "Apresentado o adolescente, o representante do Minist�rio P�bl",
+      "text": "Art. 179. Apresentado o adolescente, o representante do Minist�rio P�blico, no mesmo dia e � vista do auto de apreens�o, boletim de ocorr�ncia ou relat�rio policial, devidamente autuados pelo cart�rio judicial e com informa��o sobre os antecedentes do adolescente, proceder� imediata e informalmente � sua oitiva e, em sendo poss�vel, de seus pais ou respons�vel, v�tima e testemunhas. Par�grafo �nico. Em caso de n�o apresenta��o, o representante do Minist�rio P�blico notificar� os pais ou respons�vel para apresenta��o do adolescente, podendo requisitar o concurso das pol�cias civil e militar. &nbsp;",
+      "tags": [
+        "adolescente",
+        "representante",
+        "ministrio",
+        "pblico",
+        "responsvel"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_180",
+      "number": "180",
+      "title": "Adotadas as provid�ncias a que alude o artigo anterior, o rep",
+      "text": "Art. 180. Adotadas as provid�ncias a que alude o artigo anterior, o representante do Minist�rio P�blico poder�: I - promover o arquivamento dos autos; II - conceder a remiss�o; III - representar � autoridade judici�ria para aplica��o de medida s�cio-educativa. &nbsp;",
+      "tags": [
+        "adotadas",
+        "providncias",
+        "artigo",
+        "anterior",
+        "representante"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_181",
+      "number": "181",
+      "title": "Promovido o arquivamento dos autos ou concedida a remiss�o pe",
+      "text": "Art. 181. Promovido o arquivamento dos autos ou concedida a remiss�o pelo representante do Minist�rio P�blico, mediante termo fundamentado, que conter� o resumo dos fatos, os autos ser�o conclusos � autoridade judici�ria para homologa��o. � 1� Homologado o arquivamento ou a remiss�o, a autoridade judici�ria determinar�, conforme o caso, o cumprimento da medida. � 2� Discordando, a autoridade judici�ria far� remessa dos autos ao Procurador-Geral de Justi�a, mediante despacho fundamentado, e este oferecer� representa��o, designar� outro membro do Minist�rio P�blico para apresent�-la, ou ratificar� o arquivamento ou a remiss�o, que s� ent�o estar� a autoridade judici�ria obrigada a homologar. &nbsp;",
+      "tags": [
+        "autoridade",
+        "judiciria",
+        "arquivamento",
+        "remisso",
+        "ministrio"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_182",
+      "number": "182",
+      "title": "Se, por qualquer raz�o, o representante do Minist�rio P�blico",
+      "text": "Art. 182. Se, por qualquer raz�o, o representante do Minist�rio P�blico n�o promover o arquivamento ou conceder a remiss�o, oferecer� representa��o � autoridade judici�ria, propondo a instaura��o de procedimento para aplica��o da medida s�cio-educativa que se afigurar a mais adequada. � 1� A representa��o ser� oferecida por peti��o, que conter� o breve resumo dos fatos e a classifica��o do ato infracional e, quando necess�rio, o rol de testemunhas, podendo ser deduzida oralmente, em sess�o di�ria instalada pela autoridade judici�ria. � 2� A representa��o independe de prova pr�-constitu�da da autoria e materialidade. &nbsp;",
+      "tags": [
+        "representao",
+        "autoridade",
+        "judiciria",
+        "qualquer",
+        "representante"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_183",
+      "number": "183",
+      "title": "O prazo m�ximo e improrrog�vel para a conclus�o do procedimen",
+      "text": "Art. 183. O prazo m�ximo e improrrog�vel para a conclus�o do procedimento, estando o adolescente internado provisoriamente, ser� de quarenta e cinco dias. &nbsp;",
+      "tags": [
+        "improrrogvel",
+        "concluso",
+        "procedimento",
+        "estando",
+        "adolescente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_184",
+      "number": "184",
+      "title": "Oferecida a representa��o, a autoridade judici�ria designar�",
+      "text": "Art. 184. Oferecida a representa��o, a autoridade judici�ria designar� audi�ncia de apresenta��o do adolescente, decidindo, desde logo, sobre a decreta��o ou manuten��o da interna��o, observado o disposto no art. 108 e par�grafo. � 1� O adolescente e seus pais ou respons�vel ser�o cientificados do teor da representa��o, e notificados a comparecer � audi�ncia, acompanhados de advogado. � 2� Se os pais ou respons�vel n�o forem localizados, a autoridade judici�ria dar� curador especial ao adolescente. � 3� N�o sendo localizado o adolescente, a autoridade judici�ria expedir� mandado de busca e apreens�o, determinando o sobrestamento do feito, at� a efetiva apresenta��o. � 4� Estando o adolescente internado, ser� requisitada a sua apresenta��o, sem preju�zo da notifica��o dos pais ou respons�vel. &nbsp;",
+      "tags": [
+        "adolescente",
+        "autoridade",
+        "judiciria",
+        "apresentao",
+        "responsvel"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_185",
+      "number": "185",
+      "title": "A interna��o, decretada ou mantida pela autoridade judici�ria",
+      "text": "Art. 185. A interna��o, decretada ou mantida pela autoridade judici�ria, n�o poder� ser cumprida em estabelecimento prisional. � 1� Inexistindo na comarca entidade com as caracter�sticas definidas no art. 123, o adolescente dever� ser imediatamente transferido para a localidade mais pr�xima. � 2� Sendo imposs�vel a pronta transfer�ncia, o adolescente aguardar� sua remo��o em reparti��o policial, desde que em se��o isolada dos adultos e com instala��es apropriadas, n�o podendo ultrapassar o prazo m�ximo de cinco dias, sob pena de responsabilidade. &nbsp;",
+      "tags": [
+        "adolescente",
+        "internao",
+        "decretada",
+        "mantida",
+        "autoridade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_186",
+      "number": "186",
+      "title": "Comparecendo o adolescente, seus pais ou respons�vel, a autor",
+      "text": "Art. 186. Comparecendo o adolescente, seus pais ou respons�vel, a autoridade judici�ria proceder� � oitiva dos mesmos, podendo solicitar opini�o de profissional qualificado. � 1� Se a autoridade judici�ria entender adequada a remiss�o, ouvir� o representante do Minist�rio P�blico, proferindo decis�o. � 2� Sendo o fato grave, pass�vel de aplica��o de medida de interna��o ou coloca��o em regime de semi-liberdade, a autoridade judici�ria, verificando que o adolescente n�o possui advogado constitu�do, nomear� defensor, designando, desde logo, audi�ncia em continua��o, podendo determinar a realiza��o de dilig�ncias e estudo do caso. � 3� O advogado constitu�do ou o defensor nomeado, no prazo de tr�s dias contado da audi�ncia de apresenta��o, oferecer� defesa pr�via e rol de testemunhas. � 4� Na audi�ncia em continua��o, ouvidas as testemunhas arroladas na representa��o e na defesa pr�via, cumpridas as dilig�ncias e juntado o relat�rio da equipe interprofissional, ser� dada a palavra ao representante do Minist�rio P�blico e ao defensor, sucessivamente, pelo tempo de vinte minutos para cada um, prorrog�vel por mais dez, a crit�rio da autoridade judici�ria, que em seguida proferir� decis�o...",
+      "tags": [
+        "autoridade",
+        "judiciria",
+        "defensor",
+        "audincia",
+        "adolescente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_187",
+      "number": "187",
+      "title": "Se o adolescente, devidamente notificado, n�o comparecer, inj",
+      "text": "Art. 187. Se o adolescente, devidamente notificado, n�o comparecer, injustificadamente � audi�ncia de apresenta��o, a autoridade judici�ria designar� nova data, determinando sua condu��o coercitiva. &nbsp;",
+      "tags": [
+        "adolescente",
+        "devidamente",
+        "notificado",
+        "comparecer",
+        "injustificadamente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_188",
+      "number": "188",
+      "title": "A remiss�o, como forma de extin��o ou suspens�o do processo,",
+      "text": "Art. 188. A remiss�o, como forma de extin��o ou suspens�o do processo, poder� ser aplicada em qualquer fase do procedimento, antes da senten�a. &nbsp;",
+      "tags": [
+        "remisso",
+        "extino",
+        "suspenso",
+        "processo",
+        "aplicada"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_189",
+      "number": "189",
+      "title": "A autoridade judici�ria n�o aplicar� qualquer medida, desde q",
+      "text": "Art. 189. A autoridade judici�ria n�o aplicar� qualquer medida, desde que reconhe�a na senten�a: I - estar provada a inexist�ncia do fato; II - n�o haver prova da exist�ncia do fato; III - n�o constituir o fato ato infracional; IV - n�o existir prova de ter o adolescente concorrido para o ato infracional. Par�grafo �nico. Na hip�tese deste artigo, estando o adolescente internado, ser� imediatamente colocado em liberdade. &nbsp;",
+      "tags": [
+        "infracional",
+        "adolescente",
+        "autoridade",
+        "judiciria",
+        "aplicar"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_190",
+      "number": "190",
+      "title": "A intima��o da senten�a que aplicar medida de interna��o ou r",
+      "text": "Art. 190. A intima��o da senten�a que aplicar medida de interna��o ou regime de semi-liberdade ser� feita: I - ao adolescente e ao seu defensor; II - quando n�o for encontrado o adolescente, a seus pais ou respons�vel, sem preju�zo do defensor. � 1� Sendo outra a medida aplicada, a intima��o far-se-� unicamente na pessoa do defensor. � 2� Recaindo a intima��o na pessoa do adolescente, dever� este manifestar se deseja ou n�o recorrer da senten�a. Se��o V-A (Inclu�do pela Lei n� 13.441, de 2017) Da Infiltra��o de Agentes de Pol�cia para a Investiga��o de Crimes contra a Dignidade Sexual de Crian�a e de Adolescente� &nbsp;",
+      "tags": [
+        "adolescente",
+        "intimao",
+        "defensor",
+        "sentena",
+        "medida"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_191",
+      "number": "191",
+      "title": "O procedimento de apura��o de irregularidades em entidade gov",
+      "text": "Art. 191. O procedimento de apura��o de irregularidades em entidade governamental e n�o-governamental ter� in�cio mediante portaria da autoridade judici�ria ou representa��o do Minist�rio P�blico ou do Conselho Tutelar, onde conste, necessariamente, resumo dos fatos. Par�grafo �nico. Havendo motivo grave, poder� a autoridade judici�ria, ouvido o Minist�rio P�blico, decretar liminarmente o afastamento provis�rio do dirigente da entidade, mediante decis�o fundamentada. &nbsp;",
+      "tags": [
+        "entidade",
+        "mediante",
+        "autoridade",
+        "judiciria",
+        "ministrio"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_192",
+      "number": "192",
+      "title": "O dirigente da entidade ser� citado para, no prazo de dez dia",
+      "text": "Art. 192. O dirigente da entidade ser� citado para, no prazo de dez dias, oferecer resposta escrita, podendo juntar documentos e indicar as provas a produzir. &nbsp;",
+      "tags": [
+        "dirigente",
+        "entidade",
+        "citado",
+        "oferecer",
+        "resposta"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_193",
+      "number": "193",
+      "title": "Apresentada ou n�o a resposta, e sendo necess�rio, a autorida",
+      "text": "Art. 193. Apresentada ou n�o a resposta, e sendo necess�rio, a autoridade judici�ria designar� audi�ncia de instru��o e julgamento, intimando as partes. � 1� Salvo manifesta��o em audi�ncia, as partes e o Minist�rio P�blico ter�o cinco dias para oferecer alega��es finais, decidindo a autoridade judici�ria em igual prazo. � 2� Em se tratando de afastamento provis�rio ou definitivo de dirigente de entidade governamental, a autoridade judici�ria oficiar� � autoridade administrativa imediatamente superior ao afastado, marcando prazo para a substitui��o. � 3� Antes de aplicar qualquer das medidas, a autoridade judici�ria poder� fixar prazo para a remo��o das irregularidades verificadas. Satisfeitas as exig�ncias, o processo ser� extinto, sem julgamento de m�rito. � 4� A multa e a advert�ncia ser�o impostas ao dirigente da entidade ou programa de atendimento. Se��o VII Da Apura��o de Infra��o Administrativa �s Normas de Prote��o � Crian�a e ao Adolescente &nbsp;",
+      "tags": [
+        "autoridade",
+        "judiciria",
+        "audincia",
+        "julgamento",
+        "partes"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_194",
+      "number": "194",
+      "title": "O procedimento para imposi��o de penalidade administrativa po",
+      "text": "Art. 194. O procedimento para imposi��o de penalidade administrativa por infra��o �s normas de prote��o � crian�a e ao adolescente ter� in�cio por representa��o do Minist�rio P�blico, ou do Conselho Tutelar, ou auto de infra��o elaborado por servidor efetivo ou volunt�rio credenciado, e assinado por duas testemunhas, se poss�vel. � 1� No procedimento iniciado com o auto de infra��o, poder�o ser usadas f�rmulas impressas, especificando-se a natureza e as circunst�ncias da infra��o. � 2� Sempre que poss�vel, � verifica��o da infra��o seguir-se-� a lavratura do auto, certificando-se, em caso contr�rio, dos motivos do retardamento. &nbsp;",
+      "tags": [
+        "infrao",
+        "procedimento",
+        "possvel",
+        "imposio",
+        "penalidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_195",
+      "number": "195",
+      "title": "O requerido ter� prazo de dez dias para apresenta��o de defes",
+      "text": "Art. 195. O requerido ter� prazo de dez dias para apresenta��o de defesa, contado da data da intima��o, que ser� feita: I - pelo autuante, no pr�prio auto, quando este for lavrado na presen�a do requerido; II - por oficial de justi�a ou funcion�rio legalmente habilitado, que entregar� c�pia do auto ou da representa��o ao requerido, ou a seu representante legal, lavrando certid�o; III - por via postal, com aviso de recebimento, se n�o for encontrado o requerido ou seu representante legal; IV - por edital, com prazo de trinta dias, se incerto ou n�o sabido o paradeiro do requerido ou de seu representante legal. &nbsp;",
+      "tags": [
+        "requerido",
+        "representante",
+        "apresentao",
+        "defesa",
+        "contado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_196",
+      "number": "196",
+      "title": "N�o sendo apresentada a defesa no prazo legal, a autoridade j",
+      "text": "Art. 196. N�o sendo apresentada a defesa no prazo legal, a autoridade judici�ria dar� vista dos autos do Minist�rio P�blico, por cinco dias, decidindo em igual prazo. &nbsp;",
+      "tags": [
+        "apresentada",
+        "defesa",
+        "autoridade",
+        "judiciria",
+        "ministrio"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_197",
+      "number": "197",
+      "title": "Apresentada a defesa, a autoridade judici�ria proceder� na co",
+      "text": "Art. 197. Apresentada a defesa, a autoridade judici�ria proceder� na conformidade do artigo anterior, ou, sendo necess�rio, designar� audi�ncia de instru��o e julgamento. (Inclu�do pela Lei n� 12.010, de 2009) Vig�ncia Par�grafo �nico. Colhida a prova oral, manifestar-se-�o sucessivamente o Minist�rio P�blico e o procurador do requerido, pelo tempo de vinte minutos para cada um, prorrog�vel por mais dez, a crit�rio da autoridade judici�ria, que em seguida proferir� senten�a. Se��o VIII (Inclu�da pela Lei n� 12.010, de 2009) Vig�ncia Da Habilita��o de Pretendentes � Ado��o &nbsp;",
+      "tags": [
+        "autoridade",
+        "judiciria",
+        "vigncia",
+        "apresentada",
+        "defesa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_198",
+      "number": "198",
+      "title": "Nos procedimentos afetos � Justi�a da Inf�ncia e da Juventude",
+      "text": "Art. 198. Nos procedimentos afetos � Justi�a da Inf�ncia e da Juventude fica adotado o sistema recursal do C�digo de Processo Civil, aprovado pela Lei n.� 5.869, de 11 de janeiro de 1973 , e suas altera��es posteriores, com as seguintes adapta��es: &nbsp;",
+      "tags": [
+        "procedimentos",
+        "afetos",
+        "justia",
+        "infncia",
+        "juventude"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_199",
+      "number": "199",
+      "title": "Contra as decis�es proferidas com base no art",
+      "text": "Art. 199. Contra as decis�es proferidas com base no art. 149 caber� recurso de apela��o. &nbsp;",
+      "tags": [
+        "contra",
+        "decises",
+        "proferidas",
+        "recurso",
+        "apelao"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_200",
+      "number": "200",
+      "title": "As fun��es do Minist�rio P�blico previstas nesta Lei ser�o ex",
+      "text": "Art. 200. As fun��es do Minist�rio P�blico previstas nesta Lei ser�o exercidas nos termos da respectiva lei org�nica. &nbsp;",
+      "tags": [
+        "ministrio",
+        "pblico",
+        "previstas",
+        "exercidas",
+        "termos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_201",
+      "number": "201",
+      "title": "Compete ao Minist�rio P�blico",
+      "text": "Art. 201. Compete ao Minist�rio P�blico: I - conceder a remiss�o como forma de exclus�o do processo; II - promover e acompanhar os procedimentos relativos �s infra��es atribu�das a adolescentes; III - promover e acompanhar as a��es de alimentos e os procedimentos de suspens�o e destitui��o do p�trio poder poder familiar , nomea��o e remo��o de tutores, curadores e guardi�es, bem como oficiar em todos os demais procedimentos da compet�ncia da Justi�a da Inf�ncia e da Juventude; (Express�o substitu�da pela Lei n� 12.010, de 2009) Vig�ncia IV - promover, de of�cio ou por solicita��o dos interessados, a especializa��o e a inscri��o de hipoteca legal e a presta��o de contas dos tutores, curadores e quaisquer administradores de bens de crian�as e adolescentes nas hip�teses do art. 98; V - promover o inqu�rito civil e a a��o civil p�blica para a prote��o dos interesses individuais, difusos ou coletivos relativos � inf�ncia e � adolesc�ncia, inclusive os definidos no art. 220, � 3� inciso II, da Constitui��o Federal ; VI - instaurar procedimentos administrativos e, para instru�-los: a) expedir notifica��es para colher depoimentos ou esclarecimentos e, em caso de n�o comparecimento injustif...",
+      "tags": [
+        "promover",
+        "procedimentos",
+        "acompanhar",
+        "relativos",
+        "adolescentes"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_202",
+      "number": "202",
+      "title": "Nos processos e procedimentos em que n�o for parte, atuar� ob",
+      "text": "Art. 202. Nos processos e procedimentos em que n�o for parte, atuar� obrigatoriamente o Minist�rio P�blico na defesa dos direitos e interesses de que cuida esta Lei, hip�tese em que ter� vista dos autos depois das partes, podendo juntar documentos e requerer dilig�ncias, usando os recursos cab�veis. &nbsp;",
+      "tags": [
+        "processos",
+        "procedimentos",
+        "obrigatoriamente",
+        "ministrio",
+        "pblico"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_203",
+      "number": "203",
+      "title": "A intima��o do Minist�rio P�blico, em qualquer caso, ser� fei",
+      "text": "Art. 203. A intima��o do Minist�rio P�blico, em qualquer caso, ser� feita pessoalmente. &nbsp;",
+      "tags": [
+        "intimao",
+        "ministrio",
+        "pblico",
+        "qualquer",
+        "pessoalmente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_204",
+      "number": "204",
+      "title": "A falta de interven��o do Minist�rio P�blico acarreta a nulid",
+      "text": "Art. 204. A falta de interven��o do Minist�rio P�blico acarreta a nulidade do feito, que ser� declarada de of�cio pelo juiz ou a requerimento de qualquer interessado. &nbsp;",
+      "tags": [
+        "interveno",
+        "ministrio",
+        "pblico",
+        "acarreta",
+        "nulidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_205",
+      "number": "205",
+      "title": "As manifesta��es processuais do representante do Minist�rio P",
+      "text": "Art. 205. As manifesta��es processuais do representante do Minist�rio P�blico dever�o ser fundamentadas. Cap�tulo VI Do Advogado &nbsp;",
+      "tags": [
+        "manifestaes",
+        "processuais",
+        "representante",
+        "ministrio",
+        "pblico"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_206",
+      "number": "206",
+      "title": "A crian�a ou o adolescente, seus pais ou respons�vel, e qualq",
+      "text": "Art. 206. A crian�a ou o adolescente, seus pais ou respons�vel, e qualquer pessoa que tenha leg�timo interesse na solu��o da lide poder�o intervir nos procedimentos de que trata esta Lei, atrav�s de advogado, o qual ser� intimado para todos os atos, pessoalmente ou por publica��o oficial, respeitado o segredo de justi�a. Par�grafo �nico. Ser� prestada assist�ncia judici�ria integral e gratuita �queles que dela necessitarem. &nbsp;",
+      "tags": [
+        "criana",
+        "adolescente",
+        "responsvel",
+        "qualquer",
+        "pessoa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "eca_207",
+      "number": "207",
+      "title": "Nenhum adolescente a quem se atribua a pr�tica de ato infraci",
+      "text": "Art. 207. Nenhum adolescente a quem se atribua a pr�tica de ato infracional, ainda que ausente ou foragido, serᠠ�� processado sem defensor. � 1� Se o adolescente n�o tiver defensor, ser-lhe-� nomeado pelo juiz, ressalvado o direito de, a todo tempo, constituir outro de sua prefer�ncia. � 2� A aus�ncia do defensor n�o determinar� o adiamento de nenhum ato do processo, devendo o juiz nomear substituto, ainda que provisoriamente, ou para o s� efeito do ato. � 3� Ser� dispensada a outorga de mandato, quando se tratar de defensor nomeado ou, sido constitu�do, tiver sido indicado por ocasi�o de ato formal com a presen�a da autoridade judici�ria. Cap�tulo VII Da Prote��o Judicial dos Interesses Individuais, Difusos e Coletivos &nbsp;",
+      "tags": [
+        "defensor",
+        "nenhum",
+        "adolescente",
+        "nomeado",
+        "atribua"
+      ],
+      "relatedArticles": []
     }
   ]
 }

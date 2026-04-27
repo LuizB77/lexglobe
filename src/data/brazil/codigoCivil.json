@@ -7,50 +7,2787 @@
     {
       "id": "cc_1",
       "number": "1",
-      "title": "Personalidade Civil",
-      "text": "Toda pessoa é capaz de direitos e deveres na ordem civil.",
-      "tags": ["personalidade", "pessoa", "capacidade", "direitos", "deveres"],
-      "relatedArticles": ["cc_2", "cc_3", "cc_4"]
+      "title": "Artigo 1",
+      "text": "Art. 1 o Toda pessoa � capaz de direitos e deveres na ordem civil. Art. 2 o A personalidade civil da pessoa come�a do nascimento com vida; mas a lei p�e a salvo, desde a concep��o, os direitos do nascituro. Art. 3 o S�o absolutamente incapazes de exercer pessoalmente os atos da vida civil os menores de 16 (dezesseis) anos. (Reda��o dada pela Lei n� 13.146, de 2015) (Vig�ncia) I - (Revogado) ; (Reda��o dada pela Lei n� 13.146, de 2015) (Vig�ncia) II - (Revogado) ; (Reda��o dada pela Lei n� 13.146, de 2015) (Vig�ncia) III - (Revogado) . (Reda��o dada pela Lei n� 13.146, de 2015) (Vig�ncia) Art. 4 o S�o incapazes, relativamente a certos atos ou � maneira de os exercer: (Reda��o dada pela Lei n� 13.146, de 2015) (Vig�ncia) I - os maiores de dezesseis e menores de dezoito anos; II - os �brios habituais e os viciados em t�xico; (Reda��o dada pela Lei n� 13.146, de 2015) (Vig�ncia) III - aqueles que, por causa transit�ria ou permanente, n�o puderem exprimir sua vontade; (Reda��o dada pela Lei n� 13.146, de 2015) (Vig�ncia) IV - os pr�digos. Par�grafo �nico. �A capacidade dos ind�genas ser� regulada por legisla��o especial. (Reda��o dada pela Lei n� 13.146, de 2015) (Vig�ncia) Art. 5 o A m...",
+      "tags": [
+        "vigncia",
+        "revogado",
+        "pessoa",
+        "direitos",
+        "incapazes"
+      ],
+      "relatedArticles": []
     },
     {
-      "id": "cc_2",
-      "number": "2",
-      "title": "Início da Personalidade",
-      "text": "A personalidade civil da pessoa começa do nascimento com vida; mas a lei põe a salvo, desde a concepção, os direitos do nascituro.",
-      "tags": ["nascimento", "vida", "nascituro", "concepção", "personalidade"],
-      "relatedArticles": ["cc_1", "cc_3"]
+      "id": "cc_10",
+      "number": "10",
+      "title": "Far-se-� averba��o em registro p�blico",
+      "text": "Art. 10. Far-se-� averba��o em registro p�blico: I - das senten�as que decretarem a nulidade ou anula��o do casamento, o div�rcio, a separa��o judicial e o restabelecimento da sociedade conjugal; II - dos atos judiciais ou extrajudiciais que declararem ou reconhecerem a filia��o; III - (Revogado pela Lei n� 12.010, de 2009) CAP�TULO II Dos Direitos da Personalidade",
+      "tags": [
+        "averbao",
+        "registro",
+        "pblico",
+        "sentenas",
+        "decretarem"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_11",
+      "number": "11",
+      "title": "Com exce��o dos casos previstos em lei, os direitos da person",
+      "text": "Art. 11. Com exce��o dos casos previstos em lei, os direitos da personalidade s�o intransmiss�veis e irrenunci�veis, n�o podendo o seu exerc�cio sofrer limita��o volunt�ria.",
+      "tags": [
+        "previstos",
+        "direitos",
+        "personalidade",
+        "intransmissveis",
+        "irrenunciveis"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_12",
+      "number": "12",
+      "title": "Pode-se exigir que cesse a amea�a, ou a les�o, a direito da p",
+      "text": "Art. 12. Pode-se exigir que cesse a amea�a, ou a les�o, a direito da personalidade, e reclamar perdas e danos, sem preju�zo de outras san��es previstas em lei. Par�grafo �nico. Em se tratando de morto, ter� legitima��o para requerer a medida prevista neste artigo o c�njuge sobrevivente, ou qualquer parente em linha reta, ou colateral at� o quarto grau.",
+      "tags": [
+        "podese",
+        "exigir",
+        "direito",
+        "personalidade",
+        "reclamar"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_13",
+      "number": "13",
+      "title": "Salvo por exig�ncia m�dica, � defeso o ato de disposi��o do p",
+      "text": "Art. 13. Salvo por exig�ncia m�dica, � defeso o ato de disposi��o do pr�prio corpo, quando importar diminui��o permanente da integridade f�sica, ou contrariar os bons costumes. Par�grafo �nico. O ato previsto neste artigo ser� admitido para fins de transplante, na forma estabelecida em lei especial.",
+      "tags": [
+        "exigncia",
+        "defeso",
+        "disposio",
+        "prprio",
+        "quando"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_14",
+      "number": "14",
+      "title": "Artigo 14",
+      "text": "Art. 14. � v�lida, com objetivo cient�fico, ou altru�stico, a disposi��o gratuita do pr�prio corpo, no todo ou em parte, para depois da morte. Par�grafo �nico. O ato de disposi��o pode ser livremente revogado a qualquer tempo.",
+      "tags": [
+        "disposio",
+        "objetivo",
+        "cientfico",
+        "altrustico",
+        "gratuita"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_15",
+      "number": "15",
+      "title": "Ningu�m pode ser constrangido a submeter-se, com risco de vid",
+      "text": "Art. 15. Ningu�m pode ser constrangido a submeter-se, com risco de vida, a tratamento m�dico ou a interven��o cir�rgica.",
+      "tags": [
+        "ningum",
+        "constrangido",
+        "submeterse",
+        "tratamento",
+        "interveno"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_16",
+      "number": "16",
+      "title": "Toda pessoa tem direito ao nome, nele compreendidos o prenome",
+      "text": "Art. 16. Toda pessoa tem direito ao nome, nele compreendidos o prenome e o sobrenome.",
+      "tags": [
+        "pessoa",
+        "direito",
+        "compreendidos",
+        "prenome",
+        "sobrenome"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_17",
+      "number": "17",
+      "title": "O nome da pessoa n�o pode ser empregado por outrem em publica",
+      "text": "Art. 17. O nome da pessoa n�o pode ser empregado por outrem em publica��es ou representa��es que a exponham ao desprezo p�blico, ainda quando n�o haja inten��o difamat�ria.",
+      "tags": [
+        "pessoa",
+        "empregado",
+        "outrem",
+        "publicaes",
+        "representaes"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_18",
+      "number": "18",
+      "title": "Sem autoriza��o, n�o se pode usar o nome alheio em propaganda",
+      "text": "Art. 18. Sem autoriza��o, n�o se pode usar o nome alheio em propaganda comercial.",
+      "tags": [
+        "autorizao",
+        "alheio",
+        "propaganda",
+        "comercial"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_19",
+      "number": "19",
+      "title": "O pseud�nimo adotado para atividades l�citas goza da prote��o",
+      "text": "Art. 19. O pseud�nimo adotado para atividades l�citas goza da prote��o que se d� ao nome.",
+      "tags": [
+        "pseudnimo",
+        "adotado",
+        "atividades",
+        "lcitas",
+        "proteo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_20",
+      "number": "20",
+      "title": "Salvo se autorizadas, ou se necess�rias � administra��o da ju",
+      "text": "Art. 20. Salvo se autorizadas, ou se necess�rias � administra��o da justi�a ou � manuten��o da ordem p�blica, a divulga��o de escritos, a transmiss�o da palavra, ou a publica��o, a exposi��o ou a utiliza��o da imagem de uma pessoa poder�o ser proibidas, a seu requerimento e sem preju�zo da indeniza��o que couber, se lhe atingirem a honra, a boa fama ou a respeitabilidade, ou se se destinarem a fins comerciais. (Vide ADIN 4815) Par�grafo �nico. Em se tratando de morto ou de ausente, s�o partes leg�timas para requerer essa prote��o o c�njuge, os ascendentes ou os descendentes.",
+      "tags": [
+        "autorizadas",
+        "necessrias",
+        "administrao",
+        "justia",
+        "manuteno"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_21",
+      "number": "21",
+      "title": "A vida privada da pessoa natural � inviol�vel, e o juiz, a re",
+      "text": "Art. 21. A vida privada da pessoa natural � inviol�vel, e o juiz, a requerimento do interessado, adotar� as provid�ncias necess�rias para impedir ou fazer cessar ato contr�rio a esta norma. (Vide ADIN 4815) CAP�TULO III Da Aus�ncia Se��o I Da Curadoria dos Bens do Ausente",
+      "tags": [
+        "privada",
+        "pessoa",
+        "natural",
+        "inviolvel",
+        "requerimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_22",
+      "number": "22",
+      "title": "Desaparecendo uma pessoa do seu domic�lio sem dela haver not�",
+      "text": "Art. 22. Desaparecendo uma pessoa do seu domic�lio sem dela haver not�cia, se n�o houver deixado representante ou procurador a quem caiba administrar-lhe os bens, o juiz, a requerimento de qualquer interessado ou do Minist�rio P�blico, declarar� a aus�ncia, e nomear-lhe-� curador.",
+      "tags": [
+        "desaparecendo",
+        "pessoa",
+        "domiclio",
+        "notcia",
+        "houver"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_23",
+      "number": "23",
+      "title": "Tamb�m se declarar� a aus�ncia, e se nomear� curador, quando",
+      "text": "Art. 23. Tamb�m se declarar� a aus�ncia, e se nomear� curador, quando o ausente deixar mandat�rio que n�o queira ou n�o possa exercer ou continuar o mandato, ou se os seus poderes forem insuficientes.",
+      "tags": [
+        "declarar",
+        "ausncia",
+        "nomear",
+        "curador",
+        "quando"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_24",
+      "number": "24",
+      "title": "O juiz, que nomear o curador, fixar-lhe-� os poderes e obriga",
+      "text": "Art. 24. O juiz, que nomear o curador, fixar-lhe-� os poderes e obriga��es, conforme as circunst�ncias, observando, no que for aplic�vel, o disposto a respeito dos tutores e curadores.",
+      "tags": [
+        "nomear",
+        "curador",
+        "fixarlhe",
+        "poderes",
+        "obrigaes"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_25",
+      "number": "25",
+      "title": "O c�njuge do ausente, sempre que n�o esteja separado judicial",
+      "text": "Art. 25. O c�njuge do ausente, sempre que n�o esteja separado judicialmente, ou de fato por mais de dois anos antes da declara��o da aus�ncia, ser� o seu leg�timo curador. � 1 o Em falta do c�njuge, a curadoria dos bens do ausente incumbe aos pais ou aos descendentes, nesta ordem, n�o havendo impedimento que os iniba de exercer o cargo. � 2 o Entre os descendentes, os mais pr�ximos precedem os mais remotos. � 3 o Na falta das pessoas mencionadas, compete ao juiz a escolha do curador. Se��o II Da Sucess�o Provis�ria",
+      "tags": [
+        "cnjuge",
+        "ausente",
+        "curador",
+        "descendentes",
+        "sempre"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_26",
+      "number": "26",
+      "title": "Decorrido um ano da arrecada��o dos bens do ausente, ou, se e",
+      "text": "Art. 26. Decorrido um ano da arrecada��o dos bens do ausente, ou, se ele deixou representante ou procurador, em se passando tr�s anos, poder�o os interessados requerer que se declare a aus�ncia e se abra provisoriamente a sucess�o.",
+      "tags": [
+        "decorrido",
+        "arrecadao",
+        "ausente",
+        "deixou",
+        "representante"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_27",
+      "number": "27",
+      "title": "Para o efeito previsto no artigo anterior, somente se conside",
+      "text": "Art. 27. Para o efeito previsto no artigo anterior, somente se consideram interessados: I - o c�njuge n�o separado judicialmente; II - os herdeiros presumidos, leg�timos ou testament�rios; III - os que tiverem sobre os bens do ausente direito dependente de sua morte; IV - os credores de obriga��es vencidas e n�o pagas.",
+      "tags": [
+        "efeito",
+        "previsto",
+        "artigo",
+        "anterior",
+        "somente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_28",
+      "number": "28",
+      "title": "A senten�a que determinar a abertura da sucess�o provis�ria s",
+      "text": "Art. 28. A senten�a que determinar a abertura da sucess�o provis�ria s� produzir� efeito cento e oitenta dias depois de publicada pela imprensa; mas, logo que passe em julgado, proceder-se-� � abertura do testamento, se houver, e ao invent�rio e partilha dos bens, como se o ausente fosse falecido. � 1 o Findo o prazo a que se refere o art. 26, e n�o havendo interessados na sucess�o provis�ria, cumpre ao Minist�rio P�blico requer�-la ao ju�zo competente. � 2 o N�o comparecendo herdeiro ou interessado para requerer o invent�rio at� trinta dias depois de passar em julgado a senten�a que mandar abrir a sucess�o provis�ria, proceder-se-� � arrecada��o dos bens do ausente pela forma estabelecida nos arts. 1.819 a 1.823.",
+      "tags": [
+        "sucesso",
+        "provisria",
+        "sentena",
+        "abertura",
+        "depois"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_29",
+      "number": "29",
+      "title": "Antes da partilha, o juiz, quando julgar conveniente, ordenar",
+      "text": "Art. 29. Antes da partilha, o juiz, quando julgar conveniente, ordenar� a convers�o dos bens m�veis, sujeitos a deteriora��o ou a extravio, em im�veis ou em t�tulos garantidos pela Uni�o.",
+      "tags": [
+        "partilha",
+        "quando",
+        "julgar",
+        "conveniente",
+        "ordenar"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_30",
+      "number": "30",
+      "title": "Os herdeiros, para se imitirem na posse dos bens do ausente,",
+      "text": "Art. 30. Os herdeiros, para se imitirem na posse dos bens do ausente, dar�o garantias da restitui��o deles, mediante penhores ou hipotecas equivalentes aos quinh�es respectivos. � 1 o Aquele que tiver direito � posse provis�ria, mas n�o puder prestar a garantia exigida neste artigo, ser� exclu�do, mantendo-se os bens que lhe deviam caber sob a administra��o do curador, ou de outro herdeiro designado pelo juiz, e que preste essa garantia. � 2 o Os ascendentes, os descendentes e o c�njuge, uma vez provada a sua qualidade de herdeiros, poder�o, independentemente de garantia, entrar na posse dos bens do ausente.",
+      "tags": [
+        "garantia",
+        "herdeiros",
+        "ausente",
+        "imitirem",
+        "garantias"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_31",
+      "number": "31",
+      "title": "Os im�veis do ausente s� se poder�o alienar, n�o sendo por de",
+      "text": "Art. 31. Os im�veis do ausente s� se poder�o alienar, n�o sendo por desapropria��o, ou hipotecar, quando o ordene o juiz, para lhes evitar a ru�na.",
+      "tags": [
+        "imveis",
+        "ausente",
+        "podero",
+        "alienar",
+        "desapropriao"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_32",
+      "number": "32",
+      "title": "Empossados nos bens, os sucessores provis�rios ficar�o repres",
+      "text": "Art. 32. Empossados nos bens, os sucessores provis�rios ficar�o representando ativa e passivamente o ausente, de modo que contra eles correr�o as a��es pendentes e as que de futuro �quele forem movidas.",
+      "tags": [
+        "empossados",
+        "sucessores",
+        "provisrios",
+        "ficaro",
+        "representando"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_33",
+      "number": "33",
+      "title": "O descendente, ascendente ou c�njuge que for sucessor provis�",
+      "text": "Art. 33. O descendente, ascendente ou c�njuge que for sucessor provis�rio do ausente, far� seus todos os frutos e rendimentos dos bens que a este couberem; os outros sucessores, por�m, dever�o capitalizar metade desses frutos e rendimentos, segundo o disposto no art. 29, de acordo com o representante do Minist�rio P�blico, e prestar anualmente contas ao juiz competente. Par�grafo �nico. Se o ausente aparecer, e ficar provado que a aus�ncia foi volunt�ria e injustificada, perder� ele, em favor do sucessor, sua parte nos frutos e rendimentos.",
+      "tags": [
+        "frutos",
+        "rendimentos",
+        "sucessor",
+        "ausente",
+        "descendente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_34",
+      "number": "34",
+      "title": "O exclu�do, segundo o art",
+      "text": "Art. 34. O exclu�do, segundo o art. 30, da posse provis�ria poder�, justificando falta de meios, requerer lhe seja entregue metade dos rendimentos do quinh�o que lhe tocaria.",
+      "tags": [
+        "excludo",
+        "segundo",
+        "provisria",
+        "justificando",
+        "requerer"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_35",
+      "number": "35",
+      "title": "Se durante a posse provis�ria se provar a �poca exata do fale",
+      "text": "Art. 35. Se durante a posse provis�ria se provar a �poca exata do falecimento do ausente, considerar-se-�, nessa data, aberta a sucess�o em favor dos herdeiros, que o eram �quele tempo.",
+      "tags": [
+        "durante",
+        "provisria",
+        "provar",
+        "falecimento",
+        "ausente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_36",
+      "number": "36",
+      "title": "Se o ausente aparecer, ou se lhe provar a exist�ncia, depois",
+      "text": "Art. 36. Se o ausente aparecer, ou se lhe provar a exist�ncia, depois de estabelecida a posse provis�ria, cessar�o para logo as vantagens dos sucessores nela imitidos, ficando, todavia, obrigados a tomar as medidas assecurat�rias precisas, at� a entrega dos bens a seu dono. Se��o III Da Sucess�o Definitiva",
+      "tags": [
+        "ausente",
+        "aparecer",
+        "provar",
+        "existncia",
+        "depois"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_37",
+      "number": "37",
+      "title": "Dez anos depois de passada em julgado a senten�a que concede",
+      "text": "Art. 37. Dez anos depois de passada em julgado a senten�a que concede a abertura da sucess�o provis�ria, poder�o os interessados requerer a sucess�o definitiva e o levantamento das cau��es prestadas.",
+      "tags": [
+        "sucesso",
+        "depois",
+        "passada",
+        "julgado",
+        "sentena"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_38",
+      "number": "38",
+      "title": "Pode-se requerer a sucess�o definitiva, tamb�m, provando-se q",
+      "text": "Art. 38. Pode-se requerer a sucess�o definitiva, tamb�m, provando-se que o ausente conta oitenta anos de idade, e que de cinco datam as �ltimas not�cias dele.",
+      "tags": [
+        "podese",
+        "requerer",
+        "sucesso",
+        "definitiva",
+        "provandose"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_39",
+      "number": "39",
+      "title": "Regressando o ausente nos dez anos seguintes � abertura da su",
+      "text": "Art. 39. Regressando o ausente nos dez anos seguintes � abertura da sucess�o definitiva, ou algum de seus descendentes ou ascendentes, aquele ou estes haver�o s� os bens existentes no estado em que se acharem, os sub-rogados em seu lugar, ou o pre�o que os herdeiros e demais interessados houverem recebido pelos bens alienados depois daquele tempo. Par�grafo �nico. Se, nos dez anos a que se refere este artigo, o ausente n�o regressar, e nenhum interessado promover a sucess�o definitiva, os bens arrecadados passar�o ao dom�nio do Munic�pio ou do Distrito Federal, se localizados nas respectivas circunscri��es, incorporando-se ao dom�nio da Uni�o, quando situados em territ�rio federal. T�TULO II DAS PESSOAS JUR�DICAS CAP�TULO I Disposi��es Gerais",
+      "tags": [
+        "ausente",
+        "sucesso",
+        "definitiva",
+        "domnio",
+        "federal"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_40",
+      "number": "40",
+      "title": "As pessoas jur�dicas s�o de direito p�blico, interno ou exter",
+      "text": "Art. 40. As pessoas jur�dicas s�o de direito p�blico, interno ou externo, e de direito privado.",
+      "tags": [
+        "direito",
+        "pessoas",
+        "jurdicas",
+        "pblico",
+        "interno"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_41",
+      "number": "41",
+      "title": "S�o pessoas jur�dicas de direito p�blico interno",
+      "text": "Art. 41. S�o pessoas jur�dicas de direito p�blico interno: I - a Uni�o; II - os Estados, o Distrito Federal e os Territ�rios; III - os Munic�pios; IV - as autarquias, inclusive as associa��es p�blicas; (Reda��o dada pela Lei n� 11.107, de 2005) V - as demais entidades de car�ter p�blico criadas por lei. Par�grafo �nico. Salvo disposi��o em contr�rio, as pessoas jur�dicas de direito p�blico, a que se tenha dado estrutura de direito privado, regem-se, no que couber, quanto ao seu funcionamento, pelas normas deste C�digo.",
+      "tags": [
+        "direito",
+        "pblico",
+        "pessoas",
+        "jurdicas",
+        "interno"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_42",
+      "number": "42",
+      "title": "S�o pessoas jur�dicas de direito p�blico externo os Estados e",
+      "text": "Art. 42. S�o pessoas jur�dicas de direito p�blico externo os Estados estrangeiros e todas as pessoas que forem regidas pelo direito internacional p�blico.",
+      "tags": [
+        "pessoas",
+        "direito",
+        "pblico",
+        "jurdicas",
+        "externo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_43",
+      "number": "43",
+      "title": "As pessoas jur�dicas de direito p�blico interno s�o civilment",
+      "text": "Art. 43. As pessoas jur�dicas de direito p�blico interno s�o civilmente respons�veis por atos dos seus agentes que nessa qualidade causem danos a terceiros, ressalvado direito regressivo contra os causadores do dano, se houver, por parte destes, culpa ou dolo.",
+      "tags": [
+        "direito",
+        "pessoas",
+        "jurdicas",
+        "pblico",
+        "interno"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_44",
+      "number": "44",
+      "title": "S�o pessoas jur�dicas de direito privado",
+      "text": "Art. 44. S�o pessoas jur�dicas de direito privado: I - as associa��es; II - as sociedades; III - as funda��es. IV - as organiza��es religiosas; (Inclu�do pela Lei n� 10.825, de 22.12.2003) V - os partidos pol�ticos. (Inclu�do pela Lei n� 10.825, de 22.12.2003) VI - (Revogado pela Lei n� 14.382, de 2022) VII - os empreendimentos de economia solid�ria.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Reda��o dada pela Lei n� 15.068, de 2024) � 1� S�o livres a cria��o, a organiza��o, a estrutura��o interna e o funcionamento das organiza��es religiosas, sendo vedado ao poder p�blico negar-lhes reconhecimento ou registro dos atos constitutivos e necess�rios ao seu funcionamento. (Inclu�do pela Lei n� 10.825, de 22.12.2003) � 2� As disposi��es concernentes �s associa��es aplicam-se subsidiariamente aos empreendimentos de economia solid�ria e �s sociedades que s�o objeto do Livro II da Parte Especial deste C�digo.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Reda��o dada pela Lei n� 15.068, de 2024) � 3� Os partidos pol�ticos ser�o organizados e funcionar�o conforme o disposto em lei espec�fica. (Inclu�do pela Lei n� 10.825, de 22.12.2003)",
+      "tags": [
+        "includo",
+        "associaes",
+        "sociedades",
+        "organizaes",
+        "religiosas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_45",
+      "number": "45",
+      "title": "Come�a a exist�ncia legal das pessoas jur�dicas de direito pr",
+      "text": "Art. 45. Come�a a exist�ncia legal das pessoas jur�dicas de direito privado com a inscri��o do ato constitutivo no respectivo registro, precedida, quando necess�rio, de autoriza��o ou aprova��o do Poder Executivo, averbando-se no registro todas as altera��es por que passar o ato constitutivo. Par�grafo �nico. Decai em tr�s anos o direito de anular a constitui��o das pessoas jur�dicas de direito privado, por defeito do ato respectivo, contado o prazo da publica��o de sua inscri��o no registro.",
+      "tags": [
+        "direito",
+        "registro",
+        "pessoas",
+        "jurdicas",
+        "privado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_46",
+      "number": "46",
+      "title": "O registro declarar�",
+      "text": "Art. 46. O registro declarar�: I - a denomina��o, os fins, a sede, o tempo de dura��o e o fundo social, quando houver; II - o nome e a individualiza��o dos fundadores ou instituidores, e dos diretores; III - o modo por que se administra e representa, ativa e passivamente, judicial e extrajudicialmente; IV - se o ato constitutivo � reform�vel no tocante � administra��o, e de que modo; V - se os membros respondem, ou n�o, subsidiariamente, pelas obriga��es sociais; VI - as condi��es de extin��o da pessoa jur�dica e o destino do seu patrim�nio, nesse caso.",
+      "tags": [
+        "registro",
+        "declarar",
+        "denominao",
+        "social",
+        "quando"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_47",
+      "number": "47",
+      "title": "Obrigam a pessoa jur�dica os atos dos administradores, exerci",
+      "text": "Art. 47. Obrigam a pessoa jur�dica os atos dos administradores, exercidos nos limites de seus poderes definidos no ato constitutivo.",
+      "tags": [
+        "obrigam",
+        "pessoa",
+        "jurdica",
+        "administradores",
+        "exercidos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_48",
+      "number": "48",
+      "title": "Se a pessoa jur�dica tiver administra��o coletiva, as decis�e",
+      "text": "Art. 48. Se a pessoa jur�dica tiver administra��o coletiva, as decis�es se tomar�o pela maioria de votos dos presentes, salvo se o ato constitutivo dispuser de modo diverso. Par�grafo �nico. Decai em tr�s anos o direito de anular as decis�es a que se refere este artigo, quando violarem a lei ou estatuto, ou forem eivadas de erro, dolo, simula��o ou fraude.",
+      "tags": [
+        "decises",
+        "pessoa",
+        "jurdica",
+        "administrao",
+        "coletiva"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_49",
+      "number": "49",
+      "title": "Se a administra��o da pessoa jur�dica vier a faltar, o juiz,",
+      "text": "Art. 49. Se a administra��o da pessoa jur�dica vier a faltar, o juiz, a requerimento de qualquer interessado, nomear-lhe-� administrador provis�rio.",
+      "tags": [
+        "administrao",
+        "pessoa",
+        "jurdica",
+        "faltar",
+        "requerimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_50",
+      "number": "50",
+      "title": "Artigo 50",
+      "text": "Art. 50. �Em caso de abuso da personalidade jur�dica, caracterizado pelo desvio de finalidade ou pela confus�o patrimonial, pode o juiz, a requerimento da parte, ou do Minist�rio P�blico quando lhe couber intervir no processo, desconsider�-la para que os efeitos de certas e determinadas rela��es de obriga��es sejam estendidos aos bens particulares de administradores ou de s�cios da pessoa jur�dica beneficiados direta ou indiretamente pelo abuso. (Reda��o dada pela Lei n� 13.874, de 2019) � 1� �Para os fins do disposto neste artigo, desvio de finalidade � a utiliza��o da pessoa jur�dica com o prop�sito de lesar credores e para a pr�tica de atos il�citos de qualquer natureza. (Inclu�do pela Lei n� 13.874, de 2019) � 2� Entende-se por confus�o patrimonial a aus�ncia de separa��o de fato entre os patrim�nios, caracterizada por: (Inclu�do pela Lei n� 13.874, de 2019) I - cumprimento repetitivo pela sociedade de obriga��es do s�cio ou do administrador ou vice-versa; (Inclu�do pela Lei n� 13.874, de 2019) II - transfer�ncia de ativos ou de passivos sem efetivas contrapresta��es, exceto os de valor proporcionalmente insignificante; e (Inclu�do pela Lei n� 13.874, de 2019) III - outros atos...",
+      "tags": [
+        "includo",
+        "jurdica",
+        "desvio",
+        "finalidade",
+        "confuso"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_51",
+      "number": "51",
+      "title": "Nos casos de dissolu��o da pessoa jur�dica ou cassada a autor",
+      "text": "Art. 51. Nos casos de dissolu��o da pessoa jur�dica ou cassada a autoriza��o para seu funcionamento, ela subsistir� para os fins de liquida��o, at� que esta se conclua. � 1� Far-se-�, no registro onde a pessoa jur�dica estiver inscrita, a averba��o de sua dissolu��o. � 2� As disposi��es para a liquida��o das sociedades aplicam-se, no que couber, �s demais pessoas jur�dicas de direito privado. � 3� Encerrada a liquida��o, promover-se-� o cancelamento da inscri��o da pessoa jur�dica.",
+      "tags": [
+        "pessoa",
+        "jurdica",
+        "liquidao",
+        "dissoluo",
+        "cassada"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_52",
+      "number": "52",
+      "title": "Aplica-se �s pessoas jur�dicas, no que couber, a prote��o dos",
+      "text": "Art. 52. Aplica-se �s pessoas jur�dicas, no que couber, a prote��o dos direitos da personalidade. CAP�TULO II DAS ASSOCIA��ES",
+      "tags": [
+        "aplicase",
+        "pessoas",
+        "jurdicas",
+        "couber",
+        "proteo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_53",
+      "number": "53",
+      "title": "Constituem-se as associa��es pela uni�o de pessoas que se org",
+      "text": "Art. 53. Constituem-se as associa��es pela uni�o de pessoas que se organizem para fins n�o econ�micos. Par�grafo �nico. N�o h�, entre os associados, direitos e obriga��es rec�procos.",
+      "tags": [
+        "constituemse",
+        "associaes",
+        "pessoas",
+        "organizem",
+        "econmicos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_54",
+      "number": "54",
+      "title": "Sob pena de nulidade, o estatuto das associa��es conter�",
+      "text": "Art. 54. Sob pena de nulidade, o estatuto das associa��es conter�: I - a denomina��o, os fins e a sede da associa��o; II - os requisitos para a admiss�o, demiss�o e exclus�o dos associados; III - os direitos e deveres dos associados; IV - as fontes de recursos para sua manuten��o; V � o modo de constitui��o e de funcionamento dos �rg�os deliberativos; (Reda��o dada pela Lei n� 11.127, de 2005) VI - as condi��es para a altera��o das disposi��es estatut�rias e para a dissolu��o. VII � a forma de gest�o administrativa e de aprova��o das respectivas contas. (Inclu�do pela Lei n� 11.127, de 2005)",
+      "tags": [
+        "associados",
+        "nulidade",
+        "estatuto",
+        "associaes",
+        "conter"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_55",
+      "number": "55",
+      "title": "Os associados devem ter iguais direitos, mas o estatuto poder",
+      "text": "Art. 55. Os associados devem ter iguais direitos, mas o estatuto poder� instituir categorias com vantagens especiais.",
+      "tags": [
+        "associados",
+        "iguais",
+        "direitos",
+        "estatuto",
+        "instituir"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_56",
+      "number": "56",
+      "title": "A qualidade de associado � intransmiss�vel, se o estatuto n�o",
+      "text": "Art. 56. A qualidade de associado � intransmiss�vel, se o estatuto n�o dispuser o contr�rio. Par�grafo �nico. Se o associado for titular de quota ou fra��o ideal do patrim�nio da associa��o, a transfer�ncia daquela n�o importar�, de per si , na atribui��o da qualidade de associado ao adquirente ou ao herdeiro, salvo disposi��o diversa do estatuto.",
+      "tags": [
+        "associado",
+        "qualidade",
+        "estatuto",
+        "intransmissvel",
+        "dispuser"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_57",
+      "number": "57",
+      "title": "A exclus�o do associado s� � admiss�vel havendo justa causa,",
+      "text": "Art. 57. A exclus�o do associado s� � admiss�vel havendo justa causa, assim reconhecida em procedimento que assegure direito de defesa e de recurso, nos termos previstos no estatuto. (Reda��o dada pela Lei n� 11.127, de 2005) Par�grafo �nico. (revogado) (Reda��o dada pela Lei n� 11.127, de 2005)",
+      "tags": [
+        "excluso",
+        "associado",
+        "admissvel",
+        "havendo",
+        "reconhecida"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_58",
+      "number": "58",
+      "title": "Nenhum associado poder� ser impedido de exercer direito ou fu",
+      "text": "Art. 58. Nenhum associado poder� ser impedido de exercer direito ou fun��o que lhe tenha sido legitimamente conferido, a n�o ser nos casos e pela forma previstos na lei ou no estatuto.",
+      "tags": [
+        "nenhum",
+        "associado",
+        "impedido",
+        "exercer",
+        "direito"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_59",
+      "number": "59",
+      "title": "Compete privativamente � assembl�ia geral",
+      "text": "Art. 59. Compete privativamente � assembl�ia geral: (Reda��o dada pela Lei n� 11.127, de 2005) I � destituir os administradores; (Reda��o dada pela Lei n� 11.127, de 2005) II � alterar o estatuto. (Reda��o dada pela Lei n� 11.127, de 2005) Par�grafo �nico. Para as delibera��es a que se referem os incisos I e II deste artigo � exigido delibera��o da assembl�ia especialmente convocada para esse fim, cujo quorum ser� o estabelecido no estatuto, bem como os crit�rios de elei��o dos administradores. (Reda��o dada pela Lei n� 11.127, de 2005)",
+      "tags": [
+        "assemblia",
+        "administradores",
+        "estatuto",
+        "compete",
+        "privativamente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_60",
+      "number": "60",
+      "title": "A convoca��o dos �rg�os deliberativos far-se-� na forma do es",
+      "text": "Art. 60. A convoca��o dos �rg�os deliberativos far-se-� na forma do estatuto, garantido a 1/5 (um quinto) dos associados o direito de promov�-la. (Reda��o dada pela Lei n� 11.127, de 2005)",
+      "tags": [
+        "convocao",
+        "deliberativos",
+        "estatuto",
+        "garantido",
+        "quinto"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_61",
+      "number": "61",
+      "title": "Dissolvida a associa��o, o remanescente do seu patrim�nio l�q",
+      "text": "Art. 61. Dissolvida a associa��o, o remanescente do seu patrim�nio l�quido, depois de deduzidas, se for o caso, as quotas ou fra��es ideais referidas no par�grafo �nico do art. 56, ser� destinado � entidade de fins n�o econ�micos designada no estatuto, ou, omisso este, por delibera��o dos associados, � institui��o municipal, estadual ou federal, de fins id�nticos ou semelhantes. � 1 o Por cl�usula do estatuto ou, no seu sil�ncio, por delibera��o dos associados, podem estes, antes da destina��o do remanescente referida neste artigo, receber em restitui��o, atualizado o respectivo valor, as contribui��es que tiverem prestado ao patrim�nio da associa��o. � 2 o N�o existindo no Munic�pio, no Estado, no Distrito Federal ou no Territ�rio, em que a associa��o tiver sede, institui��o nas condi��es indicadas neste artigo, o que remanescer do seu patrim�nio se devolver� � Fazenda do Estado, do Distrito Federal ou da Uni�o. CAP�TULO III DAS FUNDA��ES",
+      "tags": [
+        "associao",
+        "patrimnio",
+        "federal",
+        "remanescente",
+        "estatuto"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_62",
+      "number": "62",
+      "title": "Para criar uma funda��o, o seu instituidor far�, por escritur",
+      "text": "Art. 62. Para criar uma funda��o, o seu instituidor far�, por escritura p�blica ou testamento, dota��o especial de bens livres, especificando o fim a que se destina, e declarando, se quiser, a maneira de administr�-la. Par�grafo �nico. A funda��o somente poder� constituir-se para fins de: (Reda��o dada pela Lei n� 13.151, de 2015) I � assist�ncia social; (Inclu�do pela Lei n� 13.151, de 2015) II � cultura, defesa e conserva��o do patrim�nio hist�rico e art�stico; (Inclu�do pela Lei n� 13.151, de 2015) III � educa��o; (Inclu�do pela Lei n� 13.151, de 2015) IV � sa�de; (Inclu�do pela Lei n� 13.151, de 2015) V � seguran�a alimentar e nutricional; (Inclu�do pela Lei n� 13.151, de 2015) VI � defesa, preserva��o e conserva��o do meio ambiente e promo��o do desenvolvimento sustent�vel; (Inclu�do pela Lei n� 13.151, de 2015) VII � pesquisa cient�fica, desenvolvimento de tecnologias alternativas, moderniza��o de sistemas de gest�o, produ��o e divulga��o de informa��es e conhecimentos t�cnicos e cient�ficos; (Inclu�do pela Lei n� 13.151, de 2015) VIII � promo��o da �tica, da cidadania, da democracia e dos direitos humanos; (Inclu�do pela Lei n� 13.151, de 2015) IX � atividades religiosas; e ...",
+      "tags": [
+        "includo",
+        "fundao",
+        "defesa",
+        "conservao",
+        "promoo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_63",
+      "number": "63",
+      "title": "Quando insuficientes para constituir a funda��o, os bens a el",
+      "text": "Art. 63. Quando insuficientes para constituir a funda��o, os bens a ela destinados ser�o, se de outro modo n�o dispuser o instituidor, incorporados em outra funda��o que se proponha a fim igual ou semelhante.",
+      "tags": [
+        "fundao",
+        "quando",
+        "insuficientes",
+        "constituir",
+        "destinados"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_64",
+      "number": "64",
+      "title": "Constitu�da a funda��o por neg�cio jur�dico entre vivos, o in",
+      "text": "Art. 64. Constitu�da a funda��o por neg�cio jur�dico entre vivos, o instituidor � obrigado a transferir-lhe a propriedade, ou outro direito real, sobre os bens dotados, e, se n�o o fizer, ser�o registrados, em nome dela, por mandado judicial.",
+      "tags": [
+        "constituda",
+        "fundao",
+        "negcio",
+        "jurdico",
+        "instituidor"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_65",
+      "number": "65",
+      "title": "Aqueles a quem o instituidor cometer a aplica��o do patrim�ni",
+      "text": "Art. 65. Aqueles a quem o instituidor cometer a aplica��o do patrim�nio, em tendo ci�ncia do encargo, formular�o logo, de acordo com as suas bases (art. 62), o estatuto da funda��o projetada, submetendo-o, em seguida, � aprova��o da autoridade competente, com recurso ao juiz. Par�grafo �nico. Se o estatuto n�o for elaborado no prazo assinado pelo instituidor, ou, n�o havendo prazo, em cento e oitenta dias, a incumb�ncia caber� ao Minist�rio P�blico.",
+      "tags": [
+        "instituidor",
+        "estatuto",
+        "aqueles",
+        "cometer",
+        "aplicao"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_66",
+      "number": "66",
+      "title": "Velar� pelas funda��es o Minist�rio P�blico do Estado onde si",
+      "text": "Art. 66. Velar� pelas funda��es o Minist�rio P�blico do Estado onde situadas. � 1 � Se funcionarem no Distrito Federal ou em Territ�rio, caber� o encargo ao Minist�rio P�blico do Distrito Federal e Territ�rios. (Reda��o dada pela Lei n� 13.151, de 2015) � 2� Se estenderem a atividade por mais de um Estado, caber� o encargo, em cada um deles, ao respectivo Minist�rio P�blico.",
+      "tags": [
+        "ministrio",
+        "pblico",
+        "estado",
+        "distrito",
+        "federal"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_67",
+      "number": "67",
+      "title": "Para que se possa alterar o estatuto da funda��o � mister que",
+      "text": "Art. 67. Para que se possa alterar o estatuto da funda��o � mister que a reforma: I - seja deliberada por dois ter�os dos competentes para gerir e representar a funda��o; II - n�o contrarie ou desvirtue o fim desta; III � seja aprovada pelo �rg�o do Minist�rio P�blico no prazo m�ximo de 45 (quarenta e cinco) dias, findo o qual ou no caso de o Minist�rio P�blico a denegar, poder� o juiz supri-la, a requerimento do interessado. (Reda��o dada pela Lei n� 13.151, de 2015)",
+      "tags": [
+        "fundao",
+        "ministrio",
+        "pblico",
+        "alterar",
+        "estatuto"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_68",
+      "number": "68",
+      "title": "Quando a altera��o n�o houver sido aprovada por vota��o un�ni",
+      "text": "Art. 68. Quando a altera��o n�o houver sido aprovada por vota��o un�nime, os administradores da funda��o, ao submeterem o estatuto ao �rg�o do Minist�rio P�blico, requerer�o que se d� ci�ncia � minoria vencida para impugn�-la, se quiser, em dez dias.",
+      "tags": [
+        "quando",
+        "alterao",
+        "houver",
+        "aprovada",
+        "unnime"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_69",
+      "number": "69",
+      "title": "Tornando-se il�cita, imposs�vel ou in�til a finalidade a que",
+      "text": "Art. 69. Tornando-se il�cita, imposs�vel ou in�til a finalidade a que visa a funda��o, ou vencido o prazo de sua exist�ncia, o �rg�o do Minist�rio P�blico, ou qualquer interessado, lhe promover� a extin��o, incorporando-se o seu patrim�nio, salvo disposi��o em contr�rio no ato constitutivo, ou no estatuto, em outra funda��o, designada pelo juiz, que se proponha a fim igual ou semelhante. T�TULO III Do Domic�lio",
+      "tags": [
+        "fundao",
+        "tornandose",
+        "ilcita",
+        "impossvel",
+        "finalidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_70",
+      "number": "70",
+      "title": "O domic�lio da pessoa natural � o lugar onde ela estabelece a",
+      "text": "Art. 70. O domic�lio da pessoa natural � o lugar onde ela estabelece a sua resid�ncia com �nimo definitivo.",
+      "tags": [
+        "domiclio",
+        "pessoa",
+        "natural",
+        "estabelece",
+        "residncia"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_71",
+      "number": "71",
+      "title": "Se, por�m, a pessoa natural tiver diversas resid�ncias, onde,",
+      "text": "Art. 71. Se, por�m, a pessoa natural tiver diversas resid�ncias, onde, alternadamente, viva, considerar-se-� domic�lio seu qualquer delas.",
+      "tags": [
+        "pessoa",
+        "natural",
+        "diversas",
+        "residncias",
+        "alternadamente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_72",
+      "number": "72",
+      "title": "Artigo 72",
+      "text": "Art. 72. � tamb�m domic�lio da pessoa natural, quanto �s rela��es concernentes � profiss�o, o lugar onde esta � exercida. Par�grafo �nico. Se a pessoa exercitar profiss�o em lugares diversos, cada um deles constituir� domic�lio para as rela��es que lhe corresponderem.",
+      "tags": [
+        "domiclio",
+        "pessoa",
+        "relaes",
+        "profisso",
+        "natural"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_73",
+      "number": "73",
+      "title": "Ter-se-� por domic�lio da pessoa natural, que n�o tenha resid",
+      "text": "Art. 73. Ter-se-� por domic�lio da pessoa natural, que n�o tenha resid�ncia habitual, o lugar onde for encontrada.",
+      "tags": [
+        "domiclio",
+        "pessoa",
+        "natural",
+        "residncia",
+        "habitual"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_74",
+      "number": "74",
+      "title": "Muda-se o domic�lio, transferindo a resid�ncia, com a inten��",
+      "text": "Art. 74. Muda-se o domic�lio, transferindo a resid�ncia, com a inten��o manifesta de o mudar. Par�grafo �nico. A prova da inten��o resultar� do que declarar a pessoa �s municipalidades dos lugares, que deixa, e para onde vai, ou, se tais declara��es n�o fizer, da pr�pria mudan�a, com as circunst�ncias que a acompanharem.",
+      "tags": [
+        "inteno",
+        "mudase",
+        "domiclio",
+        "transferindo",
+        "residncia"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_75",
+      "number": "75",
+      "title": "Quanto �s pessoas jur�dicas, o domic�lio �",
+      "text": "Art. 75. Quanto �s pessoas jur�dicas, o domic�lio �: I - da Uni�o, o Distrito Federal; II - dos Estados e Territ�rios, as respectivas capitais; III - do Munic�pio, o lugar onde funcione a administra��o municipal; IV - das demais pessoas jur�dicas, o lugar onde funcionarem as respectivas diretorias e administra��es, ou onde elegerem domic�lio especial no seu estatuto ou atos constitutivos. � 1 o Tendo a pessoa jur�dica diversos estabelecimentos em lugares diferentes, cada um deles ser� considerado domic�lio para os atos nele praticados. � 2 o Se a administra��o, ou diretoria, tiver a sede no estrangeiro, haver-se-� por domic�lio da pessoa jur�dica, no tocante �s obriga��es contra�das por cada uma das suas ag�ncias, o lugar do estabelecimento, sito no Brasil, a que ela corresponder.",
+      "tags": [
+        "domiclio",
+        "pessoas",
+        "jurdicas",
+        "respectivas",
+        "administrao"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_76",
+      "number": "76",
+      "title": "T�m domic�lio necess�rio o incapaz, o servidor p�blico, o mil",
+      "text": "Art. 76. T�m domic�lio necess�rio o incapaz, o servidor p�blico, o militar, o mar�timo e o preso. Par�grafo �nico. O domic�lio do incapaz � o do seu representante ou assistente; o do servidor p�blico, o lugar em que exercer permanentemente suas fun��es; o do militar, onde servir, e, sendo da Marinha ou da Aeron�utica, a sede do comando a que se encontrar imediatamente subordinado; o do mar�timo, onde o navio estiver matriculado; e o do preso, o lugar em que cumprir a senten�a.",
+      "tags": [
+        "domiclio",
+        "incapaz",
+        "servidor",
+        "pblico",
+        "militar"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_77",
+      "number": "77",
+      "title": "O agente diplom�tico do Brasil, que, citado no estrangeiro, a",
+      "text": "Art. 77. O agente diplom�tico do Brasil, que, citado no estrangeiro, alegar extraterritorialidade sem designar onde tem, no pa�s, o seu domic�lio, poder� ser demandado no Distrito Federal ou no �ltimo ponto do territ�rio brasileiro onde o teve.",
+      "tags": [
+        "agente",
+        "diplomtico",
+        "brasil",
+        "citado",
+        "estrangeiro"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_78",
+      "number": "78",
+      "title": "Nos contratos escritos, poder�o os contratantes especificar d",
+      "text": "Art. 78. Nos contratos escritos, poder�o os contratantes especificar domic�lio onde se exercitem e cumpram os direitos e obriga��es deles resultantes. LIVRO II DOS BENS T�TULO �NICO Das Diferentes Classes de Bens CAP�TULO I Dos Bens Considerados em Si Mesmos Se��o I Dos Bens Im�veis",
+      "tags": [
+        "contratos",
+        "escritos",
+        "podero",
+        "contratantes",
+        "especificar"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_79",
+      "number": "79",
+      "title": "S�o bens im�veis o solo e tudo quanto se lhe incorporar natur",
+      "text": "Art. 79. S�o bens im�veis o solo e tudo quanto se lhe incorporar natural ou artificialmente.",
+      "tags": [
+        "imveis",
+        "quanto",
+        "incorporar",
+        "natural",
+        "artificialmente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_80",
+      "number": "80",
+      "title": "Consideram-se im�veis para os efeitos legais",
+      "text": "Art. 80. Consideram-se im�veis para os efeitos legais: I - os direitos reais sobre im�veis e as a��es que os asseguram; II - o direito � sucess�o aberta.",
+      "tags": [
+        "imveis",
+        "consideramse",
+        "efeitos",
+        "legais",
+        "direitos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_81",
+      "number": "81",
+      "title": "N�o perdem o car�ter de im�veis",
+      "text": "Art. 81. N�o perdem o car�ter de im�veis: I - as edifica��es que, separadas do solo, mas conservando a sua unidade, forem removidas para outro local; II - os materiais provisoriamente separados de um pr�dio, para nele se reempregarem. Se��o II Dos Bens M�veis",
+      "tags": [
+        "perdem",
+        "carter",
+        "imveis",
+        "edificaes",
+        "separadas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_82",
+      "number": "82",
+      "title": "S�o m�veis os bens suscet�veis de movimento pr�prio, ou de re",
+      "text": "Art. 82. S�o m�veis os bens suscet�veis de movimento pr�prio, ou de remo��o por for�a alheia, sem altera��o da subst�ncia ou da destina��o econ�mico-social.",
+      "tags": [
+        "suscetveis",
+        "movimento",
+        "prprio",
+        "alheia",
+        "alterao"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_83",
+      "number": "83",
+      "title": "Consideram-se m�veis para os efeitos legais",
+      "text": "Art. 83. Consideram-se m�veis para os efeitos legais: I - as energias que tenham valor econ�mico; II - os direitos reais sobre objetos m�veis e as a��es correspondentes; III - os direitos pessoais de car�ter patrimonial e respectivas a��es.",
+      "tags": [
+        "direitos",
+        "consideramse",
+        "efeitos",
+        "legais",
+        "energias"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_84",
+      "number": "84",
+      "title": "Os materiais destinados a alguma constru��o, enquanto n�o for",
+      "text": "Art. 84. Os materiais destinados a alguma constru��o, enquanto n�o forem empregados, conservam sua qualidade de m�veis; readquirem essa qualidade os provenientes da demoli��o de algum pr�dio. Se��o III Dos Bens Fung�veis e Consum�veis",
+      "tags": [
+        "qualidade",
+        "materiais",
+        "destinados",
+        "alguma",
+        "construo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_85",
+      "number": "85",
+      "title": "S�o fung�veis os m�veis que podem substituir-se por outros da",
+      "text": "Art. 85. S�o fung�veis os m�veis que podem substituir-se por outros da mesma esp�cie, qualidade e quantidade.",
+      "tags": [
+        "fungveis",
+        "substituirse",
+        "outros",
+        "espcie",
+        "qualidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_86",
+      "number": "86",
+      "title": "S�o consum�veis os bens m�veis cujo uso importa destrui��o im",
+      "text": "Art. 86. S�o consum�veis os bens m�veis cujo uso importa destrui��o imediata da pr�pria subst�ncia, sendo tamb�m considerados tais os destinados � aliena��o. Se��o IV Dos Bens Divis�veis",
+      "tags": [
+        "consumveis",
+        "importa",
+        "destruio",
+        "imediata",
+        "prpria"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_87",
+      "number": "87",
+      "title": "Bens divis�veis s�o os que se podem fracionar sem altera��o n",
+      "text": "Art. 87. Bens divis�veis s�o os que se podem fracionar sem altera��o na sua subst�ncia, diminui��o consider�vel de valor, ou preju�zo do uso a que se destinam.",
+      "tags": [
+        "divisveis",
+        "fracionar",
+        "alterao",
+        "substncia",
+        "diminuio"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_88",
+      "number": "88",
+      "title": "Os bens naturalmente divis�veis podem tornar-se indivis�veis",
+      "text": "Art. 88. Os bens naturalmente divis�veis podem tornar-se indivis�veis por determina��o da lei ou por vontade das partes. Se��o V Dos Bens Singulares e Coletivos",
+      "tags": [
+        "naturalmente",
+        "divisveis",
+        "tornarse",
+        "indivisveis",
+        "determinao"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_89",
+      "number": "89",
+      "title": "S�o singulares os bens que, embora reunidos, se consideram de",
+      "text": "Art. 89. S�o singulares os bens que, embora reunidos, se consideram de per si , independentemente dos demais.",
+      "tags": [
+        "singulares",
+        "embora",
+        "reunidos",
+        "consideram",
+        "independentemente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_90",
+      "number": "90",
+      "title": "Constitui universalidade de fato a pluralidade de bens singul",
+      "text": "Art. 90. Constitui universalidade de fato a pluralidade de bens singulares que, pertinentes � mesma pessoa, tenham destina��o unit�ria. Par�grafo �nico. Os bens que formam essa universalidade podem ser objeto de rela��es jur�dicas pr�prias.",
+      "tags": [
+        "universalidade",
+        "constitui",
+        "pluralidade",
+        "singulares",
+        "pertinentes"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_91",
+      "number": "91",
+      "title": "Constitui universalidade de direito o complexo de rela��es ju",
+      "text": "Art. 91. Constitui universalidade de direito o complexo de rela��es jur�dicas, de uma pessoa, dotadas de valor econ�mico. CAP�TULO II Dos Bens Reciprocamente Considerados",
+      "tags": [
+        "constitui",
+        "universalidade",
+        "direito",
+        "complexo",
+        "relaes"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_92",
+      "number": "92",
+      "title": "Principal � o bem que existe sobre si, abstrata ou concretame",
+      "text": "Art. 92. Principal � o bem que existe sobre si, abstrata ou concretamente; acess�rio, aquele cuja exist�ncia sup�e a do principal.",
+      "tags": [
+        "principal",
+        "existe",
+        "abstrata",
+        "concretamente",
+        "acessrio"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_93",
+      "number": "93",
+      "title": "S�o perten�as os bens que, n�o constituindo partes integrante",
+      "text": "Art. 93. S�o perten�as os bens que, n�o constituindo partes integrantes, se destinam, de modo duradouro, ao uso, ao servi�o ou ao aformoseamento de outro.",
+      "tags": [
+        "pertenas",
+        "constituindo",
+        "partes",
+        "integrantes",
+        "destinam"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_94",
+      "number": "94",
+      "title": "Os neg�cios jur�dicos que dizem respeito ao bem principal n�o",
+      "text": "Art. 94. Os neg�cios jur�dicos que dizem respeito ao bem principal n�o abrangem as perten�as, salvo se o contr�rio resultar da lei, da manifesta��o de vontade, ou das circunst�ncias do caso.",
+      "tags": [
+        "negcios",
+        "jurdicos",
+        "respeito",
+        "principal",
+        "abrangem"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_95",
+      "number": "95",
+      "title": "Apesar de ainda n�o separados do bem principal, os frutos e p",
+      "text": "Art. 95. Apesar de ainda n�o separados do bem principal, os frutos e produtos podem ser objeto de neg�cio jur�dico.",
+      "tags": [
+        "apesar",
+        "separados",
+        "principal",
+        "frutos",
+        "produtos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_96",
+      "number": "96",
+      "title": "As benfeitorias podem ser voluptu�rias, �teis ou necess�rias",
+      "text": "Art. 96. As benfeitorias podem ser voluptu�rias, �teis ou necess�rias. � 1 o S�o voluptu�rias as de mero deleite ou recreio, que n�o aumentam o uso habitual do bem, ainda que o tornem mais agrad�vel ou sejam de elevado valor. � 2 o S�o �teis as que aumentam ou facilitam o uso do bem. � 3 o S�o necess�rias as que t�m por fim conservar o bem ou evitar que se deteriore.",
+      "tags": [
+        "volupturias",
+        "necessrias",
+        "aumentam",
+        "benfeitorias",
+        "deleite"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_97",
+      "number": "97",
+      "title": "N�o se consideram benfeitorias os melhoramentos ou acr�scimos",
+      "text": "Art. 97. N�o se consideram benfeitorias os melhoramentos ou acr�scimos sobrevindos ao bem sem a interven��o do propriet�rio, possuidor ou detentor. CAP�TULO III Dos Bens P�blicos",
+      "tags": [
+        "consideram",
+        "benfeitorias",
+        "melhoramentos",
+        "acrscimos",
+        "sobrevindos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_98",
+      "number": "98",
+      "title": "S�o p�blicos os bens do dom�nio nacional pertencentes �s pess",
+      "text": "Art. 98. S�o p�blicos os bens do dom�nio nacional pertencentes �s pessoas jur�dicas de direito p�blico interno; todos os outros s�o particulares, seja qual for a pessoa a que pertencerem.",
+      "tags": [
+        "pblicos",
+        "domnio",
+        "nacional",
+        "pertencentes",
+        "pessoas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_99",
+      "number": "99",
+      "title": "S�o bens p�blicos",
+      "text": "Art. 99. S�o bens p�blicos: I - os de uso comum do povo, tais como rios, mares, estradas, ruas e pra�as; II - os de uso especial, tais como edif�cios ou terrenos destinados a servi�o ou estabelecimento da administra��o federal, estadual, territorial ou municipal, inclusive os de suas autarquias; III - os dominicais, que constituem o patrim�nio das pessoas jur�dicas de direito p�blico, como objeto de direito pessoal, ou real, de cada uma dessas entidades. Par�grafo �nico. N�o dispondo a lei em contr�rio, consideram-se dominicais os bens pertencentes �s pessoas jur�dicas de direito p�blico a que se tenha dado estrutura de direito privado.",
+      "tags": [
+        "direito",
+        "dominicais",
+        "pessoas",
+        "jurdicas",
+        "pblico"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_100",
+      "number": "100",
+      "title": "Os bens p�blicos de uso comum do povo e os de uso especial s�",
+      "text": "Art. 100. Os bens p�blicos de uso comum do povo e os de uso especial s�o inalien�veis, enquanto conservarem a sua qualifica��o, na forma que a lei determinar.",
+      "tags": [
+        "pblicos",
+        "especial",
+        "inalienveis",
+        "enquanto",
+        "conservarem"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_101",
+      "number": "101",
+      "title": "Os bens p�blicos dominicais podem ser alienados, observadas a",
+      "text": "Art. 101. Os bens p�blicos dominicais podem ser alienados, observadas as exig�ncias da lei.",
+      "tags": [
+        "pblicos",
+        "dominicais",
+        "alienados",
+        "observadas",
+        "exigncias"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_102",
+      "number": "102",
+      "title": "Os bens p�blicos n�o est�o sujeitos a usucapi�o",
+      "text": "Art. 102. Os bens p�blicos n�o est�o sujeitos a usucapi�o.",
+      "tags": [
+        "pblicos",
+        "sujeitos",
+        "usucapio"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_103",
+      "number": "103",
+      "title": "O uso comum dos bens p�blicos pode ser gratuito ou retribu�do",
+      "text": "Art. 103. O uso comum dos bens p�blicos pode ser gratuito ou retribu�do, conforme for estabelecido legalmente pela entidade a cuja administra��o pertencerem. LIVRO III Dos Fatos Jur�dicos T�TULO I Do Neg�cio Jur�dico CAP�TULO I Disposi��es Gerais",
+      "tags": [
+        "pblicos",
+        "gratuito",
+        "retribudo",
+        "conforme",
+        "estabelecido"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_104",
+      "number": "104",
+      "title": "A validade do neg�cio jur�dico requer",
+      "text": "Art. 104. A validade do neg�cio jur�dico requer: I - agente capaz; II - objeto l�cito, poss�vel, determinado ou determin�vel; III - forma prescrita ou n�o defesa em lei.",
+      "tags": [
+        "validade",
+        "negcio",
+        "jurdico",
+        "requer",
+        "agente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_105",
+      "number": "105",
+      "title": "A incapacidade relativa de uma das partes n�o pode ser invoca",
+      "text": "Art. 105. A incapacidade relativa de uma das partes n�o pode ser invocada pela outra em benef�cio pr�prio, nem aproveita aos co-interessados capazes, salvo se, neste caso, for indivis�vel o objeto do direito ou da obriga��o comum.",
+      "tags": [
+        "incapacidade",
+        "relativa",
+        "partes",
+        "invocada",
+        "benefcio"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_106",
+      "number": "106",
+      "title": "A impossibilidade inicial do objeto n�o invalida o neg�cio ju",
+      "text": "Art. 106. A impossibilidade inicial do objeto n�o invalida o neg�cio jur�dico se for relativa, ou se cessar antes de realizada a condi��o a que ele estiver subordinado.",
+      "tags": [
+        "impossibilidade",
+        "inicial",
+        "objeto",
+        "invalida",
+        "negcio"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_107",
+      "number": "107",
+      "title": "A validade da declara��o de vontade n�o depender� de forma es",
+      "text": "Art. 107. A validade da declara��o de vontade n�o depender� de forma especial, sen�o quando a lei expressamente a exigir.",
+      "tags": [
+        "validade",
+        "declarao",
+        "vontade",
+        "depender",
+        "especial"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_108",
+      "number": "108",
+      "title": "N�o dispondo a lei em contr�rio, a escritura p�blica � essenc",
+      "text": "Art. 108. N�o dispondo a lei em contr�rio, a escritura p�blica � essencial � validade dos neg�cios jur�dicos que visem � constitui��o, transfer�ncia, modifica��o ou ren�ncia de direitos reais sobre im�veis de valor superior a trinta vezes o maior sal�rio m�nimo vigente no Pa�s.",
+      "tags": [
+        "dispondo",
+        "contrrio",
+        "escritura",
+        "pblica",
+        "essencial"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_109",
+      "number": "109",
+      "title": "No neg�cio jur�dico celebrado com a cl�usula de n�o valer sem",
+      "text": "Art. 109. No neg�cio jur�dico celebrado com a cl�usula de n�o valer sem instrumento p�blico, este � da subst�ncia do ato.",
+      "tags": [
+        "negcio",
+        "jurdico",
+        "celebrado",
+        "clusula",
+        "instrumento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_110",
+      "number": "110",
+      "title": "A manifesta��o de vontade subsiste ainda que o seu autor haja",
+      "text": "Art. 110. A manifesta��o de vontade subsiste ainda que o seu autor haja feito a reserva mental de n�o querer o que manifestou, salvo se dela o destinat�rio tinha conhecimento.",
+      "tags": [
+        "manifestao",
+        "vontade",
+        "subsiste",
+        "reserva",
+        "mental"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_111",
+      "number": "111",
+      "title": "O sil�ncio importa anu�ncia, quando as circunst�ncias ou os u",
+      "text": "Art. 111. O sil�ncio importa anu�ncia, quando as circunst�ncias ou os usos o autorizarem, e n�o for necess�ria a declara��o de vontade expressa.",
+      "tags": [
+        "silncio",
+        "importa",
+        "anuncia",
+        "quando",
+        "circunstncias"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_112",
+      "number": "112",
+      "title": "Nas declara��es de vontade se atender� mais � inten��o nelas",
+      "text": "Art. 112. Nas declara��es de vontade se atender� mais � inten��o nelas consubstanciada do que ao sentido literal da linguagem.",
+      "tags": [
+        "declaraes",
+        "vontade",
+        "atender",
+        "inteno",
+        "consubstanciada"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_113",
+      "number": "113",
+      "title": "Os neg�cios jur�dicos devem ser interpretados conforme a boa-",
+      "text": "Art. 113. Os neg�cios jur�dicos devem ser interpretados conforme a boa-f� e os usos do lugar de sua celebra��o. � 1� �A interpreta��o do neg�cio jur�dico deve lhe atribuir o sentido que: (Inclu�do pela Lei n� 13.874, de 2019) I - for confirmado pelo comportamento das partes posterior � celebra��o do neg�cio; (Inclu�do pela Lei n� 13.874, de 2019) II - corresponder aos usos, costumes e pr�ticas do mercado relativas ao tipo de neg�cio; (Inclu�do pela Lei n� 13.874, de 2019) III - corresponder � boa-f�; (Inclu�do pela Lei n� 13.874, de 2019) IV - for mais ben�fico � parte que n�o redigiu o dispositivo, se identific�vel; e (Inclu�do pela Lei n� 13.874, de 2019) V - corresponder a qual seria a razo�vel negocia��o das partes sobre a quest�o discutida, inferida das demais disposi��es do neg�cio e da racionalidade econ�mica das partes, consideradas as informa��es dispon�veis no momento de sua celebra��o. (Inclu�do pela Lei n� 13.874, de 2019) � 2� �As partes poder�o livremente pactuar regras de interpreta��o, de preenchimento de lacunas e de integra��o dos neg�cios jur�dicos diversas daquelas previstas em lei. (Inclu�do pela Lei n� 13.874, de 2019)",
+      "tags": [
+        "includo",
+        "negcio",
+        "partes",
+        "celebrao",
+        "corresponder"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_114",
+      "number": "114",
+      "title": "Os neg�cios jur�dicos ben�ficos e a ren�ncia interpretam-se e",
+      "text": "Art. 114. Os neg�cios jur�dicos ben�ficos e a ren�ncia interpretam-se estritamente. CAP�TULO II Da Representa��o",
+      "tags": [
+        "negcios",
+        "jurdicos",
+        "benficos",
+        "renncia",
+        "interpretamse"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_115",
+      "number": "115",
+      "title": "Os poderes de representa��o conferem-se por lei ou pelo inter",
+      "text": "Art. 115. Os poderes de representa��o conferem-se por lei ou pelo interessado.",
+      "tags": [
+        "poderes",
+        "representao",
+        "conferemse",
+        "interessado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_116",
+      "number": "116",
+      "title": "A manifesta��o de vontade pelo representante, nos limites de",
+      "text": "Art. 116. A manifesta��o de vontade pelo representante, nos limites de seus poderes, produz efeitos em rela��o ao representado.",
+      "tags": [
+        "manifestao",
+        "vontade",
+        "representante",
+        "limites",
+        "poderes"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_117",
+      "number": "117",
+      "title": "Salvo se o permitir a lei ou o representado, � anul�vel o neg",
+      "text": "Art. 117. Salvo se o permitir a lei ou o representado, � anul�vel o neg�cio jur�dico que o representante, no seu interesse ou por conta de outrem, celebrar consigo mesmo. Par�grafo �nico. Para esse efeito, tem-se como celebrado pelo representante o neg�cio realizado por aquele em quem os poderes houverem sido subestabelecidos.",
+      "tags": [
+        "negcio",
+        "representante",
+        "permitir",
+        "representado",
+        "anulvel"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_118",
+      "number": "118",
+      "title": "O representante � obrigado a provar �s pessoas, com quem trat",
+      "text": "Art. 118. O representante � obrigado a provar �s pessoas, com quem tratar em nome do representado, a sua qualidade e a extens�o de seus poderes, sob pena de, n�o o fazendo, responder pelos atos que a estes excederem.",
+      "tags": [
+        "representante",
+        "obrigado",
+        "provar",
+        "pessoas",
+        "tratar"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_119",
+      "number": "119",
+      "title": "Artigo 119",
+      "text": "Art. 119. � anul�vel o neg�cio conclu�do pelo representante em conflito de interesses com o representado, se tal fato era ou devia ser do conhecimento de quem com aquele tratou. Par�grafo �nico. � de cento e oitenta dias, a contar da conclus�o do neg�cio ou da cessa��o da incapacidade, o prazo de decad�ncia para pleitear-se a anula��o prevista neste artigo.",
+      "tags": [
+        "negcio",
+        "anulvel",
+        "concludo",
+        "representante",
+        "conflito"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_120",
+      "number": "120",
+      "title": "Os requisitos e os efeitos da representa��o legal s�o os esta",
+      "text": "Art. 120. Os requisitos e os efeitos da representa��o legal s�o os estabelecidos nas normas respectivas; os da representa��o volunt�ria s�o os da Parte Especial deste C�digo. CAP�TULO III Da Condi��o, do Termo e do Encargo",
+      "tags": [
+        "representao",
+        "requisitos",
+        "efeitos",
+        "estabelecidos",
+        "normas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_121",
+      "number": "121",
+      "title": "Considera-se condi��o a cl�usula que, derivando exclusivament",
+      "text": "Art. 121. Considera-se condi��o a cl�usula que, derivando exclusivamente da vontade das partes, subordina o efeito do neg�cio jur�dico a evento futuro e incerto.",
+      "tags": [
+        "considerase",
+        "condio",
+        "clusula",
+        "derivando",
+        "exclusivamente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_122",
+      "number": "122",
+      "title": "S�o l�citas, em geral, todas as condi��es n�o contr�rias � le",
+      "text": "Art. 122. S�o l�citas, em geral, todas as condi��es n�o contr�rias � lei, � ordem p�blica ou aos bons costumes; entre as condi��es defesas se incluem as que privarem de todo efeito o neg�cio jur�dico, ou o sujeitarem ao puro arb�trio de uma das partes.",
+      "tags": [
+        "condies",
+        "lcitas",
+        "contrrias",
+        "pblica",
+        "costumes"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_123",
+      "number": "123",
+      "title": "Invalidam os neg�cios jur�dicos que lhes s�o subordinados",
+      "text": "Art. 123. Invalidam os neg�cios jur�dicos que lhes s�o subordinados: I - as condi��es f�sica ou juridicamente imposs�veis, quando suspensivas; II - as condi��es il�citas, ou de fazer coisa il�cita; III - as condi��es incompreens�veis ou contradit�rias.",
+      "tags": [
+        "condies",
+        "invalidam",
+        "negcios",
+        "jurdicos",
+        "subordinados"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_124",
+      "number": "124",
+      "title": "T�m-se por inexistentes as condi��es imposs�veis, quando reso",
+      "text": "Art. 124. T�m-se por inexistentes as condi��es imposs�veis, quando resolutivas, e as de n�o fazer coisa imposs�vel.",
+      "tags": [
+        "inexistentes",
+        "condies",
+        "impossveis",
+        "quando",
+        "resolutivas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_125",
+      "number": "125",
+      "title": "Subordinando-se a efic�cia do neg�cio jur�dico � condi��o sus",
+      "text": "Art. 125. Subordinando-se a efic�cia do neg�cio jur�dico � condi��o suspensiva, enquanto esta se n�o verificar, n�o se ter� adquirido o direito, a que ele visa.",
+      "tags": [
+        "subordinandose",
+        "eficcia",
+        "negcio",
+        "jurdico",
+        "condio"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_126",
+      "number": "126",
+      "title": "Se algu�m dispuser de uma coisa sob condi��o suspensiva, e, p",
+      "text": "Art. 126. Se algu�m dispuser de uma coisa sob condi��o suspensiva, e, pendente esta, fizer quanto �quela novas disposi��es, estas n�o ter�o valor, realizada a condi��o, se com ela forem incompat�veis.",
+      "tags": [
+        "condio",
+        "dispuser",
+        "suspensiva",
+        "pendente",
+        "quanto"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_127",
+      "number": "127",
+      "title": "Se for resolutiva a condi��o, enquanto esta se n�o realizar,",
+      "text": "Art. 127. Se for resolutiva a condi��o, enquanto esta se n�o realizar, vigorar� o neg�cio jur�dico, podendo exercer-se desde a conclus�o deste o direito por ele estabelecido.",
+      "tags": [
+        "resolutiva",
+        "condio",
+        "enquanto",
+        "realizar",
+        "vigorar"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_128",
+      "number": "128",
+      "title": "Sobrevindo a condi��o resolutiva, extingue-se, para todos os",
+      "text": "Art. 128. Sobrevindo a condi��o resolutiva, extingue-se, para todos os efeitos, o direito a que ela se op�e; mas, se aposta a um neg�cio de execu��o continuada ou peri�dica, a sua realiza��o, salvo disposi��o em contr�rio, n�o tem efic�cia quanto aos atos j� praticados, desde que compat�veis com a natureza da condi��o pendente e conforme aos ditames de boa-f�.",
+      "tags": [
+        "condio",
+        "sobrevindo",
+        "resolutiva",
+        "extinguese",
+        "efeitos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_129",
+      "number": "129",
+      "title": "Reputa-se verificada, quanto aos efeitos jur�dicos, a condi��",
+      "text": "Art. 129. Reputa-se verificada, quanto aos efeitos jur�dicos, a condi��o cujo implemento for maliciosamente obstado pela parte a quem desfavorecer, considerando-se, ao contr�rio, n�o verificada a condi��o maliciosamente levada a efeito por aquele a quem aproveita o seu implemento.",
+      "tags": [
+        "verificada",
+        "condio",
+        "implemento",
+        "maliciosamente",
+        "reputase"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_130",
+      "number": "130",
+      "title": "Ao titular do direito eventual, nos casos de condi��o suspens",
+      "text": "Art. 130. Ao titular do direito eventual, nos casos de condi��o suspensiva ou resolutiva, � permitido praticar os atos destinados a conserv�-lo.",
+      "tags": [
+        "titular",
+        "direito",
+        "eventual",
+        "condio",
+        "suspensiva"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_131",
+      "number": "131",
+      "title": "O termo inicial suspende o exerc�cio, mas n�o a aquisi��o do",
+      "text": "Art. 131. O termo inicial suspende o exerc�cio, mas n�o a aquisi��o do direito.",
+      "tags": [
+        "inicial",
+        "suspende",
+        "exerccio",
+        "aquisio",
+        "direito"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_132",
+      "number": "132",
+      "title": "Salvo disposi��o legal ou convencional em contr�rio, computam",
+      "text": "Art. 132. Salvo disposi��o legal ou convencional em contr�rio, computam-se os prazos, exclu�do o dia do come�o, e inclu�do o do vencimento. � 1 o Se o dia do vencimento cair em feriado, considerar-se-� prorrogado o prazo at� o seguinte dia �til. � 2 o Meado considera-se, em qualquer m�s, o seu d�cimo quinto dia. � 3 o Os prazos de meses e anos expiram no dia de igual n�mero do de in�cio, ou no imediato, se faltar exata correspond�ncia. � 4 o Os prazos fixados por hora contar-se-�o de minuto a minuto.",
+      "tags": [
+        "prazos",
+        "vencimento",
+        "minuto",
+        "disposio",
+        "convencional"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_133",
+      "number": "133",
+      "title": "Nos testamentos, presume-se o prazo em favor do herdeiro, e,",
+      "text": "Art. 133. Nos testamentos, presume-se o prazo em favor do herdeiro, e, nos contratos, em proveito do devedor, salvo, quanto a esses, se do teor do instrumento, ou das circunst�ncias, resultar que se estabeleceu a benef�cio do credor, ou de ambos os contratantes.",
+      "tags": [
+        "testamentos",
+        "presumese",
+        "herdeiro",
+        "contratos",
+        "proveito"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_134",
+      "number": "134",
+      "title": "Os neg�cios jur�dicos entre vivos, sem prazo, s�o exeq��veis",
+      "text": "Art. 134. Os neg�cios jur�dicos entre vivos, sem prazo, s�o exeq��veis desde logo, salvo se a execu��o tiver de ser feita em lugar diverso ou depender de tempo.",
+      "tags": [
+        "negcios",
+        "jurdicos",
+        "exeqveis",
+        "execuo",
+        "diverso"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_135",
+      "number": "135",
+      "title": "Ao termo inicial e final aplicam-se, no que couber, as dispos",
+      "text": "Art. 135. Ao termo inicial e final aplicam-se, no que couber, as disposi��es relativas � condi��o suspensiva e resolutiva.",
+      "tags": [
+        "inicial",
+        "aplicamse",
+        "couber",
+        "disposies",
+        "relativas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_136",
+      "number": "136",
+      "title": "O encargo n�o suspende a aquisi��o nem o exerc�cio do direito",
+      "text": "Art. 136. O encargo n�o suspende a aquisi��o nem o exerc�cio do direito, salvo quando expressamente imposto no neg�cio jur�dico, pelo disponente, como condi��o suspensiva.",
+      "tags": [
+        "encargo",
+        "suspende",
+        "aquisio",
+        "exerccio",
+        "direito"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_137",
+      "number": "137",
+      "title": "Considera-se n�o escrito o encargo il�cito ou imposs�vel, sal",
+      "text": "Art. 137. Considera-se n�o escrito o encargo il�cito ou imposs�vel, salvo se constituir o motivo determinante da liberalidade, caso em que se invalida o neg�cio jur�dico. CAP�TULO IV Dos Defeitos do Neg�cio Jur�dico Se��o I Do Erro ou Ignor�ncia",
+      "tags": [
+        "negcio",
+        "jurdico",
+        "considerase",
+        "escrito",
+        "encargo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_138",
+      "number": "138",
+      "title": "S�o anul�veis os neg�cios jur�dicos, quando as declara��es de",
+      "text": "Art. 138. S�o anul�veis os neg�cios jur�dicos, quando as declara��es de vontade emanarem de erro substancial que poderia ser percebido por pessoa de dilig�ncia normal, em face das circunst�ncias do neg�cio.",
+      "tags": [
+        "anulveis",
+        "negcios",
+        "jurdicos",
+        "quando",
+        "declaraes"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_139",
+      "number": "139",
+      "title": "O erro � substancial quando",
+      "text": "Art. 139. O erro � substancial quando: I - interessa � natureza do neg�cio, ao objeto principal da declara��o, ou a alguma das qualidades a ele essenciais; II - concerne � identidade ou � qualidade essencial da pessoa a quem se refira a declara��o de vontade, desde que tenha influ�do nesta de modo relevante; III - sendo de direito e n�o implicando recusa � aplica��o da lei, for o motivo �nico ou principal do neg�cio jur�dico.",
+      "tags": [
+        "negcio",
+        "principal",
+        "declarao",
+        "substancial",
+        "quando"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_140",
+      "number": "140",
+      "title": "O falso motivo s� vicia a declara��o de vontade quando expres",
+      "text": "Art. 140. O falso motivo s� vicia a declara��o de vontade quando expresso como raz�o determinante.",
+      "tags": [
+        "motivo",
+        "declarao",
+        "vontade",
+        "quando",
+        "expresso"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_141",
+      "number": "141",
+      "title": "A transmiss�o err�nea da vontade por meios interpostos � anul",
+      "text": "Art. 141. A transmiss�o err�nea da vontade por meios interpostos � anul�vel nos mesmos casos em que o � a declara��o direta.",
+      "tags": [
+        "transmisso",
+        "errnea",
+        "vontade",
+        "interpostos",
+        "anulvel"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_142",
+      "number": "142",
+      "title": "O erro de indica��o da pessoa ou da coisa, a que se referir a",
+      "text": "Art. 142. O erro de indica��o da pessoa ou da coisa, a que se referir a declara��o de vontade, n�o viciar� o neg�cio quando, por seu contexto e pelas circunst�ncias, se puder identificar a coisa ou pessoa cogitada.",
+      "tags": [
+        "pessoa",
+        "indicao",
+        "referir",
+        "declarao",
+        "vontade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_143",
+      "number": "143",
+      "title": "O erro de c�lculo apenas autoriza a retifica��o da declara��o",
+      "text": "Art. 143. O erro de c�lculo apenas autoriza a retifica��o da declara��o de vontade.",
+      "tags": [
+        "clculo",
+        "apenas",
+        "autoriza",
+        "retificao",
+        "declarao"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_144",
+      "number": "144",
+      "title": "O erro n�o prejudica a validade do neg�cio jur�dico quando a",
+      "text": "Art. 144. O erro n�o prejudica a validade do neg�cio jur�dico quando a pessoa, a quem a manifesta��o de vontade se dirige, se oferecer para execut�-la na conformidade da vontade real do manifestante. Se��o II Do Dolo",
+      "tags": [
+        "vontade",
+        "prejudica",
+        "validade",
+        "negcio",
+        "jurdico"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_145",
+      "number": "145",
+      "title": "S�o os neg�cios jur�dicos anul�veis por dolo, quando este for",
+      "text": "Art. 145. S�o os neg�cios jur�dicos anul�veis por dolo, quando este for a sua causa.",
+      "tags": [
+        "negcios",
+        "jurdicos",
+        "anulveis",
+        "quando"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_146",
+      "number": "146",
+      "title": "O dolo acidental s� obriga � satisfa��o das perdas e danos, e",
+      "text": "Art. 146. O dolo acidental s� obriga � satisfa��o das perdas e danos, e � acidental quando, a seu despeito, o neg�cio seria realizado, embora por outro modo.",
+      "tags": [
+        "acidental",
+        "obriga",
+        "satisfao",
+        "perdas",
+        "quando"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_147",
+      "number": "147",
+      "title": "Nos neg�cios jur�dicos bilaterais, o sil�ncio intencional de",
+      "text": "Art. 147. Nos neg�cios jur�dicos bilaterais, o sil�ncio intencional de uma das partes a respeito de fato ou qualidade que a outra parte haja ignorado, constitui omiss�o dolosa, provando-se que sem ela o neg�cio n�o se teria celebrado.",
+      "tags": [
+        "negcios",
+        "jurdicos",
+        "bilaterais",
+        "silncio",
+        "intencional"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_148",
+      "number": "148",
+      "title": "Pode tamb�m ser anulado o neg�cio jur�dico por dolo de tercei",
+      "text": "Art. 148. Pode tamb�m ser anulado o neg�cio jur�dico por dolo de terceiro, se a parte a quem aproveite dele tivesse ou devesse ter conhecimento; em caso contr�rio, ainda que subsista o neg�cio jur�dico, o terceiro responder� por todas as perdas e danos da parte a quem ludibriou.",
+      "tags": [
+        "negcio",
+        "jurdico",
+        "terceiro",
+        "anulado",
+        "aproveite"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_149",
+      "number": "149",
+      "title": "O dolo do representante legal de uma das partes s� obriga o r",
+      "text": "Art. 149. O dolo do representante legal de uma das partes s� obriga o representado a responder civilmente at� a import�ncia do proveito que teve; se, por�m, o dolo for do representante convencional, o representado responder� solidariamente com ele por perdas e danos.",
+      "tags": [
+        "representante",
+        "representado",
+        "responder",
+        "partes",
+        "obriga"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_150",
+      "number": "150",
+      "title": "Se ambas as partes procederem com dolo, nenhuma pode aleg�-lo",
+      "text": "Art. 150. Se ambas as partes procederem com dolo, nenhuma pode aleg�-lo para anular o neg�cio, ou reclamar indeniza��o. Se��o III Da Coa��o",
+      "tags": [
+        "partes",
+        "procederem",
+        "nenhuma",
+        "aleglo",
+        "anular"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_151",
+      "number": "151",
+      "title": "A coa��o, para viciar a declara��o da vontade, h� de ser tal",
+      "text": "Art. 151. A coa��o, para viciar a declara��o da vontade, h� de ser tal que incuta ao paciente fundado temor de dano iminente e consider�vel � sua pessoa, � sua fam�lia, ou aos seus bens. Par�grafo �nico. Se disser respeito a pessoa n�o pertencente � fam�lia do paciente, o juiz, com base nas circunst�ncias, decidir� se houve coa��o.",
+      "tags": [
+        "paciente",
+        "pessoa",
+        "famlia",
+        "viciar",
+        "declarao"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_152",
+      "number": "152",
+      "title": "No apreciar a coa��o, ter-se-�o em conta o sexo, a idade, a c",
+      "text": "Art. 152. No apreciar a coa��o, ter-se-�o em conta o sexo, a idade, a condi��o, a sa�de, o temperamento do paciente e todas as demais circunst�ncias que possam influir na gravidade dela.",
+      "tags": [
+        "apreciar",
+        "terseo",
+        "condio",
+        "temperamento",
+        "paciente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_153",
+      "number": "153",
+      "title": "N�o se considera coa��o a amea�a do exerc�cio normal de um di",
+      "text": "Art. 153. N�o se considera coa��o a amea�a do exerc�cio normal de um direito, nem o simples temor reverencial.",
+      "tags": [
+        "considera",
+        "exerccio",
+        "normal",
+        "direito",
+        "simples"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_154",
+      "number": "154",
+      "title": "Vicia o neg�cio jur�dico a coa��o exercida por terceiro, se d",
+      "text": "Art. 154. Vicia o neg�cio jur�dico a coa��o exercida por terceiro, se dela tivesse ou devesse ter conhecimento a parte a que aproveite, e esta responder� solidariamente com aquele por perdas e danos.",
+      "tags": [
+        "negcio",
+        "jurdico",
+        "exercida",
+        "terceiro",
+        "tivesse"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_155",
+      "number": "155",
+      "title": "Subsistir� o neg�cio jur�dico, se a coa��o decorrer de tercei",
+      "text": "Art. 155. Subsistir� o neg�cio jur�dico, se a coa��o decorrer de terceiro, sem que a parte a que aproveite dela tivesse ou devesse ter conhecimento; mas o autor da coa��o responder� por todas as perdas e danos que houver causado ao coacto. Se��o IV Do Estado de Perigo",
+      "tags": [
+        "subsistir",
+        "negcio",
+        "jurdico",
+        "decorrer",
+        "terceiro"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_156",
+      "number": "156",
+      "title": "Configura-se o estado de perigo quando algu�m, premido da nec",
+      "text": "Art. 156. Configura-se o estado de perigo quando algu�m, premido da necessidade de salvar-se, ou a pessoa de sua fam�lia, de grave dano conhecido pela outra parte, assume obriga��o excessivamente onerosa. Par�grafo �nico. Tratando-se de pessoa n�o pertencente � fam�lia do declarante, o juiz decidir� segundo as circunst�ncias. Se��o V Da Les�o",
+      "tags": [
+        "pessoa",
+        "famlia",
+        "configurase",
+        "estado",
+        "perigo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_157",
+      "number": "157",
+      "title": "Ocorre a les�o quando uma pessoa, sob premente necessidade, o",
+      "text": "Art. 157. Ocorre a les�o quando uma pessoa, sob premente necessidade, ou por inexperi�ncia, se obriga a presta��o manifestamente desproporcional ao valor da presta��o oposta. � 1 o Aprecia-se a despropor��o das presta��es segundo os valores vigentes ao tempo em que foi celebrado o neg�cio jur�dico. � 2 o N�o se decretar� a anula��o do neg�cio, se for oferecido suplemento suficiente, ou se a parte favorecida concordar com a redu��o do proveito. Se��o VI Da Fraude Contra Credores",
+      "tags": [
+        "prestao",
+        "negcio",
+        "ocorre",
+        "quando",
+        "pessoa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_158",
+      "number": "158",
+      "title": "Os neg�cios de transmiss�o gratuita de bens ou remiss�o de d�",
+      "text": "Art. 158. Os neg�cios de transmiss�o gratuita de bens ou remiss�o de d�vida, se os praticar o devedor j� insolvente, ou por eles reduzido � insolv�ncia, ainda quando o ignore, poder�o ser anulados pelos credores quirograf�rios, como lesivos dos seus direitos. � 1 o Igual direito assiste aos credores cuja garantia se tornar insuficiente. � 2 o S� os credores que j� o eram ao tempo daqueles atos podem pleitear a anula��o deles.",
+      "tags": [
+        "credores",
+        "negcios",
+        "transmisso",
+        "gratuita",
+        "remisso"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_159",
+      "number": "159",
+      "title": "Ser�o igualmente anul�veis os contratos onerosos do devedor i",
+      "text": "Art. 159. Ser�o igualmente anul�veis os contratos onerosos do devedor insolvente, quando a insolv�ncia for not�ria, ou houver motivo para ser conhecida do outro contratante.",
+      "tags": [
+        "igualmente",
+        "anulveis",
+        "contratos",
+        "onerosos",
+        "devedor"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_160",
+      "number": "160",
+      "title": "Se o adquirente dos bens do devedor insolvente ainda n�o tive",
+      "text": "Art. 160. Se o adquirente dos bens do devedor insolvente ainda n�o tiver pago o pre�o e este for, aproximadamente, o corrente, desobrigar-se-� depositando-o em ju�zo, com a cita��o de todos os interessados. Par�grafo �nico. Se inferior, o adquirente, para conservar os bens, poder� depositar o pre�o que lhes corresponda ao valor real.",
+      "tags": [
+        "adquirente",
+        "devedor",
+        "insolvente",
+        "aproximadamente",
+        "corrente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_161",
+      "number": "161",
+      "title": "A a��o, nos casos dos arts",
+      "text": "Art. 161. A a��o, nos casos dos arts. 158 e 159, poder� ser intentada contra o devedor insolvente, a pessoa que com ele celebrou a estipula��o considerada fraudulenta, ou terceiros adquirentes que hajam procedido de m�-f�.",
+      "tags": [
+        "intentada",
+        "contra",
+        "devedor",
+        "insolvente",
+        "pessoa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_162",
+      "number": "162",
+      "title": "O credor quirograf�rio, que receber do devedor insolvente o p",
+      "text": "Art. 162. O credor quirograf�rio, que receber do devedor insolvente o pagamento da d�vida ainda n�o vencida, ficar� obrigado a repor, em proveito do acervo sobre que se tenha de efetuar o concurso de credores, aquilo que recebeu.",
+      "tags": [
+        "credor",
+        "quirografrio",
+        "receber",
+        "devedor",
+        "insolvente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_163",
+      "number": "163",
+      "title": "Presumem-se fraudat�rias dos direitos dos outros credores as",
+      "text": "Art. 163. Presumem-se fraudat�rias dos direitos dos outros credores as garantias de d�vidas que o devedor insolvente tiver dado a algum credor.",
+      "tags": [
+        "presumemse",
+        "fraudatrias",
+        "direitos",
+        "outros",
+        "credores"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_164",
+      "number": "164",
+      "title": "Presumem-se, por�m, de boa-f� e valem os neg�cios ordin�rios",
+      "text": "Art. 164. Presumem-se, por�m, de boa-f� e valem os neg�cios ordin�rios indispens�veis � manuten��o de estabelecimento mercantil, rural, ou industrial, ou � subsist�ncia do devedor e de sua fam�lia.",
+      "tags": [
+        "presumemse",
+        "negcios",
+        "ordinrios",
+        "indispensveis",
+        "manuteno"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_165",
+      "number": "165",
+      "title": "Anulados os neg�cios fraudulentos, a vantagem resultante reve",
+      "text": "Art. 165. Anulados os neg�cios fraudulentos, a vantagem resultante reverter� em proveito do acervo sobre que se tenha de efetuar o concurso de credores. Par�grafo �nico. Se esses neg�cios tinham por �nico objeto atribuir direitos preferenciais, mediante hipoteca, penhor ou anticrese, sua invalidade importar� somente na anula��o da prefer�ncia ajustada. CAP�TULO V Da Invalidade do Neg�cio Jur�dico",
+      "tags": [
+        "negcios",
+        "invalidade",
+        "anulados",
+        "fraudulentos",
+        "vantagem"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_166",
+      "number": "166",
+      "title": "Artigo 166",
+      "text": "Art. 166. � nulo o neg�cio jur�dico quando: I - celebrado por pessoa absolutamente incapaz; II - for il�cito, imposs�vel ou indetermin�vel o seu objeto; III - o motivo determinante, comum a ambas as partes, for il�cito; IV - n�o revestir a forma prescrita em lei; V - for preterida alguma solenidade que a lei considere essencial para a sua validade; VI - tiver por objetivo fraudar lei imperativa; VII - a lei taxativamente o declarar nulo, ou proibir-lhe a pr�tica, sem cominar san��o.",
+      "tags": [
+        "ilcito",
+        "negcio",
+        "jurdico",
+        "quando",
+        "celebrado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_167",
+      "number": "167",
+      "title": "Artigo 167",
+      "text": "Art. 167. � nulo o neg�cio jur�dico simulado, mas subsistir� o que se dissimulou, se v�lido for na subst�ncia e na forma. � 1 o Haver� simula��o nos neg�cios jur�dicos quando: I - aparentarem conferir ou transmitir direitos a pessoas diversas daquelas �s quais realmente se conferem, ou transmitem; II - contiverem declara��o, confiss�o, condi��o ou cl�usula n�o verdadeira; III - os instrumentos particulares forem antedatados, ou p�s-datados. � 2 o Ressalvam-se os direitos de terceiros de boa-f� em face dos contraentes do neg�cio jur�dico simulado.",
+      "tags": [
+        "negcio",
+        "jurdico",
+        "simulado",
+        "direitos",
+        "subsistir"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_168",
+      "number": "168",
+      "title": "As nulidades dos artigos antecedentes podem ser alegadas por",
+      "text": "Art. 168. As nulidades dos artigos antecedentes podem ser alegadas por qualquer interessado, ou pelo Minist�rio P�blico, quando lhe couber intervir. Par�grafo �nico. As nulidades devem ser pronunciadas pelo juiz, quando conhecer do neg�cio jur�dico ou dos seus efeitos e as encontrar provadas, n�o lhe sendo permitido supri-las, ainda que a requerimento das partes.",
+      "tags": [
+        "nulidades",
+        "quando",
+        "artigos",
+        "antecedentes",
+        "alegadas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_169",
+      "number": "169",
+      "title": "O neg�cio jur�dico nulo n�o � suscet�vel de confirma��o, nem",
+      "text": "Art. 169. O neg�cio jur�dico nulo n�o � suscet�vel de confirma��o, nem convalesce pelo decurso do tempo.",
+      "tags": [
+        "negcio",
+        "jurdico",
+        "suscetvel",
+        "confirmao",
+        "convalesce"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_170",
+      "number": "170",
+      "title": "Se, por�m, o neg�cio jur�dico nulo contiver os requisitos de",
+      "text": "Art. 170. Se, por�m, o neg�cio jur�dico nulo contiver os requisitos de outro, subsistir� este quando o fim a que visavam as partes permitir supor que o teriam querido, se houvessem previsto a nulidade.",
+      "tags": [
+        "negcio",
+        "jurdico",
+        "contiver",
+        "requisitos",
+        "subsistir"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_171",
+      "number": "171",
+      "title": "Al�m dos casos expressamente declarados na lei, � anul�vel o",
+      "text": "Art. 171. Al�m dos casos expressamente declarados na lei, � anul�vel o neg�cio jur�dico: I - por incapacidade relativa do agente; II - por v�cio resultante de erro, dolo, coa��o, estado de perigo, les�o ou fraude contra credores.",
+      "tags": [
+        "expressamente",
+        "declarados",
+        "anulvel",
+        "negcio",
+        "jurdico"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_172",
+      "number": "172",
+      "title": "O neg�cio anul�vel pode ser confirmado pelas partes, salvo di",
+      "text": "Art. 172. O neg�cio anul�vel pode ser confirmado pelas partes, salvo direito de terceiro.",
+      "tags": [
+        "negcio",
+        "anulvel",
+        "confirmado",
+        "partes",
+        "direito"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_173",
+      "number": "173",
+      "title": "O ato de confirma��o deve conter a subst�ncia do neg�cio cele",
+      "text": "Art. 173. O ato de confirma��o deve conter a subst�ncia do neg�cio celebrado e a vontade expressa de mant�-lo.",
+      "tags": [
+        "confirmao",
+        "conter",
+        "substncia",
+        "negcio",
+        "celebrado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_174",
+      "number": "174",
+      "title": "Artigo 174",
+      "text": "Art. 174. � escusada a confirma��o expressa, quando o neg�cio j� foi cumprido em parte pelo devedor, ciente do v�cio que o inquinava.",
+      "tags": [
+        "escusada",
+        "confirmao",
+        "expressa",
+        "quando",
+        "negcio"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_175",
+      "number": "175",
+      "title": "A confirma��o expressa, ou a execu��o volunt�ria de neg�cio a",
+      "text": "Art. 175. A confirma��o expressa, ou a execu��o volunt�ria de neg�cio anul�vel, nos termos dos arts. 172 a 174, importa a extin��o de todas as a��es, ou exce��es, de que contra ele dispusesse o devedor.",
+      "tags": [
+        "confirmao",
+        "expressa",
+        "execuo",
+        "voluntria",
+        "negcio"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_176",
+      "number": "176",
+      "title": "Quando a anulabilidade do ato resultar da falta de autoriza��",
+      "text": "Art. 176. Quando a anulabilidade do ato resultar da falta de autoriza��o de terceiro, ser� validado se este a der posteriormente.",
+      "tags": [
+        "quando",
+        "anulabilidade",
+        "resultar",
+        "autorizao",
+        "terceiro"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_177",
+      "number": "177",
+      "title": "A anulabilidade n�o tem efeito antes de julgada por senten�a,",
+      "text": "Art. 177. A anulabilidade n�o tem efeito antes de julgada por senten�a, nem se pronuncia de of�cio; s� os interessados a podem alegar, e aproveita exclusivamente aos que a alegarem, salvo o caso de solidariedade ou indivisibilidade.",
+      "tags": [
+        "anulabilidade",
+        "efeito",
+        "julgada",
+        "sentena",
+        "pronuncia"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_178",
+      "number": "178",
+      "title": "Artigo 178",
+      "text": "Art. 178. � de quatro anos o prazo de decad�ncia para pleitear-se a anula��o do neg�cio jur�dico, contado: I - no caso de coa��o, do dia em que ela cessar; II - no de erro, dolo, fraude contra credores, estado de perigo ou les�o, do dia em que se realizou o neg�cio jur�dico; III - no de atos de incapazes, do dia em que cessar a incapacidade.",
+      "tags": [
+        "negcio",
+        "jurdico",
+        "cessar",
+        "quatro",
+        "decadncia"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_179",
+      "number": "179",
+      "title": "Quando a lei dispuser que determinado ato � anul�vel, sem est",
+      "text": "Art. 179. Quando a lei dispuser que determinado ato � anul�vel, sem estabelecer prazo para pleitear-se a anula��o, ser� este de dois anos, a contar da data da conclus�o do ato.",
+      "tags": [
+        "quando",
+        "dispuser",
+        "determinado",
+        "anulvel",
+        "estabelecer"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_180",
+      "number": "180",
+      "title": "O menor, entre dezesseis e dezoito anos, n�o pode, para eximi",
+      "text": "Art. 180. O menor, entre dezesseis e dezoito anos, n�o pode, para eximir-se de uma obriga��o, invocar a sua idade se dolosamente a ocultou quando inquirido pela outra parte, ou se, no ato de obrigar-se, declarou-se maior.",
+      "tags": [
+        "dezesseis",
+        "dezoito",
+        "eximirse",
+        "obrigao",
+        "invocar"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_181",
+      "number": "181",
+      "title": "Ningu�m pode reclamar o que, por uma obriga��o anulada, pagou",
+      "text": "Art. 181. Ningu�m pode reclamar o que, por uma obriga��o anulada, pagou a um incapaz, se n�o provar que reverteu em proveito dele a import�ncia paga.",
+      "tags": [
+        "ningum",
+        "reclamar",
+        "obrigao",
+        "anulada",
+        "incapaz"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_182",
+      "number": "182",
+      "title": "Anulado o neg�cio jur�dico, restituir-se-�o as partes ao esta",
+      "text": "Art. 182. Anulado o neg�cio jur�dico, restituir-se-�o as partes ao estado em que antes dele se achavam, e, n�o sendo poss�vel restitu�-las, ser�o indenizadas com o equivalente.",
+      "tags": [
+        "anulado",
+        "negcio",
+        "jurdico",
+        "restituirseo",
+        "partes"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_183",
+      "number": "183",
+      "title": "A invalidade do instrumento n�o induz a do neg�cio jur�dico s",
+      "text": "Art. 183. A invalidade do instrumento n�o induz a do neg�cio jur�dico sempre que este puder provar-se por outro meio.",
+      "tags": [
+        "invalidade",
+        "instrumento",
+        "negcio",
+        "jurdico",
+        "sempre"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_184",
+      "number": "184",
+      "title": "Respeitada a inten��o das partes, a invalidade parcial de um",
+      "text": "Art. 184. Respeitada a inten��o das partes, a invalidade parcial de um neg�cio jur�dico n�o o prejudicar� na parte v�lida, se esta for separ�vel; a invalidade da obriga��o principal implica a das obriga��es acess�rias, mas a destas n�o induz a da obriga��o principal. T�TULO II Dos Atos Jur�dicos L�citos",
+      "tags": [
+        "invalidade",
+        "obrigao",
+        "principal",
+        "respeitada",
+        "inteno"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_185",
+      "number": "185",
+      "title": "Aos atos jur�dicos l�citos, que n�o sejam neg�cios jur�dicos,",
+      "text": "Art. 185. Aos atos jur�dicos l�citos, que n�o sejam neg�cios jur�dicos, aplicam-se, no que couber, as disposi��es do T�tulo anterior. T�TULO III Dos Atos Il�citos",
+      "tags": [
+        "jurdicos",
+        "lcitos",
+        "negcios",
+        "aplicamse",
+        "couber"
+      ],
+      "relatedArticles": []
     },
     {
       "id": "cc_186",
       "number": "186",
-      "title": "Ato Ilícito",
-      "text": "Aquele que, por ação ou omissão voluntária, negligência ou imprudência, violar direito e causar dano a outrem, ainda que exclusivamente moral, comete ato ilícito.",
-      "tags": ["ato ilícito", "negligência", "imprudência", "dano", "responsabilidade"],
-      "relatedArticles": ["cc_187", "cc_927"]
+      "title": "Aquele que, por a��o ou omiss�o volunt�ria, neglig�ncia ou im",
+      "text": "Art. 186. Aquele que, por a��o ou omiss�o volunt�ria, neglig�ncia ou imprud�ncia, violar direito e causar dano a outrem, ainda que exclusivamente moral, comete ato il�cito.&nbsp;&nbsp; (Vide ADI n� 7055) &nbsp;&nbsp;&nbsp; (Vide ADI n� 6792)",
+      "tags": [
+        "aquele",
+        "omisso",
+        "voluntria",
+        "negligncia",
+        "imprudncia"
+      ],
+      "relatedArticles": []
     },
     {
-      "id": "cc_927",
-      "number": "927",
-      "title": "Obrigação de Indenizar",
-      "text": "Aquele que, por ato ilícito (arts. 186 e 187), causar dano a outrem, fica obrigado a repará-lo. Parágrafo único. Haverá obrigação de reparar o dano, independentemente de culpa, nos casos especificados em lei, ou quando a atividade normalmente desenvolvida pelo autor do dano implicar, por sua natureza, risco para os direitos de outrem.",
-      "tags": ["indenização", "reparação", "dano", "responsabilidade civil", "culpa"],
-      "relatedArticles": ["cc_186", "cc_928", "cc_944"]
+      "id": "cc_187",
+      "number": "187",
+      "title": "Tamb�m comete ato il�cito o titular de um direito que, ao exe",
+      "text": "Art. 187. Tamb�m comete ato il�cito o titular de um direito que, ao exerc�-lo, excede manifestamente os limites impostos pelo seu fim econ�mico ou social, pela boa-f� ou pelos bons costumes.",
+      "tags": [
+        "comete",
+        "ilcito",
+        "titular",
+        "direito",
+        "exerclo"
+      ],
+      "relatedArticles": []
     },
     {
-      "id": "cc_1228",
-      "number": "1228",
-      "title": "Direito de Propriedade",
-      "text": "O proprietário tem a faculdade de usar, gozar e dispor da coisa, e o direito de reavê-la do poder de quem quer que injustamente a possua ou detenha. § 1º O direito de propriedade deve ser exercido em consonância com as suas finalidades econômicas e sociais e de modo que sejam preservados, de conformidade com o estabelecido em lei especial, a flora, a fauna, as belezas naturais, o equilíbrio ecológico e o patrimônio histórico e artístico, bem como evitada a poluição do ar e das águas.",
-      "tags": ["propriedade", "posse", "domínio", "imóvel", "dono", "uso"],
-      "relatedArticles": ["cc_1229", "cc_1245"]
+      "id": "cc_188",
+      "number": "188",
+      "title": "N�o constituem atos il�citos",
+      "text": "Art. 188. N�o constituem atos il�citos: I - os praticados em leg�tima defesa ou no exerc�cio regular de um direito reconhecido; II - a deteriora��o ou destrui��o da coisa alheia, ou a les�o a pessoa, a fim de remover perigo iminente. Par�grafo �nico. No caso do inciso II, o ato ser� leg�timo somente quando as circunst�ncias o tornarem absolutamente necess�rio, n�o excedendo os limites do indispens�vel para a remo��o do perigo. T�TULO IV Da Prescri��o e da Decad�ncia CAP�TULO I Da Prescri��o Se��o I Disposi��es Gerais",
+      "tags": [
+        "perigo",
+        "prescrio",
+        "constituem",
+        "ilcitos",
+        "praticados"
+      ],
+      "relatedArticles": []
     },
     {
-      "id": "cc_1566",
-      "number": "1566",
-      "title": "Deveres dos Cônjuges",
-      "text": "São deveres de ambos os cônjuges: I - fidelidade recíproca; II - vida em comum, no domicílio conjugal; III - mútua assistência; IV - sustento, guarda e educação dos filhos; V - respeito e consideração mútuos.",
-      "tags": ["casamento", "cônjuges", "fidelidade", "família", "deveres", "matrimônio"],
-      "relatedArticles": ["cc_1511", "cc_1571"]
+      "id": "cc_189",
+      "number": "189",
+      "title": "Violado o direito, nasce para o titular a pretens�o, a qual s",
+      "text": "Art. 189. Violado o direito, nasce para o titular a pretens�o, a qual se extingue, pela prescri��o, nos prazos a que aludem os arts. 205 e 206.",
+      "tags": [
+        "violado",
+        "direito",
+        "titular",
+        "pretenso",
+        "extingue"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_190",
+      "number": "190",
+      "title": "A exce��o prescreve no mesmo prazo em que a pretens�o",
+      "text": "Art. 190. A exce��o prescreve no mesmo prazo em que a pretens�o.",
+      "tags": [
+        "prescreve",
+        "pretenso"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_191",
+      "number": "191",
+      "title": "A ren�ncia da prescri��o pode ser expressa ou t�cita, e s� va",
+      "text": "Art. 191. A ren�ncia da prescri��o pode ser expressa ou t�cita, e s� valer�, sendo feita, sem preju�zo de terceiro, depois que a prescri��o se consumar; t�cita � a ren�ncia quando se presume de fatos do interessado, incompat�veis com a prescri��o.",
+      "tags": [
+        "prescrio",
+        "renncia",
+        "expressa",
+        "prejuzo",
+        "terceiro"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_192",
+      "number": "192",
+      "title": "Os prazos de prescri��o n�o podem ser alterados por acordo da",
+      "text": "Art. 192. Os prazos de prescri��o n�o podem ser alterados por acordo das partes.",
+      "tags": [
+        "prazos",
+        "prescrio",
+        "alterados",
+        "acordo",
+        "partes"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_193",
+      "number": "193",
+      "title": "A prescri��o pode ser alegada em qualquer grau de jurisdi��o,",
+      "text": "Art. 193. A prescri��o pode ser alegada em qualquer grau de jurisdi��o, pela parte a quem aproveita.",
+      "tags": [
+        "prescrio",
+        "alegada",
+        "qualquer",
+        "jurisdio",
+        "aproveita"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_194",
+      "number": "194",
+      "title": "Artigo 194",
+      "text": "Art. 194. (Revogado pela Lei n� 11.280, de 2006)",
+      "tags": [
+        "revogado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_195",
+      "number": "195",
+      "title": "Os relativamente incapazes e as pessoas jur�dicas t�m a��o co",
+      "text": "Art. 195. Os relativamente incapazes e as pessoas jur�dicas t�m a��o contra os seus assistentes ou representantes legais, que derem causa � prescri��o, ou n�o a alegarem oportunamente.",
+      "tags": [
+        "relativamente",
+        "incapazes",
+        "pessoas",
+        "jurdicas",
+        "contra"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_196",
+      "number": "196",
+      "title": "A prescri��o iniciada contra uma pessoa continua a correr con",
+      "text": "Art. 196. A prescri��o iniciada contra uma pessoa continua a correr contra o seu sucessor. Se��o II Das Causas que Impedem ou Suspendem a Prescri��o",
+      "tags": [
+        "prescrio",
+        "contra",
+        "iniciada",
+        "pessoa",
+        "continua"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_197",
+      "number": "197",
+      "title": "N�o corre a prescri��o",
+      "text": "Art. 197. N�o corre a prescri��o: I - entre os c�njuges, na const�ncia da sociedade conjugal; II - entre ascendentes e descendentes, durante o poder familiar; III - entre tutelados ou curatelados e seus tutores ou curadores, durante a tutela ou curatela.",
+      "tags": [
+        "durante",
+        "prescrio",
+        "cnjuges",
+        "constncia",
+        "sociedade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_198",
+      "number": "198",
+      "title": "Tamb�m n�o corre a prescri��o",
+      "text": "Art. 198. Tamb�m n�o corre a prescri��o: I - contra os incapazes de que trata o art. 3 o ; II - contra os ausentes do Pa�s em servi�o p�blico da Uni�o, dos Estados ou dos Munic�pios; III - contra os que se acharem servindo nas For�as Armadas, em tempo de guerra.",
+      "tags": [
+        "contra",
+        "prescrio",
+        "incapazes",
+        "ausentes",
+        "servio"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_199",
+      "number": "199",
+      "title": "N�o corre igualmente a prescri��o",
+      "text": "Art. 199. N�o corre igualmente a prescri��o: I - pendendo condi��o suspensiva; II - n�o estando vencido o prazo; III - pendendo a��o de evic��o.",
+      "tags": [
+        "pendendo",
+        "igualmente",
+        "prescrio",
+        "condio",
+        "suspensiva"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_200",
+      "number": "200",
+      "title": "Quando a a��o se originar de fato que deva ser apurado no ju�",
+      "text": "Art. 200. Quando a a��o se originar de fato que deva ser apurado no ju�zo criminal, n�o correr� a prescri��o antes da respectiva senten�a definitiva.",
+      "tags": [
+        "quando",
+        "originar",
+        "apurado",
+        "criminal",
+        "correr"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_201",
+      "number": "201",
+      "title": "Suspensa a prescri��o em favor de um dos credores solid�rios,",
+      "text": "Art. 201. Suspensa a prescri��o em favor de um dos credores solid�rios, s� aproveitam os outros se a obriga��o for indivis�vel. Se��o III Das Causas que Interrompem a Prescri��o",
+      "tags": [
+        "prescrio",
+        "suspensa",
+        "credores",
+        "solidrios",
+        "aproveitam"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_202",
+      "number": "202",
+      "title": "A interrup��o da prescri��o, que somente poder� ocorrer uma v",
+      "text": "Art. 202. A interrup��o da prescri��o, que somente poder� ocorrer uma vez, dar-se-�: I - por despacho do juiz, mesmo incompetente, que ordenar a cita��o, se o interessado a promover no prazo e na forma da lei processual; II - por protesto, nas condi��es do inciso antecedente; III - por protesto cambial; IV - pela apresenta��o do t�tulo de cr�dito em ju�zo de invent�rio ou em concurso de credores; V - por qualquer ato judicial que constitua em mora o devedor; VI - por qualquer ato inequ�voco, ainda que extrajudicial, que importe reconhecimento do direito pelo devedor. Par�grafo �nico. A prescri��o interrompida recome�a a correr da data do ato que a interrompeu, ou do �ltimo ato do processo para a interromper.",
+      "tags": [
+        "prescrio",
+        "protesto",
+        "qualquer",
+        "devedor",
+        "interrupo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_203",
+      "number": "203",
+      "title": "A prescri��o pode ser interrompida por qualquer interessado",
+      "text": "Art. 203. A prescri��o pode ser interrompida por qualquer interessado.",
+      "tags": [
+        "prescrio",
+        "interrompida",
+        "qualquer",
+        "interessado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_204",
+      "number": "204",
+      "title": "A interrup��o da prescri��o por um credor n�o aproveita aos o",
+      "text": "Art. 204. A interrup��o da prescri��o por um credor n�o aproveita aos outros; semelhantemente, a interrup��o operada contra o co-devedor, ou seu herdeiro, n�o prejudica aos demais coobrigados. � 1 o A interrup��o por um dos credores solid�rios aproveita aos outros; assim como a interrup��o efetuada contra o devedor solid�rio envolve os demais e seus herdeiros. � 2 o A interrup��o operada contra um dos herdeiros do devedor solid�rio n�o prejudica os outros herdeiros ou devedores, sen�o quando se trate de obriga��es e direitos indivis�veis. � 3 o A interrup��o produzida contra o principal devedor prejudica o fiador. Se��o IV Dos Prazos da Prescri��o",
+      "tags": [
+        "interrupo",
+        "contra",
+        "outros",
+        "prejudica",
+        "devedor"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_205",
+      "number": "205",
+      "title": "A prescri��o ocorre em dez anos, quando a lei n�o lhe haja fi",
+      "text": "Art. 205. A prescri��o ocorre em dez anos, quando a lei n�o lhe haja fixado prazo menor.",
+      "tags": [
+        "prescrio",
+        "ocorre",
+        "quando",
+        "fixado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_206",
+      "number": "206",
+      "title": "Prescreve",
+      "text": "Art. 206. Prescreve: � 1 o Em um ano: I - a pretens�o dos hospedeiros ou fornecedores de v�veres destinados a consumo no pr�prio estabelecimento, para o pagamento da hospedagem ou dos alimentos; II - (Revogado pela Lei n� 15.040, de 2024) &nbsp;&nbsp;&nbsp; Vig�ncia III - a pretens�o dos tabeli�es, auxiliares da justi�a, serventu�rios judiciais, �rbitros e peritos, pela percep��o de emolumentos, custas e honor�rios; IV - a pretens�o contra os peritos, pela avalia��o dos bens que entraram para a forma��o do capital de sociedade an�nima, contado da publica��o da ata da assembl�ia que aprovar o laudo; V - a pretens�o dos credores n�o pagos contra os s�cios ou acionistas e os liquidantes, contado o prazo da publica��o da ata de encerramento da liquida��o da sociedade. � 2 o Em dois anos, a pretens�o para haver presta��es alimentares, a partir da data em que se vencerem. � 3 o Em tr�s anos: I - a pretens�o relativa a alugu�is de pr�dios urbanos ou r�sticos; II - a pretens�o para receber presta��es vencidas de rendas tempor�rias ou vital�cias; III - a pretens�o para haver juros, dividendos ou quaisquer presta��es acess�rias, pag�veis, em per�odos n�o maiores de um ano, com capitaliza��o ...",
+      "tags": [
+        "pretenso",
+        "prestaes",
+        "peritos",
+        "contra",
+        "sociedade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_207",
+      "number": "207",
+      "title": "Salvo disposi��o legal em contr�rio, n�o se aplicam � decad�n",
+      "text": "Art. 207. Salvo disposi��o legal em contr�rio, n�o se aplicam � decad�ncia as normas que impedem, suspendem ou interrompem a prescri��o.",
+      "tags": [
+        "disposio",
+        "contrrio",
+        "aplicam",
+        "decadncia",
+        "normas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cc_208",
+      "number": "208",
+      "title": "Aplica-se � decad�ncia o disposto nos arts",
+      "text": "Art. 208. Aplica-se � decad�ncia o disposto nos arts. 195 e 198, inciso I.",
+      "tags": [
+        "aplicase",
+        "decadncia",
+        "disposto",
+        "inciso"
+      ],
+      "relatedArticles": []
     }
   ]
 }
