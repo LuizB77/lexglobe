@@ -1,0 +1,24 @@
+[
+  {
+    "code": "BR",
+    "name": "Brazil",
+    "nameLocal": "Brasil",
+    "flag": "🇧🇷",
+    "active": true,
+    "codes": ["constituicao", "codigoPenal", "codigoCivil", "clt", "eca", "cdc"]
+  },
+  { "code": "US", "name": "United States", "flag": "🇺🇸", "active": false },
+  { "code": "MX", "name": "Mexico", "flag": "🇲🇽", "active": false },
+  { "code": "AR", "name": "Argentina", "flag": "🇦🇷", "active": false },
+  { "code": "DE", "name": "Germany", "flag": "🇩🇪", "active": false },
+  { "code": "FR", "name": "France", "flag": "🇫🇷", "active": false },
+  { "code": "JP", "name": "Japan", "flag": "🇯🇵", "active": false },
+  { "code": "IN", "name": "India", "flag": "🇮🇳", "active": false },
+  { "code": "CN", "name": "China", "flag": "🇨🇳", "active": false },
+  { "code": "GB", "name": "United Kingdom", "flag": "🇬🇧", "active": false },
+  { "code": "CA", "name": "Canada", "flag": "🇨🇦", "active": false },
+  { "code": "AU", "name": "Australia", "flag": "🇦🇺", "active": false },
+  { "code": "PT", "name": "Portugal", "flag": "🇵🇹", "active": false },
+  { "code": "IT", "name": "Italy", "flag": "🇮🇹", "active": false },
+  { "code": "ES", "name": "Spain", "flag": "🇪🇸", "active": false }
+]

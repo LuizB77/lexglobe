@@ -1,0 +1,48 @@
+{
+  "country": "BR",
+  "code": "eca",
+  "displayName": "ECA",
+  "color": "#F6AD55",
+  "articles": [
+    {
+      "id": "eca_1",
+      "number": "1",
+      "title": "Proteção Integral",
+      "text": "Esta Lei dispõe sobre a proteção integral à criança e ao adolescente.",
+      "tags": ["criança", "adolescente", "proteção", "integral"],
+      "relatedArticles": ["eca_2", "eca_3"]
+    },
+    {
+      "id": "eca_2",
+      "number": "2",
+      "title": "Definição de Criança e Adolescente",
+      "text": "Considera-se criança, para os efeitos desta Lei, a pessoa até doze anos de idade incompletos, e adolescente aquela entre doze e dezoito anos de idade.",
+      "tags": ["criança", "adolescente", "idade", "definição", "menor"],
+      "relatedArticles": ["eca_1", "eca_3"]
+    },
+    {
+      "id": "eca_4",
+      "number": "4",
+      "title": "Dever de Proteção",
+      "text": "É dever da família, da comunidade, da sociedade em geral e do poder público assegurar, com absoluta prioridade, a efetivação dos direitos referentes à vida, à saúde, à alimentação, à educação, ao esporte, ao lazer, à profissionalização, à cultura, à dignidade, ao respeito, à liberdade e à convivência familiar e comunitária.",
+      "tags": ["proteção", "família", "sociedade", "direitos", "prioridade", "criança"],
+      "relatedArticles": ["eca_1", "eca_5"]
+    },
+    {
+      "id": "eca_7",
+      "number": "7",
+      "title": "Direito à Vida e à Saúde",
+      "text": "A criança e o adolescente têm direito a proteção à vida e à saúde, mediante a efetivação de políticas sociais públicas que permitam o nascimento e o desenvolvimento sadio e harmonioso, em condições dignas de existência.",
+      "tags": ["vida", "saúde", "criança", "nascimento", "desenvolvimento"],
+      "relatedArticles": ["eca_4", "eca_8"]
+    },
+    {
+      "id": "eca_53",
+      "number": "53",
+      "title": "Direito à Educação",
+      "text": "A criança e o adolescente têm direito à educação, visando ao pleno desenvolvimento de sua pessoa, preparo para o exercício da cidadania e qualificação para o trabalho, assegurando-se-lhes: I - igualdade de condições para o acesso e permanência na escola; II - direito de ser respeitado por seus educadores; III - direito de contestar critérios avaliativos, podendo recorrer às instâncias escolares superiores; IV - direito de organização e participação em entidades estudantis; V - acesso à escola pública e gratuita próxima de sua residência.",
+      "tags": ["educação", "escola", "criança", "adolescente", "acesso"],
+      "relatedArticles": ["eca_54", "eca_55"]
+    }
+  ]
+}

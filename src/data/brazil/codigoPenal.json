@@ -1,0 +1,56 @@
+{
+  "country": "BR",
+  "code": "codigoPenal",
+  "displayName": "Código Penal",
+  "color": "#E53E3E",
+  "articles": [
+    {
+      "id": "cp_121",
+      "number": "121",
+      "title": "Homicídio simples",
+      "text": "Matar alguém: Pena - reclusão, de seis a vinte anos. Caso de diminuição de pena: § 1º Se o agente comete o crime impelido por motivo de relevante valor social ou moral, ou sob o domínio de violenta emoção, logo em seguida a injusta provocação da vítima, o juiz pode reduzir a pena de um sexto a um terço. Homicídio qualificado: § 2° Se o homicídio é cometido: I - mediante paga ou promessa de recompensa, ou por outro motivo torpe; II - por motivo fútil; III - com emprego de veneno, fogo, explosivo, asfixia, tortura ou outro meio insidioso ou cruel, ou de que possa resultar perigo comum; IV - à traição, de emboscada, ou mediante dissimulação ou outro recurso que dificulte ou torne impossível a defesa do ofendido; Pena - reclusão, de doze a trinta anos.",
+      "tags": ["homicídio", "morte", "matar", "pena", "reclusão", "assassinato"],
+      "relatedArticles": ["cp_122", "cp_123", "cp_129"]
+    },
+    {
+      "id": "cp_129",
+      "number": "129",
+      "title": "Lesão corporal",
+      "text": "Ofender a integridade corporal ou a saúde de outrem: Pena - detenção, de três meses a um ano. Lesão corporal de natureza grave: § 1° Se resulta: I - incapacidade para as ocupações habituais, por mais de trinta dias; II - perigo de vida; III - debilidade permanente de membro, sentido ou função; IV - aceleração de parto: Pena - reclusão, de um a cinco anos. Lesão corporal gravíssima: § 2° Se resulta: I - incapacidade permanente para o trabalho; II - enfermidade incurável; III - perda ou inutilização do membro, sentido ou função; IV - deformidade permanente; V - aborto: Pena - reclusão, de dois a oito anos.",
+      "tags": ["lesão", "agressão", "violência", "corpo", "integridade", "briga"],
+      "relatedArticles": ["cp_121", "cp_130"]
+    },
+    {
+      "id": "cp_155",
+      "number": "155",
+      "title": "Furto",
+      "text": "Subtrair, para si ou para outrem, coisa alheia móvel: Pena - reclusão, de um a quatro anos, e multa. § 1º - A pena aumenta-se de um terço, se o crime é praticado durante o repouso noturno. § 2º - Se o criminoso é primário, e é de pequeno valor a coisa furtada, o juiz pode substituir a pena de reclusão pela de detenção, diminuí-la de um a dois terços, ou aplicar somente a pena de multa. Furto qualificado: § 4º - A pena é de reclusão de dois a oito anos, e multa, se o furto é cometido: I - com destruição ou rompimento de obstáculo à subtração da coisa; II - com abuso de confiança, ou mediante fraude, escalada ou destreza; III - com emprego de chave falsa; IV - mediante concurso de duas ou mais pessoas.",
+      "tags": ["furto", "roubo", "subtração", "coisa", "pena", "crime"],
+      "relatedArticles": ["cp_157", "cp_158"]
+    },
+    {
+      "id": "cp_157",
+      "number": "157",
+      "title": "Roubo",
+      "text": "Subtrair coisa móvel alheia, para si ou para outrem, mediante grave ameaça ou violência a pessoa, ou depois de havê-la, por qualquer meio, reduzido à impossibilidade de resistência: Pena - reclusão, de quatro a dez anos, e multa. § 1º Na mesma pena incorre quem, logo depois de subtraída a coisa, emprega violência contra pessoa ou grave ameaça, a fim de assegurar a impunidade do crime ou a detenção da coisa para si ou para terceiro. Roubo qualificado: § 2º - A pena aumenta-se de um terço até metade: I - se a violência ou ameaça é exercida com emprego de arma; II - se há o concurso de duas ou mais pessoas; IV - se a subtração for de veículo automotor que venha a ser transportado para outro Estado ou para o exterior.",
+      "tags": ["roubo", "assalto", "violência", "ameaça", "arma", "pena"],
+      "relatedArticles": ["cp_155", "cp_158", "cp_159"]
+    },
+    {
+      "id": "cp_171",
+      "number": "171",
+      "title": "Estelionato",
+      "text": "Obter, para si ou para outrem, vantagem ilícita, em prejuízo alheio, induzindo ou mantendo alguém em erro, mediante artifício, ardil, ou qualquer outro meio fraudulento: Pena - reclusão, de um a cinco anos, e multa, se o fato não constitui elemento de crime mais grave. § 1º - Se o criminoso é primário, e é de pequeno valor o prejuízo, o juiz pode aplicar a pena conforme o disposto no art. 155, § 2º. § 2º - Nas mesmas penas incorre quem: I - vende, permuta, dá em pagamento, em locação ou em garantia coisa alheia como própria.",
+      "tags": ["estelionato", "fraude", "golpe", "engano", "prejuízo", "vantagem ilícita"],
+      "relatedArticles": ["cp_155", "cp_172"]
+    },
+    {
+      "id": "cp_213",
+      "number": "213",
+      "title": "Estupro",
+      "text": "Constranger alguém, mediante violência ou grave ameaça, a ter conjunção carnal ou a praticar ou permitir que com ele se pratique outro ato libidinoso: Pena - reclusão, de 6 (seis) a 10 (dez) anos. § 1º Se da conduta resulta lesão corporal de natureza grave ou se a vítima é menor de 18 (dezoito) ou maior de 14 (catorze) anos: Pena - reclusão, de 8 (oito) a 12 (doze) anos. § 2º Se da conduta resulta morte: Pena - reclusão, de 12 (doze) a 30 (trinta) anos.",
+      "tags": ["estupro", "violência sexual", "abuso", "constrangimento"],
+      "relatedArticles": ["cp_214", "cp_217"]
+    }
+  ]
+}

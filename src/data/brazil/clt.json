@@ -1,0 +1,48 @@
+{
+  "country": "BR",
+  "code": "clt",
+  "displayName": "CLT",
+  "color": "#1D9E75",
+  "articles": [
+    {
+      "id": "clt_1",
+      "number": "1",
+      "title": "Aplicação da CLT",
+      "text": "Esta Consolidação estatui as normas que regulam as relações individuais e coletivas de trabalho, nela previstas.",
+      "tags": ["CLT", "trabalho", "relações trabalhistas", "normas"],
+      "relatedArticles": ["clt_2", "clt_3"]
+    },
+    {
+      "id": "clt_3",
+      "number": "3",
+      "title": "Conceito de Empregado",
+      "text": "Considera-se empregado toda pessoa f\u00edsica que prestar servi\u00e7os de natureza n\u00e3o eventual a empregador, sob a depend\u00eancia deste e mediante sal\u00e1rio. Par\u00e1grafo \u00fanico - N\u00e3o haver\u00e1 distin\u00e7\u00f5es relativas \u00e0 esp\u00e9cie de emprego e \u00e0 condi\u00e7\u00e3o de trabalhador, nem entre o trabalho intelectual, t\u00e9cnico e manual.",
+      "tags": ["empregado", "trabalhador", "salário", "dependência", "serviços"],
+      "relatedArticles": ["clt_2", "clt_4"]
+    },
+    {
+      "id": "clt_58",
+      "number": "58",
+      "title": "Duração do Trabalho",
+      "text": "A dura\u00e7\u00e3o normal do trabalho, para os empregados em qualquer atividade privada, n\u00e3o exceder\u00e1 de 8 (oito) horas di\u00e1rias, desde que n\u00e3o seja fixado expressamente outro limite. \u00a7 1\u00ba N\u00e3o ser\u00e3o descontadas nem computadas como jornada extraordin\u00e1ria as varia\u00e7\u00f5es de hor\u00e1rio no registro de ponto n\u00e3o excedentes de cinco minutos, observado o limite m\u00e1ximo de dez minutos di\u00e1rios.",
+      "tags": ["jornada", "horas", "trabalho", "horário", "carga horária"],
+      "relatedArticles": ["clt_59", "clt_60"]
+    },
+    {
+      "id": "clt_477",
+      "number": "477",
+      "title": "Rescisão do Contrato de Trabalho",
+      "text": "Na extin\u00e7\u00e3o do contrato de trabalho, o empregador dever\u00e1 proceder \u00e0 anota\u00e7\u00e3o na Carteira de Trabalho e Previd\u00eancia Social, comunicar a dispensa aos \u00f3rg\u00e3os competentes e realizar o pagamento das verbas rescis\u00f3rias no prazo e na forma estabelecidos neste artigo. \u00a7 6\u00ba O pagamento das parcelas constantes do instrumento de rescis\u00e3o ou recibo de quita\u00e7\u00e3o dever\u00e1 ser efetuado nos seguintes prazos: a) at\u00e9 o primeiro dia \u00fatil imediato ao t\u00e9rmino do contrato; ou b) at\u00e9 o d\u00e9cimo dia, contado da data da notifica\u00e7\u00e3o da demiss\u00e3o, quando da aus\u00eancia do aviso pr\u00e9vio.",
+      "tags": ["rescisão", "demissão", "contrato", "pagamento", "CTPS", "verbas"],
+      "relatedArticles": ["clt_478", "clt_487"]
+    },
+    {
+      "id": "clt_487",
+      "number": "487",
+      "title": "Aviso Prévio",
+      "text": "N\u00e3o havendo prazo estipulado, a parte que, sem justo motivo, quiser rescindir o contrato dever\u00e1 avisar a outra da sua resolu\u00e7\u00e3o com a anteced\u00eancia m\u00ednima de: I - oito dias, se o pagamento for efetuado por semana ou tempo inferior; II - trinta dias aos que perceberem por quinzena ou m\u00eas, ou que tenham mais de 12 (doze) meses de servi\u00e7o na empresa.",
+      "tags": ["aviso prévio", "demissão", "rescisão", "prazo", "contrato"],
+      "relatedArticles": ["clt_477", "clt_488"]
+    }
+  ]
+}

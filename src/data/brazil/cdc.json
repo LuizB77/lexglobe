@@ -1,0 +1,48 @@
+{
+  "country": "BR",
+  "code": "cdc",
+  "displayName": "CDC",
+  "color": "#63B3ED",
+  "articles": [
+    {
+      "id": "cdc_1",
+      "number": "1",
+      "title": "Objeto e Finalidade",
+      "text": "O presente código estabelece normas de proteção e defesa do consumidor, de ordem pública e interesse social, nos termos dos arts. 5°, inciso XXXII, 170, inciso V, da Constituição Federal e art. 48 de suas Disposições Transitórias.",
+      "tags": ["consumidor", "proteção", "defesa", "normas", "direito"],
+      "relatedArticles": ["cdc_2", "cdc_3"]
+    },
+    {
+      "id": "cdc_2",
+      "number": "2",
+      "title": "Consumidor",
+      "text": "Consumidor é toda pessoa física ou jurídica que adquire ou utiliza produto ou serviço como destinatário final. Parágrafo único. Equipara-se a consumidor a coletividade de pessoas, ainda que indetermináveis, que haja intervindo nas relações de consumo.",
+      "tags": ["consumidor", "produto", "serviço", "definição", "destinatário"],
+      "relatedArticles": ["cdc_1", "cdc_3"]
+    },
+    {
+      "id": "cdc_6",
+      "number": "6",
+      "title": "Direitos Básicos do Consumidor",
+      "text": "São direitos básicos do consumidor: I - a proteção da vida, saúde e segurança contra os riscos provocados por práticas no fornecimento de produtos e serviços considerados perigosos ou nocivos; II - a educação e divulgação sobre o consumo adequado dos produtos e serviços, asseguradas a liberdade de escolha e a igualdade nas contratações; III - a informação adequada e clara sobre os diferentes produtos e serviços; IV - a proteção contra a publicidade enganosa e abusiva, métodos comerciais coercitivos ou desleais; V - a modificação das cláusulas contratuais que estabeleçam prestações desproporcionais ou sua revisão em razão de fatos supervenientes que as tornem excessivamente onerosas; VI - a efetiva prevenção e reparação de danos patrimoniais e morais, individuais, coletivos e difusos; VIII - a facilitação da defesa de seus direitos, inclusive com a inversão do ônus da prova.",
+      "tags": ["direitos", "consumidor", "proteção", "informação", "publicidade enganosa", "dano"],
+      "relatedArticles": ["cdc_2", "cdc_7", "cdc_14"]
+    },
+    {
+      "id": "cdc_18",
+      "number": "18",
+      "title": "Vícios de Qualidade de Produtos",
+      "text": "Os fornecedores de produtos de consumo duráveis ou não duráveis respondem solidariamente pelos vícios de qualidade ou quantidade que os tornem impróprios ou inadequados ao consumo a que se destinam ou lhes diminuam o valor, assim como por aqueles decorrentes da disparidade, com a indicações constantes do recipiente, da embalagem, rotulagem ou mensagem publicitária. § 1° Não sendo o vício sanado no prazo máximo de trinta dias, pode o consumidor exigir, alternativamente e à sua escolha: I - a substituição do produto por outro da mesma espécie, em perfeitas condições de uso; II - a restituição imediata da quantia paga; III - o abatimento proporcional do preço.",
+      "tags": ["vício", "produto", "troca", "defeito", "devolução", "reembolso", "30 dias"],
+      "relatedArticles": ["cdc_6", "cdc_19", "cdc_26"]
+    },
+    {
+      "id": "cdc_49",
+      "number": "49",
+      "title": "Direito de Arrependimento",
+      "text": "O consumidor pode desistir do contrato, no prazo de 7 (sete) dias a contar de sua assinatura ou do ato de recebimento do produto ou serviço, sempre que a contratação de fornecimento de produtos e serviços ocorrer fora do estabelecimento comercial, especialmente por telefone ou a domicílio. Parágrafo único. Se o consumidor exercitar o direito de arrependimento previsto neste artigo, os valores eventualmente pagos, a qualquer título, durante o prazo de reflexão, serão devolvidos, de imediato, monetariamente atualizados.",
+      "tags": ["arrependimento", "cancelamento", "7 dias", "devolução", "desistir", "compra online"],
+      "relatedArticles": ["cdc_18", "cdc_50"]
+    }
+  ]
+}

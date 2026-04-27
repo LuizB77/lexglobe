@@ -1,0 +1,56 @@
+{
+  "country": "BR",
+  "code": "codigoCivil",
+  "displayName": "Código Civil",
+  "color": "#7F77DD",
+  "articles": [
+    {
+      "id": "cc_1",
+      "number": "1",
+      "title": "Personalidade Civil",
+      "text": "Toda pessoa é capaz de direitos e deveres na ordem civil.",
+      "tags": ["personalidade", "pessoa", "capacidade", "direitos", "deveres"],
+      "relatedArticles": ["cc_2", "cc_3", "cc_4"]
+    },
+    {
+      "id": "cc_2",
+      "number": "2",
+      "title": "Início da Personalidade",
+      "text": "A personalidade civil da pessoa começa do nascimento com vida; mas a lei põe a salvo, desde a concepção, os direitos do nascituro.",
+      "tags": ["nascimento", "vida", "nascituro", "concepção", "personalidade"],
+      "relatedArticles": ["cc_1", "cc_3"]
+    },
+    {
+      "id": "cc_186",
+      "number": "186",
+      "title": "Ato Ilícito",
+      "text": "Aquele que, por ação ou omissão voluntária, negligência ou imprudência, violar direito e causar dano a outrem, ainda que exclusivamente moral, comete ato ilícito.",
+      "tags": ["ato ilícito", "negligência", "imprudência", "dano", "responsabilidade"],
+      "relatedArticles": ["cc_187", "cc_927"]
+    },
+    {
+      "id": "cc_927",
+      "number": "927",
+      "title": "Obrigação de Indenizar",
+      "text": "Aquele que, por ato ilícito (arts. 186 e 187), causar dano a outrem, fica obrigado a repará-lo. Parágrafo único. Haverá obrigação de reparar o dano, independentemente de culpa, nos casos especificados em lei, ou quando a atividade normalmente desenvolvida pelo autor do dano implicar, por sua natureza, risco para os direitos de outrem.",
+      "tags": ["indenização", "reparação", "dano", "responsabilidade civil", "culpa"],
+      "relatedArticles": ["cc_186", "cc_928", "cc_944"]
+    },
+    {
+      "id": "cc_1228",
+      "number": "1228",
+      "title": "Direito de Propriedade",
+      "text": "O proprietário tem a faculdade de usar, gozar e dispor da coisa, e o direito de reavê-la do poder de quem quer que injustamente a possua ou detenha. § 1º O direito de propriedade deve ser exercido em consonância com as suas finalidades econômicas e sociais e de modo que sejam preservados, de conformidade com o estabelecido em lei especial, a flora, a fauna, as belezas naturais, o equilíbrio ecológico e o patrimônio histórico e artístico, bem como evitada a poluição do ar e das águas.",
+      "tags": ["propriedade", "posse", "domínio", "imóvel", "dono", "uso"],
+      "relatedArticles": ["cc_1229", "cc_1245"]
+    },
+    {
+      "id": "cc_1566",
+      "number": "1566",
+      "title": "Deveres dos Cônjuges",
+      "text": "São deveres de ambos os cônjuges: I - fidelidade recíproca; II - vida em comum, no domicílio conjugal; III - mútua assistência; IV - sustento, guarda e educação dos filhos; V - respeito e consideração mútuos.",
+      "tags": ["casamento", "cônjuges", "fidelidade", "família", "deveres", "matrimônio"],
+      "relatedArticles": ["cc_1511", "cc_1571"]
+    }
+  ]
+}
