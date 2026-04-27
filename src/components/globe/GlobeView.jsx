@@ -213,7 +213,7 @@ export default function GlobeView({ onCountryClick, onCountryHover, globeRef: ex
             <span style="font-size:18px">${data.flag||''}</span>
             <strong style="margin-left:8px">${data.name}</strong>
             ${data.active
-              ? '<div style="color:#7F77DD;font-size:11px;margin-top:3px">● Law library available</div>'
+              ? '<div style="color:#B8860B;font-size:11px;margin-top:3px">● Law library available</div>'
               : '<div style="color:#666;font-size:11px;margin-top:3px">Coming soon</div>'}
           </div>`
         }}
