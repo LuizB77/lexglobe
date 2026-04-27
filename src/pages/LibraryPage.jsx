@@ -79,9 +79,8 @@ function BookCard({ codeKey, meta, onClick, articleCount }) {
       onMouseEnter={() => setHovered(true)}
       onMouseLeave={() => setHovered(false)}
       className="relative flex flex-col rounded-2xl overflow-hidden text-left
-        transition-all duration-300 focus:outline-none"
+        transition-all duration-300 focus:outline-none bg-white"
       style={{
-        background: meta.bg,
         boxShadow: hovered
           ? `0 20px 60px rgba(0,0,0,0.18), 0 4px 20px ${meta.spine}44`
           : '0 4px 20px rgba(0,0,0,0.08)',
@@ -89,31 +88,29 @@ function BookCard({ codeKey, meta, onClick, articleCount }) {
         border: `1px solid ${meta.spine}33`,
       }}
     >
+      {/* Illustration */}
+      <div className="relative">
+        <CodeIllustration codeKey={codeKey} />
+        <span
+          className="absolute top-2 right-2 text-xs font-mono px-2 py-0.5 rounded-full"
+          style={{ backgroundColor: 'rgba(0,0,0,0.45)', color: 'white' }}
+        >
+          {meta.year}
+        </span>
+      </div>
+
       {/* Spine accent */}
-      <div className="h-2 w-full" style={{ backgroundColor: meta.spine }} />
+      <div className="h-1 w-full" style={{ backgroundColor: meta.spine }} />
 
       {/* Book body */}
-      <div className="flex-1 p-6 flex flex-col gap-3">
-        <div className="relative">
-          <CodeIllustration codeKey={codeKey} color={meta.color} spine={meta.spine} />
-          <span
-            className="absolute top-0 right-0 text-xs font-mono px-2 py-0.5 rounded-full"
-            style={{ backgroundColor: meta.spine + '22', color: meta.color }}
-          >
-            {meta.year}
-          </span>
-        </div>
-
-        <div>
-          <h3 className="font-bold text-base leading-tight" style={{ color: meta.color }}>
-            {meta.label}
-          </h3>
-          <p className="text-xs mt-1.5 leading-relaxed" style={{ color: meta.color + 'aa' }}>
-            {meta.desc}
-          </p>
-        </div>
-
-        <div className="mt-auto pt-3 border-t" style={{ borderColor: meta.spine + '33' }}>
+      <div className="flex-1 p-4 flex flex-col gap-2" style={{ background: meta.bg }}>
+        <h3 className="font-bold text-sm leading-tight" style={{ color: meta.color }}>
+          {meta.label}
+        </h3>
+        <p className="text-xs leading-relaxed" style={{ color: meta.color + 'aa' }}>
+          {meta.desc}
+        </p>
+        <div className="mt-auto pt-2 border-t" style={{ borderColor: meta.spine + '33' }}>
           <span className="text-xs font-medium" style={{ color: meta.color + '88' }}>
             {articleCount} article{articleCount !== 1 ? 's' : ''}
           </span>
@@ -123,7 +120,8 @@ function BookCard({ codeKey, meta, onClick, articleCount }) {
       {/* Hover CTA */}
       {hovered && (
         <div
-          className="absolute bottom-0 left-0 right-0 py-3 text-center text-sm font-semibold text-white"
+          className="absolute bottom-0 left-0 right-0 py-2.5 text-center
+            text-sm font-semibold text-white"
           style={{ backgroundColor: meta.spine }}
         >
           Open Book →

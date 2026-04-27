@@ -4,11 +4,56 @@ import GlobeView from '../components/globe/GlobeView'
 import ComingSoonPanel from '../components/panels/ComingSoonPanel'
 import DailyLawBanner from '../components/ui/DailyLawBanner'
 
+function BrazilPanel({ visible, onEnter }) {
+  if (!visible) return null
+  return (
+    <div
+      className="absolute left-6 bottom-6 z-20 rounded-2xl overflow-hidden shadow-2xl
+        transition-all duration-300"
+      style={{
+        width: '280px',
+        opacity: visible ? 1 : 0,
+        transform: visible ? 'translateY(0)' : 'translateY(16px)',
+      }}
+    >
+      <img
+        src="/illustrations/brazil-hover.png"
+        alt="Brazil"
+        className="w-full object-cover"
+        style={{ height: '140px', objectPosition: 'center' }}
+      />
+      <div className="bg-white px-4 py-3">
+        <div className="flex items-center gap-2 mb-2">
+          <span className="text-xl">🇧🇷</span>
+          <span className="font-bold text-gray-900 text-sm">Brasil</span>
+          <span className="ml-auto text-xs px-2 py-0.5 rounded-full
+            bg-green-50 text-green-700 border border-green-200">
+            Available
+          </span>
+        </div>
+        <p className="text-xs text-gray-500 mb-3 leading-relaxed">
+          6 legal codes · Constitution, Penal, Civil, Labor, Child, Consumer
+        </p>
+        <button
+          onClick={onEnter}
+          className="w-full py-2 rounded-xl text-white text-xs font-semibold
+            transition-colors"
+          style={{ backgroundColor: '#7F77DD' }}
+        >
+          Enter Law Library →
+        </button>
+      </div>
+    </div>
+  )
+}
+
 export default function HomePage() {
   const navigate = useNavigate()
+  const globeRef = useRef()
   const homeRef = useRef(null)
   const [comingSoonCountry, setComingSoonCountry] = useState(null)
   const [transitioning, setTransitioning] = useState(false)
+  const [brazilHovered, setBrazilHovered] = useState(false)
 
   function handleCountryClick(country, globeInstance) {
     if (country.active) {
@@ -33,7 +78,11 @@ export default function HomePage() {
 
       <DailyLawBanner />
 
-      <GlobeView onCountryClick={handleCountryClick} />
+      <GlobeView
+        onCountryClick={handleCountryClick}
+        onCountryHover={(country) => setBrazilHovered(country?.code === 'BR')}
+        globeRef={globeRef}
+      />
 
       {/* White flash transition overlay */}
       <div
@@ -47,6 +96,16 @@ export default function HomePage() {
           onClose={() => setComingSoonCountry(null)}
         />
       )}
+
+      <BrazilPanel
+        visible={brazilHovered}
+        onEnter={() => handleCountryClick(
+          { code: 'BR', name: 'Brazil', nameLocal: 'Brasil',
+            flag: '🇧🇷', active: true,
+            codes: ['constituicao','codigoPenal','codigoCivil','clt','eca','cdc'] },
+          globeRef.current
+        )}
+      />
     </div>
   )
 }

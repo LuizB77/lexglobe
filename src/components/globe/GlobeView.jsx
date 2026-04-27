@@ -72,8 +72,8 @@ function solidColorImageUrl(hex) {
   return canvas.toDataURL()
 }
 
-export default function GlobeView({ onCountryClick, selectedCountry }) {
-  const globeRef = useRef()
+export default function GlobeView({ onCountryClick, onCountryHover, globeRef: externalRef }) {
+  const globeRef = externalRef || useRef()
   const [globeData, setGlobeData] = useState([])
   const [hoveredFeat, setHoveredFeat] = useState(null)
   const [dimensions, setDimensions] = useState({
@@ -167,7 +167,11 @@ export default function GlobeView({ onCountryClick, selectedCountry }) {
     if (globe) globe.controls().autoRotate = !feat
     setHoveredFeat(feat || null)
     document.body.style.cursor = feat ? 'pointer' : 'default'
-  }, [])
+    if (onCountryHover) {
+      const data = feat ? getCountryData(feat) : null
+      onCountryHover(data)
+    }
+  }, [getCountryData, onCountryHover])
 
   const handleClick = useCallback((feat) => {
     const data = getCountryData(feat)
