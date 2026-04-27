@@ -3,6 +3,7 @@ import { useParams, useNavigate, Link } from 'react-router-dom'
 import { loadCode } from '../utils/searchEngine'
 import { search } from '../utils/searchEngine'
 import countries from '../data/countries.json'
+import CodeIllustration from '../components/ui/CodeIllustration'
 
 const CODE_ORDER = ['constituicao', 'codigoPenal', 'codigoCivil', 'clt', 'eca', 'cdc']
 
@@ -93,10 +94,10 @@ function BookCard({ codeKey, meta, onClick, articleCount }) {
 
       {/* Book body */}
       <div className="flex-1 p-6 flex flex-col gap-3">
-        <div className="flex items-start justify-between">
-          <span className="text-3xl">{meta.icon}</span>
+        <div className="relative">
+          <CodeIllustration codeKey={codeKey} color={meta.color} spine={meta.spine} />
           <span
-            className="text-xs font-mono px-2 py-0.5 rounded-full"
+            className="absolute top-0 right-0 text-xs font-mono px-2 py-0.5 rounded-full"
             style={{ backgroundColor: meta.spine + '22', color: meta.color }}
           >
             {meta.year}
