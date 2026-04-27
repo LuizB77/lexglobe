@@ -73,7 +73,8 @@ function solidColorImageUrl(hex) {
 }
 
 export default function GlobeView({ onCountryClick, onCountryHover, globeRef: externalRef }) {
-  const globeRef = externalRef || useRef()
+  const internalRef = useRef()
+  const globeRef = externalRef || internalRef
   const [globeData, setGlobeData] = useState([])
   const [hoveredFeat, setHoveredFeat] = useState(null)
   const [dimensions, setDimensions] = useState({
@@ -168,10 +169,11 @@ export default function GlobeView({ onCountryClick, onCountryHover, globeRef: ex
     setHoveredFeat(feat || null)
     document.body.style.cursor = feat ? 'pointer' : 'default'
     if (onCountryHover) {
-      const data = feat ? getCountryData(feat) : null
-      onCountryHover(data)
+      const code = feat ? getCountryCode(feat) : null
+      const data = code ? countries.find(c => c.code === code) : null
+      onCountryHover(data || null)
     }
-  }, [getCountryData, onCountryHover])
+  }, [getCountryCode, onCountryHover])
 
   const handleClick = useCallback((feat) => {
     const data = getCountryData(feat)
