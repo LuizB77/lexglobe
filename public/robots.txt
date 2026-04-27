@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lexglobe-eight.vercel.app/sitemap.xml

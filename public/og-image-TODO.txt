@@ -1,0 +1,9 @@
+Create a 1200x630px image for social media previews.
+Suggested design:
+- Dark navy background (#0d1b3e)
+- LexGlobe logo text centered
+- 3D globe graphic
+- Tagline: "Explore Brazilian Law on a 3D Globe"
+- Save as og-image.png in the public/ folder
+
+(You can create this in Canva or use a screenshot of the app)
