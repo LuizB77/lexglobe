@@ -177,7 +177,7 @@ export default function AIAssistantPage() {
   ]
 
   return (
-    <div className="flex flex-col h-screen" style={{ background: '#0f0f1a' }}>
+    <div className="flex flex-col" style={{ background: '#0f0f1a', height: '100dvh' }}>
       {/* Header */}
       <div className="bg-black/40 border-b border-white/10 backdrop-blur px-4 py-3
         flex items-center gap-3 flex-shrink-0">
@@ -270,14 +270,15 @@ export default function AIAssistantPage() {
       </div>
 
       {/* Input */}
-      <div className="flex-shrink-0 px-4 pb-6 pt-2 border-t border-white/10">
+      <div className="flex-shrink-0 px-4 pt-2 border-t border-white/10"
+        style={{ paddingBottom: 'max(1.5rem, env(safe-area-inset-bottom))' }}>
         <div className="flex gap-2 items-end max-w-3xl mx-auto">
           <textarea
             ref={inputRef}
             value={input}
             onChange={e => setInput(e.target.value)}
             onKeyDown={handleKeyDown}
-            placeholder="Ask about any Brazilian law... (Enter to send)"
+            placeholder="Ask about any law... (Enter to send)"
             rows={1}
             className="flex-1 px-4 py-3 rounded-2xl resize-none
               bg-white/8 border border-white/10 text-white text-sm

@@ -72,7 +72,7 @@ function solidColorImageUrl(hex) {
   return canvas.toDataURL()
 }
 
-export default function GlobeView({ onCountryClick, onCountryHover, globeRef: externalRef }) {
+export default function GlobeView({ onCountryClick, onCountryHover, globeRef: externalRef, onMobileCountryTap }) {
   const internalRef = useRef()
   const globeRef = externalRef || internalRef
   const [globeData, setGlobeData] = useState([])
@@ -175,10 +175,17 @@ export default function GlobeView({ onCountryClick, onCountryHover, globeRef: ex
     }
   }, [getCountryCode, onCountryHover])
 
+  const isMobile = window.innerWidth < 768
+
   const handleClick = useCallback((feat) => {
     const data = getCountryData(feat)
-    if (data) onCountryClick(data, globeRef.current)
-  }, [getCountryData, onCountryClick])
+    if (!data) return
+    if (isMobile && onMobileCountryTap) {
+      onMobileCountryTap(data)
+    } else {
+      onCountryClick(data, globeRef.current)
+    }
+  }, [getCountryData, onCountryClick, onMobileCountryTap, isMobile])
 
   return (
     <div className="absolute inset-0" style={{ background: '#f5f5f0' }}>

@@ -186,16 +186,16 @@ export default function ArticleViewPage() {
       </div>
 
       {/* Article content */}
-      <div className="max-w-3xl mx-auto px-4 py-10">
+      <div className="max-w-3xl mx-auto px-4 py-6 sm:py-10">
         {/* Header */}
         <div className="mb-8">
           <div
-            className="inline-block text-4xl font-black mb-3"
+            className="inline-block text-3xl sm:text-4xl font-black mb-3"
             style={{ color: meta.spine }}
           >
             Art. {article.number}
           </div>
-          <h1 className="text-2xl font-bold text-gray-900 mb-2">{article.title}</h1>
+          <h1 className="text-xl sm:text-2xl font-bold text-gray-900 mb-2">{article.title}</h1>
           <div
             className="h-1 w-16 rounded-full"
             style={{ backgroundColor: meta.spine }}

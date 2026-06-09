@@ -23,7 +23,7 @@ export default function CodeIllustration({ codeKey }) {
 
   return (
     <div className="w-full overflow-hidden rounded-xl"
-      style={{ height: '120px' }}>
+      style={{ height: '100px' }}>
       <img
         src={src}
         alt={codeKey}
