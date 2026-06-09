@@ -1,6 +1,7 @@
 import { useState, useRef } from 'react'
 import { useNavigate } from 'react-router-dom'
 import GlobeView from '../components/globe/GlobeView'
+import UserMenu from '../components/ui/UserMenu'
 import ComingSoonPanel from '../components/panels/ComingSoonPanel'
 import DailyLawBanner from '../components/ui/DailyLawBanner'
 
@@ -133,6 +134,11 @@ export default function HomePage() {
       style={{ background: '#f5f5f0' }}>
 
       <DailyLawBanner />
+
+      {/* User menu top right */}
+      <div className="absolute top-4 right-4 z-20">
+        <UserMenu />
+      </div>
 
       <GlobeView
         onCountryClick={handleCountryClick}

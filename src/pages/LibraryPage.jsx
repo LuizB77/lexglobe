@@ -4,6 +4,7 @@ import { loadCode } from '../utils/searchEngine'
 import { search } from '../utils/searchEngine'
 import countries from '../data/countries.json'
 import CodeIllustration from '../components/ui/CodeIllustration'
+import UserMenu from '../components/ui/UserMenu'
 
 const CODE_ORDER_BY_COUNTRY = {
   BR: ['constituicao', 'codigoPenal', 'codigoCivil', 'clt', 'eca', 'cdc'],
@@ -399,6 +400,7 @@ export default function LibraryPage() {
             className="text-sm text-gray-500 hover:text-gray-700 transition-colors px-2">
             ☆
           </Link>
+          <UserMenu />
           <button
             onClick={() => navigate(`/assistant/${countryCode}`)}
             className="ml-auto px-4 py-2 rounded-xl text-sm font-medium text-white transition-colors"

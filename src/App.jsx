@@ -1,6 +1,8 @@
 import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom'
 import { useEffect } from 'react'
+import { AuthProvider } from './context/AuthContext'
 import HomePage from './pages/HomePage'
+import AuthPage from './pages/AuthPage'
 import LibraryPage from './pages/LibraryPage'
 import ArticleViewPage from './pages/ArticleViewPage'
 import AIAssistantPage from './pages/AIAssistantPage'
@@ -31,16 +33,19 @@ function TitleUpdater() {
 
 export default function App() {
   return (
-    <BrowserRouter>
-      <TitleUpdater />
-      <Routes>
-        <Route path="/" element={<HomePage />} />
-        <Route path="/library/:countryCode" element={<LibraryPage />} />
-        <Route path="/article/:countryCode/:articleId" element={<ArticleViewPage />} />
-        <Route path="/assistant/:countryCode" element={<AIAssistantPage />} />
-        <Route path="/daily" element={<DailyLawPage />} />
-        <Route path="/bookmarks" element={<BookmarksPage />} />
-      </Routes>
-    </BrowserRouter>
+    <AuthProvider>
+      <BrowserRouter>
+        <TitleUpdater />
+        <Routes>
+          <Route path="/" element={<HomePage />} />
+          <Route path="/auth" element={<AuthPage />} />
+          <Route path="/library/:countryCode" element={<LibraryPage />} />
+          <Route path="/article/:countryCode/:articleId" element={<ArticleViewPage />} />
+          <Route path="/assistant/:countryCode" element={<AIAssistantPage />} />
+          <Route path="/daily" element={<DailyLawPage />} />
+          <Route path="/bookmarks" element={<BookmarksPage />} />
+        </Routes>
+      </BrowserRouter>
+    </AuthProvider>
   )
 }

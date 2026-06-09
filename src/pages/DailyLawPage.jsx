@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react'
 import { useNavigate, Link } from 'react-router-dom'
 import { getDailyLaw } from '../utils/dailyLawPicker'
+import { useAuth } from '../context/AuthContext'
 
 const CODE_META = {
   constituicao: { label: 'Constituição Federal', spine: '#FFD700', color: '#B8860B', bg: '#fffbe6' },
@@ -13,6 +14,7 @@ const CODE_META = {
 
 export default function DailyLawPage() {
   const navigate = useNavigate()
+  const { updateStreak } = useAuth()
   const [article, setArticle] = useState(null)
   const [explanation, setExplanation] = useState(null)
   const [loadingExplanation, setLoadingExplanation] = useState(false)
@@ -27,6 +29,7 @@ export default function DailyLawPage() {
   useEffect(() => {
     getDailyLaw('BR').then(async (law) => {
       setArticle(law)
+      updateStreak()
       setTimeout(() => setEntered(true), 50)
 
       // Check if explanation already cached for today
