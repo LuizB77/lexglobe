@@ -180,6 +180,13 @@ export default function GlobeView({ onCountryClick, onCountryHover, globeRef: ex
   const handleClick = useCallback((feat) => {
     const data = getCountryData(feat)
     if (!data) return
+    // Resume auto-rotate after click so globe keeps spinning
+    // behind any modal that appears
+    setTimeout(() => {
+      if (globeRef.current) {
+        globeRef.current.controls().autoRotate = true
+      }
+    }, 100)
     if (isMobile && onMobileCountryTap) {
       onMobileCountryTap(data)
     } else {
