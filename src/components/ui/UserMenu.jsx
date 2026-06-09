@@ -73,6 +73,15 @@ export default function UserMenu() {
           )}
 
           <button
+            onClick={() => { navigate('/profile'); setOpen(false) }}
+            className="w-full text-left px-4 py-2.5 text-sm text-gray-700
+              hover:bg-gray-50 transition-colors flex items-center gap-2
+              border-b border-gray-100"
+          >
+            👤 Profile
+          </button>
+
+          <button
             onClick={() => { navigate('/bookmarks'); setOpen(false) }}
             className="w-full text-left px-4 py-2.5 text-sm text-gray-700
               hover:bg-gray-50 transition-colors flex items-center gap-2"

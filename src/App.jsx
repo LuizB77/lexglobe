@@ -8,6 +8,7 @@ import ArticleViewPage from './pages/ArticleViewPage'
 import AIAssistantPage from './pages/AIAssistantPage'
 import DailyLawPage from './pages/DailyLawPage'
 import BookmarksPage from './pages/BookmarksPage'
+import ProfilePage from './pages/ProfilePage'
 
 const PAGE_TITLES = {
   '/': 'LexGlobe — Explore Brazilian Law on a 3D Globe',
@@ -44,6 +45,7 @@ export default function App() {
           <Route path="/assistant/:countryCode" element={<AIAssistantPage />} />
           <Route path="/daily" element={<DailyLawPage />} />
           <Route path="/bookmarks" element={<BookmarksPage />} />
+          <Route path="/profile" element={<ProfilePage />} />
         </Routes>
       </BrowserRouter>
     </AuthProvider>

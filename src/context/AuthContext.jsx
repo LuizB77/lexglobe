@@ -96,6 +96,17 @@ export function AuthProvider({ children }) {
 
     const newStreak = { count: newCount, lastDate: today }
     localStorage.setItem(streakKey, JSON.stringify(newStreak))
+
+    // Track individual checkin dates for calendar
+    const checkins = JSON.parse(localStorage.getItem('lexglobe_checkins') || '[]')
+    if (!checkins.includes(today)) {
+      checkins.push(today)
+      const cutoff = new Date()
+      cutoff.setDate(cutoff.getDate() - 365)
+      const filtered = checkins.filter(d => new Date(d) > cutoff)
+      localStorage.setItem('lexglobe_checkins', JSON.stringify(filtered))
+    }
+
     return newStreak
   }
 
