@@ -5,6 +5,7 @@ import { search } from '../utils/searchEngine'
 import countries from '../data/countries.json'
 import CodeIllustration from '../components/ui/CodeIllustration'
 import UserMenu from '../components/ui/UserMenu'
+import { useAuth } from '../context/AuthContext'
 
 const CODE_ORDER_BY_COUNTRY = {
   BR: ['constituicao', 'codigoPenal', 'codigoCivil', 'clt', 'eca', 'cdc'],
@@ -320,8 +321,15 @@ function ArticleList({ codeKey, countryCode, onBack }) {
 export default function LibraryPage() {
   const { countryCode } = useParams()
   const navigate = useNavigate()
+  const { user } = useAuth()
   const country = countries.find(c => c.code === countryCode)
   const CODE_ORDER = CODE_ORDER_BY_COUNTRY[countryCode] || CODE_ORDER_BY_COUNTRY['BR']
+
+  useEffect(() => {
+    if (!user) {
+      navigate('/', { replace: true })
+    }
+  }, [user, navigate])
 
   const [openCode, setOpenCode] = useState(null)
   const [articleCounts, setArticleCounts] = useState({})

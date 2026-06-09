@@ -1,9 +1,11 @@
 import { useState, useRef } from 'react'
 import { useNavigate } from 'react-router-dom'
 import GlobeView from '../components/globe/GlobeView'
-import UserMenu from '../components/ui/UserMenu'
 import ComingSoonPanel from '../components/panels/ComingSoonPanel'
 import DailyLawBanner from '../components/ui/DailyLawBanner'
+import UserMenu from '../components/ui/UserMenu'
+import AuthModal from '../components/ui/AuthModal'
+import { useAuth } from '../context/AuthContext'
 
 function BrazilPanel({ visible, onEnter }) {
   return (
@@ -34,7 +36,7 @@ function BrazilPanel({ visible, onEnter }) {
             </span>
           </div>
           <p className="text-xs text-gray-500 mb-3">
-            6 legal codes · Constitution, Penal, Civil, Labor, Child, Consumer
+            6 legal codes · 4,281 articles
           </p>
           <button
             onClick={onEnter}
@@ -80,7 +82,7 @@ function PortugalPanel({ visible, onEnter }) {
             </span>
           </div>
           <p className="text-xs text-gray-500 mb-3">
-            8 legal codes · Constitution, Penal, Civil, Labor + more
+            8 legal codes · 5,993 articles
           </p>
           <button
             onClick={onEnter}
@@ -98,35 +100,64 @@ function PortugalPanel({ visible, onEnter }) {
 
 export default function HomePage() {
   const navigate = useNavigate()
+  const { user } = useAuth()
   const globeRef = useRef()
   const [comingSoonCountry, setComingSoonCountry] = useState(null)
   const [transitioning, setTransitioning] = useState(false)
   const [brazilHovered, setBrazilHovered] = useState(false)
   const [portugalHovered, setPortugalHovered] = useState(false)
+  const [authModal, setAuthModal] = useState(null) // { country, globeInstance }
   const isMobile = window.innerWidth < 768
 
-  function handleCountryClick(country, globeInstance) {
-    if (country.active) {
-      if (globeInstance) {
-        const latMap = {
-          BR: -14.2, PT: 39.5, US: 38, MX: 23.6, AR: -38,
-          DE: 51, FR: 46, JP: 36, IN: 20, CN: 35,
-          GB: 54, CA: 56, AU: -25, IT: 42, ES: 40
-        }
-        const lngMap = {
-          BR: -51.9, PT: -8, US: -97, MX: -102, AR: -63,
-          DE: 10, FR: 2, JP: 138, IN: 78, CN: 105,
-          GB: -2, CA: -96, AU: 133, IT: 12, ES: -3
-        }
-        const lat = latMap[country.code] || 0
-        const lng = lngMap[country.code] || 0
-        globeInstance.pointOfView({ lat, lng, altitude: 0.4 }, 900)
+  function enterCountry(country, globeInstance) {
+    if (globeInstance) {
+      const latMap = {
+        BR: -14.2, PT: 39.5, US: 38, MX: 23.6, AR: -38,
+        DE: 51, FR: 46, JP: 36, IN: 20, CN: 35,
+        GB: 54, CA: 56, AU: -25, IT: 42, ES: 40
       }
-      setTransitioning(true)
-      setTimeout(() => navigate(`/library/${country.code}`), 1100)
-    } else {
-      setComingSoonCountry(country)
+      const lngMap = {
+        BR: -51.9, PT: -8, US: -97, MX: -102, AR: -63,
+        DE: 10, FR: 2, JP: 138, IN: 78, CN: 105,
+        GB: -2, CA: -96, AU: 133, IT: 12, ES: -3
+      }
+      globeInstance.pointOfView({
+        lat: latMap[country.code] || 0,
+        lng: lngMap[country.code] || 0,
+        altitude: 0.4
+      }, 900)
     }
+    setTransitioning(true)
+    setTimeout(() => navigate(`/library/${country.code}`), 1100)
+  }
+
+  function handleCountryClick(country, globeInstance) {
+    if (!country.active) {
+      setComingSoonCountry(country)
+      return
+    }
+    if (!user) {
+      setBrazilHovered(false)
+      setPortugalHovered(false)
+      setAuthModal({ country, globeInstance })
+      return
+    }
+    enterCountry(country, globeInstance)
+  }
+
+  function handleAuthSuccess(country, globeInstance) {
+    setAuthModal(null)
+    enterCountry(country, globeInstance)
+  }
+
+  const brazilCountry = {
+    code: 'BR', name: 'Brazil', nameLocal: 'Brasil', flag: '🇧🇷', active: true,
+    codes: ['constituicao', 'codigoPenal', 'codigoCivil', 'clt', 'eca', 'cdc']
+  }
+  const portugalCountry = {
+    code: 'PT', name: 'Portugal', nameLocal: 'Portugal', flag: '🇵🇹', active: true,
+    codes: ['constituicaoPT', 'codigoPenalPT', 'codigoCivilPT', 'codigoTrabalho',
+      'codigoProcessoPenal', 'codigoProcessoCivil', 'codigoComercial', 'codigoEstrada']
   }
 
   return (
@@ -170,25 +201,23 @@ export default function HomePage() {
       />
 
       <BrazilPanel
-        visible={brazilHovered}
-        onEnter={() => handleCountryClick(
-          { code: 'BR', name: 'Brazil', nameLocal: 'Brasil',
-            flag: '🇧🇷', active: true,
-            codes: ['constituicao','codigoPenal','codigoCivil','clt','eca','cdc'] },
-          globeRef.current
-        )}
+        visible={brazilHovered && !authModal}
+        onEnter={() => handleCountryClick(brazilCountry, globeRef.current)}
       />
 
       <PortugalPanel
-        visible={portugalHovered}
-        onEnter={() => handleCountryClick(
-          { code: 'PT', name: 'Portugal', nameLocal: 'Portugal',
-            flag: '🇵🇹', active: true,
-            codes: ['constituicaoPT','codigoPenalPT','codigoCivilPT','codigoTrabalho',
-              'codigoProcessoPenal','codigoProcessoCivil','codigoComercial','codigoEstrada'] },
-          globeRef.current
-        )}
+        visible={portugalHovered && !authModal}
+        onEnter={() => handleCountryClick(portugalCountry, globeRef.current)}
       />
+
+      {/* Auth modal — globe stays visible behind */}
+      {authModal && (
+        <AuthModal
+          countryName={authModal.country?.nameLocal || authModal.country?.name}
+          onSuccess={() => handleAuthSuccess(authModal.country, authModal.globeInstance)}
+          onClose={() => setAuthModal(null)}
+        />
+      )}
 
       {comingSoonCountry && (
         <ComingSoonPanel
