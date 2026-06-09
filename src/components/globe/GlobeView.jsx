@@ -6,6 +6,19 @@ const ACTIVE_CODES = new Set(
   countries.filter(c => c.active).map(c => c.code)
 )
 
+let cachedDayTexture = null
+let cachedNightTexture = null
+
+function getOceanTexture(nightMode) {
+  if (nightMode) {
+    if (!cachedNightTexture) cachedNightTexture = createOceanTexture(true)
+    return cachedNightTexture
+  } else {
+    if (!cachedDayTexture) cachedDayTexture = createOceanTexture(false)
+    return cachedDayTexture
+  }
+}
+
 function isNightTime() {
   const hour = new Date().getHours()
   return hour >= 19 || hour < 6
@@ -283,7 +296,7 @@ export default function GlobeView({ onCountryClick, onCountryHover, globeRef: ex
     }
   }, [getCountryData, onCountryClick, onMobileCountryTap, isMobile])
 
-  const oceanTexture = createOceanTexture(nightMode)
+  const oceanTexture = getOceanTexture(nightMode)
   const bgColor = nightMode ? '#050d1a' : '#f5f5f0'
   const atmosphereColor = nightMode ? '#1a3a6a' : '#c8d8e8'
 
