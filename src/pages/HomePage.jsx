@@ -115,10 +115,13 @@ function SpainPanel({ visible, onEnter }) {
     >
       <div className="rounded-2xl overflow-hidden shadow-2xl"
         style={{ border: '1px solid rgba(255,255,255,0.6)' }}>
-        <div className="flex items-center justify-center py-8 text-6xl"
-          style={{ background: 'linear-gradient(135deg, #AA151B 0%, #F1BF00 50%, #AA151B 100%)' }}>
-          🇪🇸
-        </div>
+        <img
+          src="/illustrations/spain-hover.png"
+          alt="Spain"
+          className="w-full object-cover"
+          style={{ height: '120px', objectPosition: 'center' }}
+          onError={e => { e.target.style.display = 'none' }}
+        />
         <div className="bg-white/95 backdrop-blur px-4 py-3">
           <div className="flex items-center gap-2 mb-2">
             <span className="text-xl">🇪🇸</span>

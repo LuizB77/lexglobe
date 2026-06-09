@@ -16,6 +16,11 @@ export default function CodeIllustration({ codeKey }) {
     codigoProcessoCivil: '/illustrations/codigoProcessoCivil.png',
     codigoComercial:     '/illustrations/codigoComercial.png',
     codigoEstrada:       '/illustrations/codigoEstrada.png',
+    // Spain
+    constitucionES:       '/illustrations/constitucionES.png',
+    codigoPenalES:        '/illustrations/codigoPenalES.png',
+    codigoCivilES:        '/illustrations/codigoCivilES.png',
+    estatutoTrabajadores: '/illustrations/estatutoTrabajadores.png',
   }
 
   const src = images[codeKey]
