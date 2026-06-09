@@ -18,8 +18,6 @@ const CODE_META = {
   codigoProcessoCivil: { label: 'Código de Processo Civil',    spine: '#2B6CB0', color: '#1a365d' },
   codigoComercial:     { label: 'Código Comercial',            spine: '#D69E2E', color: '#744210' },
   codigoEstrada:       { label: 'Código da Estrada',           spine: '#C05621', color: '#7B341E' },
-  codigoIRS:           { label: 'Código do IRS',               spine: '#276749', color: '#1C4532' },
-  codigoSociedades:    { label: 'Código das Sociedades',       spine: '#2C5282', color: '#1a365d' },
 }
 
 const PREFIX_TO_CODE = {
@@ -37,8 +35,6 @@ const PREFIX_TO_CODE = {
   cpcpt: 'codigoProcessoCivil',
   ccmpt: 'codigoComercial',
   cept:  'codigoEstrada',
-  irspt: 'codigoIRS',
-  cscpt: 'codigoSociedades',
 }
 
 function getCodeKeyFromId(id) {

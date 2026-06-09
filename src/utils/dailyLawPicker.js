@@ -24,8 +24,6 @@ export async function getDailyLaw(countryCode = 'BR') {
       import('../data/portugal/codigoProcessoCivil.json'),
       import('../data/portugal/codigoComercial.json'),
       import('../data/portugal/codigoEstrada.json'),
-      import('../data/portugal/codigoIRS.json'),
-      import('../data/portugal/codigoSociedades.json'),
     ])
   } else {
     modules = await Promise.all([

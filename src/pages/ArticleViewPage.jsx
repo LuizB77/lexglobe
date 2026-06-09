@@ -18,8 +18,6 @@ const CODE_META = {
   codigoProcessoCivil: { label: 'Código de Processo Civil',      color: '#1a365d', spine: '#2B6CB0', bg: '#ebf8ff' },
   codigoComercial:     { label: 'Código Comercial',              color: '#744210', spine: '#D69E2E', bg: '#fffaf0' },
   codigoEstrada:       { label: 'Código da Estrada',             color: '#7B341E', spine: '#C05621', bg: '#fff8f0' },
-  codigoIRS:           { label: 'Código do IRS',                 color: '#1C4532', spine: '#276749', bg: '#f0fff4' },
-  codigoSociedades:    { label: 'Código das Sociedades',         color: '#1a365d', spine: '#2C5282', bg: '#ebf8ff' },
 }
 
 // articleId format: "cp_121", "cf_5", "cc_927", etc.
@@ -39,8 +37,6 @@ const PREFIX_TO_CODE = {
   cpcpt: 'codigoProcessoCivil',
   ccmpt: 'codigoComercial',
   cept:  'codigoEstrada',
-  irspt: 'codigoIRS',
-  cscpt: 'codigoSociedades',
 }
 
 function getCodeKeyFromId(articleId) {

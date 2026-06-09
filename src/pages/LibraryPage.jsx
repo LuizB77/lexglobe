@@ -10,7 +10,7 @@ const CODE_ORDER_BY_COUNTRY = {
   PT: [
     'constituicaoPT', 'codigoPenalPT', 'codigoCivilPT', 'codigoTrabalho',
     'codigoProcessoPenal', 'codigoProcessoCivil', 'codigoComercial',
-    'codigoEstrada', 'codigoIRS', 'codigoSociedades',
+    'codigoEstrada',
   ],
 }
 
@@ -154,26 +154,6 @@ const CODE_META = {
     spine: '#C05621',
     icon: '🚗',
     desc: 'Regulação do trânsito e condução',
-  },
-  codigoIRS: {
-    label: 'Código do IRS',
-    shortLabel: 'IRS',
-    year: '1988',
-    color: '#1C4532',
-    bg: '#f0fff4',
-    spine: '#276749',
-    icon: '💶',
-    desc: 'Imposto sobre o rendimento singular',
-  },
-  codigoSociedades: {
-    label: 'Código das Sociedades',
-    shortLabel: 'Sociedades',
-    year: '1986',
-    color: '#1a365d',
-    bg: '#ebf8ff',
-    spine: '#2C5282',
-    icon: '🏢',
-    desc: 'Direito societário e empresarial',
   },
 }
 

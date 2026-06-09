@@ -15,8 +15,6 @@ const CODE_MAP = {
   codigoProcessoCivil: () => import('../data/portugal/codigoProcessoCivil.json'),
   codigoComercial:     () => import('../data/portugal/codigoComercial.json'),
   codigoEstrada:       () => import('../data/portugal/codigoEstrada.json'),
-  codigoIRS:           () => import('../data/portugal/codigoIRS.json'),
-  codigoSociedades:    () => import('../data/portugal/codigoSociedades.json'),
 }
 
 const COUNTRY_CODES = {
@@ -24,7 +22,7 @@ const COUNTRY_CODES = {
   PT: [
     'constituicaoPT', 'codigoPenalPT', 'codigoCivilPT', 'codigoTrabalho',
     'codigoProcessoPenal', 'codigoProcessoCivil', 'codigoComercial',
-    'codigoEstrada', 'codigoIRS', 'codigoSociedades',
+    'codigoEstrada',
   ],
 }
 

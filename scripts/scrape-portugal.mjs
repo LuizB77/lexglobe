@@ -61,20 +61,6 @@ const CODES = [
     url: 'https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=349&tabela=leis&so_miolo=',
     prefix: 'cept',
   },
-  {
-    key: 'codigoIRS',
-    displayName: 'Código do IRS',
-    color: '#276749',
-    url: 'https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=236&tabela=leis&so_miolo=',
-    prefix: 'irspt',
-  },
-  {
-    key: 'codigoSociedades',
-    displayName: 'Código das Sociedades Comerciais',
-    color: '#2C5282',
-    url: 'https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1143&tabela=leis&so_miolo=',
-    prefix: 'cscpt',
-  },
 ]
 
 function cleanText(text) {

@@ -27,7 +27,7 @@
     "codes": [
       "constituicaoPT", "codigoPenalPT", "codigoCivilPT",
       "codigoTrabalho", "codigoProcessoPenal", "codigoProcessoCivil",
-      "codigoComercial", "codigoEstrada", "codigoIRS", "codigoSociedades"
+      "codigoComercial", "codigoEstrada"
     ]
   },
   { "code": "IT", "name": "Italy", "flag": "🇮🇹", "active": false },
