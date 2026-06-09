@@ -22,6 +22,16 @@ const CODE_META = {
   codigoPenalES:       { label: 'Código Penal (ES)',             color: '#9B1C1C', spine: '#C53030', bg: '#fff5f5' },
   codigoCivilES:       { label: 'Código Civil (ES)',             color: '#44337A', spine: '#553C9A', bg: '#faf5ff' },
   estatutoTrabajadores:{ label: 'Estatuto de los Trabajadores',  color: '#1C4532', spine: '#276749', bg: '#f0fff4' },
+  usConstitution:      { label: 'U.S. Constitution',             color: '#8B6914', spine: '#B7791F', bg: '#fffdf0' },
+  title18Criminal:     { label: 'Title 18 — Crimes',            color: '#9B1C1C', spine: '#C53030', bg: '#fff5f5' },
+  title42CivilRights:  { label: 'Title 42 — Civil Rights',      color: '#1a365d', spine: '#2B6CB0', bg: '#ebf8ff' },
+  title29Labor:        { label: 'Title 29 — Labor',             color: '#1C4532', spine: '#276749', bg: '#f0fff4' },
+  title26Tax:          { label: 'Title 26 — Internal Revenue',  color: '#744210', spine: '#D69E2E', bg: '#fffaf0' },
+  title15Commerce:     { label: 'Title 15 — Commerce',          color: '#44337A', spine: '#553C9A', bg: '#faf5ff' },
+  title8Immigration:   { label: 'Title 8 — Immigration',        color: '#1D4044', spine: '#2C7A7B', bg: '#e6fffa' },
+  title20Education:    { label: 'Title 20 — Education',         color: '#7B341E', spine: '#C05621', bg: '#fff8f0' },
+  title31Finance:      { label: 'Title 31 — Finance',           color: '#1A365D', spine: '#2B6CB0', bg: '#ebf8ff' },
+  title49Transportation:{ label: 'Title 49 — Transportation',   color: '#2D3748', spine: '#4A5568', bg: '#f7fafc' },
 }
 
 // articleId format: "cp_121", "cf_5", "cc_927", etc.
@@ -45,6 +55,16 @@ const PREFIX_TO_CODE = {
   cpes: 'codigoPenalES',
   cces: 'codigoCivilES',
   etes: 'estatutoTrabajadores',
+  usc: 'usConstitution',
+  t18: 'title18Criminal',
+  t42: 'title42CivilRights',
+  t29: 'title29Labor',
+  t26: 'title26Tax',
+  t15: 'title15Commerce',
+  t8:  'title8Immigration',
+  t20: 'title20Education',
+  t31: 'title31Finance',
+  t49: 'title49Transportation',
 }
 
 function getCodeKeyFromId(articleId) {

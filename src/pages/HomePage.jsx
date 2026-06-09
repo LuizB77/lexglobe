@@ -148,6 +148,55 @@ function SpainPanel({ visible, onEnter }) {
   )
 }
 
+function USAPanel({ visible, onEnter }) {
+  return (
+    <div
+      className="absolute top-1/2 right-4 -translate-y-1/2 z-20
+        transition-all duration-300"
+      style={{
+        opacity: visible ? 1 : 0,
+        transform: visible
+          ? 'translateY(-50%) translateX(0)'
+          : 'translateY(-50%) translateX(12px)',
+        pointerEvents: visible ? 'auto' : 'none',
+        width: 'min(260px, calc(100vw - 32px))',
+      }}
+    >
+      <div className="rounded-2xl overflow-hidden shadow-2xl"
+        style={{ border: '1px solid rgba(255,255,255,0.6)' }}>
+        <img
+          src="/illustrations/usa-hover.png"
+          alt="USA"
+          className="w-full object-cover"
+          style={{ height: '120px', objectPosition: 'center' }}
+          onError={e => { e.target.style.display = 'none' }}
+        />
+        <div className="bg-white/95 backdrop-blur px-4 py-3">
+          <div className="flex items-center gap-2 mb-2">
+            <span className="text-xl">🇺🇸</span>
+            <span className="font-bold text-gray-900 text-sm">United States</span>
+            <span className="ml-auto text-xs px-2 py-0.5 rounded-full
+              bg-green-50 text-green-700 border border-green-200">
+              Available
+            </span>
+          </div>
+          <p className="text-xs text-gray-500 mb-3">
+            10 legal codes · Constitution, Criminal, Civil Rights + more
+          </p>
+          <button
+            onClick={onEnter}
+            className="w-full py-2.5 rounded-xl text-white text-sm font-semibold
+              min-h-[44px]"
+            style={{ backgroundColor: '#B7791F' }}
+          >
+            Explore US Law →
+          </button>
+        </div>
+      </div>
+    </div>
+  )
+}
+
 export default function HomePage() {
   const navigate = useNavigate()
   const { user } = useAuth()
@@ -157,6 +206,7 @@ export default function HomePage() {
   const [brazilHovered, setBrazilHovered] = useState(false)
   const [portugalHovered, setPortugalHovered] = useState(false)
   const [spainHovered, setSpainHovered] = useState(false)
+  const [usaHovered, setUsaHovered] = useState(false)
   const [authModal, setAuthModal] = useState(null) // { country, globeInstance }
   const [showHero, setShowHero] = useState(() => {
     const lastVisit = localStorage.getItem('lexglobe_last_visit')
@@ -202,6 +252,7 @@ export default function HomePage() {
       setBrazilHovered(false)
       setPortugalHovered(false)
       setSpainHovered(false)
+      setUsaHovered(false)
       setAuthModal({ country, globeInstance })
       return
     }
@@ -241,20 +292,30 @@ export default function HomePage() {
           setBrazilHovered(country?.code === 'BR')
           setPortugalHovered(country?.code === 'PT')
           setSpainHovered(country?.code === 'ES')
+          setUsaHovered(country?.code === 'US')
         }}
         globeRef={globeRef}
         onMobileCountryTap={(country) => {
           if (country?.code === 'BR') {
             setBrazilHovered(true)
             setPortugalHovered(false)
+            setSpainHovered(false)
+            setUsaHovered(false)
           } else if (country?.code === 'PT') {
             setPortugalHovered(true)
             setBrazilHovered(false)
             setSpainHovered(false)
+            setUsaHovered(false)
           } else if (country?.code === 'ES') {
             setSpainHovered(true)
             setBrazilHovered(false)
             setPortugalHovered(false)
+            setUsaHovered(false)
+          } else if (country?.code === 'US') {
+            setUsaHovered(true)
+            setBrazilHovered(false)
+            setPortugalHovered(false)
+            setSpainHovered(false)
           } else if (country?.active) {
             handleCountryClick(country, globeRef.current)
           } else {
@@ -288,6 +349,19 @@ export default function HomePage() {
         onEnter={() => handleCountryClick(
           { code: 'ES', name: 'Spain', nameLocal: 'España', flag: '🇪🇸', active: true,
             codes: ['constitucionES', 'codigoPenalES', 'codigoCivilES', 'estatutoTrabajadores'] },
+          globeRef.current
+        )}
+      />
+
+      <USAPanel
+        visible={usaHovered && !authModal}
+        onEnter={() => handleCountryClick(
+          { code: 'US', name: 'United States', nameLocal: 'United States',
+            flag: '🇺🇸', active: true,
+            codes: ['usConstitution', 'title18Criminal', 'title42CivilRights',
+              'title29Labor', 'title26Tax', 'title15Commerce',
+              'title8Immigration', 'title20Education', 'title31Finance',
+              'title49Transportation'] },
           globeRef.current
         )}
       />

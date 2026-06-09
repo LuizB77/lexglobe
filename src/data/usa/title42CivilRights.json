@@ -1,0 +1,2252 @@
+{
+  "country": "US",
+  "code": "title42CivilRights",
+  "displayName": "Title 42 — Civil Rights & Public Health",
+  "color": "#2B6CB0",
+  "articles": [
+    {
+      "id": "t42_1",
+      "number": "1",
+      "title": "Section 1",
+      "text": "§ 1 – 70a) CHAPTER 1A—THE PUBLIC HEALTH SERVICE; SUPPLEMENTAL PROVISIONS (§",
+      "tags": [
+        "chapter",
+        "public",
+        "health",
+        "service",
+        "supplemental"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_71",
+      "number": "71",
+      "title": "Section 71",
+      "text": "§ 71 – 71r) CHAPTER 2—SANITATION AND QUARANTINE (§",
+      "tags": [
+        "chapter",
+        "sanitation",
+        "quarantine"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_81",
+      "number": "81",
+      "title": "Section 81",
+      "text": "§ 81 – 114) CHAPTER 3—LEPROSY (§",
+      "tags": [
+        "chapter",
+        "leprosy"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_121",
+      "number": "121",
+      "title": "Section 121",
+      "text": "§ 121 – 131) CHAPTER 3A—CANCER (§ 137) CHAPTER 4—VIRUSES, SERUMS, TOXINS, ANTITOXINS, ETC. (§ 141) CHAPTER 5—MATERNITY AND INFANCY WELFARE AND HYGIENE (§ 161) CHAPTER 6—THE CHILDREN’S BUREAU (§",
+      "tags": [
+        "chapter",
+        "cancer",
+        "viruses",
+        "serums",
+        "toxins"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_191",
+      "number": "191",
+      "title": "Section 191",
+      "text": "§ 191 – 194) CHAPTER 6A—PUBLIC HEALTH SERVICE (§",
+      "tags": [
+        "chapter",
+        "public",
+        "health",
+        "service"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_201",
+      "number": "201",
+      "title": "Section 201",
+      "text": "§ 201 – 300mm–64) CHAPTER 7—SOCIAL SECURITY (§",
+      "tags": [
+        "chapter",
+        "social",
+        "security"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_301",
+      "number": "301",
+      "title": "Section 301",
+      "text": "§ 301 – 1397mm) CHAPTER 7A—TEMPORARY UNEMPLOYMENT COMPENSATION PROGRAM (§ 1400) CHAPTER 8—LOW-INCOME HOUSING (§",
+      "tags": [
+        "chapter",
+        "temporary",
+        "unemployment",
+        "compensation",
+        "program"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_1401",
+      "number": "1401",
+      "title": "Section 1401",
+      "text": "§ 1401 – 1440) CHAPTER 8A—SLUM CLEARANCE, URBAN RENEWAL, AND FARM HOUSING (§",
+      "tags": [
+        "chapter",
+        "clearance",
+        "renewal",
+        "housing"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_1441",
+      "number": "1441",
+      "title": "Section 1441",
+      "text": "§ 1441 – 1490t) CHAPTER 8B—PUBLIC WORKS OR FACILITIES (§ 1491) CHAPTER 8C—OPEN-SPACE LAND (§",
+      "tags": [
+        "chapter",
+        "public",
+        "facilities"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_1500",
+      "number": "1500",
+      "title": "Section 1500",
+      "text": "§ 1500 – 1500c–1) CHAPTER 9—HOUSING OF PERSONS ENGAGED IN NATIONAL DEFENSE (§",
+      "tags": [
+        "chapter",
+        "housing",
+        "persons",
+        "engaged",
+        "national"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_1501",
+      "number": "1501",
+      "title": "Section 1501",
+      "text": "§ 1501 – 1594j–1) CHAPTER 10—FEDERAL SECURITY AGENCY (§",
+      "tags": [
+        "chapter",
+        "federal",
+        "security",
+        "agency"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_1601",
+      "number": "1601",
+      "title": "Section 1601",
+      "text": "§ 1601 – 1603) CHAPTER 11—COMPENSATION FOR DISABILITY OR DEATH TO PERSONS EMPLOYED AT MILITARY, AIR, AND NAVAL BASES OUTSIDE UNITED STATES (§",
+      "tags": [
+        "chapter",
+        "compensation",
+        "disability",
+        "persons",
+        "employed"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_1651",
+      "number": "1651",
+      "title": "Section 1651",
+      "text": "§ 1651 – 1655) CHAPTER 12—COMPENSATION FOR INJURY, DEATH, OR DETENTION OF EMPLOYEES OF CONTRACTORS WITH UNITED STATES OUTSIDE UNITED STATES (§",
+      "tags": [
+        "united",
+        "states",
+        "chapter",
+        "compensation",
+        "injury"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_1701",
+      "number": "1701",
+      "title": "Section 1701",
+      "text": "§ 1701 – 1717) CHAPTER 13—SCHOOL LUNCH PROGRAMS (§",
+      "tags": [
+        "chapter",
+        "school",
+        "programs"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_1751",
+      "number": "1751",
+      "title": "Section 1751",
+      "text": "§ 1751 – 1769j) CHAPTER 13A—CHILD NUTRITION (§",
+      "tags": [
+        "chapter",
+        "nutrition"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_1771",
+      "number": "1771",
+      "title": "Section 1771",
+      "text": "§ 1771 – 1793) CHAPTER 14—DEVELOPMENT AND CONTROL OF ATOMIC ENERGY (§ 1801) CHAPTER 15—DISASTER RELIEF (§",
+      "tags": [
+        "chapter",
+        "development",
+        "control",
+        "atomic",
+        "energy"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_1851",
+      "number": "1851",
+      "title": "Section 1851",
+      "text": "§ 1851 – 1855aaa) CHAPTER 15A—RECIPROCAL FIRE PROTECTION AGREEMENTS (§",
+      "tags": [
+        "chapter",
+        "reciprocal",
+        "protection",
+        "agreements"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_1856",
+      "number": "1856",
+      "title": "Section 1856",
+      "text": "§ 1856 – 1856p) CHAPTER 15B—AIR POLLUTION CONTROL (§",
+      "tags": [
+        "chapter",
+        "pollution",
+        "control"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_1857",
+      "number": "1857",
+      "title": "Section 1857",
+      "text": "§ 1857 – 1858) CHAPTER 16—NATIONAL SCIENCE FOUNDATION (§",
+      "tags": [
+        "chapter",
+        "national",
+        "science",
+        "foundation"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_1861",
+      "number": "1861",
+      "title": "Section 1861",
+      "text": "§ 1861 – 1887) CHAPTER 16A—GRANTS FOR SUPPORT OF SCIENTIFIC RESEARCH (§",
+      "tags": [
+        "chapter",
+        "grants",
+        "support",
+        "scientific",
+        "research"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_1891",
+      "number": "1891",
+      "title": "Section 1891",
+      "text": "§ 1891 – 1893) CHAPTER 16B—CONTRACTS FOR SCIENTIFIC AND TECHNOLOGICAL RESEARCH (§",
+      "tags": [
+        "chapter",
+        "contracts",
+        "scientific",
+        "technological",
+        "research"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_1900",
+      "number": "1900",
+      "title": "Section 1900",
+      "text": "§ 1900 – 1900b) CHAPTER 17—FEDERAL EMPLOYMENT SERVICE (§ 1901) CHAPTER 18—YOUTH MEDALS (§",
+      "tags": [
+        "chapter",
+        "federal",
+        "employment",
+        "service",
+        "medals"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_1921",
+      "number": "1921",
+      "title": "Section 1921",
+      "text": "§ 1921 – 1926) CHAPTER 19—SALINE AND SALT WATERS (§",
+      "tags": [
+        "chapter",
+        "saline",
+        "waters"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_1951",
+      "number": "1951",
+      "title": "Section 1951",
+      "text": "§ 1951 – 1959i) CHAPTER 19A—WATER RESOURCES RESEARCH PROGRAM (§",
+      "tags": [
+        "chapter",
+        "resources",
+        "research",
+        "program"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_1961",
+      "number": "1961",
+      "title": "Section 1961",
+      "text": "§ 1961 – 1961c) CHAPTER 19B—WATER RESOURCES PLANNING (§",
+      "tags": [
+        "chapter",
+        "resources",
+        "planning"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_1962",
+      "number": "1962",
+      "title": "Section 1962",
+      "text": "§ 1962 – 1962d–22) CHAPTER 20—ELECTIVE FRANCHISE (§",
+      "tags": [
+        "chapter",
+        "elective",
+        "franchise"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_1971",
+      "number": "1971",
+      "title": "Section 1971",
+      "text": "§ 1971 – 1974e) CHAPTER 20A—CIVIL RIGHTS COMMISSION (§",
+      "tags": [
+        "chapter",
+        "rights",
+        "commission"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_1975",
+      "number": "1975",
+      "title": "Section 1975",
+      "text": "§ 1975 – 1975e) CHAPTER 21—CIVIL RIGHTS (§",
+      "tags": [
+        "chapter",
+        "rights"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_1981",
+      "number": "1981",
+      "title": "Section 1981",
+      "text": "§ 1981 – 2000h–6) CHAPTER 21A—PRIVACY PROTECTION (§§ 2000aa – 2000aa–12) CHAPTER 21B—RELIGIOUS FREEDOM RESTORATION (§§ 2000bb – 2000bb–4) CHAPTER 21C—PROTECTION OF RELIGIOUS EXERCISE IN LAND USE AND BY INSTITUTIONALIZED PERSONS (§§ 2000cc – 2000cc–5) CHAPTER 21D—DETAINEE TREATMENT (§§ 2000dd – 2000dd–2) CHAPTER 21E—PRIVACY AND CIVIL LIBERTIES PROTECTION AND OVERSIGHT (§§ 2000ee – 2000ee–3) CHAPTER 21F—PROHIBITING EMPLOYMENT DISCRIMINATION ON THE BASIS OF GENETIC INFORMATION (§§ 2000ff – 2000ff–11) CHAPTER 21G—PREGNANT WORKER FAIRNESS (§§ 2000gg – 2000gg–6) CHAPTER 22—INDIAN HOSPITALS AND HEALTH FACILITIES (§",
+      "tags": [
+        "chapter",
+        "protection",
+        "privacy",
+        "religious",
+        "freedom"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_2001",
+      "number": "2001",
+      "title": "Section 2001",
+      "text": "§ 2001 – 2005f) CHAPTER 23—DEVELOPMENT AND CONTROL OF ATOMIC ENERGY (§",
+      "tags": [
+        "chapter",
+        "development",
+        "control",
+        "atomic",
+        "energy"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_2011",
+      "number": "2011",
+      "title": "Section 2011",
+      "text": "§ 2011 – 2297h–13) CHAPTER 24—DISPOSAL OF ATOMIC ENERGY COMMUNITIES (§",
+      "tags": [
+        "chapter",
+        "disposal",
+        "atomic",
+        "energy",
+        "communities"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_2301",
+      "number": "2301",
+      "title": "Section 2301",
+      "text": "§ 2301 – 2394) CHAPTER 25—FEDERAL FLOOD INSURANCE (§",
+      "tags": [
+        "chapter",
+        "federal",
+        "insurance"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_2401",
+      "number": "2401",
+      "title": "Section 2401",
+      "text": "§ 2401 – 2415) CHAPTER 26—NATIONAL SPACE PROGRAM (§",
+      "tags": [
+        "chapter",
+        "national",
+        "program"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_2451",
+      "number": "2451",
+      "title": "Section 2451",
+      "text": "§ 2451 – 2481) CHAPTER 26A—NATIONAL SPACE GRANT COLLEGE AND FELLOWSHIP PROGRAM (§",
+      "tags": [
+        "chapter",
+        "national",
+        "college",
+        "fellowship",
+        "program"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_2486",
+      "number": "2486",
+      "title": "Section 2486",
+      "text": "§ 2486 – 2486k) CHAPTER 26B—BIOMEDICAL RESEARCH IN SPACE (§",
+      "tags": [
+        "chapter",
+        "biomedical",
+        "research"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_2487",
+      "number": "2487",
+      "title": "Section 2487",
+      "text": "§ 2487 – 2487e) CHAPTER 27—LOAN SERVICE OF CAPTIONED FILMS AND EDUCATIONAL MEDIA FOR HANDICAPPED (§",
+      "tags": [
+        "chapter",
+        "service",
+        "captioned",
+        "educational",
+        "handicapped"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_2491",
+      "number": "2491",
+      "title": "Section 2491",
+      "text": "§ 2491 – 2495) CHAPTER 28—AREA REDEVELOPMENT PROGRAM (§",
+      "tags": [
+        "chapter",
+        "redevelopment",
+        "program"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_2501",
+      "number": "2501",
+      "title": "Section 2501",
+      "text": "§ 2501 – 2515) CHAPTER 29—JUVENILE DELINQUENCY AND YOUTH OFFENSES CONTROL (§ 2541) CHAPTER 30—MANPOWER DEVELOPMENT AND TRAINING PROGRAM (§",
+      "tags": [
+        "chapter",
+        "juvenile",
+        "delinquency",
+        "offenses",
+        "control"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_2571",
+      "number": "2571",
+      "title": "Section 2571",
+      "text": "§ 2571 – 2624) CHAPTER 31—PUBLIC WORKS ACCELERATION PROGRAM (§",
+      "tags": [
+        "chapter",
+        "public",
+        "acceleration",
+        "program"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_2641",
+      "number": "2641",
+      "title": "Section 2641",
+      "text": "§ 2641 – 2643) CHAPTER 32—THIRD PARTY LIABILITY FOR HOSPITAL AND MEDICAL CARE (§",
+      "tags": [
+        "chapter",
+        "liability",
+        "hospital",
+        "medical"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_2651",
+      "number": "2651",
+      "title": "Section 2651",
+      "text": "§ 2651 – 2653) CHAPTER 33—COMMUNITY MENTAL HEALTH CENTERS (§",
+      "tags": [
+        "chapter",
+        "community",
+        "mental",
+        "health",
+        "centers"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_2661",
+      "number": "2661",
+      "title": "Section 2661",
+      "text": "§ 2661 – 2698) CHAPTER 34—ECONOMIC OPPORTUNITY PROGRAM (§",
+      "tags": [
+        "chapter",
+        "economic",
+        "opportunity",
+        "program"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_2701",
+      "number": "2701",
+      "title": "Section 2701",
+      "text": "§ 2701 – 2996l) CHAPTER 35—PROGRAMS FOR OLDER AMERICANS (§",
+      "tags": [
+        "chapter",
+        "programs",
+        "americans"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_3001",
+      "number": "3001",
+      "title": "Section 3001",
+      "text": "§ 3001 – 3058ff) CHAPTER 35A—COMMUNITY SERVICE EMPLOYMENT FOR OLDER AMERICANS (§ 3061) CHAPTER 36—COMPENSATION OF CON­DEMNEES IN DEVELOPMENT PROGRAMS (§ 3071) CHAPTER 37—COMMUNITY FACILITIES AND ADVANCE LAND ACQUISITION (§",
+      "tags": [
+        "chapter",
+        "community",
+        "service",
+        "employment",
+        "americans"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_3101",
+      "number": "3101",
+      "title": "Section 3101",
+      "text": "§ 3101 – 3108) CHAPTER 38—PUBLIC WORKS AND ECONOMIC DEVELOPMENT (§",
+      "tags": [
+        "chapter",
+        "public",
+        "economic",
+        "development"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_3121",
+      "number": "3121",
+      "title": "Section 3121",
+      "text": "§ 3121 – 3234) CHAPTER 39—SOLID WASTE DISPOSAL (§",
+      "tags": [
+        "chapter",
+        "disposal"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_3251",
+      "number": "3251",
+      "title": "Section 3251",
+      "text": "§ 3251 – 3256) CHAPTER 40—SOIL INFORMATION ASSISTANCE FOR COMMUNITY PLANNING AND RESOURCE DEVELOPMENT (§",
+      "tags": [
+        "chapter",
+        "information",
+        "assistance",
+        "community",
+        "planning"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_3271",
+      "number": "3271",
+      "title": "Section 3271",
+      "text": "§ 3271 – 3274) CHAPTER 41—DEMONSTRATION CITIES AND METROPOLITAN DEVELOPMENT PROGRAM (§",
+      "tags": [
+        "chapter",
+        "demonstration",
+        "cities",
+        "metropolitan",
+        "development"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_3301",
+      "number": "3301",
+      "title": "Section 3301",
+      "text": "§ 3301 – 3374) CHAPTER 42—NARCOTIC ADDICT REHABILITATION (§",
+      "tags": [
+        "chapter",
+        "narcotic",
+        "addict",
+        "rehabilitation"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_3401",
+      "number": "3401",
+      "title": "Section 3401",
+      "text": "§ 3401 – 3442) CHAPTER 43—DEPARTMENT OF HEALTH AND HUMAN SERVICES (§",
+      "tags": [
+        "chapter",
+        "department",
+        "health",
+        "services"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_3501",
+      "number": "3501",
+      "title": "Section 3501",
+      "text": "§ 3501 – 3521) CHAPTER 44—DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT (§",
+      "tags": [
+        "chapter",
+        "department",
+        "housing",
+        "development"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_3531",
+      "number": "3531",
+      "title": "Section 3531",
+      "text": "§ 3531 – 3550) CHAPTER 45—FAIR HOUSING (§",
+      "tags": [
+        "chapter",
+        "housing"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_3601",
+      "number": "3601",
+      "title": "Section 3601",
+      "text": "§ 3601 – 3631) CHAPTER 46—JUSTICE SYSTEM IMPROVEMENT (§",
+      "tags": [
+        "chapter",
+        "justice",
+        "system",
+        "improvement"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_3701",
+      "number": "3701",
+      "title": "Section 3701",
+      "text": "§ 3701 – 3797ff–6) CHAPTER 47—JUVENILE DELINQUENCY PREVENTION AND CONTROL (§",
+      "tags": [
+        "chapter",
+        "juvenile",
+        "delinquency",
+        "prevention",
+        "control"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_3801",
+      "number": "3801",
+      "title": "Section 3801",
+      "text": "§ 3801 – 3890) CHAPTER 48—GUARANTEES FOR FINANCING NEW COMMUNITY LAND DEVELOPMENT (§",
+      "tags": [
+        "chapter",
+        "guarantees",
+        "financing",
+        "community",
+        "development"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_3901",
+      "number": "3901",
+      "title": "Section 3901",
+      "text": "§ 3901 – 3914) CHAPTER 49—NATIONAL HOUSING PARTNERSHIPS (§",
+      "tags": [
+        "chapter",
+        "national",
+        "housing",
+        "partnerships"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_3931",
+      "number": "3931",
+      "title": "Section 3931",
+      "text": "§ 3931 – 3941) CHAPTER 50—NATIONAL FLOOD INSURANCE (§",
+      "tags": [
+        "chapter",
+        "national",
+        "insurance"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_4001",
+      "number": "4001",
+      "title": "Section 4001",
+      "text": "§ 4001 – 4131) CHAPTER 51—DESIGN AND CONSTRUCTION OF PUBLIC BUILDINGS TO ACCOMMODATE PHYSICALLY HANDICAPPED (§",
+      "tags": [
+        "chapter",
+        "design",
+        "construction",
+        "public",
+        "buildings"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_4151",
+      "number": "4151",
+      "title": "Section 4151",
+      "text": "§ 4151 – 4157) CHAPTER 52—INTERGOVERNMENTAL COOPERATION (§",
+      "tags": [
+        "chapter",
+        "intergovernmental",
+        "cooperation"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_4201",
+      "number": "4201",
+      "title": "Section 4201",
+      "text": "§ 4201 – 4241) CHAPTER 52A—JOINT FUNDING SIMPLIFICATION (§ 4251) CHAPTER 53—ADVISORY COMMISSION ON INTERGOVERNMENTAL RELATIONS (§",
+      "tags": [
+        "chapter",
+        "funding",
+        "simplification",
+        "advisory",
+        "commission"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_4271",
+      "number": "4271",
+      "title": "Section 4271",
+      "text": "§ 4271 – 4279) CHAPTER 54—CABINET COMMITTEE ON OPPORTUNITIES FOR SPANISH-SPEAKING PEOPLE (§ 4301) CHAPTER 55—NATIONAL ENVIRONMENTAL POLICY (§",
+      "tags": [
+        "chapter",
+        "cabinet",
+        "committee",
+        "opportunities",
+        "spanish"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_4321",
+      "number": "4321",
+      "title": "Section 4321",
+      "text": "§ 4321 – 4370m–12) CHAPTER 56—ENVIRONMENTAL QUALITY IMPROVEMENT (§",
+      "tags": [
+        "chapter",
+        "environmental",
+        "quality",
+        "improvement"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_4371",
+      "number": "4371",
+      "title": "Section 4371",
+      "text": "§ 4371 – 4375) CHAPTER 57—ENVIRONMENTAL POLLUTION STUDY (§",
+      "tags": [
+        "chapter",
+        "environmental",
+        "pollution"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_4391",
+      "number": "4391",
+      "title": "Section 4391",
+      "text": "§ 4391 – 4395) CHAPTER 58—DISASTER RELIEF (§",
+      "tags": [
+        "chapter",
+        "disaster",
+        "relief"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_4401",
+      "number": "4401",
+      "title": "Section 4401",
+      "text": "§ 4401 – 4481) CHAPTER 59—NATIONAL URBAN POLICY AND NEW COMMUNITY DEVELOPMENT (§",
+      "tags": [
+        "chapter",
+        "national",
+        "policy",
+        "community",
+        "development"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_4501",
+      "number": "4501",
+      "title": "Section 4501",
+      "text": "§ 4501 – 4528) CHAPTER 60—COMPREHENSIVE ALCOHOL ABUSE AND ALCOHOLISM PREVENTION, TREATMENT, AND REHABILITATION PROGRAM (§",
+      "tags": [
+        "chapter",
+        "comprehensive",
+        "alcohol",
+        "alcoholism",
+        "prevention"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_4541",
+      "number": "4541",
+      "title": "Section 4541",
+      "text": "§ 4541 – 4594) CHAPTER 61—UNIFORM RELOCATION ASSISTANCE AND REAL PROPERTY ACQUISITION POLICIES FOR FEDERAL AND FEDERALLY ASSISTED PROGRAMS (§",
+      "tags": [
+        "chapter",
+        "uniform",
+        "relocation",
+        "assistance",
+        "property"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_4601",
+      "number": "4601",
+      "title": "Section 4601",
+      "text": "§ 4601 – 4655) CHAPTER 62—INTERGOVERNMENTAL PERSONNEL PROGRAM (§",
+      "tags": [
+        "chapter",
+        "intergovernmental",
+        "personnel",
+        "program"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_4701",
+      "number": "4701",
+      "title": "Section 4701",
+      "text": "§ 4701 – 4772) CHAPTER 63—LEAD-BASED PAINT POISONING PREVENTION (§",
+      "tags": [
+        "chapter",
+        "poisoning",
+        "prevention"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_4801",
+      "number": "4801",
+      "title": "Section 4801",
+      "text": "§ 4801 – 4846) CHAPTER 63A—RESIDENTIAL LEAD-BASED PAINT HAZARD REDUCTION (§",
+      "tags": [
+        "chapter",
+        "residential",
+        "hazard",
+        "reduction"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_4851",
+      "number": "4851",
+      "title": "Section 4851",
+      "text": "§ 4851 – 4856) CHAPTER 64—PUBLIC SERVICE EMPLOYMENT PROGRAMS (§ 4871) CHAPTER 65—NOISE CONTROL (§",
+      "tags": [
+        "chapter",
+        "public",
+        "service",
+        "employment",
+        "programs"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_4901",
+      "number": "4901",
+      "title": "Section 4901",
+      "text": "§ 4901 – 4918) CHAPTER 66—DOMESTIC VOLUNTEER SERVICES (§",
+      "tags": [
+        "chapter",
+        "domestic",
+        "volunteer",
+        "services"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_4950",
+      "number": "4950",
+      "title": "Section 4950",
+      "text": "§ 4950 – 5091) CHAPTER 67—CHILD ABUSE PREVENTION AND TREATMENT AND ADOPTION REFORM (§",
+      "tags": [
+        "chapter",
+        "prevention",
+        "treatment",
+        "adoption",
+        "reform"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_5101",
+      "number": "5101",
+      "title": "Section 5101",
+      "text": "§ 5101 – 5119c) CHAPTER 68—DISASTER RELIEF (§",
+      "tags": [
+        "chapter",
+        "disaster",
+        "relief"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_5121",
+      "number": "5121",
+      "title": "Section 5121",
+      "text": "§ 5121 – 5208) CHAPTER 69—COMMUNITY DEVELOPMENT (§",
+      "tags": [
+        "chapter",
+        "community",
+        "development"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_5301",
+      "number": "5301",
+      "title": "Section 5301",
+      "text": "§ 5301 – 5322) CHAPTER 70—MANUFACTURED HOME CONSTRUCTION AND SAFETY STANDARDS (§",
+      "tags": [
+        "chapter",
+        "manufactured",
+        "construction",
+        "safety",
+        "standards"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_5401",
+      "number": "5401",
+      "title": "Section 5401",
+      "text": "§ 5401 – 5426) CHAPTER 71—SOLAR ENERGY (§",
+      "tags": [
+        "chapter",
+        "energy"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_5501",
+      "number": "5501",
+      "title": "Section 5501",
+      "text": "§ 5501 – 5581) CHAPTER 72—JUVENILE JUSTICE AND DELINQUENCY PREVENTION (§",
+      "tags": [
+        "chapter",
+        "juvenile",
+        "justice",
+        "delinquency",
+        "prevention"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_5601",
+      "number": "5601",
+      "title": "Section 5601",
+      "text": "§ 5601 – 5792a) CHAPTER 73—DEVELOPMENT OF ENERGY SOURCES (§",
+      "tags": [
+        "chapter",
+        "development",
+        "energy",
+        "sources"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_5801",
+      "number": "5801",
+      "title": "Section 5801",
+      "text": "§ 5801 – 5891) CHAPTER 74—NONNUCLEAR ENERGY RESEARCH AND DEVELOPMENT (§",
+      "tags": [
+        "chapter",
+        "nonnuclear",
+        "energy",
+        "research",
+        "development"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_5901",
+      "number": "5901",
+      "title": "Section 5901",
+      "text": "§ 5901 – 5919) CHAPTER 75—PROGRAMS FOR INDIVIDUALS WITH DEVELOPMENTAL DISABILITIES (§",
+      "tags": [
+        "chapter",
+        "programs",
+        "individuals",
+        "developmental",
+        "disabilities"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_6000",
+      "number": "6000",
+      "title": "Section 6000",
+      "text": "§ 6000 – 6081) CHAPTER 76—AGE DISCRIMINATION IN FEDERALLY ASSISTED PROGRAMS (§",
+      "tags": [
+        "chapter",
+        "discrimination",
+        "federally",
+        "assisted",
+        "programs"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_6101",
+      "number": "6101",
+      "title": "Section 6101",
+      "text": "§ 6101 – 6107) CHAPTER 77—ENERGY CONSERVATION (§",
+      "tags": [
+        "chapter",
+        "energy",
+        "conservation"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_6201",
+      "number": "6201",
+      "title": "Section 6201",
+      "text": "§ 6201 – 6422) CHAPTER 78—NATIONAL PETROLEUM RESERVE IN ALASKA (§",
+      "tags": [
+        "chapter",
+        "national",
+        "petroleum",
+        "reserve",
+        "alaska"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_6501",
+      "number": "6501",
+      "title": "Section 6501",
+      "text": "§ 6501 – 6508) CHAPTER 79—SCIENCE AND TECHNOLOGY POLICY, ORGANIZATION AND PRIORITIES (§",
+      "tags": [
+        "chapter",
+        "science",
+        "technology",
+        "policy",
+        "organization"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_6601",
+      "number": "6601",
+      "title": "Section 6601",
+      "text": "§ 6601 – 6687) CHAPTER 80—PUBLIC WORKS EMPLOYMENT (§",
+      "tags": [
+        "chapter",
+        "public",
+        "employment"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_6701",
+      "number": "6701",
+      "title": "Section 6701",
+      "text": "§ 6701 – 6736) CHAPTER 81—ENERGY CONSERVATION AND RESOURCE RENEWAL (§",
+      "tags": [
+        "chapter",
+        "energy",
+        "conservation",
+        "resource",
+        "renewal"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_6801",
+      "number": "6801",
+      "title": "Section 6801",
+      "text": "§ 6801 – 6892) CHAPTER 82—SOLID WASTE DISPOSAL (§",
+      "tags": [
+        "chapter",
+        "disposal"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_6901",
+      "number": "6901",
+      "title": "Section 6901",
+      "text": "§ 6901 – 6992k) CHAPTER 83—ENERGY EXTENSION SERVICE (§ 7001) CHAPTER 84—DEPARTMENT OF ENERGY (§",
+      "tags": [
+        "chapter",
+        "energy",
+        "extension",
+        "service",
+        "department"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_7101",
+      "number": "7101",
+      "title": "Section 7101",
+      "text": "§ 7101 – 7386) CHAPTER 85—AIR POLLUTION PREVENTION AND CONTROL (§",
+      "tags": [
+        "chapter",
+        "pollution",
+        "prevention",
+        "control"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_7401",
+      "number": "7401",
+      "title": "Section 7401",
+      "text": "§ 7401 – 7675) CHAPTER 86—EARTHQUAKE HAZARDS REDUCTION (§",
+      "tags": [
+        "chapter",
+        "earthquake",
+        "hazards",
+        "reduction"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_7701",
+      "number": "7701",
+      "title": "Section 7701",
+      "text": "§ 7701 – 7709) CHAPTER 87—WATER RESEARCH AND DEVELOPMENT (§",
+      "tags": [
+        "chapter",
+        "research",
+        "development"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_7801",
+      "number": "7801",
+      "title": "Section 7801",
+      "text": "§ 7801 – 7871) CHAPTER 88—URANIUM MILL TAILINGS RADIATION CONTROL (§",
+      "tags": [
+        "chapter",
+        "uranium",
+        "tailings",
+        "radiation",
+        "control"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_7901",
+      "number": "7901",
+      "title": "Section 7901",
+      "text": "§ 7901 – 7942) CHAPTER 89—CONGREGATE HOUSING SERVICES (§",
+      "tags": [
+        "chapter",
+        "congregate",
+        "housing",
+        "services"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_8001",
+      "number": "8001",
+      "title": "Section 8001",
+      "text": "§ 8001 – 8013) CHAPTER 90—NEIGHBORHOOD AND CITY REINVESTMENT, SELF-HELP AND REVITALIZATION (§",
+      "tags": [
+        "chapter",
+        "neighborhood",
+        "reinvestment",
+        "revitalization"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_8101",
+      "number": "8101",
+      "title": "Section 8101",
+      "text": "§ 8101 – 8146) CHAPTER 91—NATIONAL ENERGY CONSERVATION POLICY (§",
+      "tags": [
+        "chapter",
+        "national",
+        "energy",
+        "conservation",
+        "policy"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_8201",
+      "number": "8201",
+      "title": "Section 8201",
+      "text": "§ 8201 – 8287d) CHAPTER 92—POWERPLANT AND INDUSTRIAL FUEL USE (§",
+      "tags": [
+        "chapter",
+        "powerplant",
+        "industrial"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_8301",
+      "number": "8301",
+      "title": "Section 8301",
+      "text": "§ 8301 – 8484) CHAPTER 93—EMERGENCY ENERGY CONSERVATION (§",
+      "tags": [
+        "chapter",
+        "emergency",
+        "energy",
+        "conservation"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_8501",
+      "number": "8501",
+      "title": "Section 8501",
+      "text": "§ 8501 – 8541) CHAPTER 94—LOW-INCOME ENERGY ASSISTANCE (§",
+      "tags": [
+        "chapter",
+        "income",
+        "energy",
+        "assistance"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_8601",
+      "number": "8601",
+      "title": "Section 8601",
+      "text": "§ 8601 – 8630) CHAPTER 95—UNITED STATES SYNTHETIC FUELS CORPORATION (§",
+      "tags": [
+        "chapter",
+        "united",
+        "states",
+        "synthetic",
+        "corporation"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_8701",
+      "number": "8701",
+      "title": "Section 8701",
+      "text": "§ 8701 – 8795) CHAPTER 96—BIOMASS ENERGY AND ALCOHOL FUELS (§",
+      "tags": [
+        "chapter",
+        "biomass",
+        "energy",
+        "alcohol"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_8801",
+      "number": "8801",
+      "title": "Section 8801",
+      "text": "§ 8801 – 8871) CHAPTER 97—ACID PRECIPITATION PROGRAM AND CARBON DIOXIDE STUDY (§",
+      "tags": [
+        "chapter",
+        "precipitation",
+        "program",
+        "carbon",
+        "dioxide"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_8901",
+      "number": "8901",
+      "title": "Section 8901",
+      "text": "§ 8901 – 8912) CHAPTER 98—OCEAN THERMAL ENERGY CONVERSION RESEARCH AND DEVELOPMENT (§",
+      "tags": [
+        "chapter",
+        "thermal",
+        "energy",
+        "conversion",
+        "research"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_9001",
+      "number": "9001",
+      "title": "Section 9001",
+      "text": "§ 9001 – 9009) CHAPTER 99—OCEAN THERMAL ENERGY CONVERSION (§",
+      "tags": [
+        "chapter",
+        "thermal",
+        "energy",
+        "conversion"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_9101",
+      "number": "9101",
+      "title": "Section 9101",
+      "text": "§ 9101 – 9168) CHAPTER 100—WIND ENERGY SYSTEMS (§",
+      "tags": [
+        "chapter",
+        "energy",
+        "systems"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_9201",
+      "number": "9201",
+      "title": "Section 9201",
+      "text": "§ 9201 – 9213) CHAPTER 101—MAGNETIC FUSION ENERGY ENGINEERING (§",
+      "tags": [
+        "chapter",
+        "magnetic",
+        "fusion",
+        "energy",
+        "engineering"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_9301",
+      "number": "9301",
+      "title": "Section 9301",
+      "text": "§ 9301 – 9312) CHAPTER 102—MENTAL HEALTH SYSTEMS (§",
+      "tags": [
+        "chapter",
+        "mental",
+        "health",
+        "systems"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_9401",
+      "number": "9401",
+      "title": "Section 9401",
+      "text": "§ 9401 – 9523) CHAPTER 103—COMPREHENSIVE ENVIRONMENTAL RESPONSE, COMPENSATION, AND LIABILITY (§",
+      "tags": [
+        "chapter",
+        "comprehensive",
+        "environmental",
+        "response",
+        "compensation"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_9601",
+      "number": "9601",
+      "title": "Section 9601",
+      "text": "§ 9601 – 9675) CHAPTER 104—NUCLEAR SAFETY RESEARCH, DEVELOPMENT, AND DEMONSTRATION (§",
+      "tags": [
+        "chapter",
+        "nuclear",
+        "safety",
+        "research",
+        "development"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_9701",
+      "number": "9701",
+      "title": "Section 9701",
+      "text": "§ 9701 – 9708) CHAPTER 105—COMMUNITY SERVICES PROGRAMS (§",
+      "tags": [
+        "chapter",
+        "community",
+        "services",
+        "programs"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_9801",
+      "number": "9801",
+      "title": "Section 9801",
+      "text": "§ 9801 – 9881) CHAPTER 106—COMMUNITY SERVICES BLOCK GRANT PROGRAM (§",
+      "tags": [
+        "chapter",
+        "community",
+        "services",
+        "program"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_9901",
+      "number": "9901",
+      "title": "Section 9901",
+      "text": "§ 9901 – 9926) CHAPTER 107—CONSUMER-PATIENT RADIATION HEALTH AND SAFETY (§",
+      "tags": [
+        "chapter",
+        "consumer",
+        "patient",
+        "radiation",
+        "health"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_10001",
+      "number": "10001",
+      "title": "Section 10001",
+      "text": "§ 10001 – 10008) CHAPTER 108—NUCLEAR WASTE POLICY (§",
+      "tags": [
+        "chapter",
+        "nuclear",
+        "policy"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_10101",
+      "number": "10101",
+      "title": "Section 10101",
+      "text": "§ 10101 – 10270) CHAPTER 109—WATER RESOURCES RESEARCH (§",
+      "tags": [
+        "chapter",
+        "resources",
+        "research"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_10301",
+      "number": "10301",
+      "title": "Section 10301",
+      "text": "§ 10301 – 10310) CHAPTER 109A—MEMBRANE PROCESSES RESEARCH (§",
+      "tags": [
+        "chapter",
+        "membrane",
+        "processes",
+        "research"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_10341",
+      "number": "10341",
+      "title": "Section 10341",
+      "text": "§ 10341 – 10345) CHAPTER 109B—SECURE WATER (§",
+      "tags": [
+        "chapter",
+        "secure"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_10361",
+      "number": "10361",
+      "title": "Section 10361",
+      "text": "§ 10361 – 10371) CHAPTER 110—FAMILY VIOLENCE PREVENTION AND SERVICES (§",
+      "tags": [
+        "chapter",
+        "family",
+        "violence",
+        "prevention",
+        "services"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_10401",
+      "number": "10401",
+      "title": "Section 10401",
+      "text": "§ 10401 – 10421) CHAPTER 111—EMERGENCY FEDERAL LAW ENFORCEMENT ASSISTANCE (§",
+      "tags": [
+        "chapter",
+        "emergency",
+        "federal",
+        "enforcement",
+        "assistance"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_10501",
+      "number": "10501",
+      "title": "Section 10501",
+      "text": "§ 10501 – 10513) CHAPTER 112—VICTIM COMPENSATION AND ASSISTANCE (§",
+      "tags": [
+        "chapter",
+        "victim",
+        "compensation",
+        "assistance"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_10601",
+      "number": "10601",
+      "title": "Section 10601",
+      "text": "§ 10601 – 10609) CHAPTER 113—STATE JUSTICE INSTITUTE (§",
+      "tags": [
+        "chapter",
+        "justice",
+        "institute"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_10701",
+      "number": "10701",
+      "title": "Section 10701",
+      "text": "§ 10701 – 10713) CHAPTER 114—PROTECTION AND ADVOCACY FOR INDIVIDUALS WITH MENTAL ILLNESS (§",
+      "tags": [
+        "chapter",
+        "protection",
+        "advocacy",
+        "individuals",
+        "mental"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_10801",
+      "number": "10801",
+      "title": "Section 10801",
+      "text": "§ 10801 – 10851) CHAPTER 115—CHILD DEVELOPMENT ASSOCIATE SCHOLARSHIP ASSISTANCE PROGRAM (§",
+      "tags": [
+        "chapter",
+        "development",
+        "associate",
+        "scholarship",
+        "assistance"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_10901",
+      "number": "10901",
+      "title": "Section 10901",
+      "text": "§ 10901 – 10905) CHAPTER 116—EMERGENCY PLANNING AND COMMUNITY RIGHT-TO-KNOW (§",
+      "tags": [
+        "chapter",
+        "emergency",
+        "planning",
+        "community"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_11001",
+      "number": "11001",
+      "title": "Section 11001",
+      "text": "§ 11001 – 11050) CHAPTER 117—ENCOURAGING GOOD FAITH PROFESSIONAL REVIEW ACTIVITIES (§",
+      "tags": [
+        "chapter",
+        "encouraging",
+        "professional",
+        "review",
+        "activities"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_11101",
+      "number": "11101",
+      "title": "Section 11101",
+      "text": "§ 11101 – 11152) CHAPTER 118—ALZHEIMER’S DISEASE AND RELATED DEMENTIAS RESEARCH (§",
+      "tags": [
+        "chapter",
+        "alzheimer",
+        "disease",
+        "related",
+        "dementias"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_11201",
+      "number": "11201",
+      "title": "Section 11201",
+      "text": "§ 11201 – 11294) CHAPTER 119—HOMELESS ASSISTANCE (§",
+      "tags": [
+        "chapter",
+        "homeless",
+        "assistance"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_11301",
+      "number": "11301",
+      "title": "Section 11301",
+      "text": "§ 11301 – 11481) CHAPTER 120—ENTERPRISE ZONE DEVELOPMENT (§",
+      "tags": [
+        "chapter",
+        "enterprise",
+        "development"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_11501",
+      "number": "11501",
+      "title": "Section 11501",
+      "text": "§ 11501 – 11505) CHAPTER 121—INTERNATIONAL CHILD ABDUCTION REMEDIES (§",
+      "tags": [
+        "chapter",
+        "international",
+        "abduction",
+        "remedies"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_11601",
+      "number": "11601",
+      "title": "Section 11601",
+      "text": "§ 11601 – 11611) CHAPTER 122—NATIVE HAWAIIAN HEALTH CARE (§",
+      "tags": [
+        "chapter",
+        "native",
+        "hawaiian",
+        "health"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_11701",
+      "number": "11701",
+      "title": "Section 11701",
+      "text": "§ 11701 – 11714) CHAPTER 123—DRUG ABUSE EDUCATION AND PREVENTION (§",
+      "tags": [
+        "chapter",
+        "education",
+        "prevention"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_11801",
+      "number": "11801",
+      "title": "Section 11801",
+      "text": "§ 11801 – 11851) CHAPTER 124—PUBLIC HOUSING DRUG ELIMINATION (§",
+      "tags": [
+        "chapter",
+        "public",
+        "housing",
+        "elimination"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_11901",
+      "number": "11901",
+      "title": "Section 11901",
+      "text": "§ 11901 – 11925) CHAPTER 125—RENEWABLE ENERGY AND ENERGY EFFICIENCY TECHNOLOGY COMPETITIVENESS (§",
+      "tags": [
+        "energy",
+        "chapter",
+        "renewable",
+        "efficiency",
+        "technology"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_12001",
+      "number": "12001",
+      "title": "Section 12001",
+      "text": "§ 12001 – 12007) CHAPTER 126—EQUAL OPPORTUNITY FOR INDIVIDUALS WITH DISABILITIES (§",
+      "tags": [
+        "chapter",
+        "opportunity",
+        "individuals",
+        "disabilities"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_12101",
+      "number": "12101",
+      "title": "Section 12101",
+      "text": "§ 12101 – 12213) CHAPTER 127—COORDINATED SERVICES FOR CHILDREN, YOUTH, AND FAMILIES (§",
+      "tags": [
+        "chapter",
+        "coordinated",
+        "services",
+        "children",
+        "families"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_12301",
+      "number": "12301",
+      "title": "Section 12301",
+      "text": "§ 12301 – 12377) CHAPTER 128—HYDROGEN RESEARCH, DEVELOPMENT, AND DEMONSTRATION PROGRAM (§",
+      "tags": [
+        "chapter",
+        "hydrogen",
+        "research",
+        "development",
+        "demonstration"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_12401",
+      "number": "12401",
+      "title": "Section 12401",
+      "text": "§ 12401 – 12408) CHAPTER 129—NATIONAL AND COMMUNITY SERVICE (§",
+      "tags": [
+        "chapter",
+        "national",
+        "community",
+        "service"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_12501",
+      "number": "12501",
+      "title": "Section 12501",
+      "text": "§ 12501 – 12682) CHAPTER 130—NATIONAL AFFORDABLE HOUSING (§",
+      "tags": [
+        "chapter",
+        "national",
+        "affordable",
+        "housing"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_12701",
+      "number": "12701",
+      "title": "Section 12701",
+      "text": "§ 12701 – 12899) CHAPTER 131—HOUSING OPPORTUNITIES FOR PERSONS WITH AIDS (§",
+      "tags": [
+        "chapter",
+        "housing",
+        "opportunities",
+        "persons"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_12901",
+      "number": "12901",
+      "title": "Section 12901",
+      "text": "§ 12901 – 12912) CHAPTER 132—VICTIMS OF CHILD ABUSE (§",
+      "tags": [
+        "chapter",
+        "victims"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_13001",
+      "number": "13001",
+      "title": "Section 13001",
+      "text": "§ 13001 – 13051) CHAPTER 133—POLLUTION PREVENTION (§",
+      "tags": [
+        "chapter",
+        "pollution",
+        "prevention"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_13101",
+      "number": "13101",
+      "title": "Section 13101",
+      "text": "§ 13101 – 13109) CHAPTER 134—ENERGY POLICY (§",
+      "tags": [
+        "chapter",
+        "energy",
+        "policy"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_13201",
+      "number": "13201",
+      "title": "Section 13201",
+      "text": "§ 13201 – 13574) CHAPTER 135—RESIDENCY AND SERVICE REQUIREMENTS IN FEDERALLY ASSISTED HOUSING (§",
+      "tags": [
+        "chapter",
+        "residency",
+        "service",
+        "requirements",
+        "federally"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_13601",
+      "number": "13601",
+      "title": "Section 13601",
+      "text": "§ 13601 – 13664) CHAPTER 136—VIOLENT CRIME CONTROL AND LAW ENFORCEMENT (§",
+      "tags": [
+        "chapter",
+        "violent",
+        "control",
+        "enforcement"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_13701",
+      "number": "13701",
+      "title": "Section 13701",
+      "text": "§ 13701 – 14223) CHAPTER 137—MANAGEMENT OF RECHARGEABLE BATTERIES AND BATTERIES CONTAINING MERCURY (§",
+      "tags": [
+        "batteries",
+        "chapter",
+        "management",
+        "rechargeable",
+        "containing"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_14301",
+      "number": "14301",
+      "title": "Section 14301",
+      "text": "§ 14301 – 14336) CHAPTER 138—ASSISTED SUICIDE FUNDING RESTRICTION (§",
+      "tags": [
+        "chapter",
+        "assisted",
+        "suicide",
+        "funding",
+        "restriction"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_14401",
+      "number": "14401",
+      "title": "Section 14401",
+      "text": "§ 14401 – 14408) CHAPTER 139—VOLUNTEER PROTECTION (§",
+      "tags": [
+        "chapter",
+        "volunteer",
+        "protection"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_14501",
+      "number": "14501",
+      "title": "Section 14501",
+      "text": "§ 14501 – 14505) CHAPTER 140—CRIMINAL JUSTICE IDENTIFICATION, INFORMATION, AND COMMUNICATION (§",
+      "tags": [
+        "chapter",
+        "criminal",
+        "justice",
+        "identification",
+        "information"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_14601",
+      "number": "14601",
+      "title": "Section 14601",
+      "text": "§ 14601 – 14616) CHAPTER 140A—JENNIFER’S LAW (§",
+      "tags": [
+        "chapter",
+        "jennifer"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_14661",
+      "number": "14661",
+      "title": "Section 14661",
+      "text": "§ 14661 – 14665) CHAPTER 141—COMMERCIAL SPACE OPPORTUNITIES AND TRANSPORTATION SERVICES (§",
+      "tags": [
+        "chapter",
+        "commercial",
+        "opportunities",
+        "transportation",
+        "services"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_14701",
+      "number": "14701",
+      "title": "Section 14701",
+      "text": "§ 14701 – 14752) CHAPTER 142—POISON CONTROL CENTER ENHANCEMENT AND AWARENESS (§ 14801) CHAPTER 143—INTERCOUNTRY ADOPTIONS (§",
+      "tags": [
+        "chapter",
+        "poison",
+        "control",
+        "center",
+        "enhancement"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_14901",
+      "number": "14901",
+      "title": "Section 14901",
+      "text": "§ 14901 – 14954) CHAPTER 144—DEVELOPMENTAL DISABILITIES ASSISTANCE AND BILL OF RIGHTS (§",
+      "tags": [
+        "chapter",
+        "developmental",
+        "disabilities",
+        "assistance",
+        "rights"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_15001",
+      "number": "15001",
+      "title": "Section 15001",
+      "text": "§ 15001 – 15115) CHAPTER 145—PUBLIC SAFETY OFFICER MEDAL OF VALOR AND TRIBUTES (§",
+      "tags": [
+        "chapter",
+        "public",
+        "safety",
+        "officer",
+        "tributes"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_15201",
+      "number": "15201",
+      "title": "Section 15201",
+      "text": "§ 15201 – 15208) CHAPTER 145A—LAW ENFORCEMENT CONGRESSIONAL BADGE OF BRAVERY (§",
+      "tags": [
+        "chapter",
+        "enforcement",
+        "congressional",
+        "bravery"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_15231",
+      "number": "15231",
+      "title": "Section 15231",
+      "text": "§ 15231 – 15261) CHAPTER 146—ELECTION ADMINISTRATION IMPROVEMENT (§",
+      "tags": [
+        "chapter",
+        "election",
+        "administration",
+        "improvement"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_15301",
+      "number": "15301",
+      "title": "Section 15301",
+      "text": "§ 15301 – 15545) CHAPTER 147—PRISON RAPE ELIMINATION (§",
+      "tags": [
+        "chapter",
+        "prison",
+        "elimination"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_15601",
+      "number": "15601",
+      "title": "Section 15601",
+      "text": "§ 15601 – 15609) CHAPTER 148—WINDSTORM IMPACT REDUCTION (§",
+      "tags": [
+        "chapter",
+        "windstorm",
+        "impact",
+        "reduction"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_15701",
+      "number": "15701",
+      "title": "Section 15701",
+      "text": "§ 15701 – 15707) CHAPTER 149—NATIONAL ENERGY POLICY AND PROGRAMS (§",
+      "tags": [
+        "chapter",
+        "national",
+        "energy",
+        "policy",
+        "programs"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_15801",
+      "number": "15801",
+      "title": "Section 15801",
+      "text": "§ 15801 – 16539) CHAPTER 150—NATIONAL AERONAUTICS AND SPACE PROGRAMS, 2005 (§",
+      "tags": [
+        "chapter",
+        "national",
+        "aeronautics",
+        "programs"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_16601",
+      "number": "16601",
+      "title": "Section 16601",
+      "text": "§ 16601 – 16841) CHAPTER 151—CHILD PROTECTION AND SAFETY (§",
+      "tags": [
+        "chapter",
+        "protection",
+        "safety"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_16901",
+      "number": "16901",
+      "title": "Section 16901",
+      "text": "§ 16901 – 16991) CHAPTER 152—ENERGY INDEPENDENCE AND SECURITY (§",
+      "tags": [
+        "chapter",
+        "energy",
+        "independence",
+        "security"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_17001",
+      "number": "17001",
+      "title": "Section 17001",
+      "text": "§ 17001 – 17392) CHAPTER 153—COMMUNITY SAFETY THROUGH RECIDIVISM PREVENTION (§",
+      "tags": [
+        "chapter",
+        "community",
+        "safety",
+        "through",
+        "recidivism"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_17501",
+      "number": "17501",
+      "title": "Section 17501",
+      "text": "§ 17501 – 17555) CHAPTER 154—COMBATING CHILD EXPLOITATION (§",
+      "tags": [
+        "chapter",
+        "combating",
+        "exploitation"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_17601",
+      "number": "17601",
+      "title": "Section 17601",
+      "text": "§ 17601 – 17631) CHAPTER 155—AERONAUTICS AND SPACE ACTIVITIES (§",
+      "tags": [
+        "chapter",
+        "aeronautics",
+        "activities"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_17701",
+      "number": "17701",
+      "title": "Section 17701",
+      "text": "§ 17701 – 17827) CHAPTER 156—HEALTH INFORMATION TECHNOLOGY (§",
+      "tags": [
+        "chapter",
+        "health",
+        "information",
+        "technology"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_17901",
+      "number": "17901",
+      "title": "Section 17901",
+      "text": "§ 17901 – 17953) CHAPTER 157—QUALITY, AFFORDABLE HEALTH CARE FOR ALL AMERICANS (§",
+      "tags": [
+        "chapter",
+        "quality",
+        "affordable",
+        "health",
+        "americans"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_18001",
+      "number": "18001",
+      "title": "Section 18001",
+      "text": "§ 18001 – 18122) CHAPTER 158—SUPPORT FOR PREGNANT AND PARENTING TEENS AND WOMEN (§",
+      "tags": [
+        "chapter",
+        "support",
+        "pregnant",
+        "parenting"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_18201",
+      "number": "18201",
+      "title": "Section 18201",
+      "text": "§ 18201 – 18204) CHAPTER 159—SPACE EXPLORATION, TECHNOLOGY, AND SCIENCE (§",
+      "tags": [
+        "chapter",
+        "exploration",
+        "technology",
+        "science"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_18301",
+      "number": "18301",
+      "title": "Section 18301",
+      "text": "§ 18301 – 18445) CHAPTER 160—TREATMENT OF CERTAIN PAYMENTS IN EUGENICS COMPENSATION (§ 18501) CHAPTER 161—DEPARTMENT OF ENERGY RESEARCH AND INNOVATION (§",
+      "tags": [
+        "chapter",
+        "treatment",
+        "certain",
+        "payments",
+        "eugenics"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_18601",
+      "number": "18601",
+      "title": "Section 18601",
+      "text": "§ 18601 – 18655) CHAPTER 162—ENERGY INFRASTRUCTURE (§",
+      "tags": [
+        "chapter",
+        "energy",
+        "infrastructure"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_18701",
+      "number": "18701",
+      "title": "Section 18701",
+      "text": "§ 18701 – 18861) CHAPTER 163—RESEARCH AND DEVELOPMENT, COMPETITION, AND INNOVATION (§",
+      "tags": [
+        "chapter",
+        "research",
+        "development",
+        "competition",
+        "innovation"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_18901",
+      "number": "18901",
+      "title": "Section 18901",
+      "text": "§ 18901 – 19351) CHAPTER 164—SPEAK OUT ACT (§",
+      "tags": [
+        "chapter"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t42_19401",
+      "number": "19401",
+      "title": "Section 19401",
+      "text": "§ 19401 – 19404) U.S. Code Toolbox Law about... Articles from Wex Table of Popular Names Parallel Table of Authorities How current is this? Accessibility About LII Contact us Advertise here Help Terms of use Privacy",
+      "tags": [
+        "toolbox",
+        "articles",
+        "popular",
+        "parallel",
+        "authorities"
+      ],
+      "relatedArticles": []
+    }
+  ]
+}

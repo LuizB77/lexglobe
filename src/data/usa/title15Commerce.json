@@ -1,0 +1,1766 @@
+{
+  "country": "US",
+  "code": "title15Commerce",
+  "displayName": "Title 15 — Commerce & Trade",
+  "color": "#553C9A",
+  "articles": [
+    {
+      "id": "t15_1",
+      "number": "1",
+      "title": "Section 1",
+      "text": "§ 1 – 38) CHAPTER 2—FEDERAL TRADE COMMISSION; PROMOTION OF EXPORT TRADE AND PREVENTION OF UNFAIR METHODS OF COMPETITION (§",
+      "tags": [
+        "chapter",
+        "federal",
+        "commission",
+        "promotion",
+        "export"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_41",
+      "number": "41",
+      "title": "Section 41",
+      "text": "§ 41 – 77) CHAPTER 2A—SECURITIES AND TRUST INDENTURES (§",
+      "tags": [
+        "chapter",
+        "securities",
+        "indentures"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_77a",
+      "number": "77a",
+      "title": "Section 77a",
+      "text": "§ 77a – 77bbbb) CHAPTER 2B—SECURITIES EXCHANGES (§",
+      "tags": [
+        "chapter",
+        "securities",
+        "exchanges"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_78a",
+      "number": "78a",
+      "title": "Section 78a",
+      "text": "§ 78a – 78rr) CHAPTER 2B–1—SECURITIES INVESTOR PROTECTION (§§ 78aaa – 78lll) CHAPTER 2C—PUBLIC UTILITY HOLDING COMPANIES (§ 79) CHAPTER 2D—INVESTMENT COMPANIES AND ADVISERS (§§ 80a–1 – 80b–21) CHAPTER 2E—OMNIBUS SMALL BUSINESS CAPITAL FORMATION (§",
+      "tags": [
+        "chapter",
+        "companies",
+        "securities",
+        "investor",
+        "protection"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_80c",
+      "number": "80c",
+      "title": "Section 80c",
+      "text": "§ 80c – 80c–3) CHAPTER 3—TRADE-MARKS (§ 81) CHAPTER 4—CHINA TRADE (§",
+      "tags": [
+        "chapter"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_141",
+      "number": "141",
+      "title": "Section 141",
+      "text": "§ 141 – 162) CHAPTER 5—STATISTICAL AND COMMERCIAL INFORMATION (§",
+      "tags": [
+        "chapter",
+        "statistical",
+        "commercial",
+        "information"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_171",
+      "number": "171",
+      "title": "Section 171",
+      "text": "§ 171 – 198) CHAPTER 6—WEIGHTS AND MEASURES AND STANDARD TIME (§",
+      "tags": [
+        "chapter",
+        "weights",
+        "measures",
+        "standard"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_201",
+      "number": "201",
+      "title": "Section 201",
+      "text": "§ 201 – 267) CHAPTER 7—NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY (§",
+      "tags": [
+        "chapter",
+        "national",
+        "institute",
+        "standards",
+        "technology"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_271",
+      "number": "271",
+      "title": "Section 271",
+      "text": "§ 271 – 285) CHAPTER 7A—STANDARD REFERENCE DATA PROGRAM (§",
+      "tags": [
+        "chapter",
+        "standard",
+        "reference",
+        "program"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_290",
+      "number": "290",
+      "title": "Section 290",
+      "text": "§ 290 – 290f) CHAPTER 8—FALSELY STAMPED GOLD OR SILVER OR GOODS MANUFACTURED THEREFROM (§",
+      "tags": [
+        "chapter",
+        "falsely",
+        "stamped",
+        "silver",
+        "manufactured"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_291",
+      "number": "291",
+      "title": "Section 291",
+      "text": "§ 291 – 300) CHAPTER 9—NATIONAL WEATHER SERVICE (§",
+      "tags": [
+        "chapter",
+        "national",
+        "weather",
+        "service"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_311",
+      "number": "311",
+      "title": "Section 311",
+      "text": "§ 311 – 329) CHAPTER 9A—WEATHER MODIFICATION ACTIVITIES OR ATTEMPTS; REPORTING REQUIREMENT (§",
+      "tags": [
+        "chapter",
+        "weather",
+        "modification",
+        "activities",
+        "attempts"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_330",
+      "number": "330",
+      "title": "Section 330",
+      "text": "§ 330 – 330e) CHAPTER 10—WAR FINANCE CORPORATION (§ 331) CHAPTER 10A—COLLECTION OF STATE CIGARETTE TAXES (§",
+      "tags": [
+        "chapter",
+        "finance",
+        "corporation",
+        "collection",
+        "cigarette"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_375",
+      "number": "375",
+      "title": "Section 375",
+      "text": "§ 375 – 378) CHAPTER 10B—STATE TAXATION OF INCOME FROM INTERSTATE COMMERCE (§",
+      "tags": [
+        "chapter",
+        "taxation",
+        "income",
+        "interstate",
+        "commerce"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_381",
+      "number": "381",
+      "title": "Section 381",
+      "text": "§ 381 – 391) CHAPTER 11—CAUSTIC POISONS (§ 401) CHAPTER 12—DISCRIMINATION AGAINST FARMERS’ COOPERATIVE ASSOCIATIONS BY BOARDS OF TRADE (§",
+      "tags": [
+        "chapter",
+        "caustic",
+        "poisons",
+        "discrimination",
+        "against"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_431",
+      "number": "431",
+      "title": "Section 431",
+      "text": "§ 431 – 433) CHAPTER 13—TEXTILE FOUNDATION (§",
+      "tags": [
+        "chapter",
+        "textile",
+        "foundation"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_501",
+      "number": "501",
+      "title": "Section 501",
+      "text": "§ 501 – 506) CHAPTER 13A—FISHING INDUSTRY (§",
+      "tags": [
+        "chapter",
+        "fishing",
+        "industry"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_521",
+      "number": "521",
+      "title": "Section 521",
+      "text": "§ 521 – 522) CHAPTER 14—RECONSTRUCTION FINANCE CORPORATION (§",
+      "tags": [
+        "chapter",
+        "reconstruction",
+        "finance",
+        "corporation"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_601",
+      "number": "601",
+      "title": "Section 601",
+      "text": "§ 601 – 617) CHAPTER 14A—AID TO SMALL BUSINESS (§",
+      "tags": [
+        "chapter",
+        "business"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_631",
+      "number": "631",
+      "title": "Section 631",
+      "text": "§ 631 – 657u) CHAPTER 14B—SMALL BUSINESS INVESTMENT PROGRAM (§",
+      "tags": [
+        "chapter",
+        "business",
+        "investment",
+        "program"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_661",
+      "number": "661",
+      "title": "Section 661",
+      "text": "§ 661 – 697g) CHAPTER 15—ECONOMIC RECOVERY (§",
+      "tags": [
+        "chapter",
+        "economic",
+        "recovery"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_701",
+      "number": "701",
+      "title": "Section 701",
+      "text": "§ 701 – 714p) CHAPTER 15A—INTERSTATE TRANSPORTATION OF PETROLEUM PRODUCTS (§",
+      "tags": [
+        "chapter",
+        "interstate",
+        "transportation",
+        "petroleum",
+        "products"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_715",
+      "number": "715",
+      "title": "Section 715",
+      "text": "§ 715 – 715m) CHAPTER 15B—NATURAL GAS (§",
+      "tags": [
+        "chapter",
+        "natural"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_717",
+      "number": "717",
+      "title": "Section 717",
+      "text": "§ 717 – 717z) CHAPTER 15C—ALASKA NATURAL GAS TRANSPORTATION (§",
+      "tags": [
+        "chapter",
+        "alaska",
+        "natural",
+        "transportation"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_719",
+      "number": "719",
+      "title": "Section 719",
+      "text": "§ 719 – 719o) CHAPTER 15D—ALASKA NATURAL GAS PIPELINE (§",
+      "tags": [
+        "chapter",
+        "alaska",
+        "natural",
+        "pipeline"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_720",
+      "number": "720",
+      "title": "Section 720",
+      "text": "§ 720 – 720n) CHAPTER 16—EMERGENCY RELIEF (§",
+      "tags": [
+        "chapter",
+        "emergency",
+        "relief"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_721",
+      "number": "721",
+      "title": "Section 721",
+      "text": "§ 721 – 724) CHAPTER 16A—EMERGENCY PETROLEUM ALLOCATION (§ 751) CHAPTER 16B—FEDERAL ENERGY ADMINISTRATION (§",
+      "tags": [
+        "chapter",
+        "emergency",
+        "petroleum",
+        "allocation",
+        "federal"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_761",
+      "number": "761",
+      "title": "Section 761",
+      "text": "§ 761 – 790h) CHAPTER 16C—ENERGY SUPPLY AND ENVIRONMENTAL COORDINATION (§",
+      "tags": [
+        "chapter",
+        "energy",
+        "supply",
+        "environmental",
+        "coordination"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_791",
+      "number": "791",
+      "title": "Section 791",
+      "text": "§ 791 – 798) CHAPTER 17—PRODUCTION, MARKETING, AND USE OF BITUMINOUS COAL (§",
+      "tags": [
+        "chapter",
+        "production",
+        "marketing",
+        "bituminous"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_801",
+      "number": "801",
+      "title": "Section 801",
+      "text": "§ 801 – 828) CHAPTER 18—TRANSPORTATION OF FIREARMS (§ 901) CHAPTER 19—MISCELLANEOUS (§",
+      "tags": [
+        "chapter",
+        "transportation",
+        "firearms",
+        "miscellaneous"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_1001",
+      "number": "1001",
+      "title": "Section 1001",
+      "text": "§ 1001 – 1007) CHAPTER 20—REGULATION OF INSURANCE (§",
+      "tags": [
+        "chapter",
+        "regulation",
+        "insurance"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_1011",
+      "number": "1011",
+      "title": "Section 1011",
+      "text": "§ 1011 – 1015) CHAPTER 21—NATIONAL POLICY ON EMPLOYMENT AND PRODUCTIVITY (§",
+      "tags": [
+        "chapter",
+        "national",
+        "policy",
+        "employment",
+        "productivity"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_1021",
+      "number": "1021",
+      "title": "Section 1021",
+      "text": "§ 1021 – 1026) CHAPTER 22—TRADEMARKS (§",
+      "tags": [
+        "chapter",
+        "trademarks"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_1051",
+      "number": "1051",
+      "title": "Section 1051",
+      "text": "§ 1051 – 1141n) CHAPTER 23—DISSEMINATION OF TECHNICAL, SCIENTIFIC AND ENGINEERING INFORMATION (§",
+      "tags": [
+        "chapter",
+        "dissemination",
+        "technical",
+        "scientific",
+        "engineering"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_1151",
+      "number": "1151",
+      "title": "Section 1151",
+      "text": "§ 1151 – 1157) CHAPTER 24—TRANSPORTATION OF GAMBLING DEVICES (§",
+      "tags": [
+        "chapter",
+        "transportation",
+        "gambling",
+        "devices"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_1171",
+      "number": "1171",
+      "title": "Section 1171",
+      "text": "§ 1171 – 1178) CHAPTER 25—FLAMMABLE FABRICS (§",
+      "tags": [
+        "chapter",
+        "flammable",
+        "fabrics"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_1191",
+      "number": "1191",
+      "title": "Section 1191",
+      "text": "§ 1191 – 1204) CHAPTER 26—HOUSEHOLD REFRIGERATORS (§",
+      "tags": [
+        "chapter",
+        "household",
+        "refrigerators"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_1211",
+      "number": "1211",
+      "title": "Section 1211",
+      "text": "§ 1211 – 1214) CHAPTER 27—AUTOMOBILE DEALER SUITS AGAINST MANUFACTURERS (§",
+      "tags": [
+        "chapter",
+        "automobile",
+        "dealer",
+        "against",
+        "manufacturers"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_1221",
+      "number": "1221",
+      "title": "Section 1221",
+      "text": "§ 1221 – 1226) CHAPTER 28—DISCLOSURE OF AUTOMOBILE INFORMATION (§",
+      "tags": [
+        "chapter",
+        "disclosure",
+        "automobile",
+        "information"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_1231",
+      "number": "1231",
+      "title": "Section 1231",
+      "text": "§ 1231 – 1233) CHAPTER 29—MANUFACTURE, TRANSPORTATION, OR DISTRIBUTION OF SWITCHBLADE KNIVES (§",
+      "tags": [
+        "chapter",
+        "manufacture",
+        "transportation",
+        "distribution",
+        "switchblade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_1241",
+      "number": "1241",
+      "title": "Section 1241",
+      "text": "§ 1241 – 1245) CHAPTER 30—HAZARDOUS SUBSTANCES (§",
+      "tags": [
+        "chapter",
+        "hazardous",
+        "substances"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_1261",
+      "number": "1261",
+      "title": "Section 1261",
+      "text": "§ 1261 – 1278a) CHAPTER 31—DESTRUCTION OF PROPERTY MOVING IN COMMERCE (§ 1281) CHAPTER 32—TELECASTING OF PROFESSIONAL SPORTS CONTESTS (§",
+      "tags": [
+        "chapter",
+        "destruction",
+        "property",
+        "moving",
+        "commerce"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_1291",
+      "number": "1291",
+      "title": "Section 1291",
+      "text": "§ 1291 – 1295) CHAPTER 33—BRAKE FLUID REGULATION (§ 1301) CHAPTER 34—ANTITRUST CIVIL PROCESS (§",
+      "tags": [
+        "chapter",
+        "regulation",
+        "antitrust",
+        "process"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_1311",
+      "number": "1311",
+      "title": "Section 1311",
+      "text": "§ 1311 – 1314) CHAPTER 35—SEAT BELT REGULATION (§ 1321) CHAPTER 36—CIGARETTE LABELING AND ADVERTISING (§",
+      "tags": [
+        "chapter",
+        "regulation",
+        "cigarette",
+        "labeling",
+        "advertising"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_1331",
+      "number": "1331",
+      "title": "Section 1331",
+      "text": "§ 1331 – 1341) CHAPTER 37—STATE TECHNICAL SERVICES (§",
+      "tags": [
+        "chapter",
+        "technical",
+        "services"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_1351",
+      "number": "1351",
+      "title": "Section 1351",
+      "text": "§ 1351 – 1368) CHAPTER 38—TRAFFIC AND MOTOR VEHICLE SAFETY (§",
+      "tags": [
+        "chapter",
+        "traffic",
+        "vehicle",
+        "safety"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_1381",
+      "number": "1381",
+      "title": "Section 1381",
+      "text": "§ 1381 – 1431) CHAPTER 39—FAIR PACKAGING AND LABELING PROGRAM (§",
+      "tags": [
+        "chapter",
+        "packaging",
+        "labeling",
+        "program"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_1451",
+      "number": "1451",
+      "title": "Section 1451",
+      "text": "§ 1451 – 1461) CHAPTER 39A—SPECIAL PACKAGING OF HOUSEHOLD SUBSTANCES FOR PROTECTION OF CHILDREN (§",
+      "tags": [
+        "chapter",
+        "special",
+        "packaging",
+        "household",
+        "substances"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_1471",
+      "number": "1471",
+      "title": "Section 1471",
+      "text": "§ 1471 – 1477) CHAPTER 40—DEPARTMENT OF COMMERCE (§",
+      "tags": [
+        "chapter",
+        "department",
+        "commerce"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_1501",
+      "number": "1501",
+      "title": "Section 1501",
+      "text": "§ 1501 – 1548) CHAPTER 41—CONSUMER CREDIT PROTECTION (§",
+      "tags": [
+        "chapter",
+        "consumer",
+        "credit",
+        "protection"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_1601",
+      "number": "1601",
+      "title": "Section 1601",
+      "text": "§ 1601 – 1693r) CHAPTER 42—INTERSTATE LAND SALES (§",
+      "tags": [
+        "chapter",
+        "interstate"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_1701",
+      "number": "1701",
+      "title": "Section 1701",
+      "text": "§ 1701 – 1720) CHAPTER 43—NEWSPAPER PRESERVATION (§",
+      "tags": [
+        "chapter",
+        "newspaper",
+        "preservation"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_1801",
+      "number": "1801",
+      "title": "Section 1801",
+      "text": "§ 1801 – 1804) CHAPTER 44—PROTECTION OF HORSES (§",
+      "tags": [
+        "chapter",
+        "protection",
+        "horses"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_1821",
+      "number": "1821",
+      "title": "Section 1821",
+      "text": "§ 1821 – 1831) CHAPTER 45—EMERGENCY LOAN GUARANTEES TO BUSINESS ENTERPRISES (§",
+      "tags": [
+        "chapter",
+        "emergency",
+        "guarantees",
+        "business",
+        "enterprises"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_1841",
+      "number": "1841",
+      "title": "Section 1841",
+      "text": "§ 1841 – 1852) CHAPTER 45A—CHRYSLER CORPORATION LOAN GUARANTEE (§ 1861) CHAPTER 46—MOTOR VEHICLE INFORMATION AND COST SAVINGS (§",
+      "tags": [
+        "chapter",
+        "chrysler",
+        "corporation",
+        "guarantee",
+        "vehicle"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_1901",
+      "number": "1901",
+      "title": "Section 1901",
+      "text": "§ 1901 – 2021) CHAPTER 46A—AUTOMOBILE TITLE FRAUD (§ 2041) CHAPTER 47—CONSUMER PRODUCT SAFETY (§",
+      "tags": [
+        "chapter",
+        "automobile",
+        "consumer",
+        "product",
+        "safety"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_2051",
+      "number": "2051",
+      "title": "Section 2051",
+      "text": "§ 2051 – 2090) CHAPTER 48—HOBBY PROTECTION (§",
+      "tags": [
+        "chapter",
+        "protection"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_2101",
+      "number": "2101",
+      "title": "Section 2101",
+      "text": "§ 2101 – 2106) CHAPTER 49—FIRE PREVENTION AND CONTROL (§",
+      "tags": [
+        "chapter",
+        "prevention",
+        "control"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_2201",
+      "number": "2201",
+      "title": "Section 2201",
+      "text": "§ 2201 – 2235) CHAPTER 50—CONSUMER PRODUCT WARRANTIES (§",
+      "tags": [
+        "chapter",
+        "consumer",
+        "product",
+        "warranties"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_2301",
+      "number": "2301",
+      "title": "Section 2301",
+      "text": "§ 2301 – 2312) CHAPTER 51—NATIONAL PRODUCTIVITY AND QUALITY OF WORKING LIFE (§",
+      "tags": [
+        "chapter",
+        "national",
+        "productivity",
+        "quality",
+        "working"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_2401",
+      "number": "2401",
+      "title": "Section 2401",
+      "text": "§ 2401 – 2471) CHAPTER 52—ELECTRIC AND HYBRID VEHICLE RESEARCH, DEVELOPMENT, AND DEMONSTRATION (§",
+      "tags": [
+        "chapter",
+        "electric",
+        "hybrid",
+        "vehicle",
+        "research"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_2501",
+      "number": "2501",
+      "title": "Section 2501",
+      "text": "§ 2501 – 2514) CHAPTER 53—TOXIC SUBSTANCES CONTROL (§",
+      "tags": [
+        "chapter",
+        "substances",
+        "control"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_2601",
+      "number": "2601",
+      "title": "Section 2601",
+      "text": "§ 2601 – 2697) CHAPTER 54—AUTOMOTIVE PROPULSION RESEARCH AND DEVELOPMENT (§",
+      "tags": [
+        "chapter",
+        "automotive",
+        "propulsion",
+        "research",
+        "development"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_2701",
+      "number": "2701",
+      "title": "Section 2701",
+      "text": "§ 2701 – 2710) CHAPTER 55—PETROLEUM MARKETING PRACTICES (§",
+      "tags": [
+        "chapter",
+        "petroleum",
+        "marketing",
+        "practices"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_2801",
+      "number": "2801",
+      "title": "Section 2801",
+      "text": "§ 2801 – 2841) CHAPTER 56—NATIONAL CLIMATE PROGRAM (§",
+      "tags": [
+        "chapter",
+        "national",
+        "climate",
+        "program"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_2901",
+      "number": "2901",
+      "title": "Section 2901",
+      "text": "§ 2901 – 2908) CHAPTER 56A—GLOBAL CHANGE RESEARCH (§",
+      "tags": [
+        "chapter",
+        "global",
+        "change",
+        "research"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_2921",
+      "number": "2921",
+      "title": "Section 2921",
+      "text": "§ 2921 – 2961) CHAPTER 57—INTERSTATE HORSERACING (§",
+      "tags": [
+        "chapter",
+        "interstate",
+        "horseracing"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_3001",
+      "number": "3001",
+      "title": "Section 3001",
+      "text": "§ 3001 – 3007) CHAPTER 57A—HORSERACING INTEGRITY AND SAFETY (§",
+      "tags": [
+        "chapter",
+        "horseracing",
+        "integrity",
+        "safety"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_3051",
+      "number": "3051",
+      "title": "Section 3051",
+      "text": "§ 3051 – 3060) CHAPTER 58—FULL EMPLOYMENT AND BALANCED GROWTH (§",
+      "tags": [
+        "chapter",
+        "employment",
+        "balanced",
+        "growth"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_3101",
+      "number": "3101",
+      "title": "Section 3101",
+      "text": "§ 3101 – 3152) CHAPTER 59—RETAIL POLICIES FOR NATURAL GAS UTILITIES (§",
+      "tags": [
+        "chapter",
+        "retail",
+        "policies",
+        "natural",
+        "utilities"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_3201",
+      "number": "3201",
+      "title": "Section 3201",
+      "text": "§ 3201 – 3211) CHAPTER 60—NATURAL GAS POLICY (§",
+      "tags": [
+        "chapter",
+        "natural",
+        "policy"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_3301",
+      "number": "3301",
+      "title": "Section 3301",
+      "text": "§ 3301 – 3432) CHAPTER 61—SOFT DRINK INTERBRAND COMPETITION (§",
+      "tags": [
+        "chapter",
+        "interbrand",
+        "competition"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_3501",
+      "number": "3501",
+      "title": "Section 3501",
+      "text": "§ 3501 – 3503) CHAPTER 62—CONDOMINIUM AND COOPERATIVE CONVERSION PROTECTION AND ABUSE RELIEF (§",
+      "tags": [
+        "chapter",
+        "condominium",
+        "cooperative",
+        "conversion",
+        "protection"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_3601",
+      "number": "3601",
+      "title": "Section 3601",
+      "text": "§ 3601 – 3616) CHAPTER 63—TECHNOLOGY INNOVATION (§",
+      "tags": [
+        "chapter",
+        "technology",
+        "innovation"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_3701",
+      "number": "3701",
+      "title": "Section 3701",
+      "text": "§ 3701 – 3724) CHAPTER 64—METHANE TRANSPORTATION RESEARCH, DEVELOPMENT, AND DEMONSTRATION (§",
+      "tags": [
+        "chapter",
+        "methane",
+        "transportation",
+        "research",
+        "development"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_3801",
+      "number": "3801",
+      "title": "Section 3801",
+      "text": "§ 3801 – 3810) CHAPTER 65—LIABILITY RISK RETENTION (§",
+      "tags": [
+        "chapter",
+        "liability",
+        "retention"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_3901",
+      "number": "3901",
+      "title": "Section 3901",
+      "text": "§ 3901 – 3906) CHAPTER 66—PROMOTION OF EXPORT TRADE (§",
+      "tags": [
+        "chapter",
+        "promotion",
+        "export"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_4001",
+      "number": "4001",
+      "title": "Section 4001",
+      "text": "§ 4001 – 4053) CHAPTER 67—ARCTIC RESEARCH AND POLICY (§",
+      "tags": [
+        "chapter",
+        "arctic",
+        "research",
+        "policy"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_4101",
+      "number": "4101",
+      "title": "Section 4101",
+      "text": "§ 4101 – 4112) CHAPTER 68—LAND REMOTE-SENSING COMMERCIALIZATION (§",
+      "tags": [
+        "chapter",
+        "remote",
+        "sensing",
+        "commercialization"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_4201",
+      "number": "4201",
+      "title": "Section 4201",
+      "text": "§ 4201 – 4291) CHAPTER 69—COOPERATIVE RESEARCH (§",
+      "tags": [
+        "chapter",
+        "cooperative",
+        "research"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_4301",
+      "number": "4301",
+      "title": "Section 4301",
+      "text": "§ 4301 – 4306) CHAPTER 70—COMPREHENSIVE SMOKELESS TOBACCO HEALTH EDUCATION (§",
+      "tags": [
+        "chapter",
+        "comprehensive",
+        "smokeless",
+        "tobacco",
+        "health"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_4401",
+      "number": "4401",
+      "title": "Section 4401",
+      "text": "§ 4401 – 4408) CHAPTER 71—PETROLEUM OVERCHARGE DISTRIBUTION AND RESTITUTION (§",
+      "tags": [
+        "chapter",
+        "petroleum",
+        "overcharge",
+        "distribution",
+        "restitution"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_4501",
+      "number": "4501",
+      "title": "Section 4501",
+      "text": "§ 4501 – 4507) CHAPTER 72—SEMICONDUCTOR RESEARCH (§",
+      "tags": [
+        "chapter",
+        "semiconductor",
+        "research"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_4601",
+      "number": "4601",
+      "title": "Section 4601",
+      "text": "§ 4601 – 4632) CHAPTER 72A—CREATING HELPFUL INCENTIVES TO PRODUCE SEMICONDUCTORS FOR AMERICA (§",
+      "tags": [
+        "chapter",
+        "creating",
+        "helpful",
+        "incentives",
+        "produce"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_4651",
+      "number": "4651",
+      "title": "Section 4651",
+      "text": "§ 4651 – 4659) CHAPTER 73—EXPORT ENHANCEMENT (§",
+      "tags": [
+        "chapter",
+        "export",
+        "enhancement"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_4701",
+      "number": "4701",
+      "title": "Section 4701",
+      "text": "§ 4701 – 4729) CHAPTER 74—COMPETITIVENESS POLICY COUNCIL (§",
+      "tags": [
+        "chapter",
+        "competitiveness",
+        "policy",
+        "council"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_4801",
+      "number": "4801",
+      "title": "Section 4801",
+      "text": "§ 4801 – 4809) CHAPTER 75—NATIONAL TRADE DATA BANK (§",
+      "tags": [
+        "chapter",
+        "national"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_4901",
+      "number": "4901",
+      "title": "Section 4901",
+      "text": "§ 4901 – 4913) CHAPTER 76—IMITATION FIREARMS (§ 5001) CHAPTER 77—STEEL AND ALUMINUM ENERGY CONSERVATION AND TECHNOLOGY COMPETITIVENESS (§",
+      "tags": [
+        "chapter",
+        "imitation",
+        "firearms",
+        "aluminum",
+        "energy"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_5101",
+      "number": "5101",
+      "title": "Section 5101",
+      "text": "§ 5101 – 5110) CHAPTER 78—SUPERCONDUCTIVITY AND COMPETITIVENESS (§",
+      "tags": [
+        "chapter",
+        "superconductivity",
+        "competitiveness"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_5201",
+      "number": "5201",
+      "title": "Section 5201",
+      "text": "§ 5201 – 5209) CHAPTER 79—METAL CASTING COMPETITIVENESS RESEARCH PROGRAM (§",
+      "tags": [
+        "chapter",
+        "casting",
+        "competitiveness",
+        "research",
+        "program"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_5301",
+      "number": "5301",
+      "title": "Section 5301",
+      "text": "§ 5301 – 5309) CHAPTER 80—FASTENERS (§",
+      "tags": [
+        "chapter",
+        "fasteners"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_5401",
+      "number": "5401",
+      "title": "Section 5401",
+      "text": "§ 5401 – 5414) CHAPTER 81—HIGH-PERFORMANCE COMPUTING (§",
+      "tags": [
+        "chapter",
+        "performance",
+        "computing"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_5501",
+      "number": "5501",
+      "title": "Section 5501",
+      "text": "§ 5501 – 5544) CHAPTER 82—LAND REMOTE SENSING POLICY (§",
+      "tags": [
+        "chapter",
+        "remote",
+        "sensing",
+        "policy"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_5601",
+      "number": "5601",
+      "title": "Section 5601",
+      "text": "§ 5601 – 5671) CHAPTER 83—TELEPHONE DISCLOSURE AND DISPUTE RESOLUTION (§",
+      "tags": [
+        "chapter",
+        "telephone",
+        "disclosure",
+        "dispute",
+        "resolution"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_5701",
+      "number": "5701",
+      "title": "Section 5701",
+      "text": "§ 5701 – 5724) CHAPTER 84—COMMERCIAL SPACE COMPETITIVENESS (§",
+      "tags": [
+        "chapter",
+        "commercial",
+        "competitiveness"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_5801",
+      "number": "5801",
+      "title": "Section 5801",
+      "text": "§ 5801 – 5805) CHAPTER 85—ARMORED CAR INDUSTRY RECIPROCITY (§",
+      "tags": [
+        "chapter",
+        "armored",
+        "industry",
+        "reciprocity"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_5901",
+      "number": "5901",
+      "title": "Section 5901",
+      "text": "§ 5901 – 5904) CHAPTER 86—CHILDREN’S BICYCLE HELMET SAFETY (§",
+      "tags": [
+        "chapter",
+        "children",
+        "bicycle",
+        "helmet",
+        "safety"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_6001",
+      "number": "6001",
+      "title": "Section 6001",
+      "text": "§ 6001 – 6006) CHAPTER 87—TELEMARKETING AND CONSUMER FRAUD AND ABUSE PREVENTION (§",
+      "tags": [
+        "chapter",
+        "telemarketing",
+        "consumer",
+        "prevention"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_6101",
+      "number": "6101",
+      "title": "Section 6101",
+      "text": "§ 6101 – 6108) CHAPTER 87A—NATIONAL DO-NOT-CALL REGISTRY (§",
+      "tags": [
+        "chapter",
+        "national",
+        "registry"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_6151",
+      "number": "6151",
+      "title": "Section 6151",
+      "text": "§ 6151 – 6155) CHAPTER 88—INTERNATIONAL ANTITRUST ENFORCEMENT ASSISTANCE (§",
+      "tags": [
+        "chapter",
+        "international",
+        "antitrust",
+        "enforcement",
+        "assistance"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_6201",
+      "number": "6201",
+      "title": "Section 6201",
+      "text": "§ 6201 – 6212) CHAPTER 89—PROFESSIONAL BOXING SAFETY (§",
+      "tags": [
+        "chapter",
+        "professional",
+        "boxing",
+        "safety"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_6301",
+      "number": "6301",
+      "title": "Section 6301",
+      "text": "§ 6301 – 6313) CHAPTER 90—PROPANE EDUCATION AND RESEARCH (§",
+      "tags": [
+        "chapter",
+        "propane",
+        "education",
+        "research"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_6401",
+      "number": "6401",
+      "title": "Section 6401",
+      "text": "§ 6401 – 6411) CHAPTER 91—CHILDREN’S ONLINE PRIVACY PROTECTION (§",
+      "tags": [
+        "chapter",
+        "children",
+        "online",
+        "privacy",
+        "protection"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_6501",
+      "number": "6501",
+      "title": "Section 6501",
+      "text": "§ 6501 – 6506) CHAPTER 91A—PROMOTING A SAFE INTERNET FOR CHILDREN (§",
+      "tags": [
+        "chapter",
+        "promoting",
+        "internet",
+        "children"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_6551",
+      "number": "6551",
+      "title": "Section 6551",
+      "text": "§ 6551 – 6555) CHAPTER 92—YEAR 2000 COMPUTER DATE CHANGE (§",
+      "tags": [
+        "chapter",
+        "computer",
+        "change"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_6601",
+      "number": "6601",
+      "title": "Section 6601",
+      "text": "§ 6601 – 6617) CHAPTER 93—INSURANCE (§",
+      "tags": [
+        "chapter",
+        "insurance"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_6701",
+      "number": "6701",
+      "title": "Section 6701",
+      "text": "§ 6701 – 6781) CHAPTER 94—PRIVACY (§",
+      "tags": [
+        "chapter",
+        "privacy"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_6801",
+      "number": "6801",
+      "title": "Section 6801",
+      "text": "§ 6801 – 6827) CHAPTER 94A—VISUAL DEPICTION PRIVACY (§ 6851) CHAPTER 95—MICROENTERPRISE TECHNICAL ASSISTANCE AND CAPACITY BUILDING PROGRAM (§",
+      "tags": [
+        "chapter",
+        "visual",
+        "depiction",
+        "privacy",
+        "microenterprise"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_6901",
+      "number": "6901",
+      "title": "Section 6901",
+      "text": "§ 6901 – 6910) CHAPTER 96—ELECTRONIC SIGNATURES IN GLOBAL AND NATIONAL COMMERCE (§",
+      "tags": [
+        "chapter",
+        "electronic",
+        "signatures",
+        "global",
+        "national"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_7001",
+      "number": "7001",
+      "title": "Section 7001",
+      "text": "§ 7001 – 7031) CHAPTER 97—WOMEN’S BUSINESS ENTERPRISE DEVELOPMENT (§",
+      "tags": [
+        "chapter",
+        "business",
+        "enterprise",
+        "development"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_7101",
+      "number": "7101",
+      "title": "Section 7101",
+      "text": "§ 7101 – 7110) CHAPTER 98—PUBLIC COMPANY ACCOUNTING REFORM AND CORPORATE RESPONSIBILITY (§",
+      "tags": [
+        "chapter",
+        "public",
+        "company",
+        "accounting",
+        "reform"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_7201",
+      "number": "7201",
+      "title": "Section 7201",
+      "text": "§ 7201 – 7266) CHAPTER 99—NATIONAL CONSTRUCTION SAFETY TEAM (§",
+      "tags": [
+        "chapter",
+        "national",
+        "construction",
+        "safety"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_7301",
+      "number": "7301",
+      "title": "Section 7301",
+      "text": "§ 7301 – 7313) CHAPTER 100—CYBER SECURITY RESEARCH AND DEVELOPMENT (§",
+      "tags": [
+        "chapter",
+        "security",
+        "research",
+        "development"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_7401",
+      "number": "7401",
+      "title": "Section 7401",
+      "text": "§ 7401 – 7411) CHAPTER 100A—CYBERSECURITY ENHANCEMENT (§",
+      "tags": [
+        "chapter",
+        "cybersecurity",
+        "enhancement"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_7421",
+      "number": "7421",
+      "title": "Section 7421",
+      "text": "§ 7421 – 7464) CHAPTER 101—NANOTECHNOLOGY RESEARCH AND DEVELOPMENT (§",
+      "tags": [
+        "chapter",
+        "nanotechnology",
+        "research",
+        "development"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_7501",
+      "number": "7501",
+      "title": "Section 7501",
+      "text": "§ 7501 – 7509) CHAPTER 102—FAIRNESS TO CONTACT LENS CONSUMERS (§",
+      "tags": [
+        "chapter",
+        "fairness",
+        "contact",
+        "consumers"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_7601",
+      "number": "7601",
+      "title": "Section 7601",
+      "text": "§ 7601 – 7610) CHAPTER 103—CONTROLLING THE ASSAULT OF NON-SOLICITED PORNOGRAPHY AND MARKETING (§",
+      "tags": [
+        "chapter",
+        "controlling",
+        "assault",
+        "solicited",
+        "pornography"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_7701",
+      "number": "7701",
+      "title": "Section 7701",
+      "text": "§ 7701 – 7713) CHAPTER 104—SPORTS AGENT RESPONSIBILITY AND TRUST (§",
+      "tags": [
+        "chapter",
+        "sports",
+        "responsibility"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_7801",
+      "number": "7801",
+      "title": "Section 7801",
+      "text": "§ 7801 – 7807) CHAPTER 105—PROTECTION OF LAWFUL COMMERCE IN ARMS (§",
+      "tags": [
+        "chapter",
+        "protection",
+        "lawful",
+        "commerce"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_7901",
+      "number": "7901",
+      "title": "Section 7901",
+      "text": "§ 7901 – 7903) CHAPTER 106—POOL AND SPA SAFETY (§",
+      "tags": [
+        "chapter",
+        "safety"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_8001",
+      "number": "8001",
+      "title": "Section 8001",
+      "text": "§ 8001 – 8008) CHAPTER 107—PROTECTION OF INTELLECTUAL PROPERTY RIGHTS (§",
+      "tags": [
+        "chapter",
+        "protection",
+        "intellectual",
+        "property",
+        "rights"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_8101",
+      "number": "8101",
+      "title": "Section 8101",
+      "text": "§ 8101 – 8131) CHAPTER 108—STATE-BASED INSURANCE REFORM (§",
+      "tags": [
+        "chapter",
+        "insurance",
+        "reform"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_8201",
+      "number": "8201",
+      "title": "Section 8201",
+      "text": "§ 8201 – 8232) CHAPTER 109—WALL STREET TRANSPARENCY AND ACCOUNTABILITY (§",
+      "tags": [
+        "chapter",
+        "street",
+        "transparency",
+        "accountability"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_8301",
+      "number": "8301",
+      "title": "Section 8301",
+      "text": "§ 8301 – 8344) CHAPTER 110—ONLINE SHOPPER PROTECTION (§",
+      "tags": [
+        "chapter",
+        "online",
+        "shopper",
+        "protection"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_8401",
+      "number": "8401",
+      "title": "Section 8401",
+      "text": "§ 8401 – 8405) CHAPTER 111—WEATHER RESEARCH AND FORECASTING INNOVATION (§",
+      "tags": [
+        "chapter",
+        "weather",
+        "research",
+        "forecasting",
+        "innovation"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_8501",
+      "number": "8501",
+      "title": "Section 8501",
+      "text": "§ 8501 – 8563) CHAPTER 112—SPORTS MEDICINE LICENSURE (§ 8601) CHAPTER 113—CONCRETE MASONRY PRODUCTS RESEARCH, EDUCATION, AND PROMOTION (§",
+      "tags": [
+        "chapter",
+        "sports",
+        "medicine",
+        "licensure",
+        "concrete"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_8701",
+      "number": "8701",
+      "title": "Section 8701",
+      "text": "§ 8701 – 8717) CHAPTER 114—NATIONAL QUANTUM INITIATIVE (§",
+      "tags": [
+        "chapter",
+        "national",
+        "quantum",
+        "initiative"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_8801",
+      "number": "8801",
+      "title": "Section 8801",
+      "text": "§ 8801 – 8854) CHAPTER 115—PERFLUOROALKYL AND POLYFLUOROALKYL SUBSTANCES AND EMERGING CONTAMINANTS (§",
+      "tags": [
+        "chapter",
+        "perfluoroalkyl",
+        "polyfluoroalkyl",
+        "substances",
+        "emerging"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_8901",
+      "number": "8901",
+      "title": "Section 8901",
+      "text": "§ 8901 – 8963) CHAPTER 116—CORONAVIRUS ECONOMIC STABILIZATION (CARES ACT) (§",
+      "tags": [
+        "chapter",
+        "coronavirus",
+        "economic",
+        "stabilization"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_9001",
+      "number": "9001",
+      "title": "Section 9001",
+      "text": "§ 9001 – 9141) CHAPTER 117—IDENTIFYING OUTPUTS OF GENERATIVE ADVERSARIAL NETWORKS (§",
+      "tags": [
+        "chapter",
+        "identifying",
+        "outputs",
+        "generative",
+        "adversarial"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_9201",
+      "number": "9201",
+      "title": "Section 9201",
+      "text": "§ 9201 – 9204) CHAPTER 118—SUSTAINABLE CHEMISTRY (§",
+      "tags": [
+        "chapter",
+        "sustainable",
+        "chemistry"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_9301",
+      "number": "9301",
+      "title": "Section 9301",
+      "text": "§ 9301 – 9306) CHAPTER 119—NATIONAL ARTIFICIAL INTELLIGENCE INITIATIVE (§",
+      "tags": [
+        "chapter",
+        "national",
+        "artificial",
+        "intelligence",
+        "initiative"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_9401",
+      "number": "9401",
+      "title": "Section 9401",
+      "text": "§ 9401 – 9462) CHAPTER 120—MINORITY BUSINESS DEVELOPMENT (§",
+      "tags": [
+        "chapter",
+        "minority",
+        "business",
+        "development"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_9501",
+      "number": "9501",
+      "title": "Section 9501",
+      "text": "§ 9501 – 9598) CHAPTER 121—FLOOD LEVEL OBSERVATION, OPERATIONS, AND DECISION SUPPORT (§",
+      "tags": [
+        "chapter",
+        "observation",
+        "operations",
+        "decision",
+        "support"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_9701",
+      "number": "9701",
+      "title": "Section 9701",
+      "text": "§ 9701 – 9712) CHAPTER 122—TRAVEL AND TOURISM (§",
+      "tags": [
+        "chapter",
+        "travel",
+        "tourism"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t15_9801",
+      "number": "9801",
+      "title": "Section 9801",
+      "text": "§ 9801 – 9805) CHAPTER 123—PROTECTING AMERICANS’ DATA FROM FOREIGN ADVERSARIES (Section 9901) U.S. Code Toolbox Law about... Articles from Wex Table of Popular Names Parallel Table of Authorities How current is this? Accessibility About LII Contact us Advertise here Help Terms of use Privacy",
+      "tags": [
+        "chapter",
+        "protecting",
+        "americans",
+        "foreign",
+        "adversaries"
+      ],
+      "relatedArticles": []
+    }
+  ]
+}

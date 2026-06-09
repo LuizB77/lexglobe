@@ -7,7 +7,19 @@
     "active": true,
     "codes": ["constituicao", "codigoPenal", "codigoCivil", "clt", "eca", "cdc"]
   },
-  { "code": "US", "name": "United States", "flag": "🇺🇸", "active": false },
+  {
+    "code": "US",
+    "name": "United States",
+    "nameLocal": "United States",
+    "flag": "🇺🇸",
+    "active": true,
+    "codes": [
+      "usConstitution", "title18Criminal", "title42CivilRights",
+      "title29Labor", "title26Tax", "title15Commerce",
+      "title8Immigration", "title20Education", "title31Finance",
+      "title49Transportation"
+    ]
+  },
   { "code": "MX", "name": "Mexico", "flag": "🇲🇽", "active": false },
   { "code": "AR", "name": "Argentina", "flag": "🇦🇷", "active": false },
   { "code": "DE", "name": "Germany", "flag": "🇩🇪", "active": false },

@@ -1,0 +1,943 @@
+{
+  "country": "US",
+  "code": "title20Education",
+  "displayName": "Title 20 — Education",
+  "color": "#C05621",
+  "articles": [
+    {
+      "id": "t20_1",
+      "number": "1",
+      "title": "Section 1",
+      "text": "§ 1 – 6) CHAPTER 2—TEACHING OF AGRICULTURAL, TRADE, HOME ECONOMICS, AND INDUSTRIAL SUBJECTS (§",
+      "tags": [
+        "chapter",
+        "teaching",
+        "agricultural",
+        "economics",
+        "industrial"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_11",
+      "number": "11",
+      "title": "Section 11",
+      "text": "§ 11 – 35) CHAPTER 3—SMITHSONIAN INSTITUTION, NATIONAL MUSEUMS AND ART GALLERIES (§",
+      "tags": [
+        "chapter",
+        "smithsonian",
+        "institution",
+        "national",
+        "museums"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_41",
+      "number": "41",
+      "title": "Section 41",
+      "text": "§ 41 – 80u) CHAPTER 4—NATIONAL ZOOLOGICAL PARK (§",
+      "tags": [
+        "chapter",
+        "national",
+        "zoological"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_81",
+      "number": "81",
+      "title": "Section 81",
+      "text": "§ 81 – 85) CHAPTER 5—GOVERNMENT COLLECTIONS AND INSTITUTIONS FOR RESEARCH, AND MATERIAL FOR EDUCATIONAL INSTITUTIONS (§",
+      "tags": [
+        "institutions",
+        "chapter",
+        "government",
+        "collections",
+        "research"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_91",
+      "number": "91",
+      "title": "Section 91",
+      "text": "§ 91 – 93) CHAPTER 6—AMERICAN PRINTING HOUSE FOR THE BLIND (§",
+      "tags": [
+        "chapter",
+        "american",
+        "printing"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_101",
+      "number": "101",
+      "title": "Section 101",
+      "text": "§ 101 – 106a) CHAPTER 6A—VENDING FACILITIES FOR BLIND IN FEDERAL BUILDINGS (§",
+      "tags": [
+        "chapter",
+        "vending",
+        "facilities",
+        "federal",
+        "buildings"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_107",
+      "number": "107",
+      "title": "Section 107",
+      "text": "§ 107 – 107f) CHAPTER 7—INSTRUCTION AS TO NATURE AND EFFECT OF ALCOHOLIC DRINKS AND NARCOTICS (§",
+      "tags": [
+        "chapter",
+        "instruction",
+        "nature",
+        "effect",
+        "alcoholic"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_111",
+      "number": "111",
+      "title": "Section 111",
+      "text": "§ 111 – 113) CHAPTER 8—HOWARD UNIVERSITY (§",
+      "tags": [
+        "chapter",
+        "howard",
+        "university"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_121",
+      "number": "121",
+      "title": "Section 121",
+      "text": "§ 121 – 130aa–5) CHAPTER 9—NATIONAL TRAINING SCHOOL FOR BOYS (§ 131) CHAPTER 10—NATIONAL TRAINING SCHOOL FOR GIRLS (§ 161) CHAPTER 11—NATIONAL ARBORETUM (§",
+      "tags": [
+        "chapter",
+        "national",
+        "training",
+        "school",
+        "arboretum"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_191",
+      "number": "191",
+      "title": "Section 191",
+      "text": "§ 191 – 197) CHAPTER 12—FOREIGN AND EXCHANGE STUDENTS (§",
+      "tags": [
+        "chapter",
+        "foreign",
+        "exchange",
+        "students"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_221",
+      "number": "221",
+      "title": "Section 221",
+      "text": "§ 221 – 226) CHAPTER 13—FINANCIAL ASSISTANCE TO LOCAL EDUCATIONAL AGENCIES (§",
+      "tags": [
+        "chapter",
+        "financial",
+        "assistance",
+        "educational",
+        "agencies"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_231",
+      "number": "231",
+      "title": "Section 231",
+      "text": "§ 231 – 246) CHAPTER 14—SCHOOL CONSTRUCTION IN AREAS AFFECTED BY FEDERAL ACTIVITIES (§ 251) CHAPTER 15—STUDIES AND RESEARCH ON PROBLEMS IN EDUCATION (§",
+      "tags": [
+        "chapter",
+        "school",
+        "construction",
+        "affected",
+        "federal"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_331",
+      "number": "331",
+      "title": "Section 331",
+      "text": "§ 331 – 333) CHAPTER 16—PUBLIC LIBRARY SERVICES AND CONSTRUCTION (§",
+      "tags": [
+        "chapter",
+        "public",
+        "library",
+        "services",
+        "construction"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_351",
+      "number": "351",
+      "title": "Section 351",
+      "text": "§ 351 – 386) CHAPTER 17—NATIONAL DEFENSE EDUCATION PROGRAM (§",
+      "tags": [
+        "chapter",
+        "national",
+        "defense",
+        "education",
+        "program"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_401",
+      "number": "401",
+      "title": "Section 401",
+      "text": "§ 401 – 601) CHAPTER 18—GRANTS FOR TEACHING IN THE EDUCATION OF HANDICAPPED CHILDREN (§ 611) CHAPTER 18A—EARLY EDUCATION PROGRAMS FOR HANDICAPPED CHILDREN (§ 621) CHAPTER 19—SCHOOL CONSTRUCTION IN AREAS AFFECTED BY FEDERAL ACTIVITIES (§ 631) CHAPTER 20—GRANTS FOR TEACHING IN THE EDUCATION OF THE DEAF (§ 671) CHAPTER 20A—NATIONAL TECHNICAL INSTITUTE FOR THE DEAF (§",
+      "tags": [
+        "chapter",
+        "education",
+        "grants",
+        "teaching",
+        "handicapped"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_681",
+      "number": "681",
+      "title": "Section 681",
+      "text": "§ 681 – 686) CHAPTER 20B—GALLAUDET COLLEGE (§",
+      "tags": [
+        "chapter",
+        "gallaudet",
+        "college"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_691",
+      "number": "691",
+      "title": "Section 691",
+      "text": "§ 691 – 695) CHAPTER 21—HIGHER EDUCATION FACILITIES (§",
+      "tags": [
+        "chapter",
+        "higher",
+        "education",
+        "facilities"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_701",
+      "number": "701",
+      "title": "Section 701",
+      "text": "§ 701 – 758) CHAPTER 22—NATIONAL COUNCIL ON THE ARTS (§",
+      "tags": [
+        "chapter",
+        "national",
+        "council"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_781",
+      "number": "781",
+      "title": "Section 781",
+      "text": "§ 781 – 790) CHAPTER 23—TRAINING AND FELLOWSHIP PROGRAMS FOR COMMUNITY DEVELOPMENT (§",
+      "tags": [
+        "chapter",
+        "training",
+        "fellowship",
+        "programs",
+        "community"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_801",
+      "number": "801",
+      "title": "Section 801",
+      "text": "§ 801 – 807) CHAPTER 24—GRANTS FOR EDUCATIONAL MATERIALS, FACILITIES AND SERVICES, AND STRENGTHENING OF EDUCATIONAL AGENCIES (§",
+      "tags": [
+        "educational",
+        "chapter",
+        "grants",
+        "materials",
+        "facilities"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_821",
+      "number": "821",
+      "title": "Section 821",
+      "text": "§ 821 – 900) CHAPTER 25—PAY AND PERSONNEL PROGRAM FOR OVERSEAS TEACHERS (§",
+      "tags": [
+        "chapter",
+        "personnel",
+        "program",
+        "overseas",
+        "teachers"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_901",
+      "number": "901",
+      "title": "Section 901",
+      "text": "§ 901 – 907) CHAPTER 25A—OVERSEAS DEFENSE DEPENDENTS’ EDUCATION (§",
+      "tags": [
+        "chapter",
+        "overseas",
+        "defense",
+        "dependents",
+        "education"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_921",
+      "number": "921",
+      "title": "Section 921",
+      "text": "§ 921 – 932) CHAPTER 26—SUPPORT AND SCHOLARSHIP IN HUMANITIES AND ARTS; MUSEUM SERVICES (§",
+      "tags": [
+        "chapter",
+        "support",
+        "scholarship",
+        "humanities",
+        "museum"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_951",
+      "number": "951",
+      "title": "Section 951",
+      "text": "§ 951 – 961) CHAPTER 26A—INDEMNITY FOR EXHIBITIONS OF ARTS AND ARTIFACTS (§",
+      "tags": [
+        "chapter",
+        "indemnity",
+        "exhibitions",
+        "artifacts"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_971",
+      "number": "971",
+      "title": "Section 971",
+      "text": "§ 971 – 977) CHAPTER 27—NATIONAL VOCATIONAL STUDENT LOAN INSURANCE (§ 981) CHAPTER 28—HIGHER EDUCATION RESOURCES AND STUDENT ASSISTANCE (§",
+      "tags": [
+        "chapter",
+        "student",
+        "national",
+        "vocational",
+        "insurance"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_1001",
+      "number": "1001",
+      "title": "Section 1001",
+      "text": "§ 1001 – 1161aa–1) CHAPTER 29—INTERNATIONAL STUDIES AND RESEARCH (§",
+      "tags": [
+        "chapter",
+        "international",
+        "studies",
+        "research"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_1171",
+      "number": "1171",
+      "title": "Section 1171",
+      "text": "§ 1171 – 1176) CHAPTER 30—BASIC EDUCATION FOR ADULTS (§",
+      "tags": [
+        "chapter",
+        "education",
+        "adults"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_1201",
+      "number": "1201",
+      "title": "Section 1201",
+      "text": "§ 1201 – 1213) CHAPTER 31—GENERAL PROVISIONS CONCERNING EDUCATION (§",
+      "tags": [
+        "chapter",
+        "general",
+        "provisions",
+        "concerning",
+        "education"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_1221",
+      "number": "1221",
+      "title": "Section 1221",
+      "text": "§ 1221 – 1235) CHAPTER 32—VOCATIONAL EDUCATION (§",
+      "tags": [
+        "chapter",
+        "vocational",
+        "education"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_1241",
+      "number": "1241",
+      "title": "Section 1241",
+      "text": "§ 1241 – 1247) CHAPTER 33—EDUCATION OF INDIVIDUALS WITH DISABILITIES (§",
+      "tags": [
+        "chapter",
+        "education",
+        "individuals",
+        "disabilities"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_1400",
+      "number": "1400",
+      "title": "Section 1400",
+      "text": "§ 1400 – 1482) CHAPTER 34—NATIONAL COMMISSION ON LIBRARIES AND INFORMATION SCIENCE (§ 1501) CHAPTER 35—ENVIRONMENTAL EDUCATION (§ 1531) CHAPTER 36—EMERGENCY SCHOOL AID (§ 1601) CHAPTER 37—ASSIGNMENT OR TRANSPORTATION OF STUDENTS (§",
+      "tags": [
+        "chapter",
+        "national",
+        "commission",
+        "libraries",
+        "information"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_1651",
+      "number": "1651",
+      "title": "Section 1651",
+      "text": "§ 1651 – 1656) CHAPTER 38—DISCRIMINATION BASED ON SEX OR BLINDNESS (§",
+      "tags": [
+        "chapter",
+        "discrimination",
+        "blindness"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_1681",
+      "number": "1681",
+      "title": "Section 1681",
+      "text": "§ 1681 – 1689) CHAPTER 39—EQUAL EDUCATIONAL OPPORTUNITIES AND TRANSPORTATION OF STUDENTS (§",
+      "tags": [
+        "chapter",
+        "educational",
+        "opportunities",
+        "transportation",
+        "students"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_1701",
+      "number": "1701",
+      "title": "Section 1701",
+      "text": "§ 1701 – 1758) CHAPTER 40—CONSOLIDATION OF EDUCATION PROGRAMS (§",
+      "tags": [
+        "chapter",
+        "consolidation",
+        "education",
+        "programs"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_1801",
+      "number": "1801",
+      "title": "Section 1801",
+      "text": "§ 1801 – 1866) CHAPTER 41—NATIONAL READING IMPROVEMENT PROGRAM (§",
+      "tags": [
+        "chapter",
+        "national",
+        "reading",
+        "improvement",
+        "program"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_1901",
+      "number": "1901",
+      "title": "Section 1901",
+      "text": "§ 1901 – 1981) CHAPTER 42—HARRY S TRUMAN MEMORIAL SCHOLARSHIPS (§",
+      "tags": [
+        "chapter",
+        "truman",
+        "memorial",
+        "scholarships"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_2001",
+      "number": "2001",
+      "title": "Section 2001",
+      "text": "§ 2001 – 2013) CHAPTER 43—AMERICAN FOLKLIFE PRESERVATION (§",
+      "tags": [
+        "chapter",
+        "american",
+        "folklife",
+        "preservation"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_2101",
+      "number": "2101",
+      "title": "Section 2101",
+      "text": "§ 2101 – 2144) CHAPTER 44—CAREER AND TECHNICAL EDUCATION (§",
+      "tags": [
+        "chapter",
+        "career",
+        "technical",
+        "education"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_2301",
+      "number": "2301",
+      "title": "Section 2301",
+      "text": "§ 2301 – 2414) CHAPTER 45—CAREER EDUCATION AND CAREER DEVELOPMENT (§",
+      "tags": [
+        "career",
+        "chapter",
+        "education",
+        "development"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_2501",
+      "number": "2501",
+      "title": "Section 2501",
+      "text": "§ 2501 – 2569) CHAPTER 46—CAREER EDUCATION INCENTIVE (§",
+      "tags": [
+        "chapter",
+        "career",
+        "education",
+        "incentive"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_2601",
+      "number": "2601",
+      "title": "Section 2601",
+      "text": "§ 2601 – 2613) CHAPTER 47—STRENGTHENING AND IMPROVEMENT OF ELEMENTARY AND SECONDARY SCHOOLS (§",
+      "tags": [
+        "chapter",
+        "strengthening",
+        "improvement",
+        "elementary",
+        "secondary"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_2701",
+      "number": "2701",
+      "title": "Section 2701",
+      "text": "§ 2701 – 3386) CHAPTER 48—DEPARTMENT OF EDUCATION (§",
+      "tags": [
+        "chapter",
+        "department",
+        "education"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_3401",
+      "number": "3401",
+      "title": "Section 3401",
+      "text": "§ 3401 – 3510) CHAPTER 49—ASBESTOS SCHOOL HAZARD DETECTION AND CONTROL (§",
+      "tags": [
+        "chapter",
+        "asbestos",
+        "school",
+        "hazard",
+        "detection"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_3601",
+      "number": "3601",
+      "title": "Section 3601",
+      "text": "§ 3601 – 3611) CHAPTER 50—NATIONAL CENTER FOR THE STUDY OF AFRO-AMERICAN HISTORY AND CULTURE (§",
+      "tags": [
+        "chapter",
+        "national",
+        "center",
+        "american",
+        "history"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_3701",
+      "number": "3701",
+      "title": "Section 3701",
+      "text": "§ 3701 – 3703) CHAPTER 51—ELEMENTARY AND SECONDARY EDUCATION BLOCK GRANT (§",
+      "tags": [
+        "chapter",
+        "elementary",
+        "secondary",
+        "education"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_3801",
+      "number": "3801",
+      "title": "Section 3801",
+      "text": "§ 3801 – 3871) CHAPTER 52—EDUCATION FOR ECONOMIC SECURITY (§",
+      "tags": [
+        "chapter",
+        "education",
+        "economic",
+        "security"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_3901",
+      "number": "3901",
+      "title": "Section 3901",
+      "text": "§ 3901 – 4081) CHAPTER 53—EMERGENCY IMMIGRANT EDUCATION ASSISTANCE (§ 4101) CHAPTER 54—LEADERSHIP IN EDUCATIONAL ADMINISTRATION (§ 4201) CHAPTER 55—EDUCATION OF THE DEAF (§",
+      "tags": [
+        "chapter",
+        "education",
+        "emergency",
+        "immigrant",
+        "assistance"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_4301",
+      "number": "4301",
+      "title": "Section 4301",
+      "text": "§ 4301 – 4363) CHAPTER 56—AMERICAN INDIAN, ALASKA NATIVE, AND NATIVE HAWAIIAN CULTURE AND ART DEVELOPMENT (§",
+      "tags": [
+        "native",
+        "chapter",
+        "american",
+        "indian",
+        "alaska"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_4401",
+      "number": "4401",
+      "title": "Section 4401",
+      "text": "§ 4401 – 4451) CHAPTER 57—JAMES MADISON MEMORIAL FELLOWSHIP PROGRAM (§",
+      "tags": [
+        "chapter",
+        "madison",
+        "memorial",
+        "fellowship",
+        "program"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_4501",
+      "number": "4501",
+      "title": "Section 4501",
+      "text": "§ 4501 – 4517) CHAPTER 58—DRUG-FREE SCHOOLS AND COMMUNITIES (§",
+      "tags": [
+        "chapter",
+        "schools",
+        "communities"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_4601",
+      "number": "4601",
+      "title": "Section 4601",
+      "text": "§ 4601 – 4665) CHAPTER 59—BARRY GOLDWATER SCHOLARSHIP AND EXCELLENCE IN EDUCATION PROGRAM (§",
+      "tags": [
+        "chapter",
+        "goldwater",
+        "scholarship",
+        "excellence",
+        "education"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_4701",
+      "number": "4701",
+      "title": "Section 4701",
+      "text": "§ 4701 – 4711) CHAPTER 60—FUND FOR THE IMPROVEMENT AND REFORM OF SCHOOLS AND TEACHING (§",
+      "tags": [
+        "chapter",
+        "improvement",
+        "reform",
+        "schools",
+        "teaching"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_4801",
+      "number": "4801",
+      "title": "Section 4801",
+      "text": "§ 4801 – 4841) CHAPTER 61—EDUCATION FOR NATIVE HAWAIIANS (§ 4901) CHAPTER 62—EDUCATION AND TRAINING FOR AMERICAN COMPETITIVENESS (§",
+      "tags": [
+        "chapter",
+        "education",
+        "native",
+        "hawaiians",
+        "training"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_5001",
+      "number": "5001",
+      "title": "Section 5001",
+      "text": "§ 5001 – 5121) CHAPTER 63—EISENHOWER EXCHANGE FELLOWSHIP PROGRAM (§",
+      "tags": [
+        "chapter",
+        "eisenhower",
+        "exchange",
+        "fellowship",
+        "program"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_5201",
+      "number": "5201",
+      "title": "Section 5201",
+      "text": "§ 5201 – 5207) CHAPTER 64—EXCELLENCE IN MATHEMATICS, SCIENCE, AND ENGINEERING EDUCATION (§",
+      "tags": [
+        "chapter",
+        "excellence",
+        "mathematics",
+        "science",
+        "engineering"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_5301",
+      "number": "5301",
+      "title": "Section 5301",
+      "text": "§ 5301 – 5441) CHAPTER 65—NATIONAL ENVIRONMENTAL EDUCATION (§",
+      "tags": [
+        "chapter",
+        "national",
+        "environmental",
+        "education"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_5501",
+      "number": "5501",
+      "title": "Section 5501",
+      "text": "§ 5501 – 5510) CHAPTER 66—MORRIS K. UDALL AND STEWART L. UDALL FOUNDATION (§",
+      "tags": [
+        "chapter",
+        "morris",
+        "stewart",
+        "foundation"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_5601",
+      "number": "5601",
+      "title": "Section 5601",
+      "text": "§ 5601 – 5609) CHAPTER 67—CHRISTOPHER COLUMBUS FELLOWSHIP FOUNDATION (§ 5701) CHAPTER 68—NATIONAL EDUCATION REFORM (§",
+      "tags": [
+        "chapter",
+        "christopher",
+        "columbus",
+        "fellowship",
+        "foundation"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_5801",
+      "number": "5801",
+      "title": "Section 5801",
+      "text": "§ 5801 – 6084) CHAPTER 69—SCHOOL-TO-WORK OPPORTUNITIES (§",
+      "tags": [
+        "chapter",
+        "school",
+        "opportunities"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_6101",
+      "number": "6101",
+      "title": "Section 6101",
+      "text": "§ 6101 – 6251) CHAPTER 70—STRENGTHENING AND IMPROVEMENT OF ELEMENTARY AND SECONDARY SCHOOLS (§",
+      "tags": [
+        "chapter",
+        "strengthening",
+        "improvement",
+        "elementary",
+        "secondary"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_6301",
+      "number": "6301",
+      "title": "Section 6301",
+      "text": "§ 6301 – 8961) CHAPTER 71—NATIONAL EDUCATION STATISTICS (§",
+      "tags": [
+        "chapter",
+        "national",
+        "education",
+        "statistics"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_9001",
+      "number": "9001",
+      "title": "Section 9001",
+      "text": "§ 9001 – 9012) CHAPTER 72—MUSEUM AND LIBRARY SERVICES (§",
+      "tags": [
+        "chapter",
+        "museum",
+        "library",
+        "services"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_9101",
+      "number": "9101",
+      "title": "Section 9101",
+      "text": "§ 9101 – 9176) CHAPTER 73—ADULT EDUCATION AND LITERACY (§",
+      "tags": [
+        "chapter",
+        "education",
+        "literacy"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_9201",
+      "number": "9201",
+      "title": "Section 9201",
+      "text": "§ 9201 – 9271) CHAPTER 74—TROOPS-TO-TEACHERS PROGRAM (§ 9301) CHAPTER 75—EARLY LEARNING OPPORTUNITIES (§",
+      "tags": [
+        "chapter",
+        "troops",
+        "teachers",
+        "program",
+        "learning"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_9401",
+      "number": "9401",
+      "title": "Section 9401",
+      "text": "§ 9401 – 9413) CHAPTER 76—EDUCATION RESEARCH, STATISTICS, EVALUATION, INFORMATION, AND DISSEMINATION (§",
+      "tags": [
+        "chapter",
+        "education",
+        "research",
+        "statistics",
+        "evaluation"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_9501",
+      "number": "9501",
+      "title": "Section 9501",
+      "text": "§ 9501 – 9631) CHAPTER 77—FINANCIAL LITERACY AND EDUCATION IMPROVEMENT (§",
+      "tags": [
+        "chapter",
+        "financial",
+        "literacy",
+        "education",
+        "improvement"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_9701",
+      "number": "9701",
+      "title": "Section 9701",
+      "text": "§ 9701 – 9709) CHAPTER 78—SCIENCE, TECHNOLOGY, ENGINEERING, MATHEMATICS, AND CRITICAL FOREIGN LANGUAGE EDUCATION (§",
+      "tags": [
+        "chapter",
+        "science",
+        "technology",
+        "engineering",
+        "mathematics"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_9801",
+      "number": "9801",
+      "title": "Section 9801",
+      "text": "§ 9801 – 9881) CHAPTER 79—STEM-TRAINING GRANT PROGRAM (§",
+      "tags": [
+        "chapter",
+        "training",
+        "program"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_9901",
+      "number": "9901",
+      "title": "Section 9901",
+      "text": "§ 9901 – 9906) CHAPTER 80—STATE FISCAL STABILIZATION FUND (§",
+      "tags": [
+        "chapter",
+        "fiscal",
+        "stabilization"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t20_10001",
+      "number": "10001",
+      "title": "Section 10001",
+      "text": "§ 10001 – 10013) U.S. Code Toolbox Law about... Articles from Wex Table of Popular Names Parallel Table of Authorities How current is this? Accessibility About LII Contact us Advertise here Help Terms of use Privacy",
+      "tags": [
+        "toolbox",
+        "articles",
+        "popular",
+        "parallel",
+        "authorities"
+      ],
+      "relatedArticles": []
+    }
+  ]
+}

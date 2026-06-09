@@ -1,0 +1,186 @@
+{
+  "country": "US",
+  "code": "title26Tax",
+  "displayName": "Title 26 — Internal Revenue Code",
+  "color": "#744210",
+  "articles": [
+    {
+      "id": "t26_1",
+      "number": "1",
+      "title": "Section 1",
+      "text": "§ 1 – 1564) Subtitle B—Estate and Gift Taxes (§",
+      "tags": [
+        "subtitle",
+        "estate"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t26_2",
+      "number": "2",
+      "title": "Section 2",
+      "text": "§ 2 , Oct. 22, 1986 , 100 Stat. 2095 .) Subtitle A—Income Taxes (§",
+      "tags": [
+        "subtitle",
+        "income"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t26_121",
+      "number": "121",
+      "title": "Section 121",
+      "text": "§ 121 ) 2912, 2913 5632 (Rev. See 5601(a)(12), 5615(6)) 2914(a) 5633 (Rev. See 7214) 2915(a) 5241(c) (Rev. See 7803; T. 5",
+      "tags": [],
+      "relatedArticles": []
+    },
+    {
+      "id": "t26_301",
+      "number": "301",
+      "title": "Section 301",
+      "text": "§ 301 ) 2878(a) 5193(a) (Rev. See 5201(a), 5202(f), 5204(a), 5205(b), 5206(a), (c), 5211) 2878(b) 5009(c), 5193(b) (Rev. See 5206(a), 5214(a)(4)) 2878(c) 5193(c) (Rev. See 5206(b)) 2878(d) 5193(d) (Rev. See 5204(c)) 2879(a) 5242(a) (Rev. See 5211, 5231(a)) 2879(b) 5006(a) (Rev. See 5006(a)(1), (2), 5008(c)) 2879(c) 5232(a) (Rev. See 5005(c)(1), 5006(a)(2), 5173(a), (c)(1)) 2879(d) 5232(a), (c) (Rev. See 5005(c)(1), 5006(a)(2), 5173(a), (c)(1), 5176(a), (b)) 2880(a) 5006(b) 2881(a) 5245 (Rev. See 5204(a)) 2882(a) 5244 (Rev. See 5213) 2883(a) 5194(a) (Rev. See 5211(a), 5212, 5213) 2883(b) 5194(d) (Rev. See 5214(a)) 2883(c) 5194(c) (Rev. See 5241) 2883(d) 5194(e)(1) (Rev. See 5212, 5213) 2883(e) 5025(d), 5194(f) (Rev. See 5005(c)(1), 5212, 5223(a), (d)) 2883(f) 5194(g) (Rev. See 5201(a), 5204(a), 5212) 2883(g) 5194(h) (Rev. Omitted) 2884(a) 5250(a) (Rev. See 5205(b)) 2885(a) 5247(a) (Rev. See 5175(a), 5206(a), 5214(a)(4)) 2885(b) 5009(b) (Rev. See 5205(i)(4)), 5247(b) 2885(d) 5648 (Rev. See 5608) 2886(a) 5247(c) 2887 5012(a) (Rev. See 5009) 2888(a) 5247(d) (Rev. See 5206(a)) 2889, 2890 Omitted 2891(a) 5522(a) (Rev. See 5214(a)) 2891(b) 5011(a) (Rev. See 5008(a)) 2900 5006(a) (Rev. See 5006(a)(1), (2), 5008(c)) 2901(a)(1) 5011(a)(1)(A) (Rev. See 5008(a)(1)(A)) 2901(a)(2) 5011(a)(1)(B) (Rev. See 5008(a)(1)(B)), 5011(b) (Rev. See 5008(b)(1)) 2901(b) 5011(a)(1)(B), (2) (Rev. See 5008(a)(1)(B), (2)) 2901(c) 5011(a)(3) (Rev. See 5008(a)(3), (4)) 2901(d) 5011(a)(4) (Rev. See 5008(a)(4)...",
+      "tags": [
+        "omitted"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t26_2001",
+      "number": "2001",
+      "title": "Section 2001",
+      "text": "§ 2001 – 2801) Subtitle C—Employment Taxes (§",
+      "tags": [
+        "subtitle",
+        "employment"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t26_3101",
+      "number": "3101",
+      "title": "Section 3101",
+      "text": "§ 3101 – 3512) Subtitle D—Miscellaneous Excise Taxes (§",
+      "tags": [
+        "subtitle",
+        "miscellaneous",
+        "excise"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t26_4001",
+      "number": "4001",
+      "title": "Section 4001",
+      "text": "§ 4001 – 5000D) Subtitle E—Alcohol, Tobacco, and Certain Other Excise Taxes (§",
+      "tags": [
+        "subtitle",
+        "alcohol",
+        "tobacco",
+        "certain",
+        "excise"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t26_5001",
+      "number": "5001",
+      "title": "Section 5001",
+      "text": "§ 5001 – 5891) Subtitle F—Procedure and Administration (§",
+      "tags": [
+        "subtitle",
+        "procedure",
+        "administration"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t26_6001",
+      "number": "6001",
+      "title": "Section 6001",
+      "text": "§ 6001 – 7874) Subtitle G—The Joint Committee on Taxation (§",
+      "tags": [
+        "subtitle",
+        "committee",
+        "taxation"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t26_7801",
+      "number": "7801",
+      "title": "Section 7801",
+      "text": "sec. 7801 and following) of the Internal Revenue Code of 1986. (d) Enactment of Internal Revenue Title into law The Internal Revenue Title referred to in subsection (a)(1) is as follows: * * *. Editorial Notes Amendments 1986—Subsecs. (a)(1), (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”. Statutory Notes and Related Subsidiaries Redesignation of Internal Revenue Code of 1954; References Pub. L. 99–514,",
+      "tags": [
+        "internal",
+        "revenue",
+        "following",
+        "enactment",
+        "referred"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t26_8001",
+      "number": "8001",
+      "title": "Section 8001",
+      "text": "§ 8001 – 8023) Subtitle H—Financing of Presidential Election Campaigns (§",
+      "tags": [
+        "subtitle",
+        "financing",
+        "presidential",
+        "election",
+        "campaigns"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t26_9001",
+      "number": "9001",
+      "title": "Section 9001",
+      "text": "§ 9001 – 9042) Subtitle I—Trust Fund Code (§",
+      "tags": [
+        "subtitle"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t26_9500",
+      "number": "9500",
+      "title": "Section 9500",
+      "text": "§ 9500 – 9602) Subtitle J—Coal Industry Health Benefits (§",
+      "tags": [
+        "subtitle",
+        "industry",
+        "health",
+        "benefits"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t26_9701",
+      "number": "9701",
+      "title": "Section 9701",
+      "text": "§ 9701 – 9722) Subtitle K—Group Health Plan Requirements (§",
+      "tags": [
+        "subtitle",
+        "health",
+        "requirements"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t26_9801",
+      "number": "9801",
+      "title": "Section 9801",
+      "text": "§ 9801 – 9834) Current through 119-84 Act Aug. 16, 1954, ch. 736, 68A Stat. 3 The following tables have been prepared as aids in comparing provisions of the Internal Revenue Code of 1954 (redesignated the Internal Revenue Code of 1986 by Pub. L. 99–514,",
+      "tags": [
+        "internal",
+        "revenue",
+        "current",
+        "through",
+        "following"
+      ],
+      "relatedArticles": []
+    }
+  ]
+}

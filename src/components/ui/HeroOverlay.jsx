@@ -89,7 +89,8 @@ export default function HeroOverlay({ onDismiss }) {
             '🇧🇷 Brazil',
             '🇵🇹 Portugal',
             '🇪🇸 Spain',
-            '📰 12,000+ articles',
+            '🇺🇸 USA',
+            '📰 35,000+ articles',
             '✦ AI Assistant',
             '📅 Daily Law',
           ].map(badge => (

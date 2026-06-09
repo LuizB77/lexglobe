@@ -22,6 +22,16 @@ const CODE_META = {
   codigoPenalES:       { label: 'Código Penal (ES)',           spine: '#C53030', color: '#9B1C1C' },
   codigoCivilES:       { label: 'Código Civil (ES)',           spine: '#553C9A', color: '#44337A' },
   estatutoTrabajadores:{ label: 'Estatuto de los Trabajadores',spine: '#276749', color: '#1C4532' },
+  usConstitution:      { label: 'U.S. Constitution',           spine: '#B7791F', color: '#8B6914' },
+  title18Criminal:     { label: 'Title 18 — Crimes',          spine: '#C53030', color: '#9B1C1C' },
+  title42CivilRights:  { label: 'Title 42 — Civil Rights',    spine: '#2B6CB0', color: '#1a365d' },
+  title29Labor:        { label: 'Title 29 — Labor',           spine: '#276749', color: '#1C4532' },
+  title26Tax:          { label: 'Title 26 — Internal Revenue',spine: '#D69E2E', color: '#744210' },
+  title15Commerce:     { label: 'Title 15 — Commerce',        spine: '#553C9A', color: '#44337A' },
+  title8Immigration:   { label: 'Title 8 — Immigration',      spine: '#2C7A7B', color: '#1D4044' },
+  title20Education:    { label: 'Title 20 — Education',       spine: '#C05621', color: '#7B341E' },
+  title31Finance:      { label: 'Title 31 — Finance',         spine: '#2B6CB0', color: '#1A365D' },
+  title49Transportation:{ label: 'Title 49 — Transportation', spine: '#4A5568', color: '#2D3748' },
 }
 
 const PREFIX_TO_CODE = {
@@ -43,6 +53,16 @@ const PREFIX_TO_CODE = {
   cpes: 'codigoPenalES',
   cces: 'codigoCivilES',
   etes: 'estatutoTrabajadores',
+  usc: 'usConstitution',
+  t18: 'title18Criminal',
+  t42: 'title42CivilRights',
+  t29: 'title29Labor',
+  t26: 'title26Tax',
+  t15: 'title15Commerce',
+  t8:  'title8Immigration',
+  t20: 'title20Education',
+  t31: 'title31Finance',
+  t49: 'title49Transportation',
 }
 
 function getCodeKeyFromId(id) {

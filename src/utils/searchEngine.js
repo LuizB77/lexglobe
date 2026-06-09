@@ -19,6 +19,16 @@ const CODE_MAP = {
   codigoPenalES:        () => import('../data/spain/codigoPenalES.json'),
   codigoCivilES:        () => import('../data/spain/codigoCivilES.json'),
   estatutoTrabajadores: () => import('../data/spain/estatutoTrabajadores.json'),
+  usConstitution:        () => import('../data/usa/usConstitution.json'),
+  title18Criminal:       () => import('../data/usa/title18Criminal.json'),
+  title42CivilRights:    () => import('../data/usa/title42CivilRights.json'),
+  title29Labor:          () => import('../data/usa/title29Labor.json'),
+  title26Tax:            () => import('../data/usa/title26Tax.json'),
+  title15Commerce:       () => import('../data/usa/title15Commerce.json'),
+  title8Immigration:     () => import('../data/usa/title8Immigration.json'),
+  title20Education:      () => import('../data/usa/title20Education.json'),
+  title31Finance:        () => import('../data/usa/title31Finance.json'),
+  title49Transportation: () => import('../data/usa/title49Transportation.json'),
 }
 
 const COUNTRY_CODES = {
@@ -29,6 +39,12 @@ const COUNTRY_CODES = {
     'codigoEstrada',
   ],
   ES: ['constitucionES', 'codigoPenalES', 'codigoCivilES', 'estatutoTrabajadores'],
+  US: [
+    'usConstitution', 'title18Criminal', 'title42CivilRights',
+    'title29Labor', 'title26Tax', 'title15Commerce',
+    'title8Immigration', 'title20Education', 'title31Finance',
+    'title49Transportation',
+  ],
 }
 
 const cache = {}

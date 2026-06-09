@@ -25,6 +25,19 @@ export async function getDailyLaw(countryCode = 'BR') {
       import('../data/portugal/codigoComercial.json'),
       import('../data/portugal/codigoEstrada.json'),
     ])
+  } else if (countryCode === 'US') {
+    modules = await Promise.all([
+      import('../data/usa/usConstitution.json'),
+      import('../data/usa/title18Criminal.json'),
+      import('../data/usa/title42CivilRights.json'),
+      import('../data/usa/title29Labor.json'),
+      import('../data/usa/title26Tax.json'),
+      import('../data/usa/title15Commerce.json'),
+      import('../data/usa/title8Immigration.json'),
+      import('../data/usa/title20Education.json'),
+      import('../data/usa/title31Finance.json'),
+      import('../data/usa/title49Transportation.json'),
+    ])
   } else if (countryCode === 'ES') {
     modules = await Promise.all([
       import('../data/spain/constitucionES.json'),

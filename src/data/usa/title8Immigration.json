@@ -1,0 +1,124 @@
+{
+  "country": "US",
+  "code": "title8Immigration",
+  "displayName": "Title 8 — Immigration",
+  "color": "#2C7A7B",
+  "articles": [
+    {
+      "id": "t8_41",
+      "number": "41",
+      "title": "Section 41",
+      "text": "§ 41 – 53) CHAPTER 4—FREEDMEN (§ 61) CHAPTER 5—ALIEN OWNERSHIP OF LAND (§",
+      "tags": [
+        "chapter",
+        "freedmen",
+        "ownership"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t8_71",
+      "number": "71",
+      "title": "Section 71",
+      "text": "§ 71 – 83) CHAPTER 6—IMMIGRATION (§",
+      "tags": [
+        "chapter",
+        "immigration"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t8_100",
+      "number": "100",
+      "title": "Section 100",
+      "text": "§ 100 – 241) CHAPTER 7—EXCLUSION OF CHINESE (§",
+      "tags": [
+        "chapter",
+        "exclusion",
+        "chinese"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t8_261",
+      "number": "261",
+      "title": "Section 261",
+      "text": "§ 261 – 299) CHAPTER 8—THE COOLY TRADE (§ 331) CHAPTER 9—MISCELLANEOUS PROVISIONS (§ 351) CHAPTER 10—ALIEN REGISTRATION (§ 451) CHAPTER 11—NATIONALITY (§",
+      "tags": [
+        "chapter",
+        "miscellaneous",
+        "provisions",
+        "registration",
+        "nationality"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t8_501",
+      "number": "501",
+      "title": "Section 501",
+      "text": "§ 501 – 1001) CHAPTER 12—IMMIGRATION AND NATIONALITY (§",
+      "tags": [
+        "chapter",
+        "immigration",
+        "nationality"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t8_1101",
+      "number": "1101",
+      "title": "Section 1101",
+      "text": "§ 1101 – 1537) CHAPTER 13—IMMIGRATION AND NATURALIZATION SERVICE (§",
+      "tags": [
+        "chapter",
+        "immigration",
+        "naturalization",
+        "service"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t8_1551",
+      "number": "1551",
+      "title": "Section 1551",
+      "text": "§ 1551 – 1574) CHAPTER 14—RESTRICTING WELFARE AND PUBLIC BENEFITS FOR ALIENS (§",
+      "tags": [
+        "chapter",
+        "restricting",
+        "welfare",
+        "public",
+        "benefits"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t8_1601",
+      "number": "1601",
+      "title": "Section 1601",
+      "text": "§ 1601 – 1646) CHAPTER 15—ENHANCED BORDER SECURITY AND VISA ENTRY REFORM (§",
+      "tags": [
+        "chapter",
+        "enhanced",
+        "border",
+        "security",
+        "reform"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "t8_1701",
+      "number": "1701",
+      "title": "Section 1701",
+      "text": "§ 1701 – 1778) U.S. Code Toolbox Law about... Articles from Wex Table of Popular Names Parallel Table of Authorities How current is this? Accessibility About LII Contact us Advertise here Help Terms of use Privacy",
+      "tags": [
+        "toolbox",
+        "articles",
+        "popular",
+        "parallel",
+        "authorities"
+      ],
+      "relatedArticles": []
+    }
+  ]
+}
