@@ -1,0 +1,6829 @@
+{
+  "country": "PT",
+  "code": "codigoComercial",
+  "displayName": "Código Comercial",
+  "color": "#744210",
+  "articles": [
+    {
+      "id": "ccmpt_1",
+      "number": "1",
+      "title": "Artigo 1",
+      "text": "Artigo 1.º (Âmbito geral de aplicação)",
+      "tags": [
+        "artigo",
+        "âmbito",
+        "aplicação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_2",
+      "number": "2",
+      "title": "Artigo 2",
+      "text": "Artigo 2.º (Direito subsidiário)",
+      "tags": [
+        "artigo",
+        "direito",
+        "subsidiário"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_3",
+      "number": "3",
+      "title": "Lei pessoal",
+      "text": "Artigo 3.º Lei pessoal",
+      "tags": [
+        "artigo",
+        "pessoal"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_4",
+      "number": "4",
+      "title": "Sociedades com actividade em Portugal",
+      "text": "Artigo 4.º Sociedades com actividade em Portugal",
+      "tags": [
+        "artigo",
+        "sociedades",
+        "actividade",
+        "portugal"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_5",
+      "number": "5",
+      "title": "Artigo 5",
+      "text": "Artigo 5.º (Personalidade)",
+      "tags": [
+        "artigo",
+        "personalidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_6",
+      "number": "6",
+      "title": "Artigo 6",
+      "text": "Artigo 6.º (Capacidade)",
+      "tags": [
+        "artigo",
+        "capacidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_7",
+      "number": "7",
+      "title": "Forma e partes do contrato",
+      "text": "Artigo 7.º Forma e partes do contrato",
+      "tags": [
+        "artigo",
+        "partes",
+        "contrato"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_8",
+      "number": "8",
+      "title": "Artigo 8",
+      "text": "Artigo 8.º (Participação dos cônjuges em sociedades)",
+      "tags": [
+        "artigo",
+        "participação",
+        "cônjuges",
+        "sociedades"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_9",
+      "number": "9",
+      "title": "Artigo 9",
+      "text": "Artigo 9.º (Elementos do contrato)",
+      "tags": [
+        "artigo",
+        "elementos",
+        "contrato"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_10",
+      "number": "10",
+      "title": "Artigo 10",
+      "text": "Artigo 10.º (Requisitos da firma)",
+      "tags": [
+        "artigo",
+        "requisitos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_11",
+      "number": "11",
+      "title": "Artigo 11",
+      "text": "Artigo 11.º (Objecto)",
+      "tags": [
+        "artigo",
+        "objecto"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_12",
+      "number": "12",
+      "title": "Artigo 12",
+      "text": "Artigo 12.º Sede",
+      "tags": [
+        "artigo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_13",
+      "number": "13",
+      "title": "Artigo 13",
+      "text": "Artigo 13.º (Formas locais de representação)",
+      "tags": [
+        "artigo",
+        "formas",
+        "locais",
+        "representação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_14",
+      "number": "14",
+      "title": "Artigo 14",
+      "text": "Artigo 14.º (Expressão do capital)",
+      "tags": [
+        "artigo",
+        "expressão",
+        "capital"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_15",
+      "number": "15",
+      "title": "Artigo 15",
+      "text": "Artigo 15.º (Duração)",
+      "tags": [
+        "artigo",
+        "duração"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_16",
+      "number": "16",
+      "title": "Artigo 16",
+      "text": "Artigo 16.º (Vantagens, indemnizações e retribuições)",
+      "tags": [
+        "artigo",
+        "vantagens",
+        "indemnizações",
+        "retribuições"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_17",
+      "number": "17",
+      "title": "Artigo 17",
+      "text": "Artigo 17.º (Acordos parassociais)",
+      "tags": [
+        "artigo",
+        "acordos",
+        "parassociais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_18",
+      "number": "18",
+      "title": "Registo do contrato",
+      "text": "Artigo 18.º Registo do contrato",
+      "tags": [
+        "artigo",
+        "registo",
+        "contrato"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_19",
+      "number": "19",
+      "title": "Assunção pela sociedade de negócios anteriores ao registo",
+      "text": "Artigo 19.º Assunção pela sociedade de negócios anteriores ao registo",
+      "tags": [
+        "artigo",
+        "assunção",
+        "sociedade",
+        "negócios",
+        "anteriores"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_20",
+      "number": "20",
+      "title": "Artigo 20",
+      "text": "Artigo 20.º (Obrigações dos sócios)",
+      "tags": [
+        "artigo",
+        "obrigações",
+        "sócios"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_21",
+      "number": "21",
+      "title": "Artigo 21",
+      "text": "Artigo 21.º (Direitos dos sócios)",
+      "tags": [
+        "artigo",
+        "direitos",
+        "sócios"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_22",
+      "number": "22",
+      "title": "Participação nos lucros e perdas",
+      "text": "Artigo 22.º Participação nos lucros e perdas",
+      "tags": [
+        "artigo",
+        "participação",
+        "lucros",
+        "perdas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_23",
+      "number": "23",
+      "title": "Usufruto e penhor de participações",
+      "text": "Artigo 23.º Usufruto e penhor de participações",
+      "tags": [
+        "artigo",
+        "usufruto",
+        "penhor",
+        "participações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_24",
+      "number": "24",
+      "title": "Artigo 24",
+      "text": "Artigo 24.º (Direitos especiais)",
+      "tags": [
+        "artigo",
+        "direitos",
+        "especiais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_25",
+      "number": "25",
+      "title": "Valor da entrada e valor da participação",
+      "text": "Artigo 25.º Valor da entrada e valor da participação",
+      "tags": [
+        "artigo",
+        "entrada",
+        "participação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_26",
+      "number": "26",
+      "title": "Tempo das entradas",
+      "text": "Artigo 26.º Tempo das entradas",
+      "tags": [
+        "artigo",
+        "entradas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_27",
+      "number": "27",
+      "title": "Artigo 27",
+      "text": "Artigo 27.º (Cumprimento da obrigação de entrada)",
+      "tags": [
+        "artigo",
+        "cumprimento",
+        "obrigação",
+        "entrada"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_28",
+      "number": "28",
+      "title": "Verificação das entradas em espécie",
+      "text": "Artigo 28.º Verificação das entradas em espécie",
+      "tags": [
+        "artigo",
+        "verificação",
+        "entradas",
+        "espécie"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_29",
+      "number": "29",
+      "title": "Aquisição de bens a accionistas",
+      "text": "Artigo 29.º Aquisição de bens a accionistas",
+      "tags": [
+        "artigo",
+        "aquisição",
+        "accionistas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_30",
+      "number": "30",
+      "title": "Artigo 30",
+      "text": "Artigo 30.º (Direitos dos credores quanto às entradas)",
+      "tags": [
+        "artigo",
+        "direitos",
+        "credores",
+        "quanto",
+        "entradas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_31",
+      "number": "31",
+      "title": "Artigo 31",
+      "text": "Artigo 31.º (Deliberação de distribuição de bens e seu cumprimento)",
+      "tags": [
+        "artigo",
+        "deliberação",
+        "distribuição",
+        "cumprimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_32",
+      "number": "32",
+      "title": "Limite da distribuição de bens aos sócios",
+      "text": "Artigo 32.º Limite da distribuição de bens aos sócios",
+      "tags": [
+        "artigo",
+        "limite",
+        "distribuição",
+        "sócios"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_33",
+      "number": "33",
+      "title": "Artigo 33",
+      "text": "Artigo 33.º (Lucros e reservas não distribuíveis)",
+      "tags": [
+        "artigo",
+        "lucros",
+        "reservas",
+        "distribuíveis"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_34",
+      "number": "34",
+      "title": "Artigo 34",
+      "text": "Artigo 34.º (Restituição de bens indevidamente recebidos)",
+      "tags": [
+        "artigo",
+        "restituição",
+        "indevidamente",
+        "recebidos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_35",
+      "number": "35",
+      "title": "Perda de metade do capital",
+      "text": "Artigo 35.º Perda de metade do capital",
+      "tags": [
+        "artigo",
+        "metade",
+        "capital"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_36",
+      "number": "36",
+      "title": "Relações anteriores à celebração do contrato de sociedade",
+      "text": "Artigo 36.º Relações anteriores à celebração do contrato de sociedade",
+      "tags": [
+        "artigo",
+        "relações",
+        "anteriores",
+        "celebração",
+        "contrato"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_37",
+      "number": "37",
+      "title": "Relações entre os sócios antes do registo",
+      "text": "Artigo 37.º Relações entre os sócios antes do registo",
+      "tags": [
+        "artigo",
+        "relações",
+        "sócios",
+        "registo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_38",
+      "number": "38",
+      "title": "Relações das sociedades em nome colectivo não registadas com terce",
+      "text": "Artigo 38.º Relações das sociedades em nome colectivo não registadas com terceiros",
+      "tags": [
+        "artigo",
+        "relações",
+        "sociedades",
+        "colectivo",
+        "registadas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_39",
+      "number": "39",
+      "title": "Relações das sociedades em comandita simples não registadas com te",
+      "text": "Artigo 39.º Relações das sociedades em comandita simples não registadas com terceiros",
+      "tags": [
+        "artigo",
+        "relações",
+        "sociedades",
+        "comandita",
+        "simples"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_40",
+      "number": "40",
+      "title": "Relações das sociedades por quotas, anónimas e em comandita por ac",
+      "text": "Artigo 40.º Relações das sociedades por quotas, anónimas e em comandita por acções não registadas com terceiros",
+      "tags": [
+        "artigo",
+        "relações",
+        "sociedades",
+        "quotas",
+        "anónimas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_41",
+      "number": "41",
+      "title": "Artigo 41",
+      "text": "Artigo 41.º (Invalidade do contrato antes do registo)",
+      "tags": [
+        "artigo",
+        "invalidade",
+        "contrato",
+        "registo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_42",
+      "number": "42",
+      "title": "Nulidade do contrato de sociedade por quotas, anónima ou em comand",
+      "text": "Artigo 42.º Nulidade do contrato de sociedade por quotas, anónima ou em comandita por acções registado",
+      "tags": [
+        "artigo",
+        "nulidade",
+        "contrato",
+        "sociedade",
+        "quotas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_43",
+      "number": "43",
+      "title": "Artigo 43",
+      "text": "Artigo 43.º (Invalidade do contrato de sociedade em nome colectivo e em comandita simples)",
+      "tags": [
+        "artigo",
+        "invalidade",
+        "contrato",
+        "sociedade",
+        "colectivo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_44",
+      "number": "44",
+      "title": "Acção de declaração de nulidade e notificação para regularização",
+      "text": "Artigo 44.º Acção de declaração de nulidade e notificação para regularização",
+      "tags": [
+        "artigo",
+        "declaração",
+        "nulidade",
+        "notificação",
+        "regularização"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_45",
+      "number": "45",
+      "title": "Artigo 45",
+      "text": "Artigo 45.º (Vícios da vontade e incapacidade nas sociedades por quotas, anónimas e em comandita por acções)",
+      "tags": [
+        "artigo",
+        "vícios",
+        "vontade",
+        "incapacidade",
+        "sociedades"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_46",
+      "number": "46",
+      "title": "Artigo 46",
+      "text": "Artigo 46.º (Vícios da vontade e incapacidade nas sociedades em nome colectivo e em comandita simples)",
+      "tags": [
+        "artigo",
+        "vícios",
+        "vontade",
+        "incapacidade",
+        "sociedades"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_47",
+      "number": "47",
+      "title": "Artigo 47",
+      "text": "Artigo 47.º (Efeitos da anulação do contrato)",
+      "tags": [
+        "artigo",
+        "efeitos",
+        "anulação",
+        "contrato"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_48",
+      "number": "48",
+      "title": "Artigo 48",
+      "text": "Artigo 48.º (Sócios admitidos na sociedade posteriormente à constituição)",
+      "tags": [
+        "artigo",
+        "sócios",
+        "admitidos",
+        "sociedade",
+        "posteriormente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_49",
+      "number": "49",
+      "title": "Artigo 49",
+      "text": "Artigo 49.º (Notificação do sócio para anular ou confirmar o negócio)",
+      "tags": [
+        "artigo",
+        "notificação",
+        "anular",
+        "confirmar",
+        "negócio"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_50",
+      "number": "50",
+      "title": "Artigo 50",
+      "text": "Artigo 50.º (Satisfação por outra via do interesse do demandante)",
+      "tags": [
+        "artigo",
+        "satisfação",
+        "interesse",
+        "demandante"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_51",
+      "number": "51",
+      "title": "Artigo 51",
+      "text": "Artigo 51.º (Aquisição da quota do autor)",
+      "tags": [
+        "artigo",
+        "aquisição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_52",
+      "number": "52",
+      "title": "Artigo 52",
+      "text": "Artigo 52.º (Efeitos da invalidade)",
+      "tags": [
+        "artigo",
+        "efeitos",
+        "invalidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_53",
+      "number": "53",
+      "title": "Artigo 53",
+      "text": "Artigo 53.º (Formas de deliberação)",
+      "tags": [
+        "artigo",
+        "formas",
+        "deliberação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_54",
+      "number": "54",
+      "title": "Artigo 54",
+      "text": "Artigo 54.º (Deliberações unânimes e assembleias universais)",
+      "tags": [
+        "artigo",
+        "deliberações",
+        "unânimes",
+        "assembleias",
+        "universais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_55",
+      "number": "55",
+      "title": "Artigo 55",
+      "text": "Artigo 55.º (Falta de consentimento dos sócios)",
+      "tags": [
+        "artigo",
+        "consentimento",
+        "sócios"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_56",
+      "number": "56",
+      "title": "Artigo 56",
+      "text": "Artigo 56.º (Deliberações nulas)",
+      "tags": [
+        "artigo",
+        "deliberações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_57",
+      "number": "57",
+      "title": "Artigo 57",
+      "text": "Artigo 57.º (Iniciativa do órgão de fiscalização quanto a deliberações nulas)",
+      "tags": [
+        "artigo",
+        "iniciativa",
+        "fiscalização",
+        "quanto",
+        "deliberações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_58",
+      "number": "58",
+      "title": "Artigo 58",
+      "text": "Artigo 58.º (Deliberações anuláveis)",
+      "tags": [
+        "artigo",
+        "deliberações",
+        "anuláveis"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_59",
+      "number": "59",
+      "title": "Artigo 59",
+      "text": "Artigo 59.º (Acção de anulação)",
+      "tags": [
+        "artigo",
+        "anulação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_60",
+      "number": "60",
+      "title": "Artigo 60",
+      "text": "Artigo 60.º (Disposições comuns às acções de nulidade e de anulação)",
+      "tags": [
+        "artigo",
+        "disposições",
+        "comuns",
+        "acções",
+        "nulidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_61",
+      "number": "61",
+      "title": "Artigo 61",
+      "text": "Artigo 61.º (Eficácia do caso julgado)",
+      "tags": [
+        "artigo",
+        "eficácia",
+        "julgado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_62",
+      "number": "62",
+      "title": "Artigo 62",
+      "text": "Artigo 62.º (Renovação da deliberação)",
+      "tags": [
+        "artigo",
+        "renovação",
+        "deliberação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_63",
+      "number": "63",
+      "title": "Actas",
+      "text": "Artigo 63.º Actas",
+      "tags": [
+        "artigo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_64",
+      "number": "64",
+      "title": "Deveres fundamentais",
+      "text": "Artigo 64.º Deveres fundamentais",
+      "tags": [
+        "artigo",
+        "deveres",
+        "fundamentais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_65",
+      "number": "65",
+      "title": "Dever de relatar a gestão e apresentar contas",
+      "text": "Artigo 65.º Dever de relatar a gestão e apresentar contas",
+      "tags": [
+        "artigo",
+        "relatar",
+        "gestão",
+        "apresentar",
+        "contas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_66",
+      "number": "66",
+      "title": "Relatório de gestão",
+      "text": "Artigo 66.º Relatório de gestão",
+      "tags": [
+        "artigo",
+        "relatório",
+        "gestão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_67",
+      "number": "67",
+      "title": "Falta de apresentação das contas e de deliberação sobre elas",
+      "text": "Artigo 67.º Falta de apresentação das contas e de deliberação sobre elas",
+      "tags": [
+        "artigo",
+        "apresentação",
+        "contas",
+        "deliberação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_68",
+      "number": "68",
+      "title": "Recusa de aprovação das contas",
+      "text": "Artigo 68.º Recusa de aprovação das contas",
+      "tags": [
+        "artigo",
+        "recusa",
+        "aprovação",
+        "contas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_69",
+      "number": "69",
+      "title": "Regime especial de invalidade das deliberações",
+      "text": "Artigo 69.º Regime especial de invalidade das deliberações",
+      "tags": [
+        "artigo",
+        "regime",
+        "especial",
+        "invalidade",
+        "deliberações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_70",
+      "number": "70",
+      "title": "Prestação de contas",
+      "text": "Artigo 70.º Prestação de contas",
+      "tags": [
+        "artigo",
+        "prestação",
+        "contas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_71",
+      "number": "71",
+      "title": "Responsabilidade quanto à constituição da sociedade",
+      "text": "Artigo 71.º Responsabilidade quanto à constituição da sociedade",
+      "tags": [
+        "artigo",
+        "responsabilidade",
+        "quanto",
+        "constituição",
+        "sociedade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_72",
+      "number": "72",
+      "title": "Responsabilidade de membros da administração para com a sociedade",
+      "text": "Artigo 72.º Responsabilidade de membros da administração para com a sociedade",
+      "tags": [
+        "artigo",
+        "responsabilidade",
+        "membros",
+        "administração",
+        "sociedade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_73",
+      "number": "73",
+      "title": "Solidariedade na responsabilidade",
+      "text": "Artigo 73.º Solidariedade na responsabilidade",
+      "tags": [
+        "artigo",
+        "solidariedade",
+        "responsabilidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_74",
+      "number": "74",
+      "title": "Cláusulas nulas",
+      "text": "Artigo 74.º Cláusulas nulas. Renúncia e transacção",
+      "tags": [
+        "artigo",
+        "cláusulas",
+        "renúncia",
+        "transacção"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_75",
+      "number": "75",
+      "title": "Artigo 75",
+      "text": "Artigo 75.º (Acção da sociedade)",
+      "tags": [
+        "artigo",
+        "sociedade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_76",
+      "number": "76",
+      "title": "Artigo 76",
+      "text": "Artigo 76.º (Representantes especiais)",
+      "tags": [
+        "artigo",
+        "representantes",
+        "especiais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_77",
+      "number": "77",
+      "title": "Acção de responsabilidade proposta por sócios",
+      "text": "Artigo 77.º Acção de responsabilidade proposta por sócios",
+      "tags": [
+        "artigo",
+        "responsabilidade",
+        "proposta",
+        "sócios"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_78",
+      "number": "78",
+      "title": "Responsabilidade para com os credores sociais",
+      "text": "Artigo 78.º Responsabilidade para com os credores sociais",
+      "tags": [
+        "artigo",
+        "responsabilidade",
+        "credores",
+        "sociais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_79",
+      "number": "79",
+      "title": "Responsabilidade para com os sócios e terceiros",
+      "text": "Artigo 79.º Responsabilidade para com os sócios e terceiros",
+      "tags": [
+        "artigo",
+        "responsabilidade",
+        "sócios",
+        "terceiros"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_80",
+      "number": "80",
+      "title": "Responsabilidade de outras pessoas com funções de administração",
+      "text": "Artigo 80.º Responsabilidade de outras pessoas com funções de administração",
+      "tags": [
+        "artigo",
+        "responsabilidade",
+        "outras",
+        "pessoas",
+        "funções"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_81",
+      "number": "81",
+      "title": "Responsabilidade dos membros de órgãos de fiscalização",
+      "text": "Artigo 81.º Responsabilidade dos membros de órgãos de fiscalização",
+      "tags": [
+        "artigo",
+        "responsabilidade",
+        "membros",
+        "órgãos",
+        "fiscalização"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_82",
+      "number": "82",
+      "title": "Artigo 82",
+      "text": "Artigo 82.º (Responsabilidade dos revisores oficiais de contas)",
+      "tags": [
+        "artigo",
+        "responsabilidade",
+        "revisores",
+        "oficiais",
+        "contas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_83",
+      "number": "83",
+      "title": "Responsabilidade solidária do sócio",
+      "text": "Artigo 83.º Responsabilidade solidária do sócio",
+      "tags": [
+        "artigo",
+        "responsabilidade",
+        "solidária"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_84",
+      "number": "84",
+      "title": "Artigo 84",
+      "text": "Artigo 84.º (Responsabilidade do sócio único)",
+      "tags": [
+        "artigo",
+        "responsabilidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_85",
+      "number": "85",
+      "title": "Deliberação de alteração",
+      "text": "Artigo 85.º Deliberação de alteração",
+      "tags": [
+        "artigo",
+        "deliberação",
+        "alteração"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_86",
+      "number": "86",
+      "title": "Artigo 86",
+      "text": "Artigo 86.º (Protecção de sócios)",
+      "tags": [
+        "artigo",
+        "protecção",
+        "sócios"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_87",
+      "number": "87",
+      "title": "Requisitos da deliberação ou decisão",
+      "text": "Artigo 87.º Requisitos da deliberação ou decisão",
+      "tags": [
+        "artigo",
+        "requisitos",
+        "deliberação",
+        "decisão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_88",
+      "number": "88",
+      "title": "Eficácia interna do aumento de capital",
+      "text": "Artigo 88.º Eficácia interna do aumento de capital",
+      "tags": [
+        "artigo",
+        "eficácia",
+        "interna",
+        "aumento",
+        "capital"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_89",
+      "number": "89",
+      "title": "Entradas e aquisição de bens",
+      "text": "Artigo 89.º Entradas e aquisição de bens",
+      "tags": [
+        "artigo",
+        "entradas",
+        "aquisição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_90",
+      "number": "90",
+      "title": "Fiscalização",
+      "text": "Artigo 90.º Fiscalização",
+      "tags": [
+        "artigo",
+        "fiscalização"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_91",
+      "number": "91",
+      "title": "Artigo 91",
+      "text": "Artigo 91.º (Aumento por incorporação de reservas)",
+      "tags": [
+        "artigo",
+        "aumento",
+        "incorporação",
+        "reservas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_92",
+      "number": "92",
+      "title": "Aumento das participações dos sócios",
+      "text": "Artigo 92.º Aumento das participações dos sócios",
+      "tags": [
+        "artigo",
+        "aumento",
+        "participações",
+        "sócios"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_93",
+      "number": "93",
+      "title": "Fiscalização",
+      "text": "Artigo 93.º Fiscalização",
+      "tags": [
+        "artigo",
+        "fiscalização"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_94",
+      "number": "94",
+      "title": "Artigo 94",
+      "text": "Artigo 94.º (Convocatória da assembleia)",
+      "tags": [
+        "artigo",
+        "convocatória",
+        "assembleia"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_95",
+      "number": "95",
+      "title": "Deliberação de redução do capital",
+      "text": "Artigo 95.º Deliberação de redução do capital",
+      "tags": [
+        "artigo",
+        "deliberação",
+        "redução",
+        "capital"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_96",
+      "number": "96",
+      "title": "Tutela dos credores",
+      "text": "Artigo 96.º Tutela dos credores",
+      "tags": [
+        "artigo",
+        "tutela",
+        "credores"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_97",
+      "number": "97",
+      "title": "Noção – Modalidades",
+      "text": "Artigo 97.º Noção – Modalidades",
+      "tags": [
+        "artigo",
+        "modalidades"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_98",
+      "number": "98",
+      "title": "Projecto de fusão",
+      "text": "Artigo 98.º Projecto de fusão",
+      "tags": [
+        "artigo",
+        "projecto"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_99",
+      "number": "99",
+      "title": "Fiscalização do projecto",
+      "text": "Artigo 99.º Fiscalização do projecto",
+      "tags": [
+        "artigo",
+        "fiscalização",
+        "projecto"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_100",
+      "number": "100",
+      "title": "Registo e publicação do projecto e convocação da assembleia",
+      "text": "Artigo 100.º Registo e publicação do projecto e convocação da assembleia",
+      "tags": [
+        "artigo",
+        "registo",
+        "publicação",
+        "projecto",
+        "convocação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_101",
+      "number": "101",
+      "title": "Consulta de documentos",
+      "text": "Artigo 101.º Consulta de documentos",
+      "tags": [
+        "artigo",
+        "consulta",
+        "documentos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_102",
+      "number": "102",
+      "title": "Artigo 102",
+      "text": "Artigo 102.º (Reunião da assembleia)",
+      "tags": [
+        "artigo",
+        "reunião",
+        "assembleia"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_103",
+      "number": "103",
+      "title": "Deliberação",
+      "text": "Artigo 103.º Deliberação",
+      "tags": [
+        "artigo",
+        "deliberação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_104",
+      "number": "104",
+      "title": "Artigo 104",
+      "text": "Artigo 104.º (Participação de uma sociedade no capital de outra)",
+      "tags": [
+        "artigo",
+        "participação",
+        "sociedade",
+        "capital"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_105",
+      "number": "105",
+      "title": "Direito de exoneração dos sócios",
+      "text": "Artigo 105.º Direito de exoneração dos sócios",
+      "tags": [
+        "artigo",
+        "direito",
+        "exoneração",
+        "sócios"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_106",
+      "number": "106",
+      "title": "Forma e disposições aplicáveis",
+      "text": "Artigo 106.º Forma e disposições aplicáveis",
+      "tags": [
+        "artigo",
+        "disposições",
+        "aplicáveis"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_107",
+      "number": "107",
+      "title": "Publicidade da fusão e oposição dos credores",
+      "text": "Artigo 107.º Publicidade da fusão e oposição dos credores",
+      "tags": [
+        "artigo",
+        "publicidade",
+        "oposição",
+        "credores"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_108",
+      "number": "108",
+      "title": "Efeitos da oposição",
+      "text": "Artigo 108.º Efeitos da oposição",
+      "tags": [
+        "artigo",
+        "efeitos",
+        "oposição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_109",
+      "number": "109",
+      "title": "Credores obrigacionistas",
+      "text": "Artigo 109.º Credores obrigacionistas",
+      "tags": [
+        "artigo",
+        "credores",
+        "obrigacionistas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_110",
+      "number": "110",
+      "title": "Portadores de outros títulos",
+      "text": "Artigo 110.º Portadores de outros títulos",
+      "tags": [
+        "artigo",
+        "portadores",
+        "outros",
+        "títulos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_111",
+      "number": "111",
+      "title": "Registo de fusão",
+      "text": "Artigo 111.º Registo de fusão",
+      "tags": [
+        "artigo",
+        "registo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_112",
+      "number": "112",
+      "title": "Artigo 112",
+      "text": "Artigo 112.º (Efeitos do registo)",
+      "tags": [
+        "artigo",
+        "efeitos",
+        "registo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_113",
+      "number": "113",
+      "title": "Artigo 113",
+      "text": "Artigo 113.º (Condição ou termo)",
+      "tags": [
+        "artigo",
+        "condição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_114",
+      "number": "114",
+      "title": "Artigo 114",
+      "text": "Artigo 114.º (Responsabilidade emergente da fusão)",
+      "tags": [
+        "artigo",
+        "responsabilidade",
+        "emergente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_115",
+      "number": "115",
+      "title": "Efectivação de responsabilidade no caso de extinção da sociedade",
+      "text": "Artigo 115.º Efectivação de responsabilidade no caso de extinção da sociedade",
+      "tags": [
+        "artigo",
+        "efectivação",
+        "responsabilidade",
+        "extinção",
+        "sociedade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_116",
+      "number": "116",
+      "title": "Incorporação de sociedade detida pelo menos a 90 % por outra",
+      "text": "Artigo 116.º Incorporação de sociedade detida pelo menos a 90 % por outra",
+      "tags": [
+        "artigo",
+        "incorporação",
+        "sociedade",
+        "detida"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_117",
+      "number": "117",
+      "title": "Nulidade da fusão",
+      "text": "Artigo 117.º Nulidade da fusão",
+      "tags": [
+        "artigo",
+        "nulidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_118",
+      "number": "118",
+      "title": "Artigo 118",
+      "text": "Artigo 118.º (Noção. Modalidades)",
+      "tags": [
+        "artigo",
+        "modalidades"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_119",
+      "number": "119",
+      "title": "Projecto de cisão",
+      "text": "Artigo 119.º Projecto de cisão",
+      "tags": [
+        "artigo",
+        "projecto"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_120",
+      "number": "120",
+      "title": "Artigo 120",
+      "text": "Artigo 120.º (Disposições aplicáveis)",
+      "tags": [
+        "artigo",
+        "disposições",
+        "aplicáveis"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_121",
+      "number": "121",
+      "title": "Artigo 121",
+      "text": "Artigo 121.º (Exclusão de novação)",
+      "tags": [
+        "artigo",
+        "exclusão",
+        "novação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_122",
+      "number": "122",
+      "title": "Artigo 122",
+      "text": "Artigo 122.º (Responsabilidade por dívidas)",
+      "tags": [
+        "artigo",
+        "responsabilidade",
+        "dívidas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_123",
+      "number": "123",
+      "title": "Artigo 123",
+      "text": "Artigo 123.º (Requisitos da cisão simples)",
+      "tags": [
+        "artigo",
+        "requisitos",
+        "simples"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_124",
+      "number": "124",
+      "title": "Artigo 124",
+      "text": "Artigo 124.º (Activo e passivo destacáveis)",
+      "tags": [
+        "artigo",
+        "activo",
+        "passivo",
+        "destacáveis"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_125",
+      "number": "125",
+      "title": "Artigo 125",
+      "text": "Artigo 125.º (Redução do capital da sociedade a cindir)",
+      "tags": [
+        "artigo",
+        "redução",
+        "capital",
+        "sociedade",
+        "cindir"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_126",
+      "number": "126",
+      "title": "Artigo 126",
+      "text": "Artigo 126.º (Cisão-dissolução. Extensão)",
+      "tags": [
+        "artigo",
+        "dissolução",
+        "extensão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_127",
+      "number": "127",
+      "title": "Artigo 127",
+      "text": "Artigo 127.º (Participação na nova sociedade)",
+      "tags": [
+        "artigo",
+        "participação",
+        "sociedade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_128",
+      "number": "128",
+      "title": "Artigo 128",
+      "text": "Artigo 128.º (Requisitos especiais da cisão-fusão)",
+      "tags": [
+        "artigo",
+        "requisitos",
+        "especiais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_129",
+      "number": "129",
+      "title": "Artigo 129",
+      "text": "Artigo 129.º (Constituição de novas sociedades)",
+      "tags": [
+        "artigo",
+        "constituição",
+        "sociedades"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_130",
+      "number": "130",
+      "title": "Artigo 130",
+      "text": "Artigo 130.º (Noção e modalidades)",
+      "tags": [
+        "artigo",
+        "modalidades"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_131",
+      "number": "131",
+      "title": "Artigo 131",
+      "text": "Artigo 131.º (Impedimentos à transformação)",
+      "tags": [
+        "artigo",
+        "impedimentos",
+        "transformação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_132",
+      "number": "132",
+      "title": "Relatório e convocação",
+      "text": "Artigo 132.º Relatório e convocação",
+      "tags": [
+        "artigo",
+        "relatório",
+        "convocação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_133",
+      "number": "133",
+      "title": "Artigo 133",
+      "text": "Artigo 133.º (Quórum deliberativo)",
+      "tags": [
+        "artigo",
+        "quórum",
+        "deliberativo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_134",
+      "number": "134",
+      "title": "Artigo 134",
+      "text": "Artigo 134.º (Conteúdo das deliberações)",
+      "tags": [
+        "artigo",
+        "conteúdo",
+        "deliberações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_135",
+      "number": "135",
+      "title": "Escritura pública de transformação",
+      "text": "Artigo 135.º Escritura pública de transformação",
+      "tags": [
+        "artigo",
+        "escritura",
+        "pública",
+        "transformação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_136",
+      "number": "136",
+      "title": "Artigo 136",
+      "text": "Artigo 136.º (Participações dos sócios)",
+      "tags": [
+        "artigo",
+        "participações",
+        "sócios"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_137",
+      "number": "137",
+      "title": "Direito de exoneração dos sócios",
+      "text": "Artigo 137.º Direito de exoneração dos sócios",
+      "tags": [
+        "artigo",
+        "direito",
+        "exoneração",
+        "sócios"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_138",
+      "number": "138",
+      "title": "Artigo 138",
+      "text": "Artigo 138.º (Credores obrigacionistas)",
+      "tags": [
+        "artigo",
+        "credores",
+        "obrigacionistas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_139",
+      "number": "139",
+      "title": "Artigo 139",
+      "text": "Artigo 139.º (Responsabilidade ilimitada de sócios)",
+      "tags": [
+        "artigo",
+        "responsabilidade",
+        "ilimitada",
+        "sócios"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_140",
+      "number": "140",
+      "title": "Direitos incidentes sobre as participações",
+      "text": "Artigo 140.º Direitos incidentes sobre as participações",
+      "tags": [
+        "artigo",
+        "direitos",
+        "incidentes",
+        "participações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_141",
+      "number": "141",
+      "title": "Casos de dissolução imediata",
+      "text": "Artigo 141.º Casos de dissolução imediata",
+      "tags": [
+        "artigo",
+        "dissolução",
+        "imediata"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_142",
+      "number": "142",
+      "title": "Causas de dissolução administrativa ou por deliberação dos sócios",
+      "text": "Artigo 142.º Causas de dissolução administrativa ou por deliberação dos sócios",
+      "tags": [
+        "artigo",
+        "causas",
+        "dissolução",
+        "administrativa",
+        "deliberação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_143",
+      "number": "143",
+      "title": "Causas de dissolução oficiosa",
+      "text": "Artigo 143.º Causas de dissolução oficiosa",
+      "tags": [
+        "artigo",
+        "causas",
+        "dissolução",
+        "oficiosa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_144",
+      "number": "144",
+      "title": "Regime do procedimento administrativo de dissolução",
+      "text": "Artigo 144.º Regime do procedimento administrativo de dissolução",
+      "tags": [
+        "artigo",
+        "regime",
+        "procedimento",
+        "administrativo",
+        "dissolução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_145",
+      "number": "145",
+      "title": "Forma e registo da dissolução",
+      "text": "Artigo 145.º Forma e registo da dissolução",
+      "tags": [
+        "artigo",
+        "registo",
+        "dissolução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_146",
+      "number": "146",
+      "title": "Regras gerais",
+      "text": "Artigo 146.º Regras gerais",
+      "tags": [
+        "artigo",
+        "regras",
+        "gerais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_147",
+      "number": "147",
+      "title": "Artigo 147",
+      "text": "Artigo 147.º (Partilha imediata)",
+      "tags": [
+        "artigo",
+        "partilha",
+        "imediata"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_148",
+      "number": "148",
+      "title": "Artigo 148",
+      "text": "Artigo 148.º (Liquidação por transmissão global)",
+      "tags": [
+        "artigo",
+        "liquidação",
+        "transmissão",
+        "global"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_149",
+      "number": "149",
+      "title": "Artigo 149",
+      "text": "Artigo 149.º (Operações preliminares da liquidação)",
+      "tags": [
+        "artigo",
+        "operações",
+        "preliminares",
+        "liquidação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_150",
+      "number": "150",
+      "title": "Duração da liquidação",
+      "text": "Artigo 150.º Duração da liquidação",
+      "tags": [
+        "artigo",
+        "duração",
+        "liquidação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_151",
+      "number": "151",
+      "title": "Liquidatários",
+      "text": "Artigo 151.º Liquidatários",
+      "tags": [
+        "artigo",
+        "liquidatários"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_152",
+      "number": "152",
+      "title": "Artigo 152",
+      "text": "Artigo 152.º (Deveres, poderes e responsabilidade dos liquidatários)",
+      "tags": [
+        "artigo",
+        "deveres",
+        "poderes",
+        "responsabilidade",
+        "liquidatários"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_153",
+      "number": "153",
+      "title": "Artigo 153",
+      "text": "Artigo 153.º (Exigibilidade de débitos e créditos da sociedade)",
+      "tags": [
+        "artigo",
+        "exigibilidade",
+        "débitos",
+        "créditos",
+        "sociedade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_154",
+      "number": "154",
+      "title": "Artigo 154",
+      "text": "Artigo 154.º (Liquidação do passivo social)",
+      "tags": [
+        "artigo",
+        "liquidação",
+        "passivo",
+        "social"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_155",
+      "number": "155",
+      "title": "Artigo 155",
+      "text": "Artigo 155.º (Contas anuais dos liquidatários)",
+      "tags": [
+        "artigo",
+        "contas",
+        "anuais",
+        "liquidatários"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_156",
+      "number": "156",
+      "title": "Artigo 156",
+      "text": "Artigo 156.º (Partilha do activo restante)",
+      "tags": [
+        "artigo",
+        "partilha",
+        "activo",
+        "restante"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_157",
+      "number": "157",
+      "title": "Artigo 157",
+      "text": "Artigo 157.º (Relatório, contas finais e deliberação dos sócios)",
+      "tags": [
+        "artigo",
+        "relatório",
+        "contas",
+        "finais",
+        "deliberação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_158",
+      "number": "158",
+      "title": "Artigo 158",
+      "text": "Artigo 158.º (Responsabilidade dos liquidatários para com os credores sociais)",
+      "tags": [
+        "artigo",
+        "responsabilidade",
+        "liquidatários",
+        "credores",
+        "sociais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_159",
+      "number": "159",
+      "title": "Entrega dos bens partilhados",
+      "text": "Artigo 159.º Entrega dos bens partilhados",
+      "tags": [
+        "artigo",
+        "entrega",
+        "partilhados"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_160",
+      "number": "160",
+      "title": "Artigo 160",
+      "text": "Artigo 160.º (Registo comercial)",
+      "tags": [
+        "artigo",
+        "registo",
+        "comercial"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_161",
+      "number": "161",
+      "title": "Artigo 161",
+      "text": "Artigo 161.º (Regresso à actividade)",
+      "tags": [
+        "artigo",
+        "regresso",
+        "actividade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_162",
+      "number": "162",
+      "title": "Artigo 162",
+      "text": "Artigo 162.º (Acções pendentes)",
+      "tags": [
+        "artigo",
+        "acções",
+        "pendentes"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_163",
+      "number": "163",
+      "title": "Passivo superveniente",
+      "text": "Artigo 163.º Passivo superveniente",
+      "tags": [
+        "artigo",
+        "passivo",
+        "superveniente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_164",
+      "number": "164",
+      "title": "Artigo 164",
+      "text": "Artigo 164.º (Activo superveniente)",
+      "tags": [
+        "artigo",
+        "activo",
+        "superveniente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_165",
+      "number": "165",
+      "title": "Artigo 165",
+      "text": "Artigo 165.º (Liquidação no caso de invalidade do contrato)",
+      "tags": [
+        "artigo",
+        "liquidação",
+        "invalidade",
+        "contrato"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_166",
+      "number": "166",
+      "title": "Artigo 166",
+      "text": "Artigo 166.º (Actos sujeitos a registo)",
+      "tags": [
+        "artigo",
+        "sujeitos",
+        "registo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_167",
+      "number": "167",
+      "title": "Publicações obrigatórias",
+      "text": "Artigo 167.º Publicações obrigatórias",
+      "tags": [
+        "artigo",
+        "publicações",
+        "obrigatórias"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_168",
+      "number": "168",
+      "title": "Artigo 168",
+      "text": "Artigo 168.º (Falta de registo ou publicação)",
+      "tags": [
+        "artigo",
+        "registo",
+        "publicação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_169",
+      "number": "169",
+      "title": "Responsabilidade por discordâncias de publicidade",
+      "text": "Artigo 169.º Responsabilidade por discordâncias de publicidade",
+      "tags": [
+        "artigo",
+        "responsabilidade",
+        "discordâncias",
+        "publicidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_170",
+      "number": "170",
+      "title": "Artigo 170",
+      "text": "Artigo 170.º (Eficácia de actos para com a sociedade)",
+      "tags": [
+        "artigo",
+        "eficácia",
+        "sociedade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_171",
+      "number": "171",
+      "title": "Menções em actos externos",
+      "text": "Artigo 171.º Menções em actos externos",
+      "tags": [
+        "artigo",
+        "menções",
+        "externos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_172",
+      "number": "172",
+      "title": "Artigo 172",
+      "text": "Artigo 172.º (Requerimento de liquidação judicial)",
+      "tags": [
+        "artigo",
+        "requerimento",
+        "liquidação",
+        "judicial"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_173",
+      "number": "173",
+      "title": "Artigo 173",
+      "text": "Artigo 173.º (Regularização da sociedade)",
+      "tags": [
+        "artigo",
+        "regularização",
+        "sociedade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_174",
+      "number": "174",
+      "title": "Prescrição",
+      "text": "Artigo 174.º Prescrição",
+      "tags": [
+        "artigo",
+        "prescrição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_175",
+      "number": "175",
+      "title": "Artigo 175",
+      "text": "Artigo 175.º (Características)",
+      "tags": [
+        "artigo",
+        "características"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_176",
+      "number": "176",
+      "title": "Artigo 176",
+      "text": "Artigo 176.º (Conteúdo do contrato)",
+      "tags": [
+        "artigo",
+        "conteúdo",
+        "contrato"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_177",
+      "number": "177",
+      "title": "Artigo 177",
+      "text": "Artigo 177.º (Firma)",
+      "tags": [
+        "artigo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_178",
+      "number": "178",
+      "title": "Sócios de indústria",
+      "text": "Artigo 178.º Sócios de indústria",
+      "tags": [
+        "artigo",
+        "sócios",
+        "indústria"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_179",
+      "number": "179",
+      "title": "Artigo 179",
+      "text": "Artigo 179.º (Responsabilidade pelo valor das entradas)",
+      "tags": [
+        "artigo",
+        "responsabilidade",
+        "entradas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_180",
+      "number": "180",
+      "title": "Artigo 180",
+      "text": "Artigo 180.º (Proibição de concorrência e de participação noutras sociedades)",
+      "tags": [
+        "artigo",
+        "proibição",
+        "concorrência",
+        "participação",
+        "noutras"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_181",
+      "number": "181",
+      "title": "Artigo 181",
+      "text": "Artigo 181.º (Direito dos sócios à informação)",
+      "tags": [
+        "artigo",
+        "direito",
+        "sócios",
+        "informação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_182",
+      "number": "182",
+      "title": "Transmissão entre vivos de parte social",
+      "text": "Artigo 182.º Transmissão entre vivos de parte social",
+      "tags": [
+        "artigo",
+        "transmissão",
+        "social"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_183",
+      "number": "183",
+      "title": "Artigo 183",
+      "text": "Artigo 183.º (Execução sobre a parte do sócio)",
+      "tags": [
+        "artigo",
+        "execução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_184",
+      "number": "184",
+      "title": "Falecimento de um sócio",
+      "text": "Artigo 184.º Falecimento de um sócio",
+      "tags": [
+        "artigo",
+        "falecimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_185",
+      "number": "185",
+      "title": "Artigo 185",
+      "text": "Artigo 185.º (Exoneração do sócio)",
+      "tags": [
+        "artigo",
+        "exoneração"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_186",
+      "number": "186",
+      "title": "Artigo 186",
+      "text": "Artigo 186.º (Exclusão do sócio)",
+      "tags": [
+        "artigo",
+        "exclusão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_187",
+      "number": "187",
+      "title": "Destino da parte social extinta",
+      "text": "Artigo 187.º Destino da parte social extinta",
+      "tags": [
+        "artigo",
+        "destino",
+        "social",
+        "extinta"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_188",
+      "number": "188",
+      "title": "Artigo 188",
+      "text": "Artigo 188.º (Liquidação da parte)",
+      "tags": [
+        "artigo",
+        "liquidação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_189",
+      "number": "189",
+      "title": "Artigo 189",
+      "text": "Artigo 189.º (Deliberações dos sócios)",
+      "tags": [
+        "artigo",
+        "deliberações",
+        "sócios"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_190",
+      "number": "190",
+      "title": "Artigo 190",
+      "text": "Artigo 190.º (Direito de voto)",
+      "tags": [
+        "artigo",
+        "direito"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_191",
+      "number": "191",
+      "title": "Composição da gerência",
+      "text": "Artigo 191.º Composição da gerência",
+      "tags": [
+        "artigo",
+        "composição",
+        "gerência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_192",
+      "number": "192",
+      "title": "Competência dos gerentes",
+      "text": "Artigo 192.º Competência dos gerentes",
+      "tags": [
+        "artigo",
+        "competência",
+        "gerentes"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_193",
+      "number": "193",
+      "title": "Funcionamento da gerência",
+      "text": "Artigo 193.º Funcionamento da gerência",
+      "tags": [
+        "artigo",
+        "funcionamento",
+        "gerência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_194",
+      "number": "194",
+      "title": "Artigo 194",
+      "text": "Artigo 194.º (Alterações do contrato)",
+      "tags": [
+        "artigo",
+        "alterações",
+        "contrato"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_195",
+      "number": "195",
+      "title": "Dissolução e liquidação",
+      "text": "Artigo 195.º Dissolução e liquidação",
+      "tags": [
+        "artigo",
+        "dissolução",
+        "liquidação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_196",
+      "number": "196",
+      "title": "Artigo 196",
+      "text": "Artigo 196.º (Regresso à actividade. Oposição de credores)",
+      "tags": [
+        "artigo",
+        "regresso",
+        "actividade",
+        "oposição",
+        "credores"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_197",
+      "number": "197",
+      "title": "Artigo 197",
+      "text": "Artigo 197.º (Características da sociedade)",
+      "tags": [
+        "artigo",
+        "características",
+        "sociedade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_198",
+      "number": "198",
+      "title": "Artigo 198",
+      "text": "Artigo 198.º (Responsabilidade directa dos sócios para com os credores sociais)",
+      "tags": [
+        "artigo",
+        "responsabilidade",
+        "directa",
+        "sócios",
+        "credores"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_199",
+      "number": "199",
+      "title": "Artigo 199",
+      "text": "Artigo 199.º (Conteúdo do contrato)",
+      "tags": [
+        "artigo",
+        "conteúdo",
+        "contrato"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_200",
+      "number": "200",
+      "title": "Firma",
+      "text": "Artigo 200.º Firma",
+      "tags": [
+        "artigo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_201",
+      "number": "201",
+      "title": "Capital social livre",
+      "text": "Artigo 201.º Capital social livre",
+      "tags": [
+        "artigo",
+        "capital",
+        "social"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_202",
+      "number": "202",
+      "title": "Entradas",
+      "text": "Artigo 202.º Entradas",
+      "tags": [
+        "artigo",
+        "entradas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_203",
+      "number": "203",
+      "title": "Artigo 203",
+      "text": "Artigo 203.º (Tempo das entradas)",
+      "tags": [
+        "artigo",
+        "entradas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_204",
+      "number": "204",
+      "title": "Artigo 204",
+      "text": "Artigo 204.º (Aviso ao sócio remisso e exclusão deste)",
+      "tags": [
+        "artigo",
+        "remisso",
+        "exclusão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_205",
+      "number": "205",
+      "title": "Artigo 205",
+      "text": "Artigo 205.º (Venda da quota do sócio excluído)",
+      "tags": [
+        "artigo",
+        "excluído"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_206",
+      "number": "206",
+      "title": "Artigo 206",
+      "text": "Artigo 206.º (Responsabilidade do sócio e dos anteriores titulares da quota)",
+      "tags": [
+        "artigo",
+        "responsabilidade",
+        "anteriores",
+        "titulares"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_207",
+      "number": "207",
+      "title": "Artigo 207",
+      "text": "Artigo 207.º (Responsabilidade dos outros sócios)",
+      "tags": [
+        "artigo",
+        "responsabilidade",
+        "outros",
+        "sócios"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_208",
+      "number": "208",
+      "title": "Artigo 208",
+      "text": "Artigo 208.º (Aplicação das quantias obtidas na venda da quota)",
+      "tags": [
+        "artigo",
+        "aplicação",
+        "quantias",
+        "obtidas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_209",
+      "number": "209",
+      "title": "Artigo 209",
+      "text": "Artigo 209.º (Obrigações de prestações acessórias)",
+      "tags": [
+        "artigo",
+        "obrigações",
+        "prestações",
+        "acessórias"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_210",
+      "number": "210",
+      "title": "Artigo 210",
+      "text": "Artigo 210.º (Obrigações de prestações suplementares)",
+      "tags": [
+        "artigo",
+        "obrigações",
+        "prestações",
+        "suplementares"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_211",
+      "number": "211",
+      "title": "Artigo 211",
+      "text": "Artigo 211.º (Exigibilidade da obrigação)",
+      "tags": [
+        "artigo",
+        "exigibilidade",
+        "obrigação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_212",
+      "number": "212",
+      "title": "Artigo 212",
+      "text": "Artigo 212.º (Regime da obrigação de efectuar prestações suplementares)",
+      "tags": [
+        "artigo",
+        "regime",
+        "obrigação",
+        "efectuar",
+        "prestações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_213",
+      "number": "213",
+      "title": "Artigo 213",
+      "text": "Artigo 213.º (Restituição das prestações suplementares)",
+      "tags": [
+        "artigo",
+        "restituição",
+        "prestações",
+        "suplementares"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_214",
+      "number": "214",
+      "title": "Artigo 214",
+      "text": "Artigo 214.º (Direito dos sócios à informação)",
+      "tags": [
+        "artigo",
+        "direito",
+        "sócios",
+        "informação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_215",
+      "number": "215",
+      "title": "Artigo 215",
+      "text": "Artigo 215.º (Impedimento ao exercício do direito do sócio)",
+      "tags": [
+        "artigo",
+        "impedimento",
+        "exercício",
+        "direito"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_216",
+      "number": "216",
+      "title": "Artigo 216",
+      "text": "Artigo 216.º (Inquérito judicial)",
+      "tags": [
+        "artigo",
+        "inquérito",
+        "judicial"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_217",
+      "number": "217",
+      "title": "Artigo 217",
+      "text": "Artigo 217.º (Direito aos lucros do exercício)",
+      "tags": [
+        "artigo",
+        "direito",
+        "lucros",
+        "exercício"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_218",
+      "number": "218",
+      "title": "Artigo 218",
+      "text": "Artigo 218.º (Reserva legal)",
+      "tags": [
+        "artigo",
+        "reserva"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_219",
+      "number": "219",
+      "title": "Unidade e montante da quota",
+      "text": "Artigo 219.º Unidade e montante da quota",
+      "tags": [
+        "artigo",
+        "unidade",
+        "montante"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_220",
+      "number": "220",
+      "title": "Artigo 220",
+      "text": "Artigo 220.º (Aquisição de quotas próprias)",
+      "tags": [
+        "artigo",
+        "aquisição",
+        "quotas",
+        "próprias"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_221",
+      "number": "221",
+      "title": "Divisão de quotas",
+      "text": "Artigo 221.º Divisão de quotas",
+      "tags": [
+        "artigo",
+        "divisão",
+        "quotas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_222",
+      "number": "222",
+      "title": "Artigo 222",
+      "text": "Artigo 222.º (Direitos e obrigações inerentes a quota indivisa)",
+      "tags": [
+        "artigo",
+        "direitos",
+        "obrigações",
+        "inerentes",
+        "indivisa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_223",
+      "number": "223",
+      "title": "Artigo 223",
+      "text": "Artigo 223.º (Representante comum)",
+      "tags": [
+        "artigo",
+        "representante"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_224",
+      "number": "224",
+      "title": "Artigo 224",
+      "text": "Artigo 224.º (Deliberação dos contitulares)",
+      "tags": [
+        "artigo",
+        "deliberação",
+        "contitulares"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_225",
+      "number": "225",
+      "title": "Transmissão por morte",
+      "text": "Artigo 225.º Transmissão por morte",
+      "tags": [
+        "artigo",
+        "transmissão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_226",
+      "number": "226",
+      "title": "Transmissão dependente da vontade dos sucessores",
+      "text": "Artigo 226.º Transmissão dependente da vontade dos sucessores",
+      "tags": [
+        "artigo",
+        "transmissão",
+        "dependente",
+        "vontade",
+        "sucessores"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_227",
+      "number": "227",
+      "title": "Artigo 227",
+      "text": "Artigo 227.º (Pendência da amortização ou aquisição)",
+      "tags": [
+        "artigo",
+        "pendência",
+        "amortização",
+        "aquisição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_228",
+      "number": "228",
+      "title": "Transmissão entre vivos e cessão de quotas",
+      "text": "Artigo 228.º Transmissão entre vivos e cessão de quotas",
+      "tags": [
+        "artigo",
+        "transmissão",
+        "cessão",
+        "quotas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_229",
+      "number": "229",
+      "title": "Artigo 229",
+      "text": "Artigo 229.º (Cláusulas contratuais)",
+      "tags": [
+        "artigo",
+        "cláusulas",
+        "contratuais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_230",
+      "number": "230",
+      "title": "Pedido e prestação do consentimento",
+      "text": "Artigo 230.º Pedido e prestação do consentimento",
+      "tags": [
+        "artigo",
+        "pedido",
+        "prestação",
+        "consentimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_231",
+      "number": "231",
+      "title": "Recusa do consentimento",
+      "text": "Artigo 231.º Recusa do consentimento",
+      "tags": [
+        "artigo",
+        "recusa",
+        "consentimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_232",
+      "number": "232",
+      "title": "Artigo 232",
+      "text": "Artigo 232.º (Amortização da quota)",
+      "tags": [
+        "artigo",
+        "amortização"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_233",
+      "number": "233",
+      "title": "Artigo 233",
+      "text": "Artigo 233.º (Pressupostos da amortização)",
+      "tags": [
+        "artigo",
+        "pressupostos",
+        "amortização"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_234",
+      "number": "234",
+      "title": "Artigo 234",
+      "text": "Artigo 234.º (Forma e prazo de amortização)",
+      "tags": [
+        "artigo",
+        "amortização"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_235",
+      "number": "235",
+      "title": "Artigo 235",
+      "text": "Artigo 235.º (Contrapartida da amortização)",
+      "tags": [
+        "artigo",
+        "contrapartida",
+        "amortização"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_236",
+      "number": "236",
+      "title": "Artigo 236",
+      "text": "Artigo 236.º (Ressalva do capital)",
+      "tags": [
+        "artigo",
+        "ressalva",
+        "capital"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_237",
+      "number": "237",
+      "title": "Efeitos internos e externos quanto ao capital",
+      "text": "Artigo 237.º Efeitos internos e externos quanto ao capital",
+      "tags": [
+        "artigo",
+        "efeitos",
+        "internos",
+        "externos",
+        "quanto"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_238",
+      "number": "238",
+      "title": "Artigo 238",
+      "text": "Artigo 238.º (Contitularidade e amortização)",
+      "tags": [
+        "artigo",
+        "contitularidade",
+        "amortização"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_239",
+      "number": "239",
+      "title": "Artigo 239",
+      "text": "Artigo 239.º (Execução da quota)",
+      "tags": [
+        "artigo",
+        "execução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_240",
+      "number": "240",
+      "title": "Exoneração de sócio",
+      "text": "Artigo 240.º Exoneração de sócio",
+      "tags": [
+        "artigo",
+        "exoneração"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_241",
+      "number": "241",
+      "title": "Artigo 241",
+      "text": "Artigo 241.º (Exclusão de sócio)",
+      "tags": [
+        "artigo",
+        "exclusão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_242",
+      "number": "242",
+      "title": "Artigo 242",
+      "text": "Artigo 242.º (Exclusão judicial de sócio)",
+      "tags": [
+        "artigo",
+        "exclusão",
+        "judicial"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_243",
+      "number": "243",
+      "title": "Artigo 243",
+      "text": "Artigo 243.º (Contrato de suprimento)",
+      "tags": [
+        "artigo",
+        "contrato",
+        "suprimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_244",
+      "number": "244",
+      "title": "Artigo 244",
+      "text": "Artigo 244.º (Obrigação e permissão de suprimentos)",
+      "tags": [
+        "artigo",
+        "obrigação",
+        "permissão",
+        "suprimentos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_245",
+      "number": "245",
+      "title": "Artigo 245",
+      "text": "Artigo 245.º (Regime do contrato de suprimento)",
+      "tags": [
+        "artigo",
+        "regime",
+        "contrato",
+        "suprimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_246",
+      "number": "246",
+      "title": "Artigo 246",
+      "text": "Artigo 246.º (Competência dos sócios)",
+      "tags": [
+        "artigo",
+        "competência",
+        "sócios"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_247",
+      "number": "247",
+      "title": "Artigo 247",
+      "text": "Artigo 247.º (Formas de deliberação)",
+      "tags": [
+        "artigo",
+        "formas",
+        "deliberação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_248",
+      "number": "248",
+      "title": "Artigo 248",
+      "text": "Artigo 248.º (Assembleias gerais)",
+      "tags": [
+        "artigo",
+        "assembleias",
+        "gerais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_249",
+      "number": "249",
+      "title": "Artigo 249",
+      "text": "Artigo 249.º (Representação em deliberação de sócios)",
+      "tags": [
+        "artigo",
+        "representação",
+        "deliberação",
+        "sócios"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_250",
+      "number": "250",
+      "title": "Artigo 250",
+      "text": "Artigo 250.º (Votos)",
+      "tags": [
+        "artigo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_251",
+      "number": "251",
+      "title": "Artigo 251",
+      "text": "Artigo 251.º (Impedimento de voto)",
+      "tags": [
+        "artigo",
+        "impedimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_252",
+      "number": "252",
+      "title": "Artigo 252",
+      "text": "Artigo 252.º (Composição da gerência)",
+      "tags": [
+        "artigo",
+        "composição",
+        "gerência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_253",
+      "number": "253",
+      "title": "Artigo 253",
+      "text": "Artigo 253.º (Substituição de gerentes)",
+      "tags": [
+        "artigo",
+        "substituição",
+        "gerentes"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_254",
+      "number": "254",
+      "title": "Artigo 254",
+      "text": "Artigo 254.º (Proibição de concorrência)",
+      "tags": [
+        "artigo",
+        "proibição",
+        "concorrência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_255",
+      "number": "255",
+      "title": "Artigo 255",
+      "text": "Artigo 255.º (Remuneração)",
+      "tags": [
+        "artigo",
+        "remuneração"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_256",
+      "number": "256",
+      "title": "Artigo 256",
+      "text": "Artigo 256.º (Duração da gerência)",
+      "tags": [
+        "artigo",
+        "duração",
+        "gerência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_257",
+      "number": "257",
+      "title": "Artigo 257",
+      "text": "Artigo 257.º (Destituição de gerentes)",
+      "tags": [
+        "artigo",
+        "destituição",
+        "gerentes"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_258",
+      "number": "258",
+      "title": "Artigo 258",
+      "text": "Artigo 258.º (Renúncia de gerentes)",
+      "tags": [
+        "artigo",
+        "renúncia",
+        "gerentes"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_259",
+      "number": "259",
+      "title": "Artigo 259",
+      "text": "Artigo 259.º (Competência da gerência)",
+      "tags": [
+        "artigo",
+        "competência",
+        "gerência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_260",
+      "number": "260",
+      "title": "Artigo 260",
+      "text": "Artigo 260.º (Vinculação da sociedade)",
+      "tags": [
+        "artigo",
+        "vinculação",
+        "sociedade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_261",
+      "number": "261",
+      "title": "Artigo 261",
+      "text": "Artigo 261.º (Funcionamento da gerência plural)",
+      "tags": [
+        "artigo",
+        "funcionamento",
+        "gerência",
+        "plural"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_262",
+      "number": "262",
+      "title": "Artigo 262",
+      "text": "Artigo 262.º (Fiscalização)",
+      "tags": [
+        "artigo",
+        "fiscalização"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_263",
+      "number": "263",
+      "title": "Artigo 263",
+      "text": "Artigo 263.º (Relatório de gestão e contas do exercício)",
+      "tags": [
+        "artigo",
+        "relatório",
+        "gestão",
+        "contas",
+        "exercício"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_264",
+      "number": "264",
+      "title": "Artigo 264",
+      "text": "Artigo 264.º (Publicidade das contas)",
+      "tags": [
+        "artigo",
+        "publicidade",
+        "contas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_265",
+      "number": "265",
+      "title": "Maioria necessária",
+      "text": "Artigo 265.º Maioria necessária",
+      "tags": [
+        "artigo",
+        "maioria",
+        "necessária"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_266",
+      "number": "266",
+      "title": "Direito de preferência",
+      "text": "Artigo 266.º Direito de preferência",
+      "tags": [
+        "artigo",
+        "direito",
+        "preferência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_267",
+      "number": "267",
+      "title": "Alienação do direito de participar no aumento de capital",
+      "text": "Artigo 267.º Alienação do direito de participar no aumento de capital",
+      "tags": [
+        "artigo",
+        "alienação",
+        "direito",
+        "participar",
+        "aumento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_268",
+      "number": "268",
+      "title": "Obrigações e direitos de antigos e novos sócios em aumento de capi",
+      "text": "Artigo 268.º Obrigações e direitos de antigos e novos sócios em aumento de capital",
+      "tags": [
+        "artigo",
+        "obrigações",
+        "direitos",
+        "antigos",
+        "sócios"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_269",
+      "number": "269",
+      "title": "Artigo 269",
+      "text": "Artigo 269.º (Aumento de capital e direito de usufruto)",
+      "tags": [
+        "artigo",
+        "aumento",
+        "capital",
+        "direito",
+        "usufruto"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_270",
+      "number": "270",
+      "title": "Artigo 270",
+      "text": "Artigo 270.º (Dissolução da sociedade)",
+      "tags": [
+        "artigo",
+        "dissolução",
+        "sociedade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_271",
+      "number": "271",
+      "title": "Artigo 271",
+      "text": "Artigo 271.º (Características)",
+      "tags": [
+        "artigo",
+        "características"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_272",
+      "number": "272",
+      "title": "Conteúdo obrigatório do contrato",
+      "text": "Artigo 272.º Conteúdo obrigatório do contrato",
+      "tags": [
+        "artigo",
+        "conteúdo",
+        "obrigatório",
+        "contrato"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_273",
+      "number": "273",
+      "title": "Artigo 273",
+      "text": "Artigo 273.º (Número de accionistas)",
+      "tags": [
+        "artigo",
+        "número",
+        "accionistas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_274",
+      "number": "274",
+      "title": "Aquisição da qualidade de sócio",
+      "text": "Artigo 274.º Aquisição da qualidade de sócio",
+      "tags": [
+        "artigo",
+        "aquisição",
+        "qualidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_275",
+      "number": "275",
+      "title": "Firma",
+      "text": "Artigo 275.º Firma",
+      "tags": [
+        "artigo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_276",
+      "number": "276",
+      "title": "Valor nominal do capital e das acções",
+      "text": "Artigo 276.º Valor nominal do capital e das acções",
+      "tags": [
+        "artigo",
+        "nominal",
+        "capital",
+        "acções"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_277",
+      "number": "277",
+      "title": "Entradas",
+      "text": "Artigo 277.º Entradas",
+      "tags": [
+        "artigo",
+        "entradas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_278",
+      "number": "278",
+      "title": "Estrutura da administração e da fiscalização",
+      "text": "Artigo 278.º Estrutura da administração e da fiscalização",
+      "tags": [
+        "artigo",
+        "estrutura",
+        "administração",
+        "fiscalização"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_279",
+      "number": "279",
+      "title": "Constituição com apelo a subscrição pública",
+      "text": "Artigo 279.º Constituição com apelo a subscrição pública",
+      "tags": [
+        "artigo",
+        "constituição",
+        "subscrição",
+        "pública"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_280",
+      "number": "280",
+      "title": "Artigo 280",
+      "text": "Artigo 280.º (Subscrição incompleta)",
+      "tags": [
+        "artigo",
+        "subscrição",
+        "incompleta"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_281",
+      "number": "281",
+      "title": "Assembleia constitutiva",
+      "text": "Artigo 281.º Assembleia constitutiva",
+      "tags": [
+        "artigo",
+        "assembleia",
+        "constitutiva"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_282",
+      "number": "282",
+      "title": "Artigo 282",
+      "text": "Artigo 282.º (Regime especial de invalidade da deliberação)",
+      "tags": [
+        "artigo",
+        "regime",
+        "especial",
+        "invalidade",
+        "deliberação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_283",
+      "number": "283",
+      "title": "Contrato de sociedade",
+      "text": "Artigo 283.º Contrato de sociedade",
+      "tags": [
+        "artigo",
+        "contrato",
+        "sociedade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_284",
+      "number": "284",
+      "title": "Artigo 284",
+      "text": "Artigo 284.º (Sociedades com subscrição pública)",
+      "tags": [
+        "artigo",
+        "sociedades",
+        "subscrição",
+        "pública"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_285",
+      "number": "285",
+      "title": "Realização das entradas",
+      "text": "Artigo 285.º Realização das entradas",
+      "tags": [
+        "artigo",
+        "realização",
+        "entradas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_286",
+      "number": "286",
+      "title": "Artigo 286",
+      "text": "Artigo 286.º (Responsabilidade dos antecessores)",
+      "tags": [
+        "artigo",
+        "responsabilidade",
+        "antecessores"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_287",
+      "number": "287",
+      "title": "Obrigação de prestações acessórias",
+      "text": "Artigo 287.º Obrigação de prestações acessórias",
+      "tags": [
+        "artigo",
+        "obrigação",
+        "prestações",
+        "acessórias"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_288",
+      "number": "288",
+      "title": "Direito mínimo à informação",
+      "text": "Artigo 288.º Direito mínimo à informação",
+      "tags": [
+        "artigo",
+        "direito",
+        "mínimo",
+        "informação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_289",
+      "number": "289",
+      "title": "Informações preparatórias da assembleia geral",
+      "text": "Artigo 289.º Informações preparatórias da assembleia geral",
+      "tags": [
+        "artigo",
+        "informações",
+        "preparatórias",
+        "assembleia"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_290",
+      "number": "290",
+      "title": "Artigo 290",
+      "text": "Artigo 290.º (Informações em assembleia geral)",
+      "tags": [
+        "artigo",
+        "informações",
+        "assembleia"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_291",
+      "number": "291",
+      "title": "Direito colectivo à informação",
+      "text": "Artigo 291.º Direito colectivo à informação",
+      "tags": [
+        "artigo",
+        "direito",
+        "colectivo",
+        "informação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_292",
+      "number": "292",
+      "title": "Inquérito judicial",
+      "text": "Artigo 292.º Inquérito judicial",
+      "tags": [
+        "artigo",
+        "inquérito",
+        "judicial"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_293",
+      "number": "293",
+      "title": "Artigo 293",
+      "text": "Artigo 293.º (Outros titulares do direito à informação)",
+      "tags": [
+        "artigo",
+        "outros",
+        "titulares",
+        "direito",
+        "informação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_294",
+      "number": "294",
+      "title": "Direito aos lucros do exercício",
+      "text": "Artigo 294.º Direito aos lucros do exercício",
+      "tags": [
+        "artigo",
+        "direito",
+        "lucros",
+        "exercício"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_295",
+      "number": "295",
+      "title": "Reserva legal",
+      "text": "Artigo 295.º Reserva legal",
+      "tags": [
+        "artigo",
+        "reserva"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_296",
+      "number": "296",
+      "title": "Artigo 296",
+      "text": "Artigo 296.º (Utilização da reserva legal)",
+      "tags": [
+        "artigo",
+        "utilização",
+        "reserva"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_297",
+      "number": "297",
+      "title": "Adiantamentos sobre lucros no decurso do exercício",
+      "text": "Artigo 297.º Adiantamentos sobre lucros no decurso do exercício",
+      "tags": [
+        "artigo",
+        "adiantamentos",
+        "lucros",
+        "decurso",
+        "exercício"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_298",
+      "number": "298",
+      "title": "Valor de emissão das acções",
+      "text": "Artigo 298.º Valor de emissão das acções",
+      "tags": [
+        "artigo",
+        "emissão",
+        "acções"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_299",
+      "number": "299",
+      "title": "Ações nominativas",
+      "text": "Artigo 299.º Ações nominativas",
+      "tags": [
+        "artigo",
+        "nominativas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_300",
+      "number": "300",
+      "title": "Artigo 300",
+      "text": "Artigo 300.º (Conversão)",
+      "tags": [
+        "artigo",
+        "conversão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_301",
+      "number": "301",
+      "title": "Cupões",
+      "text": "Artigo 301.º Cupões",
+      "tags": [
+        "artigo",
+        "cupões"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_302",
+      "number": "302",
+      "title": "Artigo 302",
+      "text": "Artigo 302.º (Categorias de acções)",
+      "tags": [
+        "artigo",
+        "categorias",
+        "acções"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_303",
+      "number": "303",
+      "title": "Artigo 303",
+      "text": "Artigo 303.º (Contitularidade da acção)",
+      "tags": [
+        "artigo",
+        "contitularidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_304",
+      "number": "304",
+      "title": "Títulos provisórios e emissão de títulos definitivos",
+      "text": "Artigo 304.º Títulos provisórios e emissão de títulos definitivos",
+      "tags": [
+        "títulos",
+        "artigo",
+        "provisórios",
+        "emissão",
+        "definitivos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_305",
+      "number": "305",
+      "title": "Artigo 305",
+      "text": "Artigo 305.º (Livro de registo de acções)",
+      "tags": [
+        "artigo",
+        "registo",
+        "acções"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_306",
+      "number": "306",
+      "title": "Artigo 306",
+      "text": "Artigo 306.º (Destinatários e condicionamentos da oferta)",
+      "tags": [
+        "artigo",
+        "destinatários",
+        "condicionamentos",
+        "oferta"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_307",
+      "number": "307",
+      "title": "Artigo 307",
+      "text": "Artigo 307.º (Autoridade fiscalizadora)",
+      "tags": [
+        "artigo",
+        "autoridade",
+        "fiscalizadora"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_308",
+      "number": "308",
+      "title": "Artigo 308",
+      "text": "Artigo 308.º (Lançamento da oferta pública)",
+      "tags": [
+        "artigo",
+        "lançamento",
+        "oferta",
+        "pública"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_309",
+      "number": "309",
+      "title": "Artigo 309",
+      "text": "Artigo 309.º (Conteúdo da oferta pública)",
+      "tags": [
+        "artigo",
+        "conteúdo",
+        "oferta",
+        "pública"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_310",
+      "number": "310",
+      "title": "Artigo 310",
+      "text": "Artigo 310.º (Contrapartida da oferta pública)",
+      "tags": [
+        "artigo",
+        "contrapartida",
+        "oferta",
+        "pública"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_311",
+      "number": "311",
+      "title": "Artigo 311",
+      "text": "Artigo 311.º (Aquisição durante o período da oferta)",
+      "tags": [
+        "artigo",
+        "aquisição",
+        "durante",
+        "período",
+        "oferta"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_312",
+      "number": "312",
+      "title": "Artigo 312",
+      "text": "Artigo 312.º (Dever de confidencialidade)",
+      "tags": [
+        "artigo",
+        "confidencialidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_313",
+      "number": "313",
+      "title": "Artigo 313",
+      "text": "Artigo 313.º (Oferta pública como forma obrigatória de aquisição)",
+      "tags": [
+        "artigo",
+        "oferta",
+        "pública",
+        "obrigatória",
+        "aquisição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_314",
+      "number": "314",
+      "title": "Acções cotadas como de um oferente",
+      "text": "Artigo 314.º Acções cotadas como de um oferente",
+      "tags": [
+        "artigo",
+        "acções",
+        "cotadas",
+        "oferente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_315",
+      "number": "315",
+      "title": "Ofertas públicas de aquisição de obrigações convertíveis ou obriga",
+      "text": "Artigo 315.º Ofertas públicas de aquisição de obrigações convertíveis ou obrigações com direito de subscrição de acções",
+      "tags": [
+        "obrigações",
+        "artigo",
+        "ofertas",
+        "públicas",
+        "aquisição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_316",
+      "number": "316",
+      "title": "Subscrição",
+      "text": "Artigo 316.º Subscrição. Intervenção de terceiros",
+      "tags": [
+        "artigo",
+        "subscrição",
+        "intervenção",
+        "terceiros"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_317",
+      "number": "317",
+      "title": "Artigo 317",
+      "text": "Artigo 317.º (Casos de aquisição lícita de acções próprias)",
+      "tags": [
+        "artigo",
+        "aquisição",
+        "lícita",
+        "acções",
+        "próprias"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_318",
+      "number": "318",
+      "title": "Artigo 318",
+      "text": "Artigo 318.º (Acções próprias não liberadas)",
+      "tags": [
+        "artigo",
+        "acções",
+        "próprias",
+        "liberadas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_319",
+      "number": "319",
+      "title": "Deliberação de aquisição",
+      "text": "Artigo 319.º Deliberação de aquisição",
+      "tags": [
+        "artigo",
+        "deliberação",
+        "aquisição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_320",
+      "number": "320",
+      "title": "Deliberação de alienação",
+      "text": "Artigo 320.º Deliberação de alienação",
+      "tags": [
+        "artigo",
+        "deliberação",
+        "alienação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_321",
+      "number": "321",
+      "title": "Artigo 321",
+      "text": "Artigo 321.º (Igualdade de tratamento dos accionistas)",
+      "tags": [
+        "artigo",
+        "igualdade",
+        "tratamento",
+        "accionistas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_322",
+      "number": "322",
+      "title": "Artigo 322",
+      "text": "Artigo 322.º (Empréstimos e garantias para aquisição de acções próprias)",
+      "tags": [
+        "artigo",
+        "empréstimos",
+        "garantias",
+        "aquisição",
+        "acções"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_323",
+      "number": "323",
+      "title": "Tempo de detenção das acções",
+      "text": "Artigo 323.º Tempo de detenção das acções",
+      "tags": [
+        "artigo",
+        "detenção",
+        "acções"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_324",
+      "number": "324",
+      "title": "Regime das acções próprias",
+      "text": "Artigo 324.º Regime das acções próprias",
+      "tags": [
+        "artigo",
+        "regime",
+        "acções",
+        "próprias"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_325",
+      "number": "325",
+      "title": "Penhor e caução de acções próprias",
+      "text": "Artigo 325.º Penhor e caução de acções próprias",
+      "tags": [
+        "artigo",
+        "penhor",
+        "caução",
+        "acções",
+        "próprias"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_326",
+      "number": "326",
+      "title": "Artigo 326",
+      "text": "Artigo 326.º (Transmissão de acções nominativas)",
+      "tags": [
+        "artigo",
+        "transmissão",
+        "acções",
+        "nominativas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_327",
+      "number": "327",
+      "title": "Artigo 327",
+      "text": "Artigo 327.º (Transmissão de acções ao portador)",
+      "tags": [
+        "artigo",
+        "transmissão",
+        "acções",
+        "portador"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_328",
+      "number": "328",
+      "title": "Artigo 328",
+      "text": "Artigo 328.º (Limitações à transmissão de acções)",
+      "tags": [
+        "artigo",
+        "limitações",
+        "transmissão",
+        "acções"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_329",
+      "number": "329",
+      "title": "Artigo 329",
+      "text": "Artigo 329.º (Concessão e recusa do consentimento)",
+      "tags": [
+        "artigo",
+        "concessão",
+        "recusa",
+        "consentimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_330",
+      "number": "330",
+      "title": "Artigo 330",
+      "text": "Artigo 330.º (Primeiro registo)",
+      "tags": [
+        "artigo",
+        "primeiro",
+        "registo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_331",
+      "number": "331",
+      "title": "Artigo 331",
+      "text": "Artigo 331.º (Regime de registo ou de depósito)",
+      "tags": [
+        "artigo",
+        "regime",
+        "registo",
+        "depósito"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_332",
+      "number": "332",
+      "title": "Artigo 332",
+      "text": "Artigo 332.º (Passagem do regime de registo ao de depósito)",
+      "tags": [
+        "artigo",
+        "passagem",
+        "regime",
+        "registo",
+        "depósito"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_333",
+      "number": "333",
+      "title": "Artigo 333",
+      "text": "Artigo 333.º (Passagem do regime de depósito ao de registo)",
+      "tags": [
+        "artigo",
+        "passagem",
+        "regime",
+        "depósito",
+        "registo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_334",
+      "number": "334",
+      "title": "Artigo 334",
+      "text": "Artigo 334.º (Registo de transmissão)",
+      "tags": [
+        "artigo",
+        "registo",
+        "transmissão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_335",
+      "number": "335",
+      "title": "Artigo 335",
+      "text": "Artigo 335.º (Prazos e encargos)",
+      "tags": [
+        "artigo",
+        "prazos",
+        "encargos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_336",
+      "number": "336",
+      "title": "Artigo 336",
+      "text": "Artigo 336.º (Transmissão de acções nominativas)",
+      "tags": [
+        "artigo",
+        "transmissão",
+        "acções",
+        "nominativas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_337",
+      "number": "337",
+      "title": "Artigo 337",
+      "text": "Artigo 337.º (Declaração de transmissão)",
+      "tags": [
+        "artigo",
+        "declaração",
+        "transmissão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_338",
+      "number": "338",
+      "title": "Artigo 338",
+      "text": "Artigo 338.º (Prova da posse e data dos efeitos da transmissão)",
+      "tags": [
+        "artigo",
+        "efeitos",
+        "transmissão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_339",
+      "number": "339",
+      "title": "Artigo 339",
+      "text": "Artigo 339.º (Transmissão por morte)",
+      "tags": [
+        "artigo",
+        "transmissão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_340",
+      "number": "340",
+      "title": "Artigo 340",
+      "text": "Artigo 340.º (Registo de ónus ou encargos)",
+      "tags": [
+        "artigo",
+        "registo",
+        "encargos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_341",
+      "number": "341",
+      "title": "Emissão e direitos dos accionistas",
+      "text": "Artigo 341.º Emissão e direitos dos accionistas",
+      "tags": [
+        "artigo",
+        "emissão",
+        "direitos",
+        "accionistas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_342",
+      "number": "342",
+      "title": "Falta de pagamento do dividendo prioritário",
+      "text": "Artigo 342.º Falta de pagamento do dividendo prioritário",
+      "tags": [
+        "artigo",
+        "pagamento",
+        "dividendo",
+        "prioritário"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_343",
+      "number": "343",
+      "title": "Artigo 343",
+      "text": "Artigo 343.º (Participação na assembleia geral)",
+      "tags": [
+        "artigo",
+        "participação",
+        "assembleia"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_344",
+      "number": "344",
+      "title": "Artigo 344",
+      "text": "Artigo 344.º (Conversão de acções)",
+      "tags": [
+        "artigo",
+        "conversão",
+        "acções"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_345",
+      "number": "345",
+      "title": "Acções preferenciais remíveis",
+      "text": "Artigo 345.º Acções preferenciais remíveis",
+      "tags": [
+        "artigo",
+        "acções",
+        "preferenciais",
+        "remíveis"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_346",
+      "number": "346",
+      "title": "Artigo 346",
+      "text": "Artigo 346.º (Amortização de acções sem redução de capital)",
+      "tags": [
+        "artigo",
+        "amortização",
+        "acções",
+        "redução",
+        "capital"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_347",
+      "number": "347",
+      "title": "Amortização de acções com redução do capital",
+      "text": "Artigo 347.º Amortização de acções com redução do capital",
+      "tags": [
+        "artigo",
+        "amortização",
+        "acções",
+        "redução",
+        "capital"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_348",
+      "number": "348",
+      "title": "Artigo 348",
+      "text": "Artigo 348.º (Emissão de obrigações)",
+      "tags": [
+        "artigo",
+        "emissão",
+        "obrigações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_349",
+      "number": "349",
+      "title": "Limite de emissão de obrigações",
+      "text": "Artigo 349.º Limite de emissão de obrigações",
+      "tags": [
+        "artigo",
+        "limite",
+        "emissão",
+        "obrigações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_350",
+      "number": "350",
+      "title": "Deliberação",
+      "text": "Artigo 350.º Deliberação",
+      "tags": [
+        "artigo",
+        "deliberação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_351",
+      "number": "351",
+      "title": "Artigo 351",
+      "text": "Artigo 351.º (Registo)",
+      "tags": [
+        "artigo",
+        "registo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_352",
+      "number": "352",
+      "title": "Denominação do valor nominal das obrigações",
+      "text": "Artigo 352.º Denominação do valor nominal das obrigações",
+      "tags": [
+        "artigo",
+        "denominação",
+        "nominal",
+        "obrigações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_353",
+      "number": "353",
+      "title": "Artigo 353",
+      "text": "Artigo 353.º (Subscrição pública incompleta)",
+      "tags": [
+        "artigo",
+        "subscrição",
+        "pública",
+        "incompleta"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_354",
+      "number": "354",
+      "title": "Artigo 354",
+      "text": "Artigo 354.º (Obrigações próprias)",
+      "tags": [
+        "artigo",
+        "obrigações",
+        "próprias"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_355",
+      "number": "355",
+      "title": "Assembleia de obrigacionistas",
+      "text": "Artigo 355.º Assembleia de obrigacionistas",
+      "tags": [
+        "artigo",
+        "assembleia",
+        "obrigacionistas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_356",
+      "number": "356",
+      "title": "Artigo 356",
+      "text": "Artigo 356.º (Invalidade das deliberações)",
+      "tags": [
+        "artigo",
+        "invalidade",
+        "deliberações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_357",
+      "number": "357",
+      "title": "Representante comum dos obrigacionistas",
+      "text": "Artigo 357.º Representante comum dos obrigacionistas",
+      "tags": [
+        "artigo",
+        "representante",
+        "obrigacionistas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_358",
+      "number": "358",
+      "title": "Designação e destituição do representante comum",
+      "text": "Artigo 358.º Designação e destituição do representante comum",
+      "tags": [
+        "artigo",
+        "designação",
+        "destituição",
+        "representante"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_359",
+      "number": "359",
+      "title": "Artigo 359",
+      "text": "Artigo 359.º (Atribuições e responsabilidade do representante comum)",
+      "tags": [
+        "artigo",
+        "atribuições",
+        "responsabilidade",
+        "representante"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_360",
+      "number": "360",
+      "title": "Artigo 360",
+      "text": "Artigo 360.º (Modalidades de obrigações)",
+      "tags": [
+        "artigo",
+        "modalidades",
+        "obrigações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_361",
+      "number": "361",
+      "title": "Artigo 361",
+      "text": "Artigo 361.º (Juro suplementar ou prémio de reembolso)",
+      "tags": [
+        "artigo",
+        "suplementar",
+        "prémio",
+        "reembolso"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_362",
+      "number": "362",
+      "title": "Lucros a considerar",
+      "text": "Artigo 362.º Lucros a considerar",
+      "tags": [
+        "artigo",
+        "lucros",
+        "considerar"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_363",
+      "number": "363",
+      "title": "Artigo 363",
+      "text": "Artigo 363.º (Deliberação de emissão)",
+      "tags": [
+        "artigo",
+        "deliberação",
+        "emissão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_364",
+      "number": "364",
+      "title": "Artigo 364",
+      "text": "Artigo 364.º (Pagamento do juro suplementar e do prémio de reembolso)",
+      "tags": [
+        "artigo",
+        "pagamento",
+        "suplementar",
+        "prémio",
+        "reembolso"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_365",
+      "number": "365",
+      "title": "Obrigações convertíveis em ações ou noutros valores mobiliários",
+      "text": "Artigo 365.º Obrigações convertíveis em ações ou noutros valores mobiliários",
+      "tags": [
+        "artigo",
+        "obrigações",
+        "convertíveis",
+        "noutros",
+        "valores"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_366",
+      "number": "366",
+      "title": "Artigo 366",
+      "text": "Artigo 366.º (Deliberação de emissão)",
+      "tags": [
+        "artigo",
+        "deliberação",
+        "emissão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_367",
+      "number": "367",
+      "title": "Artigo 367",
+      "text": "Artigo 367.º (Direito de preferência dos accionistas)",
+      "tags": [
+        "artigo",
+        "direito",
+        "preferência",
+        "accionistas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_368",
+      "number": "368",
+      "title": "Proibição de alterações na sociedade",
+      "text": "Artigo 368.º Proibição de alterações na sociedade",
+      "tags": [
+        "artigo",
+        "proibição",
+        "alterações",
+        "sociedade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_369",
+      "number": "369",
+      "title": "Artigo 369",
+      "text": "Artigo 369.º (Atribuição de juros e de dividendos)",
+      "tags": [
+        "artigo",
+        "atribuição",
+        "dividendos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_370",
+      "number": "370",
+      "title": "Formalização e registo do aumento do capital",
+      "text": "Artigo 370.º Formalização e registo do aumento do capital",
+      "tags": [
+        "artigo",
+        "formalização",
+        "registo",
+        "aumento",
+        "capital"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_371",
+      "number": "371",
+      "title": "Emissão de acções para conversão de obrigações",
+      "text": "Artigo 371.º Emissão de acções para conversão de obrigações",
+      "tags": [
+        "artigo",
+        "emissão",
+        "acções",
+        "conversão",
+        "obrigações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_372",
+      "number": "372",
+      "title": "Plano de recuperação ou de insolvência e dissolução da sociedade",
+      "text": "Artigo 372.º Plano de recuperação ou de insolvência e dissolução da sociedade",
+      "tags": [
+        "artigo",
+        "recuperação",
+        "insolvência",
+        "dissolução",
+        "sociedade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_373",
+      "number": "373",
+      "title": "Artigo 373",
+      "text": "Artigo 373.º (Forma e âmbito das deliberações)",
+      "tags": [
+        "artigo",
+        "âmbito",
+        "deliberações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_374",
+      "number": "374",
+      "title": "Mesa da assembleia geral",
+      "text": "Artigo 374.º Mesa da assembleia geral",
+      "tags": [
+        "artigo",
+        "assembleia"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_375",
+      "number": "375",
+      "title": "Assembleias gerais de accionistas",
+      "text": "Artigo 375.º Assembleias gerais de accionistas",
+      "tags": [
+        "artigo",
+        "assembleias",
+        "gerais",
+        "accionistas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_376",
+      "number": "376",
+      "title": "Assembleia geral anual",
+      "text": "Artigo 376.º Assembleia geral anual",
+      "tags": [
+        "artigo",
+        "assembleia"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_377",
+      "number": "377",
+      "title": "Convocação e forma de realização da assembleia",
+      "text": "Artigo 377.º Convocação e forma de realização da assembleia",
+      "tags": [
+        "artigo",
+        "convocação",
+        "realização",
+        "assembleia"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_378",
+      "number": "378",
+      "title": "Artigo 378",
+      "text": "Artigo 378.º (Inclusão de assuntos na ordem do dia)",
+      "tags": [
+        "artigo",
+        "inclusão",
+        "assuntos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_379",
+      "number": "379",
+      "title": "Participação na assembleia",
+      "text": "Artigo 379.º Participação na assembleia",
+      "tags": [
+        "artigo",
+        "participação",
+        "assembleia"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_380",
+      "number": "380",
+      "title": "Representação de accionistas",
+      "text": "Artigo 380.º Representação de accionistas",
+      "tags": [
+        "artigo",
+        "representação",
+        "accionistas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_381",
+      "number": "381",
+      "title": "Pedido de representação",
+      "text": "Artigo 381.º Pedido de representação",
+      "tags": [
+        "artigo",
+        "pedido",
+        "representação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_382",
+      "number": "382",
+      "title": "Artigo 382",
+      "text": "Artigo 382.º (Lista de presenças)",
+      "tags": [
+        "artigo",
+        "presenças"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_383",
+      "number": "383",
+      "title": "Artigo 383",
+      "text": "Artigo 383.º (Quórum)",
+      "tags": [
+        "artigo",
+        "quórum"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_384",
+      "number": "384",
+      "title": "Votos",
+      "text": "Artigo 384.º Votos",
+      "tags": [
+        "artigo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_385",
+      "number": "385",
+      "title": "Artigo 385",
+      "text": "Artigo 385.º (Unidade de voto)",
+      "tags": [
+        "artigo",
+        "unidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_386",
+      "number": "386",
+      "title": "Artigo 386",
+      "text": "Artigo 386.º (Maioria)",
+      "tags": [
+        "artigo",
+        "maioria"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_387",
+      "number": "387",
+      "title": "Artigo 387",
+      "text": "Artigo 387.º (Suspensão da sessão)",
+      "tags": [
+        "artigo",
+        "suspensão",
+        "sessão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_388",
+      "number": "388",
+      "title": "Artigo 388",
+      "text": "Artigo 388.º (Actas)",
+      "tags": [
+        "artigo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_389",
+      "number": "389",
+      "title": "Artigo 389",
+      "text": "Artigo 389.º (Assembleias especiais de accionistas)",
+      "tags": [
+        "artigo",
+        "assembleias",
+        "especiais",
+        "accionistas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_390",
+      "number": "390",
+      "title": "Composição",
+      "text": "Artigo 390.º Composição",
+      "tags": [
+        "artigo",
+        "composição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_391",
+      "number": "391",
+      "title": "Artigo 391",
+      "text": "Artigo 391.º (Designação)",
+      "tags": [
+        "artigo",
+        "designação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_392",
+      "number": "392",
+      "title": "Regras especiais de eleição",
+      "text": "Artigo 392.º Regras especiais de eleição",
+      "tags": [
+        "artigo",
+        "regras",
+        "especiais",
+        "eleição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_393",
+      "number": "393",
+      "title": "Substituição de administradores",
+      "text": "Artigo 393.º Substituição de administradores",
+      "tags": [
+        "artigo",
+        "substituição",
+        "administradores"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_394",
+      "number": "394",
+      "title": "Artigo 394",
+      "text": "Artigo 394.º (Nomeação judicial)",
+      "tags": [
+        "artigo",
+        "nomeação",
+        "judicial"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_395",
+      "number": "395",
+      "title": "Presidente do conselho de administração",
+      "text": "Artigo 395.º Presidente do conselho de administração",
+      "tags": [
+        "artigo",
+        "presidente",
+        "conselho",
+        "administração"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_396",
+      "number": "396",
+      "title": "Caução",
+      "text": "Artigo 396.º Caução",
+      "tags": [
+        "artigo",
+        "caução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_397",
+      "number": "397",
+      "title": "Negócios com a sociedade",
+      "text": "Artigo 397.º Negócios com a sociedade",
+      "tags": [
+        "artigo",
+        "negócios",
+        "sociedade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_398",
+      "number": "398",
+      "title": "Exercício de outras actividades",
+      "text": "Artigo 398.º Exercício de outras actividades",
+      "tags": [
+        "artigo",
+        "exercício",
+        "outras",
+        "actividades"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_399",
+      "number": "399",
+      "title": "Remuneração",
+      "text": "Artigo 399.º Remuneração",
+      "tags": [
+        "artigo",
+        "remuneração"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_400",
+      "number": "400",
+      "title": "Suspensão de administradores",
+      "text": "Artigo 400.º Suspensão de administradores",
+      "tags": [
+        "artigo",
+        "suspensão",
+        "administradores"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_401",
+      "number": "401",
+      "title": "Incapacidade superveniente",
+      "text": "Artigo 401.º Incapacidade superveniente",
+      "tags": [
+        "artigo",
+        "incapacidade",
+        "superveniente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_402",
+      "number": "402",
+      "title": "Artigo 402",
+      "text": "Artigo 402.º (Reforma dos administradores)",
+      "tags": [
+        "artigo",
+        "reforma",
+        "administradores"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_403",
+      "number": "403",
+      "title": "Destituição",
+      "text": "Artigo 403.º Destituição",
+      "tags": [
+        "artigo",
+        "destituição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_404",
+      "number": "404",
+      "title": "Renúncia",
+      "text": "Artigo 404.º Renúncia",
+      "tags": [
+        "artigo",
+        "renúncia"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_405",
+      "number": "405",
+      "title": "Competência do conselho de administração",
+      "text": "Artigo 405.º Competência do conselho de administração",
+      "tags": [
+        "artigo",
+        "competência",
+        "conselho",
+        "administração"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_406",
+      "number": "406",
+      "title": "Artigo 406",
+      "text": "Artigo 406.º (Poderes de gestão)",
+      "tags": [
+        "artigo",
+        "poderes",
+        "gestão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_407",
+      "number": "407",
+      "title": "Delegação de poderes de gestão",
+      "text": "Artigo 407.º Delegação de poderes de gestão",
+      "tags": [
+        "artigo",
+        "delegação",
+        "poderes",
+        "gestão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_408",
+      "number": "408",
+      "title": "Representação",
+      "text": "Artigo 408.º Representação",
+      "tags": [
+        "artigo",
+        "representação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_409",
+      "number": "409",
+      "title": "Vinculação da sociedade",
+      "text": "Artigo 409.º Vinculação da sociedade",
+      "tags": [
+        "artigo",
+        "vinculação",
+        "sociedade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_410",
+      "number": "410",
+      "title": "Reuniões e deliberações do conselho",
+      "text": "Artigo 410.º Reuniões e deliberações do conselho",
+      "tags": [
+        "artigo",
+        "reuniões",
+        "deliberações",
+        "conselho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_411",
+      "number": "411",
+      "title": "Artigo 411",
+      "text": "Artigo 411.º (Invalidade de deliberações)",
+      "tags": [
+        "artigo",
+        "invalidade",
+        "deliberações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_412",
+      "number": "412",
+      "title": "Arguição da invalidade de deliberações",
+      "text": "Artigo 412.º Arguição da invalidade de deliberações",
+      "tags": [
+        "artigo",
+        "arguição",
+        "invalidade",
+        "deliberações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_413",
+      "number": "413",
+      "title": "Estrutura e composição quantitativa",
+      "text": "Artigo 413.º Estrutura e composição quantitativa",
+      "tags": [
+        "artigo",
+        "estrutura",
+        "composição",
+        "quantitativa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_414",
+      "number": "414",
+      "title": "Composição qualitativa",
+      "text": "Artigo 414.º Composição qualitativa",
+      "tags": [
+        "artigo",
+        "composição",
+        "qualitativa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_415",
+      "number": "415",
+      "title": "Designação e substituição",
+      "text": "Artigo 415.º Designação e substituição",
+      "tags": [
+        "artigo",
+        "designação",
+        "substituição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_416",
+      "number": "416",
+      "title": "Nomeação oficiosa do revisor oficial de contas",
+      "text": "Artigo 416.º Nomeação oficiosa do revisor oficial de contas",
+      "tags": [
+        "artigo",
+        "nomeação",
+        "oficiosa",
+        "revisor",
+        "oficial"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_417",
+      "number": "417",
+      "title": "Nomeação judicial a requerimento da administração ou de accionista",
+      "text": "Artigo 417.º Nomeação judicial a requerimento da administração ou de accionistas",
+      "tags": [
+        "artigo",
+        "nomeação",
+        "judicial",
+        "requerimento",
+        "administração"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_418",
+      "number": "418",
+      "title": "Nomeação judicial a requerimento de minorias",
+      "text": "Artigo 418.º Nomeação judicial a requerimento de minorias",
+      "tags": [
+        "artigo",
+        "nomeação",
+        "judicial",
+        "requerimento",
+        "minorias"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_419",
+      "number": "419",
+      "title": "Destituição",
+      "text": "Artigo 419.º Destituição",
+      "tags": [
+        "artigo",
+        "destituição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_420",
+      "number": "420",
+      "title": "Competência do fiscal único e do conselho fiscal",
+      "text": "Artigo 420.º Competência do fiscal único e do conselho fiscal",
+      "tags": [
+        "fiscal",
+        "artigo",
+        "competência",
+        "conselho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_421",
+      "number": "421",
+      "title": "Poderes do fiscal único e dos membros do conselho fiscal",
+      "text": "Artigo 421.º Poderes do fiscal único e dos membros do conselho fiscal",
+      "tags": [
+        "fiscal",
+        "artigo",
+        "poderes",
+        "membros",
+        "conselho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_422",
+      "number": "422",
+      "title": "Deveres do fiscal único e dos membros do conselho fiscal",
+      "text": "Artigo 422.º Deveres do fiscal único e dos membros do conselho fiscal",
+      "tags": [
+        "fiscal",
+        "artigo",
+        "deveres",
+        "membros",
+        "conselho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_423",
+      "number": "423",
+      "title": "Reuniões e deliberações",
+      "text": "Artigo 423.º Reuniões e deliberações",
+      "tags": [
+        "artigo",
+        "reuniões",
+        "deliberações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_424",
+      "number": "424",
+      "title": "Composição do conselho de administração executivo",
+      "text": "Artigo 424.º Composição do conselho de administração executivo",
+      "tags": [
+        "artigo",
+        "composição",
+        "conselho",
+        "administração",
+        "executivo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_425",
+      "number": "425",
+      "title": "Designação",
+      "text": "Artigo 425.º Designação",
+      "tags": [
+        "artigo",
+        "designação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_426",
+      "number": "426",
+      "title": "Nomeação judicial",
+      "text": "Artigo 426.º Nomeação judicial",
+      "tags": [
+        "artigo",
+        "nomeação",
+        "judicial"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_427",
+      "number": "427",
+      "title": "Presidente",
+      "text": "Artigo 427.º Presidente",
+      "tags": [
+        "artigo",
+        "presidente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_428",
+      "number": "428",
+      "title": "Exercício de outras actividades e negócios com a sociedade",
+      "text": "Artigo 428.º Exercício de outras actividades e negócios com a sociedade",
+      "tags": [
+        "artigo",
+        "exercício",
+        "outras",
+        "actividades",
+        "negócios"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_429",
+      "number": "429",
+      "title": "Remuneração",
+      "text": "Artigo 429.º Remuneração",
+      "tags": [
+        "artigo",
+        "remuneração"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_430",
+      "number": "430",
+      "title": "Destituição e suspensão",
+      "text": "Artigo 430.º Destituição e suspensão",
+      "tags": [
+        "artigo",
+        "destituição",
+        "suspensão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_431",
+      "number": "431",
+      "title": "Competência do conselho de administração executivo",
+      "text": "Artigo 431.º Competência do conselho de administração executivo",
+      "tags": [
+        "artigo",
+        "competência",
+        "conselho",
+        "administração",
+        "executivo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_432",
+      "number": "432",
+      "title": "Relações do conselho de administração executivo com o conselho ger",
+      "text": "Artigo 432.º Relações do conselho de administração executivo com o conselho geral e de supervisão",
+      "tags": [
+        "conselho",
+        "artigo",
+        "relações",
+        "administração",
+        "executivo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_433",
+      "number": "433",
+      "title": "Remissões",
+      "text": "Artigo 433.º Remissões",
+      "tags": [
+        "artigo",
+        "remissões"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_434",
+      "number": "434",
+      "title": "Composição do conselho geral e de supervisão",
+      "text": "Artigo 434.º Composição do conselho geral e de supervisão",
+      "tags": [
+        "artigo",
+        "composição",
+        "conselho",
+        "supervisão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_435",
+      "number": "435",
+      "title": "Designação",
+      "text": "Artigo 435.º Designação",
+      "tags": [
+        "artigo",
+        "designação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_436",
+      "number": "436",
+      "title": "Presidência do conselho geral e de supervisão",
+      "text": "Artigo 436.º Presidência do conselho geral e de supervisão",
+      "tags": [
+        "artigo",
+        "presidência",
+        "conselho",
+        "supervisão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_437",
+      "number": "437",
+      "title": "Incompatibilidade entre funções de director e de membro do conselh",
+      "text": "Artigo 437.º Incompatibilidade entre funções de director e de membro do conselho geral e de supervisão",
+      "tags": [
+        "artigo",
+        "incompatibilidade",
+        "funções",
+        "director",
+        "membro"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_438",
+      "number": "438",
+      "title": "Substituição",
+      "text": "Artigo 438.º Substituição",
+      "tags": [
+        "artigo",
+        "substituição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_439",
+      "number": "439",
+      "title": "Nomeação judicial",
+      "text": "Artigo 439.º Nomeação judicial",
+      "tags": [
+        "artigo",
+        "nomeação",
+        "judicial"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_440",
+      "number": "440",
+      "title": "Remuneração",
+      "text": "Artigo 440.º Remuneração",
+      "tags": [
+        "artigo",
+        "remuneração"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_441",
+      "number": "441",
+      "title": "Competência do conselho geral e de supervisão",
+      "text": "Artigo 441.º Competência do conselho geral e de supervisão",
+      "tags": [
+        "artigo",
+        "competência",
+        "conselho",
+        "supervisão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_442",
+      "number": "442",
+      "title": "Poderes de gestão",
+      "text": "Artigo 442.º Poderes de gestão",
+      "tags": [
+        "artigo",
+        "poderes",
+        "gestão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_443",
+      "number": "443",
+      "title": "Poderes de representação",
+      "text": "Artigo 443.º Poderes de representação",
+      "tags": [
+        "artigo",
+        "poderes",
+        "representação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_444",
+      "number": "444",
+      "title": "Comissões do conselho geral e de supervisão",
+      "text": "Artigo 444.º Comissões do conselho geral e de supervisão",
+      "tags": [
+        "artigo",
+        "comissões",
+        "conselho",
+        "supervisão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_445",
+      "number": "445",
+      "title": "Remissões",
+      "text": "Artigo 445.º Remissões",
+      "tags": [
+        "artigo",
+        "remissões"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_446",
+      "number": "446",
+      "title": "Designação",
+      "text": "Artigo 446.º Designação",
+      "tags": [
+        "artigo",
+        "designação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_447",
+      "number": "447",
+      "title": "Artigo 447",
+      "text": "Artigo 447.º (Publicidade de participações dos membros de órgãos de administração e fiscalização)",
+      "tags": [
+        "artigo",
+        "publicidade",
+        "participações",
+        "membros",
+        "órgãos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_448",
+      "number": "448",
+      "title": "Artigo 448",
+      "text": "Artigo 448.º (Publicidade de participações de accionistas)",
+      "tags": [
+        "artigo",
+        "publicidade",
+        "participações",
+        "accionistas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_449",
+      "number": "449",
+      "title": "Artigo 449",
+      "text": "Artigo 449.º (Abuso de informação)",
+      "tags": [
+        "artigo",
+        "informação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_450",
+      "number": "450",
+      "title": "Inquérito judicial",
+      "text": "Artigo 450.º Inquérito judicial",
+      "tags": [
+        "artigo",
+        "inquérito",
+        "judicial"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_451",
+      "number": "451",
+      "title": "Exame das contas nas sociedades com conselho fiscal e com comissão",
+      "text": "Artigo 451.º Exame das contas nas sociedades com conselho fiscal e com comissão de auditoria",
+      "tags": [
+        "artigo",
+        "contas",
+        "sociedades",
+        "conselho",
+        "fiscal"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_452",
+      "number": "452",
+      "title": "Apreciação pelo conselho fiscal e pela comissão de auditoria",
+      "text": "Artigo 452.º Apreciação pelo conselho fiscal e pela comissão de auditoria",
+      "tags": [
+        "artigo",
+        "apreciação",
+        "conselho",
+        "fiscal",
+        "comissão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_453",
+      "number": "453",
+      "title": "Exame das contas nas sociedades com conselho geral e de supervisão",
+      "text": "Artigo 453.º Exame das contas nas sociedades com conselho geral e de supervisão",
+      "tags": [
+        "artigo",
+        "contas",
+        "sociedades",
+        "conselho",
+        "supervisão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_454",
+      "number": "454",
+      "title": "Deliberação do conselho geral",
+      "text": "Artigo 454.º Deliberação do conselho geral",
+      "tags": [
+        "artigo",
+        "deliberação",
+        "conselho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_455",
+      "number": "455",
+      "title": "Apreciação geral da administração e da fiscalização",
+      "text": "Artigo 455.º Apreciação geral da administração e da fiscalização",
+      "tags": [
+        "artigo",
+        "apreciação",
+        "administração",
+        "fiscalização"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_456",
+      "number": "456",
+      "title": "Aumento do capital deliberado pelo órgão de administração",
+      "text": "Artigo 456.º Aumento do capital deliberado pelo órgão de administração",
+      "tags": [
+        "artigo",
+        "aumento",
+        "capital",
+        "deliberado",
+        "administração"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_457",
+      "number": "457",
+      "title": "Artigo 457",
+      "text": "Artigo 457.º (Subscrição incompleta)",
+      "tags": [
+        "artigo",
+        "subscrição",
+        "incompleta"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_458",
+      "number": "458",
+      "title": "Artigo 458",
+      "text": "Artigo 458.º (Direito de preferência)",
+      "tags": [
+        "artigo",
+        "direito",
+        "preferência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_459",
+      "number": "459",
+      "title": "Artigo 459",
+      "text": "Artigo 459.º (Aviso e prazo para o exercício da preferência)",
+      "tags": [
+        "artigo",
+        "exercício",
+        "preferência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_460",
+      "number": "460",
+      "title": "Artigo 460",
+      "text": "Artigo 460.º (Limitação ou supressão do direito de preferência)",
+      "tags": [
+        "artigo",
+        "limitação",
+        "supressão",
+        "direito",
+        "preferência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_461",
+      "number": "461",
+      "title": "Artigo 461",
+      "text": "Artigo 461.º (Subscrição indirecta)",
+      "tags": [
+        "artigo",
+        "subscrição",
+        "indirecta"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_462",
+      "number": "462",
+      "title": "Artigo 462",
+      "text": "Artigo 462.º (Aumento de capital e direito de usufruto)",
+      "tags": [
+        "artigo",
+        "aumento",
+        "capital",
+        "direito",
+        "usufruto"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_463",
+      "number": "463",
+      "title": "Artigo 463",
+      "text": "Artigo 463.º (Redução do capital por extinção de acções próprias)",
+      "tags": [
+        "artigo",
+        "redução",
+        "capital",
+        "extinção",
+        "acções"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_464",
+      "number": "464",
+      "title": "Dissolução",
+      "text": "Artigo 464.º Dissolução",
+      "tags": [
+        "artigo",
+        "dissolução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_465",
+      "number": "465",
+      "title": "Artigo 465",
+      "text": "Artigo 465.º (Noção)",
+      "tags": [
+        "artigo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_466",
+      "number": "466",
+      "title": "Artigo 466",
+      "text": "Artigo 466.º (Contrato de sociedade)",
+      "tags": [
+        "artigo",
+        "contrato",
+        "sociedade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_467",
+      "number": "467",
+      "title": "Artigo 467",
+      "text": "Artigo 467.º (Firma)",
+      "tags": [
+        "artigo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_468",
+      "number": "468",
+      "title": "Artigo 468",
+      "text": "Artigo 468.º (Entrada de sócio comanditário)",
+      "tags": [
+        "artigo",
+        "entrada",
+        "comanditário"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_469",
+      "number": "469",
+      "title": "Artigo 469",
+      "text": "Artigo 469.º (Transmissão de partes de sócios comanditados)",
+      "tags": [
+        "artigo",
+        "transmissão",
+        "partes",
+        "sócios",
+        "comanditados"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_470",
+      "number": "470",
+      "title": "Artigo 470",
+      "text": "Artigo 470.º (Gerência)",
+      "tags": [
+        "artigo",
+        "gerência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_471",
+      "number": "471",
+      "title": "Artigo 471",
+      "text": "Artigo 471.º (Destituição de sócios gerentes)",
+      "tags": [
+        "artigo",
+        "destituição",
+        "sócios",
+        "gerentes"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_472",
+      "number": "472",
+      "title": "Artigo 472",
+      "text": "Artigo 472.º (Deliberações dos sócios)",
+      "tags": [
+        "artigo",
+        "deliberações",
+        "sócios"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_473",
+      "number": "473",
+      "title": "Dissolução",
+      "text": "Artigo 473.º Dissolução",
+      "tags": [
+        "artigo",
+        "dissolução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_474",
+      "number": "474",
+      "title": "Artigo 474",
+      "text": "Artigo 474.º (Direito subsidiário)",
+      "tags": [
+        "artigo",
+        "direito",
+        "subsidiário"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_475",
+      "number": "475",
+      "title": "Artigo 475",
+      "text": "Artigo 475.º (Transmissão de partes de sócios comanditários)",
+      "tags": [
+        "artigo",
+        "transmissão",
+        "partes",
+        "sócios",
+        "comanditários"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_476",
+      "number": "476",
+      "title": "Artigo 476",
+      "text": "Artigo 476.º (Alteração e outros factos relativos ao contrato)",
+      "tags": [
+        "artigo",
+        "alteração",
+        "outros",
+        "factos",
+        "relativos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_477",
+      "number": "477",
+      "title": "Artigo 477",
+      "text": "Artigo 477.º (Proibição de concorrência)",
+      "tags": [
+        "artigo",
+        "proibição",
+        "concorrência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_478",
+      "number": "478",
+      "title": "Artigo 478",
+      "text": "Artigo 478.º (Direito subsidiário)",
+      "tags": [
+        "artigo",
+        "direito",
+        "subsidiário"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_479",
+      "number": "479",
+      "title": "Artigo 479",
+      "text": "Artigo 479.º (Número de sócios)",
+      "tags": [
+        "artigo",
+        "número",
+        "sócios"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_480",
+      "number": "480",
+      "title": "Artigo 480",
+      "text": "Artigo 480.º (Direito de fiscalização e de informação)",
+      "tags": [
+        "artigo",
+        "direito",
+        "fiscalização",
+        "informação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_481",
+      "number": "481",
+      "title": "Âmbito de aplicação deste título",
+      "text": "Artigo 481.º Âmbito de aplicação deste título",
+      "tags": [
+        "artigo",
+        "âmbito",
+        "aplicação",
+        "título"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_482",
+      "number": "482",
+      "title": "Artigo 482",
+      "text": "Artigo 482.º (Sociedades coligadas)",
+      "tags": [
+        "artigo",
+        "sociedades",
+        "coligadas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_483",
+      "number": "483",
+      "title": "Artigo 483",
+      "text": "Artigo 483.º (Sociedades em relação de simples participação)",
+      "tags": [
+        "artigo",
+        "sociedades",
+        "relação",
+        "simples",
+        "participação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_484",
+      "number": "484",
+      "title": "Artigo 484",
+      "text": "Artigo 484.º (Dever de comunicação)",
+      "tags": [
+        "artigo",
+        "comunicação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_485",
+      "number": "485",
+      "title": "Artigo 485",
+      "text": "Artigo 485.º (Sociedades em relação de participações recíprocas)",
+      "tags": [
+        "artigo",
+        "sociedades",
+        "relação",
+        "participações",
+        "recíprocas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_486",
+      "number": "486",
+      "title": "Artigo 486",
+      "text": "Artigo 486.º (Sociedades em relação de domínio)",
+      "tags": [
+        "artigo",
+        "sociedades",
+        "relação",
+        "domínio"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_487",
+      "number": "487",
+      "title": "Artigo 487",
+      "text": "Artigo 487.º (Proibição de aquisição de participações)",
+      "tags": [
+        "artigo",
+        "proibição",
+        "aquisição",
+        "participações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_488",
+      "number": "488",
+      "title": "Domínio total inicial",
+      "text": "Artigo 488.º Domínio total inicial",
+      "tags": [
+        "artigo",
+        "domínio",
+        "inicial"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_489",
+      "number": "489",
+      "title": "Artigo 489",
+      "text": "Artigo 489.º (Domínio total superveniente)",
+      "tags": [
+        "artigo",
+        "domínio",
+        "superveniente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_490",
+      "number": "490",
+      "title": "Aquisições tendentes ao domínio total",
+      "text": "Artigo 490.º Aquisições tendentes ao domínio total",
+      "tags": [
+        "artigo",
+        "aquisições",
+        "tendentes",
+        "domínio"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_491",
+      "number": "491",
+      "title": "Artigo 491",
+      "text": "Artigo 491.º (Remissão)",
+      "tags": [
+        "artigo",
+        "remissão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_492",
+      "number": "492",
+      "title": "Regime do contrato",
+      "text": "Artigo 492.º Regime do contrato",
+      "tags": [
+        "artigo",
+        "regime",
+        "contrato"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_493",
+      "number": "493",
+      "title": "Artigo 493",
+      "text": "Artigo 493.º (Noção)",
+      "tags": [
+        "artigo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_494",
+      "number": "494",
+      "title": "Artigo 494",
+      "text": "Artigo 494.º (Obrigações essenciais da sociedade directora)",
+      "tags": [
+        "artigo",
+        "obrigações",
+        "essenciais",
+        "sociedade",
+        "directora"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_495",
+      "number": "495",
+      "title": "Artigo 495",
+      "text": "Artigo 495.º (Projecto de contrato de subordinação)",
+      "tags": [
+        "artigo",
+        "projecto",
+        "contrato",
+        "subordinação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_496",
+      "number": "496",
+      "title": "Artigo 496",
+      "text": "Artigo 496.º (Remissão)",
+      "tags": [
+        "artigo",
+        "remissão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_497",
+      "number": "497",
+      "title": "Artigo 497",
+      "text": "Artigo 497.º (Posição dos sócios livres)",
+      "tags": [
+        "artigo",
+        "posição",
+        "sócios",
+        "livres"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_498",
+      "number": "498",
+      "title": "Celebração e registo do contrato",
+      "text": "Artigo 498.º Celebração e registo do contrato",
+      "tags": [
+        "artigo",
+        "celebração",
+        "registo",
+        "contrato"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_499",
+      "number": "499",
+      "title": "Artigo 499",
+      "text": "Artigo 499.º (Direitos dos sócios livres)",
+      "tags": [
+        "artigo",
+        "direitos",
+        "sócios",
+        "livres"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_500",
+      "number": "500",
+      "title": "Artigo 500",
+      "text": "Artigo 500.º (Garantia de lucros)",
+      "tags": [
+        "artigo",
+        "garantia",
+        "lucros"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_501",
+      "number": "501",
+      "title": "Artigo 501",
+      "text": "Artigo 501.º (Responsabilidade para com os credores da sociedade subordinada)",
+      "tags": [
+        "artigo",
+        "responsabilidade",
+        "credores",
+        "sociedade",
+        "subordinada"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_502",
+      "number": "502",
+      "title": "Artigo 502",
+      "text": "Artigo 502.º (Responsabilidade por perdas da sociedade subordinada)",
+      "tags": [
+        "artigo",
+        "responsabilidade",
+        "perdas",
+        "sociedade",
+        "subordinada"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_503",
+      "number": "503",
+      "title": "Artigo 503",
+      "text": "Artigo 503.º (Direito de dar instruções)",
+      "tags": [
+        "artigo",
+        "direito",
+        "instruções"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_504",
+      "number": "504",
+      "title": "Artigo 504",
+      "text": "Artigo 504.º (Deveres e responsabilidades)",
+      "tags": [
+        "artigo",
+        "deveres",
+        "responsabilidades"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_505",
+      "number": "505",
+      "title": "Modificação do contrato",
+      "text": "Artigo 505.º Modificação do contrato",
+      "tags": [
+        "artigo",
+        "modificação",
+        "contrato"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_506",
+      "number": "506",
+      "title": "Artigo 506",
+      "text": "Artigo 506.º (Termo do contrato)",
+      "tags": [
+        "artigo",
+        "contrato"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_507",
+      "number": "507",
+      "title": "Artigo 507",
+      "text": "Artigo 507.º (Aquisição do domínio total)",
+      "tags": [
+        "artigo",
+        "aquisição",
+        "domínio"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_508",
+      "number": "508",
+      "title": "Artigo 508",
+      "text": "Artigo 508.º (Convenção de atribuição de lucros)",
+      "tags": [
+        "artigo",
+        "convenção",
+        "atribuição",
+        "lucros"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_509",
+      "number": "509",
+      "title": "Falta de cobrança de entradas de capital",
+      "text": "Artigo 509.º Falta de cobrança de entradas de capital",
+      "tags": [
+        "artigo",
+        "cobrança",
+        "entradas",
+        "capital"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_510",
+      "number": "510",
+      "title": "Aquisição ilícita de quotas ou acções",
+      "text": "Artigo 510.º Aquisição ilícita de quotas ou acções",
+      "tags": [
+        "artigo",
+        "aquisição",
+        "ilícita",
+        "quotas",
+        "acções"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_511",
+      "number": "511",
+      "title": "Amortização de quota não liberada",
+      "text": "Artigo 511.º Amortização de quota não liberada",
+      "tags": [
+        "artigo",
+        "amortização",
+        "liberada"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_512",
+      "number": "512",
+      "title": "Amortização lícita de quota dada em penhor ou que seja objecto de",
+      "text": "Artigo 512.º Amortização lícita de quota dada em penhor ou que seja objecto de usufruto",
+      "tags": [
+        "artigo",
+        "amortização",
+        "lícita",
+        "penhor",
+        "objecto"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_513",
+      "number": "513",
+      "title": "Outras infracções às regras da amortização de quotas ou acções",
+      "text": "Artigo 513.º Outras infracções às regras da amortização de quotas ou acções",
+      "tags": [
+        "artigo",
+        "outras",
+        "infracções",
+        "regras",
+        "amortização"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_514",
+      "number": "514",
+      "title": "Distribuição ilícita de bens da sociedade",
+      "text": "Artigo 514.º Distribuição ilícita de bens da sociedade",
+      "tags": [
+        "artigo",
+        "distribuição",
+        "ilícita",
+        "sociedade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_515",
+      "number": "515",
+      "title": "Irregularidade na convocação de assembleias sociais",
+      "text": "Artigo 515.º Irregularidade na convocação de assembleias sociais",
+      "tags": [
+        "artigo",
+        "irregularidade",
+        "convocação",
+        "assembleias",
+        "sociais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_516",
+      "number": "516",
+      "title": "Perturbação de assembleia social",
+      "text": "Artigo 516.º Perturbação de assembleia social",
+      "tags": [
+        "artigo",
+        "perturbação",
+        "assembleia",
+        "social"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_517",
+      "number": "517",
+      "title": "Participação fraudulenta em assembleia social",
+      "text": "Artigo 517.º Participação fraudulenta em assembleia social",
+      "tags": [
+        "artigo",
+        "participação",
+        "fraudulenta",
+        "assembleia",
+        "social"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_518",
+      "number": "518",
+      "title": "Recusa ilícita de informações",
+      "text": "Artigo 518.º Recusa ilícita de informações",
+      "tags": [
+        "artigo",
+        "recusa",
+        "ilícita",
+        "informações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_519",
+      "number": "519",
+      "title": "Informações falsas",
+      "text": "Artigo 519.º Informações falsas",
+      "tags": [
+        "artigo",
+        "informações",
+        "falsas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_520",
+      "number": "520",
+      "title": "Convocatória enganosa",
+      "text": "Artigo 520.º Convocatória enganosa",
+      "tags": [
+        "artigo",
+        "convocatória",
+        "enganosa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_521",
+      "number": "521",
+      "title": "Recusa ilícita de lavrar acta",
+      "text": "Artigo 521.º Recusa ilícita de lavrar acta",
+      "tags": [
+        "artigo",
+        "recusa",
+        "ilícita",
+        "lavrar"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_522",
+      "number": "522",
+      "title": "Impedimento de fiscalização",
+      "text": "Artigo 522.º Impedimento de fiscalização",
+      "tags": [
+        "artigo",
+        "impedimento",
+        "fiscalização"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_523",
+      "number": "523",
+      "title": "Violação do dever de convocar ou requerer a convocação da assemble",
+      "text": "Artigo 523.º Violação do dever de convocar ou requerer a convocação da assembleia geral em caso de perda grave do capital social",
+      "tags": [
+        "artigo",
+        "violação",
+        "convocar",
+        "requerer",
+        "convocação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_524",
+      "number": "524",
+      "title": "Abuso de informações",
+      "text": "Artigo 524.º Abuso de informações",
+      "tags": [
+        "artigo",
+        "informações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_525",
+      "number": "525",
+      "title": "Manipulação fraudulenta de cotações de títulos",
+      "text": "Artigo 525.º Manipulação fraudulenta de cotações de títulos",
+      "tags": [
+        "artigo",
+        "manipulação",
+        "fraudulenta",
+        "cotações",
+        "títulos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_526",
+      "number": "526",
+      "title": "Irregularidades na emissão de títulos",
+      "text": "Artigo 526.º Irregularidades na emissão de títulos",
+      "tags": [
+        "artigo",
+        "irregularidades",
+        "emissão",
+        "títulos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_527",
+      "number": "527",
+      "title": "Princípios comuns",
+      "text": "Artigo 527.º Princípios comuns",
+      "tags": [
+        "artigo",
+        "princípios",
+        "comuns"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_528",
+      "number": "528",
+      "title": "Ilícitos de mera ordenação social",
+      "text": "Artigo 528.º Ilícitos de mera ordenação social",
+      "tags": [
+        "artigo",
+        "ilícitos",
+        "ordenação",
+        "social"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_529",
+      "number": "529",
+      "title": "Legislação subsidiária",
+      "text": "Artigo 529.º Legislação subsidiária",
+      "tags": [
+        "artigo",
+        "legislação",
+        "subsidiária"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_530",
+      "number": "530",
+      "title": "Artigo 530",
+      "text": "Artigo 530.º (Cláusulas contratuais não permitidas)",
+      "tags": [
+        "artigo",
+        "cláusulas",
+        "contratuais",
+        "permitidas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_531",
+      "number": "531",
+      "title": "Artigo 531",
+      "text": "Artigo 531.º (Voto plural)",
+      "tags": [
+        "artigo",
+        "plural"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_532",
+      "number": "532",
+      "title": "Artigo 532",
+      "text": "Artigo 532.º (Firmas e denominações)",
+      "tags": [
+        "artigo",
+        "firmas",
+        "denominações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_533",
+      "number": "533",
+      "title": "Capital mínimo",
+      "text": "Artigo 533.º Capital mínimo",
+      "tags": [
+        "artigo",
+        "capital",
+        "mínimo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_534",
+      "number": "534",
+      "title": "Artigo 534",
+      "text": "Artigo 534.º (Irregularidade por falta de escritura ou de registo)",
+      "tags": [
+        "artigo",
+        "irregularidade",
+        "escritura",
+        "registo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_535",
+      "number": "535",
+      "title": "Artigo 535",
+      "text": "Artigo 535.º (Pessoas colectivas em órgãos de administração ou fiscalização)",
+      "tags": [
+        "artigo",
+        "pessoas",
+        "colectivas",
+        "órgãos",
+        "administração"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_536",
+      "number": "536",
+      "title": "Artigo 536",
+      "text": "Artigo 536.º (Sociedades de revisores oficiais de contas exercendo funções de conselho fiscal)",
+      "tags": [
+        "artigo",
+        "sociedades",
+        "revisores",
+        "oficiais",
+        "contas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_537",
+      "number": "537",
+      "title": "Artigo 537",
+      "text": "Artigo 537.º (Distribuição antecipada de lucros)",
+      "tags": [
+        "artigo",
+        "distribuição",
+        "antecipada",
+        "lucros"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_538",
+      "number": "538",
+      "title": "Artigo 538",
+      "text": "Artigo 538.º (Quotas amortizadas - Acções próprias)",
+      "tags": [
+        "artigo",
+        "quotas",
+        "amortizadas",
+        "acções",
+        "próprias"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_539",
+      "number": "539",
+      "title": "Artigo 539",
+      "text": "Artigo 539.º (Publicidade de participações)",
+      "tags": [
+        "artigo",
+        "publicidade",
+        "participações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_540",
+      "number": "540",
+      "title": "Artigo 540",
+      "text": "Artigo 540.º (Participações recíprocas)",
+      "tags": [
+        "artigo",
+        "participações",
+        "recíprocas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_541",
+      "number": "541",
+      "title": "Artigo 541",
+      "text": "Artigo 541.º (Aquisições tendentes ao domínio total)",
+      "tags": [
+        "artigo",
+        "aquisições",
+        "tendentes",
+        "domínio"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_542",
+      "number": "542",
+      "title": "Artigo 542",
+      "text": "Artigo 542.º (Relatórios)",
+      "tags": [
+        "artigo",
+        "relatórios"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_543",
+      "number": "543",
+      "title": "Artigo 543",
+      "text": "Artigo 543.º (Depósitos de entradas)",
+      "tags": [
+        "artigo",
+        "depósitos",
+        "entradas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_544",
+      "number": "544",
+      "title": "Artigo 544",
+      "text": "Artigo 544.º (Perda de metade do capital)",
+      "tags": [
+        "artigo",
+        "metade",
+        "capital"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_545",
+      "number": "545",
+      "title": "Artigo 545",
+      "text": "Artigo 545.º (Equiparação ao Estado)",
+      "tags": [
+        "artigo",
+        "equiparação",
+        "estado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_546",
+      "number": "546",
+      "title": "Sistema de Certificação de Atributos Profissionais Nº de artigos",
+      "text": "Artigo 546.º Sistema de Certificação de Atributos Profissionais Nº de artigos : 645 Páginas: 1 2 3 4 5 6 7 Seguinte > Ver índice sistemático do diploma Imprimir todo o diploma SUMÁRIO Aprova o Código das Sociedades Comerciais _____________________ 1. O Código das Sociedades Comerciais vem corresponder, em espaço fundamental, à necessidade premente de reforma da legislação comercial portuguesa. Na verdade, mantém-se em vigor o sábio mas ultrapassado Código Comercial de 1888, complementado por numerosos diplomas parcelares. A evolução sofrida pela economia nacional e internacional em cerca de um século exige manifestamente a sua actualização. 2. No início da elaboração do Código Civil vigente, o Decreto-Lei n.º 33908, de 4 de Setembro de 1944, figurou a possibilidade de nele se englobar o direito comercial. Mas logo se optou por manter a distinção formal entre os dois ramos do direito privado. Concluído o Código Civil de 1966, foi nomeada uma comissão, presidida por Adriano Vaz Serra, para rever apenas a legislação sobre sociedades comerciais. Vários anteprojectos elaborados por esta comissão, que funcionou até 25 de Abril de 1974, foram publicados. Outros chegaram a ser utilizados para diplomas parcelares sobre matérias mais carecidas de regulamentação legal, como a fiscalização, a fusão e a cisão de sociedades, ou institutos vizinhos destas, como os agrupamentos complementares de empresas e, em 1981, o contrato de consórcio e a associação em participação. Depois de Abril de 1...",
+      "tags": [
+        "código",
+        "sociedades",
+        "comerciais",
+        "comercial",
+        "diploma"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_980",
+      "number": "980",
+      "title": "Artigo 980",
+      "text": "artigo 980.º do Código Civil, aplica-se o novo Código primeiramente às sociedades comerciais, ou seja, às sociedades com objecto e tipo comercial, que o",
+      "tags": [
+        "código",
+        "sociedades",
+        "artigo",
+        "aplica",
+        "primeiramente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_1021",
+      "number": "1021",
+      "title": "Artigo 1021",
+      "text": "artigo 1021.º do Código Civil. 3 - Nos casos previstos nos artigos 45.º, n.º 2, e 46.º, o preço indicado pelos peritos não será homologado se for inferior ao valor nominal da quota do autor. 4 - Determinado pelo tribunal o preço a pagar, a aquisição da quota deve ser homologada logo que o pagamento seja efectuado ou a respectiva quantia depositada à ordem do tribunal ou tão depressa o adquirente preste garantias bastantes de que efectuará o dito pagamento no prazo que, em seu prudente arbítrio, o juiz lhe assinar; a sentença homologatória vale como título de aquisição da participação. Contém as alterações dos seguintes diplomas: - Declaração de 29/11 de 1986 Consultar versões anteriores deste artigo: - 1ª versão: DL n.º 262/86, de 02/09",
+      "tags": [
+        "artigo",
+        "tribunal",
+        "aquisição",
+        "pagamento",
+        "código"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ccmpt_1714",
+      "number": "1714",
+      "title": "Artigo 1714",
+      "text": "artigo 1714.º do Código Civil. Impede-se a limitação da capacidade da sociedade através de cláusulas do contrato, seguindo a orientação da 1.ª Directiva Comunitária. Admite-se, ainda que em termos limitados, e regulamenta-se não só a sobrevivência como a constituição de sociedades unipessoais (artigos 7.º, n.º 2, 142.º, n.º 1, alínea a), 143.º e 482.º). Consagra-se o importante princípio da inderrogabilidade, por deliberação ordinária dos sócios, dos preceitos, mesmo só dispositivos, da lei que não admitam expressamente tal derrogabilidade - embora possam ser derrogados pelo contrato ou deliberação modificativa deste (",
+      "tags": [
+        "contrato",
+        "deliberação",
+        "artigo",
+        "código",
+        "impede"
+      ],
+      "relatedArticles": []
+    }
+  ]
+}

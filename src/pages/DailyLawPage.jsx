@@ -165,7 +165,7 @@ Texto: ${law.text}`,
           <div className="flex items-center gap-2 mb-4">
             <span className="text-base">✦</span>
             <h2 className="font-bold text-gray-900 text-sm">Plain Language Explanation</h2>
-            <span className="text-xs text-gray-400 ml-auto">AI-generated</span>
+            <span className="text-xs text-gray-400 ml-auto">✦ LexGlobe AI</span>
           </div>
           {loadingExplanation ? (
             <div className="flex gap-1 items-center py-2">
@@ -177,7 +177,7 @@ Texto: ${law.text}`,
             <p className="text-sm text-gray-700 leading-relaxed">{explanation}</p>
           ) : (
             <p className="text-sm text-gray-400">
-              Add your Claude API key to .env to enable AI explanations.
+              Add your API key to .env to enable AI explanations.
             </p>
           )}
         </div>

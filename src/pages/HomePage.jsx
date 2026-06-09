@@ -59,8 +59,18 @@ function PortugalPanel({ visible, onEnter }) {
     >
       <div className="rounded-2xl overflow-hidden shadow-2xl"
         style={{ width: '260px', border: '1px solid rgba(255,255,255,0.6)' }}>
-        <div className="flex items-center justify-center py-8 text-6xl"
-          style={{ background: 'linear-gradient(135deg, #006600 0%, #FF0000 100%)' }}>
+        <img
+          src="/illustrations/portugal-hover.png"
+          alt="Portugal"
+          className="w-full object-cover"
+          style={{ height: '130px', objectPosition: 'center' }}
+          onError={e => {
+            e.target.style.display = 'none'
+            e.target.nextSibling.style.display = 'flex'
+          }}
+        />
+        <div className="items-center justify-center py-8 text-6xl"
+          style={{ display: 'none', background: 'linear-gradient(135deg, #006600 0%, #FF0000 100%)' }}>
           🇵🇹
         </div>
         <div className="bg-white/95 backdrop-blur px-4 py-3">

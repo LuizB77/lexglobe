@@ -10,10 +10,16 @@ const CODE_META = {
   clt:             { label: 'CLT',                           color: '#145A3A', spine: '#1D9E75', bg: '#f0fff8' },
   eca:             { label: 'ECA',                           color: '#923B05', spine: '#F6AD55', bg: '#fff7ed' },
   cdc:             { label: 'CDC',                           color: '#1a4a7a', spine: '#63B3ED', bg: '#eff8ff' },
-  constituicaoPT:  { label: 'Constituição da República',     color: '#B8860B', spine: '#FFD700', bg: '#fffbe6' },
-  codigoPenalPT:   { label: 'Código Penal (PT)',             color: '#9B1C1C', spine: '#E53E3E', bg: '#fff0f0' },
-  codigoCivilPT:   { label: 'Código Civil (PT)',             color: '#4C3494', spine: '#7F77DD', bg: '#f3f0ff' },
-  codigoTrabalho:  { label: 'Código do Trabalho',            color: '#145A3A', spine: '#1D9E75', bg: '#f0fff8' },
+  constituicaoPT:      { label: 'Constituição da República',     color: '#B8860B', spine: '#FFD700', bg: '#fffbe6' },
+  codigoPenalPT:       { label: 'Código Penal (PT)',             color: '#9B1C1C', spine: '#E53E3E', bg: '#fff0f0' },
+  codigoCivilPT:       { label: 'Código Civil (PT)',             color: '#4C3494', spine: '#7F77DD', bg: '#f3f0ff' },
+  codigoTrabalho:      { label: 'Código do Trabalho',            color: '#145A3A', spine: '#1D9E75', bg: '#f0fff8' },
+  codigoProcessoPenal: { label: 'Código de Processo Penal',      color: '#9B1C1C', spine: '#C53030', bg: '#fff5f5' },
+  codigoProcessoCivil: { label: 'Código de Processo Civil',      color: '#1a365d', spine: '#2B6CB0', bg: '#ebf8ff' },
+  codigoComercial:     { label: 'Código Comercial',              color: '#744210', spine: '#D69E2E', bg: '#fffaf0' },
+  codigoEstrada:       { label: 'Código da Estrada',             color: '#7B341E', spine: '#C05621', bg: '#fff8f0' },
+  codigoIRS:           { label: 'Código do IRS',                 color: '#1C4532', spine: '#276749', bg: '#f0fff4' },
+  codigoSociedades:    { label: 'Código das Sociedades',         color: '#1a365d', spine: '#2C5282', bg: '#ebf8ff' },
 }
 
 // articleId format: "cp_121", "cf_5", "cc_927", etc.
@@ -25,10 +31,16 @@ const PREFIX_TO_CODE = {
   clt:  'clt',
   eca:  'eca',
   cdc:  'cdc',
-  cfpt: 'constituicaoPT',
-  cppt: 'codigoPenalPT',
-  ccpt: 'codigoCivilPT',
-  ctpt: 'codigoTrabalho',
+  cfpt:  'constituicaoPT',
+  cppt:  'codigoPenalPT',
+  ccpt:  'codigoCivilPT',
+  ctpt:  'codigoTrabalho',
+  cpppt: 'codigoProcessoPenal',
+  cpcpt: 'codigoProcessoCivil',
+  ccmpt: 'codigoComercial',
+  cept:  'codigoEstrada',
+  irspt: 'codigoIRS',
+  cscpt: 'codigoSociedades',
 }
 
 function getCodeKeyFromId(articleId) {
@@ -318,7 +330,7 @@ export default function ArticleViewPage() {
               </p>
               <div className="mt-4 pt-3 border-t border-gray-100 flex items-center justify-between">
                 <p className="text-xs text-gray-400">
-                  AI-generated · For educational purposes only
+                  ✦ AI · For educational purposes only
                 </p>
                 <Link
                   to={`/assistant/${countryCode}?article=${articleId}`}

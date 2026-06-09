@@ -7,15 +7,25 @@ const CODE_MAP = {
   clt:          () => import('../data/brazil/clt.json'),
   eca:          () => import('../data/brazil/eca.json'),
   cdc:          () => import('../data/brazil/cdc.json'),
-  constituicaoPT:  () => import('../data/portugal/constituicaoPT.json'),
-  codigoPenalPT:   () => import('../data/portugal/codigoPenalPT.json'),
-  codigoCivilPT:   () => import('../data/portugal/codigoCivilPT.json'),
-  codigoTrabalho:  () => import('../data/portugal/codigoTrabalho.json'),
+  constituicaoPT:      () => import('../data/portugal/constituicaoPT.json'),
+  codigoPenalPT:       () => import('../data/portugal/codigoPenalPT.json'),
+  codigoCivilPT:       () => import('../data/portugal/codigoCivilPT.json'),
+  codigoTrabalho:      () => import('../data/portugal/codigoTrabalho.json'),
+  codigoProcessoPenal: () => import('../data/portugal/codigoProcessoPenal.json'),
+  codigoProcessoCivil: () => import('../data/portugal/codigoProcessoCivil.json'),
+  codigoComercial:     () => import('../data/portugal/codigoComercial.json'),
+  codigoEstrada:       () => import('../data/portugal/codigoEstrada.json'),
+  codigoIRS:           () => import('../data/portugal/codigoIRS.json'),
+  codigoSociedades:    () => import('../data/portugal/codigoSociedades.json'),
 }
 
 const COUNTRY_CODES = {
   BR: ['constituicao', 'codigoPenal', 'codigoCivil', 'clt', 'eca', 'cdc'],
-  PT: ['constituicaoPT', 'codigoPenalPT', 'codigoCivilPT', 'codigoTrabalho'],
+  PT: [
+    'constituicaoPT', 'codigoPenalPT', 'codigoCivilPT', 'codigoTrabalho',
+    'codigoProcessoPenal', 'codigoProcessoCivil', 'codigoComercial',
+    'codigoEstrada', 'codigoIRS', 'codigoSociedades',
+  ],
 }
 
 const cache = {}

@@ -33,6 +33,48 @@ const CODES = [
     url: 'https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1047&tabela=leis&so_miolo=',
     prefix: 'ctpt',
   },
+  {
+    key: 'codigoProcessoPenal',
+    displayName: 'Código de Processo Penal',
+    color: '#C53030',
+    url: 'https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=199&tabela=leis&so_miolo=',
+    prefix: 'cpppt',
+  },
+  {
+    key: 'codigoProcessoCivil',
+    displayName: 'Código de Processo Civil',
+    color: '#2B6CB0',
+    url: 'https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1959&tabela=leis&so_miolo=',
+    prefix: 'cpcpt',
+  },
+  {
+    key: 'codigoComercial',
+    displayName: 'Código Comercial',
+    color: '#744210',
+    url: 'https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=524&tabela=leis&so_miolo=',
+    prefix: 'ccmpt',
+  },
+  {
+    key: 'codigoEstrada',
+    displayName: 'Código da Estrada',
+    color: '#C05621',
+    url: 'https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=349&tabela=leis&so_miolo=',
+    prefix: 'cept',
+  },
+  {
+    key: 'codigoIRS',
+    displayName: 'Código do IRS',
+    color: '#276749',
+    url: 'https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=236&tabela=leis&so_miolo=',
+    prefix: 'irspt',
+  },
+  {
+    key: 'codigoSociedades',
+    displayName: 'Código das Sociedades Comerciais',
+    color: '#2C5282',
+    url: 'https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1143&tabela=leis&so_miolo=',
+    prefix: 'cscpt',
+  },
 ]
 
 function cleanText(text) {

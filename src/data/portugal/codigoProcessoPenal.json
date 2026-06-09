@@ -1,0 +1,6479 @@
+{
+  "country": "PT",
+  "code": "codigoProcessoPenal",
+  "displayName": "Código de Processo Penal",
+  "color": "#C53030",
+  "articles": [
+    {
+      "id": "cpppt_1",
+      "number": "1",
+      "title": "Definições legais",
+      "text": "Artigo 1.º Definições legais",
+      "tags": [
+        "artigo",
+        "definições",
+        "legais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_2",
+      "number": "2",
+      "title": "Legalidade do processo",
+      "text": "Artigo 2.º Legalidade do processo",
+      "tags": [
+        "artigo",
+        "legalidade",
+        "processo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_3",
+      "number": "3",
+      "title": "Aplicação subsidiária",
+      "text": "Artigo 3.º Aplicação subsidiária",
+      "tags": [
+        "artigo",
+        "aplicação",
+        "subsidiária"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_4",
+      "number": "4",
+      "title": "Integração de lacunas",
+      "text": "Artigo 4.º Integração de lacunas",
+      "tags": [
+        "artigo",
+        "integração",
+        "lacunas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_5",
+      "number": "5",
+      "title": "Aplicação da lei processual penal no tempo",
+      "text": "Artigo 5.º Aplicação da lei processual penal no tempo",
+      "tags": [
+        "artigo",
+        "aplicação",
+        "processual"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_6",
+      "number": "6",
+      "title": "Aplicação da lei processual penal no espaço",
+      "text": "Artigo 6.º Aplicação da lei processual penal no espaço",
+      "tags": [
+        "artigo",
+        "aplicação",
+        "processual",
+        "espaço"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_7",
+      "number": "7",
+      "title": "Suficiência do processo penal",
+      "text": "Artigo 7.º Suficiência do processo penal",
+      "tags": [
+        "artigo",
+        "suficiência",
+        "processo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_8",
+      "number": "8",
+      "title": "Administração da justiça penal",
+      "text": "Artigo 8.º Administração da justiça penal",
+      "tags": [
+        "artigo",
+        "administração",
+        "justiça"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_9",
+      "number": "9",
+      "title": "Exercício da função jurisdicional penal",
+      "text": "Artigo 9.º Exercício da função jurisdicional penal",
+      "tags": [
+        "artigo",
+        "exercício",
+        "função",
+        "jurisdicional"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_10",
+      "number": "10",
+      "title": "Disposições aplicáveis",
+      "text": "Artigo 10.º Disposições aplicáveis",
+      "tags": [
+        "artigo",
+        "disposições",
+        "aplicáveis"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_11",
+      "number": "11",
+      "title": "Competência do Supremo Tribunal de Justiça",
+      "text": "Artigo 11.º Competência do Supremo Tribunal de Justiça",
+      "tags": [
+        "artigo",
+        "competência",
+        "supremo",
+        "tribunal",
+        "justiça"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_12",
+      "number": "12",
+      "title": "Competência das relações",
+      "text": "Artigo 12.º Competência das relações",
+      "tags": [
+        "artigo",
+        "competência",
+        "relações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_13",
+      "number": "13",
+      "title": "Competência do tribunal do júri",
+      "text": "Artigo 13.º Competência do tribunal do júri",
+      "tags": [
+        "artigo",
+        "competência",
+        "tribunal"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_14",
+      "number": "14",
+      "title": "Competência do tribunal colectivo",
+      "text": "Artigo 14.º Competência do tribunal colectivo",
+      "tags": [
+        "artigo",
+        "competência",
+        "tribunal",
+        "colectivo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_15",
+      "number": "15",
+      "title": "Determinação da pena aplicável",
+      "text": "Artigo 15.º Determinação da pena aplicável",
+      "tags": [
+        "artigo",
+        "determinação",
+        "aplicável"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_16",
+      "number": "16",
+      "title": "Competência do tribunal singular",
+      "text": "Artigo 16.º Competência do tribunal singular",
+      "tags": [
+        "artigo",
+        "competência",
+        "tribunal",
+        "singular"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_17",
+      "number": "17",
+      "title": "Competência do juiz de instrução",
+      "text": "Artigo 17.º Competência do juiz de instrução",
+      "tags": [
+        "artigo",
+        "competência",
+        "instrução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_18",
+      "number": "18",
+      "title": "Tribunal de Execução das Penas",
+      "text": "Artigo 18.º Tribunal de Execução das Penas",
+      "tags": [
+        "artigo",
+        "tribunal",
+        "execução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_19",
+      "number": "19",
+      "title": "Regras gerais",
+      "text": "Artigo 19.º Regras gerais",
+      "tags": [
+        "artigo",
+        "regras",
+        "gerais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_20",
+      "number": "20",
+      "title": "Crime cometido a bordo de navio ou aeronave",
+      "text": "Artigo 20.º Crime cometido a bordo de navio ou aeronave",
+      "tags": [
+        "artigo",
+        "cometido",
+        "aeronave"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_21",
+      "number": "21",
+      "title": "Crime de localização duvidosa ou desconhecida",
+      "text": "Artigo 21.º Crime de localização duvidosa ou desconhecida",
+      "tags": [
+        "artigo",
+        "localização",
+        "duvidosa",
+        "desconhecida"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_22",
+      "number": "22",
+      "title": "Crime cometido no estrangeiro",
+      "text": "Artigo 22.º Crime cometido no estrangeiro",
+      "tags": [
+        "artigo",
+        "cometido",
+        "estrangeiro"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_23",
+      "number": "23",
+      "title": "Processo respeitante a magistrado",
+      "text": "Artigo 23.º Processo respeitante a magistrado",
+      "tags": [
+        "artigo",
+        "processo",
+        "respeitante",
+        "magistrado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_24",
+      "number": "24",
+      "title": "Casos de conexão",
+      "text": "Artigo 24.º Casos de conexão",
+      "tags": [
+        "artigo",
+        "conexão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_25",
+      "number": "25",
+      "title": "Conexão de processos da competência de tribunais com sede na mesma",
+      "text": "Artigo 25.º Conexão de processos da competência de tribunais com sede na mesma comarca",
+      "tags": [
+        "artigo",
+        "conexão",
+        "processos",
+        "competência",
+        "tribunais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_26",
+      "number": "26",
+      "title": "Limites à conexão",
+      "text": "Artigo 26.º Limites à conexão",
+      "tags": [
+        "artigo",
+        "limites",
+        "conexão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_27",
+      "number": "27",
+      "title": "Competência material e funcional determinada pela conexão",
+      "text": "Artigo 27.º Competência material e funcional determinada pela conexão",
+      "tags": [
+        "artigo",
+        "competência",
+        "material",
+        "funcional",
+        "determinada"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_28",
+      "number": "28",
+      "title": "Competência determinada pela conexão",
+      "text": "Artigo 28.º Competência determinada pela conexão",
+      "tags": [
+        "artigo",
+        "competência",
+        "determinada",
+        "conexão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_29",
+      "number": "29",
+      "title": "Unidade e apensação dos processos",
+      "text": "Artigo 29.º Unidade e apensação dos processos",
+      "tags": [
+        "artigo",
+        "unidade",
+        "apensação",
+        "processos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_30",
+      "number": "30",
+      "title": "Separação dos processos",
+      "text": "Artigo 30.º Separação dos processos",
+      "tags": [
+        "artigo",
+        "separação",
+        "processos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_31",
+      "number": "31",
+      "title": "Prorrogação da competência",
+      "text": "Artigo 31.º Prorrogação da competência",
+      "tags": [
+        "artigo",
+        "prorrogação",
+        "competência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_32",
+      "number": "32",
+      "title": "Conhecimento e dedução da incompetência",
+      "text": "Artigo 32.º Conhecimento e dedução da incompetência",
+      "tags": [
+        "artigo",
+        "conhecimento",
+        "dedução",
+        "incompetência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_33",
+      "number": "33",
+      "title": "Efeitos da declaração de incompetência",
+      "text": "Artigo 33.º Efeitos da declaração de incompetência",
+      "tags": [
+        "artigo",
+        "efeitos",
+        "declaração",
+        "incompetência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_34",
+      "number": "34",
+      "title": "Casos de conflito e sua cessação",
+      "text": "Artigo 34.º Casos de conflito e sua cessação",
+      "tags": [
+        "artigo",
+        "conflito",
+        "cessação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_35",
+      "number": "35",
+      "title": "Denúncia do conflito",
+      "text": "Artigo 35.º Denúncia do conflito",
+      "tags": [
+        "artigo",
+        "denúncia",
+        "conflito"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_36",
+      "number": "36",
+      "title": "Resolução do conflito",
+      "text": "Artigo 36.º Resolução do conflito",
+      "tags": [
+        "artigo",
+        "resolução",
+        "conflito"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_37",
+      "number": "37",
+      "title": "Pressupostos e efeito",
+      "text": "Artigo 37.º Pressupostos e efeito",
+      "tags": [
+        "artigo",
+        "pressupostos",
+        "efeito"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_38",
+      "number": "38",
+      "title": "Apreciação e decisão",
+      "text": "Artigo 38.º Apreciação e decisão",
+      "tags": [
+        "artigo",
+        "apreciação",
+        "decisão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_39",
+      "number": "39",
+      "title": "Impedimentos",
+      "text": "Artigo 39.º Impedimentos",
+      "tags": [
+        "artigo",
+        "impedimentos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_40",
+      "number": "40",
+      "title": "Impedimento por participação em processo",
+      "text": "Artigo 40.º Impedimento por participação em processo",
+      "tags": [
+        "artigo",
+        "impedimento",
+        "participação",
+        "processo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_41",
+      "number": "41",
+      "title": "Declaração de impedimento e seu efeito",
+      "text": "Artigo 41.º Declaração de impedimento e seu efeito",
+      "tags": [
+        "artigo",
+        "declaração",
+        "impedimento",
+        "efeito"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_42",
+      "number": "42",
+      "title": "Recurso",
+      "text": "Artigo 42.º Recurso",
+      "tags": [
+        "artigo",
+        "recurso"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_43",
+      "number": "43",
+      "title": "Recusas e escusas",
+      "text": "Artigo 43.º Recusas e escusas",
+      "tags": [
+        "artigo",
+        "recusas",
+        "escusas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_44",
+      "number": "44",
+      "title": "Prazos",
+      "text": "Artigo 44.º Prazos",
+      "tags": [
+        "artigo",
+        "prazos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_45",
+      "number": "45",
+      "title": "Processo e decisão",
+      "text": "Artigo 45.º Processo e decisão",
+      "tags": [
+        "artigo",
+        "processo",
+        "decisão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_46",
+      "number": "46",
+      "title": "Termos posteriores",
+      "text": "Artigo 46.º Termos posteriores",
+      "tags": [
+        "artigo",
+        "termos",
+        "posteriores"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_47",
+      "number": "47",
+      "title": "Extensão do regime de impedimentos, recusas e escusas",
+      "text": "Artigo 47.º Extensão do regime de impedimentos, recusas e escusas",
+      "tags": [
+        "artigo",
+        "extensão",
+        "regime",
+        "impedimentos",
+        "recusas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_48",
+      "number": "48",
+      "title": "Legitimidade",
+      "text": "Artigo 48.º Legitimidade",
+      "tags": [
+        "artigo",
+        "legitimidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_49",
+      "number": "49",
+      "title": "Legitimidade em procedimento dependente de queixa",
+      "text": "Artigo 49.º Legitimidade em procedimento dependente de queixa",
+      "tags": [
+        "artigo",
+        "legitimidade",
+        "procedimento",
+        "dependente",
+        "queixa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_50",
+      "number": "50",
+      "title": "Legitimidade em procedimento dependente de acusação particular",
+      "text": "Artigo 50.º Legitimidade em procedimento dependente de acusação particular",
+      "tags": [
+        "artigo",
+        "legitimidade",
+        "procedimento",
+        "dependente",
+        "acusação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_51",
+      "number": "51",
+      "title": "Homologação da desistência da queixa ou da acusação particular",
+      "text": "Artigo 51.º Homologação da desistência da queixa ou da acusação particular",
+      "tags": [
+        "artigo",
+        "homologação",
+        "desistência",
+        "queixa",
+        "acusação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_52",
+      "number": "52",
+      "title": "Legitimidade no caso de concurso de crimes",
+      "text": "Artigo 52.º Legitimidade no caso de concurso de crimes",
+      "tags": [
+        "artigo",
+        "legitimidade",
+        "concurso",
+        "crimes"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_53",
+      "number": "53",
+      "title": "Posição e atribuições do Ministério Público no processo",
+      "text": "Artigo 53.º Posição e atribuições do Ministério Público no processo",
+      "tags": [
+        "artigo",
+        "posição",
+        "atribuições",
+        "ministério",
+        "público"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_54",
+      "number": "54",
+      "title": "Impedimentos, recusas e escusas",
+      "text": "Artigo 54.º Impedimentos, recusas e escusas",
+      "tags": [
+        "artigo",
+        "impedimentos",
+        "recusas",
+        "escusas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_55",
+      "number": "55",
+      "title": "Competência dos órgãos de polícia criminal",
+      "text": "Artigo 55.º Competência dos órgãos de polícia criminal",
+      "tags": [
+        "artigo",
+        "competência",
+        "órgãos",
+        "polícia",
+        "criminal"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_56",
+      "number": "56",
+      "title": "Orientação e dependência funcional dos órgãos de polícia criminal",
+      "text": "Artigo 56.º Orientação e dependência funcional dos órgãos de polícia criminal",
+      "tags": [
+        "artigo",
+        "orientação",
+        "dependência",
+        "funcional",
+        "órgãos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_57",
+      "number": "57",
+      "title": "Qualidade de arguido",
+      "text": "Artigo 57.º Qualidade de arguido",
+      "tags": [
+        "artigo",
+        "qualidade",
+        "arguido"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_58",
+      "number": "58",
+      "title": "Constituição de arguido",
+      "text": "Artigo 58.º Constituição de arguido",
+      "tags": [
+        "artigo",
+        "constituição",
+        "arguido"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_59",
+      "number": "59",
+      "title": "Outros casos de constituição de arguido",
+      "text": "Artigo 59.º Outros casos de constituição de arguido",
+      "tags": [
+        "artigo",
+        "outros",
+        "constituição",
+        "arguido"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_60",
+      "number": "60",
+      "title": "Posição processual",
+      "text": "Artigo 60.º Posição processual",
+      "tags": [
+        "artigo",
+        "posição",
+        "processual"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_61",
+      "number": "61",
+      "title": "Direitos e deveres processuais",
+      "text": "Artigo 61.º Direitos e deveres processuais",
+      "tags": [
+        "artigo",
+        "direitos",
+        "deveres",
+        "processuais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_62",
+      "number": "62",
+      "title": "Defensor",
+      "text": "Artigo 62.º Defensor",
+      "tags": [
+        "artigo",
+        "defensor"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_63",
+      "number": "63",
+      "title": "Direitos do defensor",
+      "text": "Artigo 63.º Direitos do defensor",
+      "tags": [
+        "artigo",
+        "direitos",
+        "defensor"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_64",
+      "number": "64",
+      "title": "Obrigatoriedade de assistência",
+      "text": "Artigo 64.º Obrigatoriedade de assistência",
+      "tags": [
+        "artigo",
+        "obrigatoriedade",
+        "assistência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_65",
+      "number": "65",
+      "title": "Assistência a vários arguidos",
+      "text": "Artigo 65.º Assistência a vários arguidos",
+      "tags": [
+        "artigo",
+        "assistência",
+        "vários",
+        "arguidos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_66",
+      "number": "66",
+      "title": "Defensor nomeado",
+      "text": "Artigo 66.º Defensor nomeado",
+      "tags": [
+        "artigo",
+        "defensor",
+        "nomeado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_67",
+      "number": "67",
+      "title": "Substituição de defensor",
+      "text": "Artigo 67.º Substituição de defensor",
+      "tags": [
+        "artigo",
+        "substituição",
+        "defensor"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_68",
+      "number": "68",
+      "title": "Assistente",
+      "text": "Artigo 68.º Assistente",
+      "tags": [
+        "artigo",
+        "assistente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_69",
+      "number": "69",
+      "title": "Posição processual e atribuições dos assistentes",
+      "text": "Artigo 69.º Posição processual e atribuições dos assistentes",
+      "tags": [
+        "artigo",
+        "posição",
+        "processual",
+        "atribuições",
+        "assistentes"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_70",
+      "number": "70",
+      "title": "Representação judiciária dos assistentes",
+      "text": "Artigo 70.º Representação judiciária dos assistentes",
+      "tags": [
+        "artigo",
+        "representação",
+        "judiciária",
+        "assistentes"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_71",
+      "number": "71",
+      "title": "Princípio de adesão",
+      "text": "Artigo 71.º Princípio de adesão",
+      "tags": [
+        "artigo",
+        "princípio",
+        "adesão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_72",
+      "number": "72",
+      "title": "Pedido em separado",
+      "text": "Artigo 72.º Pedido em separado",
+      "tags": [
+        "artigo",
+        "pedido",
+        "separado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_73",
+      "number": "73",
+      "title": "Pessoas com responsabilidade meramente civil",
+      "text": "Artigo 73.º Pessoas com responsabilidade meramente civil",
+      "tags": [
+        "artigo",
+        "pessoas",
+        "responsabilidade",
+        "meramente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_74",
+      "number": "74",
+      "title": "Legitimidade e poderes processuais",
+      "text": "Artigo 74.º Legitimidade e poderes processuais",
+      "tags": [
+        "artigo",
+        "legitimidade",
+        "poderes",
+        "processuais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_75",
+      "number": "75",
+      "title": "Dever de informação",
+      "text": "Artigo 75.º Dever de informação",
+      "tags": [
+        "artigo",
+        "informação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_76",
+      "number": "76",
+      "title": "Representação",
+      "text": "Artigo 76.º Representação",
+      "tags": [
+        "artigo",
+        "representação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_77",
+      "number": "77",
+      "title": "Formulação do pedido",
+      "text": "Artigo 77.º Formulação do pedido",
+      "tags": [
+        "artigo",
+        "formulação",
+        "pedido"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_78",
+      "number": "78",
+      "title": "Contestação",
+      "text": "Artigo 78.º Contestação",
+      "tags": [
+        "artigo",
+        "contestação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_79",
+      "number": "79",
+      "title": "Provas",
+      "text": "Artigo 79.º Provas",
+      "tags": [
+        "artigo",
+        "provas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_80",
+      "number": "80",
+      "title": "Julgamento",
+      "text": "Artigo 80.º Julgamento",
+      "tags": [
+        "artigo",
+        "julgamento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_81",
+      "number": "81",
+      "title": "Renúncia, desistência e conversão do pedido",
+      "text": "Artigo 81.º Renúncia, desistência e conversão do pedido",
+      "tags": [
+        "artigo",
+        "renúncia",
+        "desistência",
+        "conversão",
+        "pedido"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_82",
+      "number": "82",
+      "title": "Liquidação em execução de sentença e reenvio para os tribunais civ",
+      "text": "Artigo 82.º Liquidação em execução de sentença e reenvio para os tribunais civis",
+      "tags": [
+        "artigo",
+        "liquidação",
+        "execução",
+        "sentença",
+        "reenvio"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_83",
+      "number": "83",
+      "title": "Exequibilidade provisória",
+      "text": "Artigo 83.º Exequibilidade provisória",
+      "tags": [
+        "artigo",
+        "exequibilidade",
+        "provisória"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_84",
+      "number": "84",
+      "title": "Caso julgado",
+      "text": "Artigo 84.º Caso julgado",
+      "tags": [
+        "artigo",
+        "julgado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_85",
+      "number": "85",
+      "title": "Manutenção da ordem nos actos processuais",
+      "text": "Artigo 85.º Manutenção da ordem nos actos processuais",
+      "tags": [
+        "artigo",
+        "manutenção",
+        "processuais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_86",
+      "number": "86",
+      "title": "Publicidade do processo e segredo de justiça",
+      "text": "Artigo 86.º Publicidade do processo e segredo de justiça",
+      "tags": [
+        "artigo",
+        "publicidade",
+        "processo",
+        "segredo",
+        "justiça"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_87",
+      "number": "87",
+      "title": "Assistência do público a actos processuais",
+      "text": "Artigo 87.º Assistência do público a actos processuais",
+      "tags": [
+        "artigo",
+        "assistência",
+        "público",
+        "processuais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_88",
+      "number": "88",
+      "title": "Meios de comunicação social",
+      "text": "Artigo 88.º Meios de comunicação social",
+      "tags": [
+        "artigo",
+        "comunicação",
+        "social"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_89",
+      "number": "89",
+      "title": "Consulta de auto e obtenção de certidão e informação por sujeitos",
+      "text": "Artigo 89.º Consulta de auto e obtenção de certidão e informação por sujeitos processuais",
+      "tags": [
+        "artigo",
+        "consulta",
+        "obtenção",
+        "certidão",
+        "informação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_90",
+      "number": "90",
+      "title": "Consulta de auto e obtenção de certidão por outras pessoas",
+      "text": "Artigo 90.º Consulta de auto e obtenção de certidão por outras pessoas",
+      "tags": [
+        "artigo",
+        "consulta",
+        "obtenção",
+        "certidão",
+        "outras"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_91",
+      "number": "91",
+      "title": "Juramento e compromisso",
+      "text": "Artigo 91.º Juramento e compromisso",
+      "tags": [
+        "artigo",
+        "juramento",
+        "compromisso"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_92",
+      "number": "92",
+      "title": "Língua dos actos e nomeação de intérprete",
+      "text": "Artigo 92.º Língua dos actos e nomeação de intérprete",
+      "tags": [
+        "artigo",
+        "língua",
+        "nomeação",
+        "intérprete"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_93",
+      "number": "93",
+      "title": "Participação de surdo, de deficiente auditivo ou de mudo",
+      "text": "Artigo 93.º Participação de surdo, de deficiente auditivo ou de mudo",
+      "tags": [
+        "artigo",
+        "participação",
+        "deficiente",
+        "auditivo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_94",
+      "number": "94",
+      "title": "Forma escrita dos actos",
+      "text": "Artigo 94.º Forma escrita dos actos",
+      "tags": [
+        "artigo",
+        "escrita"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_95",
+      "number": "95",
+      "title": "Assinatura",
+      "text": "Artigo 95.º Assinatura",
+      "tags": [
+        "artigo",
+        "assinatura"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_96",
+      "number": "96",
+      "title": "Oralidade dos actos",
+      "text": "Artigo 96.º Oralidade dos actos",
+      "tags": [
+        "artigo",
+        "oralidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_97",
+      "number": "97",
+      "title": "Actos decisórios",
+      "text": "Artigo 97.º Actos decisórios",
+      "tags": [
+        "artigo",
+        "decisórios"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_98",
+      "number": "98",
+      "title": "Exposições, memoriais e requerimentos",
+      "text": "Artigo 98.º Exposições, memoriais e requerimentos",
+      "tags": [
+        "artigo",
+        "exposições",
+        "memoriais",
+        "requerimentos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_99",
+      "number": "99",
+      "title": "Artigo 99",
+      "text": "Artigo 99.º Auto",
+      "tags": [
+        "artigo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_100",
+      "number": "100",
+      "title": "Redacção do auto",
+      "text": "Artigo 100.º Redacção do auto",
+      "tags": [
+        "artigo",
+        "redacção"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_101",
+      "number": "101",
+      "title": "Registo e transcrição",
+      "text": "Artigo 101.º Registo e transcrição",
+      "tags": [
+        "artigo",
+        "registo",
+        "transcrição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_102",
+      "number": "102",
+      "title": "Reforma de auto perdido, extraviado ou destruído",
+      "text": "Artigo 102.º Reforma de auto perdido, extraviado ou destruído",
+      "tags": [
+        "artigo",
+        "reforma",
+        "perdido",
+        "extraviado",
+        "destruído"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_103",
+      "number": "103",
+      "title": "Quando se praticam os actos",
+      "text": "Artigo 103.º Quando se praticam os actos",
+      "tags": [
+        "artigo",
+        "quando",
+        "praticam"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_104",
+      "number": "104",
+      "title": "Contagem dos prazos de actos processuais",
+      "text": "Artigo 104.º Contagem dos prazos de actos processuais",
+      "tags": [
+        "artigo",
+        "contagem",
+        "prazos",
+        "processuais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_105",
+      "number": "105",
+      "title": "Prazo e seu excesso",
+      "text": "Artigo 105.º Prazo e seu excesso",
+      "tags": [
+        "artigo",
+        "excesso"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_106",
+      "number": "106",
+      "title": "Prazo para termos e mandados",
+      "text": "Artigo 106.º Prazo para termos e mandados",
+      "tags": [
+        "artigo",
+        "termos",
+        "mandados"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_107",
+      "number": "107",
+      "title": "Renúncia ao decurso e prática de acto fora do prazo",
+      "text": "Artigo 107.º Renúncia ao decurso e prática de acto fora do prazo",
+      "tags": [
+        "artigo",
+        "renúncia",
+        "decurso",
+        "prática"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_108",
+      "number": "108",
+      "title": "Aceleração de processo atrasado",
+      "text": "Artigo 108.º Aceleração de processo atrasado",
+      "tags": [
+        "artigo",
+        "aceleração",
+        "processo",
+        "atrasado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_109",
+      "number": "109",
+      "title": "Tramitação do pedido de aceleração",
+      "text": "Artigo 109.º Tramitação do pedido de aceleração",
+      "tags": [
+        "artigo",
+        "tramitação",
+        "pedido",
+        "aceleração"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_110",
+      "number": "110",
+      "title": "Pedido manifestamente infundado",
+      "text": "Artigo 110.º Pedido manifestamente infundado",
+      "tags": [
+        "artigo",
+        "pedido",
+        "manifestamente",
+        "infundado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_111",
+      "number": "111",
+      "title": "Comunicação dos actos processuais",
+      "text": "Artigo 111.º Comunicação dos actos processuais",
+      "tags": [
+        "artigo",
+        "comunicação",
+        "processuais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_112",
+      "number": "112",
+      "title": "Convocação para acto processual",
+      "text": "Artigo 112.º Convocação para acto processual",
+      "tags": [
+        "artigo",
+        "convocação",
+        "processual"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_113",
+      "number": "113",
+      "title": "Regras gerais sobre notificações",
+      "text": "Artigo 113.º Regras gerais sobre notificações",
+      "tags": [
+        "artigo",
+        "regras",
+        "gerais",
+        "notificações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_114",
+      "number": "114",
+      "title": "Casos especiais",
+      "text": "Artigo 114.º Casos especiais",
+      "tags": [
+        "artigo",
+        "especiais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_115",
+      "number": "115",
+      "title": "Dificuldades em efectuar notificação ou cumprir mandado",
+      "text": "Artigo 115.º Dificuldades em efectuar notificação ou cumprir mandado",
+      "tags": [
+        "artigo",
+        "dificuldades",
+        "efectuar",
+        "notificação",
+        "cumprir"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_116",
+      "number": "116",
+      "title": "Falta injustificada de comparecimento",
+      "text": "Artigo 116.º Falta injustificada de comparecimento",
+      "tags": [
+        "artigo",
+        "injustificada",
+        "comparecimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_117",
+      "number": "117",
+      "title": "Justificação da falta de comparecimento",
+      "text": "Artigo 117.º Justificação da falta de comparecimento",
+      "tags": [
+        "artigo",
+        "justificação",
+        "comparecimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_118",
+      "number": "118",
+      "title": "Princípio da legalidade",
+      "text": "Artigo 118.º Princípio da legalidade",
+      "tags": [
+        "artigo",
+        "princípio",
+        "legalidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_119",
+      "number": "119",
+      "title": "Nulidades insanáveis",
+      "text": "Artigo 119.º Nulidades insanáveis",
+      "tags": [
+        "artigo",
+        "nulidades",
+        "insanáveis"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_120",
+      "number": "120",
+      "title": "Nulidades dependentes de arguição",
+      "text": "Artigo 120.º Nulidades dependentes de arguição",
+      "tags": [
+        "artigo",
+        "nulidades",
+        "dependentes",
+        "arguição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_121",
+      "number": "121",
+      "title": "Sanação de nulidades",
+      "text": "Artigo 121.º Sanação de nulidades",
+      "tags": [
+        "artigo",
+        "sanação",
+        "nulidades"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_122",
+      "number": "122",
+      "title": "Efeitos da declaração de nulidade",
+      "text": "Artigo 122.º Efeitos da declaração de nulidade",
+      "tags": [
+        "artigo",
+        "efeitos",
+        "declaração",
+        "nulidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_123",
+      "number": "123",
+      "title": "Irregularidades",
+      "text": "Artigo 123.º Irregularidades",
+      "tags": [
+        "artigo",
+        "irregularidades"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_124",
+      "number": "124",
+      "title": "Objecto da prova",
+      "text": "Artigo 124.º Objecto da prova",
+      "tags": [
+        "artigo",
+        "objecto"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_125",
+      "number": "125",
+      "title": "Legalidade da prova",
+      "text": "Artigo 125.º Legalidade da prova",
+      "tags": [
+        "artigo",
+        "legalidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_126",
+      "number": "126",
+      "title": "Métodos proibidos de prova",
+      "text": "Artigo 126.º Métodos proibidos de prova",
+      "tags": [
+        "artigo",
+        "métodos",
+        "proibidos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_127",
+      "number": "127",
+      "title": "Livre apreciação da prova",
+      "text": "Artigo 127.º Livre apreciação da prova",
+      "tags": [
+        "artigo",
+        "apreciação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_128",
+      "number": "128",
+      "title": "Objecto e limites do depoimento",
+      "text": "Artigo 128.º Objecto e limites do depoimento",
+      "tags": [
+        "artigo",
+        "objecto",
+        "limites",
+        "depoimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_129",
+      "number": "129",
+      "title": "Depoimento indirecto",
+      "text": "Artigo 129.º Depoimento indirecto",
+      "tags": [
+        "artigo",
+        "depoimento",
+        "indirecto"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_130",
+      "number": "130",
+      "title": "Vozes públicas e convicções pessoais",
+      "text": "Artigo 130.º Vozes públicas e convicções pessoais",
+      "tags": [
+        "artigo",
+        "públicas",
+        "convicções",
+        "pessoais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_131",
+      "number": "131",
+      "title": "Capacidade e dever de testemunhar",
+      "text": "Artigo 131.º Capacidade e dever de testemunhar",
+      "tags": [
+        "artigo",
+        "capacidade",
+        "testemunhar"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_132",
+      "number": "132",
+      "title": "Direitos e deveres da testemunha",
+      "text": "Artigo 132.º Direitos e deveres da testemunha",
+      "tags": [
+        "artigo",
+        "direitos",
+        "deveres",
+        "testemunha"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_133",
+      "number": "133",
+      "title": "Impedimentos",
+      "text": "Artigo 133.º Impedimentos",
+      "tags": [
+        "artigo",
+        "impedimentos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_134",
+      "number": "134",
+      "title": "Recusa de depoimento",
+      "text": "Artigo 134.º Recusa de depoimento",
+      "tags": [
+        "artigo",
+        "recusa",
+        "depoimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_135",
+      "number": "135",
+      "title": "Segredo profissional",
+      "text": "Artigo 135.º Segredo profissional",
+      "tags": [
+        "artigo",
+        "segredo",
+        "profissional"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_136",
+      "number": "136",
+      "title": "Segredo de funcionários",
+      "text": "Artigo 136.º Segredo de funcionários",
+      "tags": [
+        "artigo",
+        "segredo",
+        "funcionários"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_137",
+      "number": "137",
+      "title": "Segredo de Estado",
+      "text": "Artigo 137.º Segredo de Estado",
+      "tags": [
+        "artigo",
+        "segredo",
+        "estado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_138",
+      "number": "138",
+      "title": "Regras da inquirição",
+      "text": "Artigo 138.º Regras da inquirição",
+      "tags": [
+        "artigo",
+        "regras",
+        "inquirição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_139",
+      "number": "139",
+      "title": "Imunidades, prerrogativas e medidas especiais de protecção",
+      "text": "Artigo 139.º Imunidades, prerrogativas e medidas especiais de protecção",
+      "tags": [
+        "artigo",
+        "imunidades",
+        "prerrogativas",
+        "medidas",
+        "especiais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_140",
+      "number": "140",
+      "title": "Declarações do arguido",
+      "text": "Artigo 140.º Declarações do arguido: Regras gerais",
+      "tags": [
+        "artigo",
+        "declarações",
+        "arguido",
+        "regras",
+        "gerais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_141",
+      "number": "141",
+      "title": "Primeiro interrogatório judicial de arguido detido",
+      "text": "Artigo 141.º Primeiro interrogatório judicial de arguido detido",
+      "tags": [
+        "artigo",
+        "primeiro",
+        "interrogatório",
+        "judicial",
+        "arguido"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_142",
+      "number": "142",
+      "title": "Juiz de instrução competente",
+      "text": "Artigo 142.º Juiz de instrução competente",
+      "tags": [
+        "artigo",
+        "instrução",
+        "competente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_143",
+      "number": "143",
+      "title": "Primeiro interrogatório não judicial de arguido detido",
+      "text": "Artigo 143.º Primeiro interrogatório não judicial de arguido detido",
+      "tags": [
+        "artigo",
+        "primeiro",
+        "interrogatório",
+        "judicial",
+        "arguido"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_144",
+      "number": "144",
+      "title": "Outros interrogatórios",
+      "text": "Artigo 144.º Outros interrogatórios",
+      "tags": [
+        "artigo",
+        "outros",
+        "interrogatórios"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_145",
+      "number": "145",
+      "title": "Declarações e notificações do assistente e das partes civis",
+      "text": "Artigo 145.º Declarações e notificações do assistente e das partes civis",
+      "tags": [
+        "artigo",
+        "declarações",
+        "notificações",
+        "assistente",
+        "partes"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_146",
+      "number": "146",
+      "title": "Pressupostos e procedimento",
+      "text": "Artigo 146.º Pressupostos e procedimento",
+      "tags": [
+        "artigo",
+        "pressupostos",
+        "procedimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_147",
+      "number": "147",
+      "title": "Reconhecimento de pessoas",
+      "text": "Artigo 147.º Reconhecimento de pessoas",
+      "tags": [
+        "artigo",
+        "reconhecimento",
+        "pessoas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_148",
+      "number": "148",
+      "title": "Reconhecimento de objectos",
+      "text": "Artigo 148.º Reconhecimento de objectos",
+      "tags": [
+        "artigo",
+        "reconhecimento",
+        "objectos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_149",
+      "number": "149",
+      "title": "Pluralidade de reconhecimento",
+      "text": "Artigo 149.º Pluralidade de reconhecimento",
+      "tags": [
+        "artigo",
+        "pluralidade",
+        "reconhecimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_150",
+      "number": "150",
+      "title": "Pressupostos e procedimento",
+      "text": "Artigo 150.º Pressupostos e procedimento",
+      "tags": [
+        "artigo",
+        "pressupostos",
+        "procedimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_151",
+      "number": "151",
+      "title": "Quando tem lugar",
+      "text": "Artigo 151.º Quando tem lugar",
+      "tags": [
+        "artigo",
+        "quando"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_152",
+      "number": "152",
+      "title": "Quem a realiza",
+      "text": "Artigo 152.º Quem a realiza",
+      "tags": [
+        "artigo",
+        "realiza"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_153",
+      "number": "153",
+      "title": "Desempenho da função de perito",
+      "text": "Artigo 153.º Desempenho da função de perito",
+      "tags": [
+        "artigo",
+        "desempenho",
+        "função",
+        "perito"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_154",
+      "number": "154",
+      "title": "Despacho que ordena a perícia",
+      "text": "Artigo 154.º Despacho que ordena a perícia",
+      "tags": [
+        "artigo",
+        "despacho",
+        "ordena",
+        "perícia"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_155",
+      "number": "155",
+      "title": "Consultores técnicos",
+      "text": "Artigo 155.º Consultores técnicos",
+      "tags": [
+        "artigo",
+        "consultores",
+        "técnicos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_156",
+      "number": "156",
+      "title": "Procedimento",
+      "text": "Artigo 156.º Procedimento",
+      "tags": [
+        "artigo",
+        "procedimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_157",
+      "number": "157",
+      "title": "Relatório pericial",
+      "text": "Artigo 157.º Relatório pericial",
+      "tags": [
+        "artigo",
+        "relatório",
+        "pericial"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_158",
+      "number": "158",
+      "title": "Esclarecimentos e nova perícia",
+      "text": "Artigo 158.º Esclarecimentos e nova perícia",
+      "tags": [
+        "artigo",
+        "esclarecimentos",
+        "perícia"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_159",
+      "number": "159",
+      "title": "Perícias médico-legais e forenses",
+      "text": "Artigo 159.º Perícias médico-legais e forenses",
+      "tags": [
+        "artigo",
+        "perícias",
+        "médico",
+        "legais",
+        "forenses"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_160",
+      "number": "160",
+      "title": "Perícia sobre a personalidade",
+      "text": "Artigo 160.º Perícia sobre a personalidade",
+      "tags": [
+        "artigo",
+        "perícia",
+        "personalidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_161",
+      "number": "161",
+      "title": "Destruição de objectos",
+      "text": "Artigo 161.º Destruição de objectos",
+      "tags": [
+        "artigo",
+        "destruição",
+        "objectos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_162",
+      "number": "162",
+      "title": "Remuneração do perito",
+      "text": "Artigo 162.º Remuneração do perito",
+      "tags": [
+        "artigo",
+        "remuneração",
+        "perito"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_163",
+      "number": "163",
+      "title": "Valor da prova pericial",
+      "text": "Artigo 163.º Valor da prova pericial",
+      "tags": [
+        "artigo",
+        "pericial"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_164",
+      "number": "164",
+      "title": "Admissibilidade",
+      "text": "Artigo 164.º Admissibilidade",
+      "tags": [
+        "artigo",
+        "admissibilidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_165",
+      "number": "165",
+      "title": "Quando podem juntar-se documentos",
+      "text": "Artigo 165.º Quando podem juntar-se documentos",
+      "tags": [
+        "artigo",
+        "quando",
+        "juntar",
+        "documentos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_166",
+      "number": "166",
+      "title": "Tradução, decifração e transcrição de documentos",
+      "text": "Artigo 166.º Tradução, decifração e transcrição de documentos",
+      "tags": [
+        "artigo",
+        "tradução",
+        "decifração",
+        "transcrição",
+        "documentos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_167",
+      "number": "167",
+      "title": "Valor probatório das reproduções mecânicas",
+      "text": "Artigo 167.º Valor probatório das reproduções mecânicas",
+      "tags": [
+        "artigo",
+        "probatório",
+        "reproduções",
+        "mecânicas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_168",
+      "number": "168",
+      "title": "Reprodução mecânica de documentos",
+      "text": "Artigo 168.º Reprodução mecânica de documentos",
+      "tags": [
+        "artigo",
+        "reprodução",
+        "mecânica",
+        "documentos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_169",
+      "number": "169",
+      "title": "Valor probatório dos documentos autênticos e autenticados",
+      "text": "Artigo 169.º Valor probatório dos documentos autênticos e autenticados",
+      "tags": [
+        "artigo",
+        "probatório",
+        "documentos",
+        "autênticos",
+        "autenticados"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_170",
+      "number": "170",
+      "title": "Documento falso",
+      "text": "Artigo 170.º Documento falso",
+      "tags": [
+        "artigo",
+        "documento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_171",
+      "number": "171",
+      "title": "Pressupostos",
+      "text": "Artigo 171.º Pressupostos",
+      "tags": [
+        "artigo",
+        "pressupostos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_172",
+      "number": "172",
+      "title": "Sujeição a exame",
+      "text": "Artigo 172.º Sujeição a exame",
+      "tags": [
+        "artigo",
+        "sujeição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_173",
+      "number": "173",
+      "title": "Pessoas no local do exame",
+      "text": "Artigo 173.º Pessoas no local do exame",
+      "tags": [
+        "artigo",
+        "pessoas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_174",
+      "number": "174",
+      "title": "Pressupostos",
+      "text": "Artigo 174.º Pressupostos",
+      "tags": [
+        "artigo",
+        "pressupostos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_175",
+      "number": "175",
+      "title": "Formalidades da revista",
+      "text": "Artigo 175.º Formalidades da revista",
+      "tags": [
+        "artigo",
+        "formalidades",
+        "revista"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_176",
+      "number": "176",
+      "title": "Formalidades da busca",
+      "text": "Artigo 176.º Formalidades da busca",
+      "tags": [
+        "artigo",
+        "formalidades"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_177",
+      "number": "177",
+      "title": "Busca domiciliária",
+      "text": "Artigo 177.º Busca domiciliária",
+      "tags": [
+        "artigo",
+        "domiciliária"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_178",
+      "number": "178",
+      "title": "Objeto e pressupostos da apreensão",
+      "text": "Artigo 178.º Objeto e pressupostos da apreensão",
+      "tags": [
+        "artigo",
+        "objeto",
+        "pressupostos",
+        "apreensão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_179",
+      "number": "179",
+      "title": "Apreensão de correspondência",
+      "text": "Artigo 179.º Apreensão de correspondência",
+      "tags": [
+        "artigo",
+        "apreensão",
+        "correspondência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_180",
+      "number": "180",
+      "title": "Apreensão em escritório de advogado ou em consultório médico",
+      "text": "Artigo 180.º Apreensão em escritório de advogado ou em consultório médico",
+      "tags": [
+        "artigo",
+        "apreensão",
+        "escritório",
+        "advogado",
+        "consultório"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_181",
+      "number": "181",
+      "title": "Apreensão em estabelecimento bancário",
+      "text": "Artigo 181.º Apreensão em estabelecimento bancário",
+      "tags": [
+        "artigo",
+        "apreensão",
+        "estabelecimento",
+        "bancário"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_182",
+      "number": "182",
+      "title": "Segredo profissional ou de funcionário e segredo de Estado",
+      "text": "Artigo 182.º Segredo profissional ou de funcionário e segredo de Estado",
+      "tags": [
+        "segredo",
+        "artigo",
+        "profissional",
+        "funcionário",
+        "estado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_183",
+      "number": "183",
+      "title": "Cópias e certidões",
+      "text": "Artigo 183.º Cópias e certidões",
+      "tags": [
+        "artigo",
+        "cópias",
+        "certidões"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_184",
+      "number": "184",
+      "title": "Aposição e levantamento de selos",
+      "text": "Artigo 184.º Aposição e levantamento de selos",
+      "tags": [
+        "artigo",
+        "aposição",
+        "levantamento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_185",
+      "number": "185",
+      "title": "Apreensão de coisas sem valor, perecíveis, perigosas ou deterioráv",
+      "text": "Artigo 185.º Apreensão de coisas sem valor, perecíveis, perigosas ou deterioráveis",
+      "tags": [
+        "artigo",
+        "apreensão",
+        "coisas",
+        "perecíveis",
+        "perigosas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_186",
+      "number": "186",
+      "title": "Restituição de animais, coisas e objetos apreendidos",
+      "text": "Artigo 186.º Restituição de animais, coisas e objetos apreendidos",
+      "tags": [
+        "artigo",
+        "restituição",
+        "animais",
+        "coisas",
+        "objetos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_187",
+      "number": "187",
+      "title": "Admissibilidade",
+      "text": "Artigo 187.º Admissibilidade",
+      "tags": [
+        "artigo",
+        "admissibilidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_188",
+      "number": "188",
+      "title": "Formalidades das operações",
+      "text": "Artigo 188.º Formalidades das operações",
+      "tags": [
+        "artigo",
+        "formalidades",
+        "operações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_189",
+      "number": "189",
+      "title": "Extensão",
+      "text": "Artigo 189.º Extensão",
+      "tags": [
+        "artigo",
+        "extensão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_190",
+      "number": "190",
+      "title": "Nulidade",
+      "text": "Artigo 190.º Nulidade",
+      "tags": [
+        "artigo",
+        "nulidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_191",
+      "number": "191",
+      "title": "Princípio da legalidade",
+      "text": "Artigo 191.º Princípio da legalidade",
+      "tags": [
+        "artigo",
+        "princípio",
+        "legalidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_192",
+      "number": "192",
+      "title": "Condições gerais de aplicação",
+      "text": "Artigo 192.º Condições gerais de aplicação",
+      "tags": [
+        "artigo",
+        "condições",
+        "gerais",
+        "aplicação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_193",
+      "number": "193",
+      "title": "Princípios da necessidade, adequação e proporcionalidade",
+      "text": "Artigo 193.º Princípios da necessidade, adequação e proporcionalidade",
+      "tags": [
+        "artigo",
+        "princípios",
+        "necessidade",
+        "adequação",
+        "proporcionalidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_194",
+      "number": "194",
+      "title": "Audição do arguido e despacho de aplicação",
+      "text": "Artigo 194.º Audição do arguido e despacho de aplicação",
+      "tags": [
+        "artigo",
+        "audição",
+        "arguido",
+        "despacho",
+        "aplicação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_195",
+      "number": "195",
+      "title": "Determinação da pena",
+      "text": "Artigo 195.º Determinação da pena",
+      "tags": [
+        "artigo",
+        "determinação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_196",
+      "number": "196",
+      "title": "Termo de identidade e residência",
+      "text": "Artigo 196.º Termo de identidade e residência",
+      "tags": [
+        "artigo",
+        "identidade",
+        "residência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_197",
+      "number": "197",
+      "title": "Caução",
+      "text": "Artigo 197.º Caução",
+      "tags": [
+        "artigo",
+        "caução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_198",
+      "number": "198",
+      "title": "Obrigação de apresentação periódica",
+      "text": "Artigo 198.º Obrigação de apresentação periódica",
+      "tags": [
+        "artigo",
+        "obrigação",
+        "apresentação",
+        "periódica"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_199",
+      "number": "199",
+      "title": "Suspensão do exercício de profissão, de função, de actividade e de",
+      "text": "Artigo 199.º Suspensão do exercício de profissão, de função, de actividade e de direitos",
+      "tags": [
+        "artigo",
+        "suspensão",
+        "exercício",
+        "profissão",
+        "função"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_200",
+      "number": "200",
+      "title": "Proibição e imposição de condutas",
+      "text": "Artigo 200.º Proibição e imposição de condutas",
+      "tags": [
+        "artigo",
+        "proibição",
+        "imposição",
+        "condutas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_201",
+      "number": "201",
+      "title": "Obrigação de permanência na habitação",
+      "text": "Artigo 201.º Obrigação de permanência na habitação",
+      "tags": [
+        "artigo",
+        "obrigação",
+        "permanência",
+        "habitação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_202",
+      "number": "202",
+      "title": "Prisão preventiva",
+      "text": "Artigo 202.º Prisão preventiva",
+      "tags": [
+        "artigo",
+        "prisão",
+        "preventiva"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_203",
+      "number": "203",
+      "title": "Violação das obrigações impostas",
+      "text": "Artigo 203.º Violação das obrigações impostas",
+      "tags": [
+        "artigo",
+        "violação",
+        "obrigações",
+        "impostas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_204",
+      "number": "204",
+      "title": "Requisitos gerais",
+      "text": "Artigo 204.º Requisitos gerais",
+      "tags": [
+        "artigo",
+        "requisitos",
+        "gerais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_205",
+      "number": "205",
+      "title": "Cumulação com a caução",
+      "text": "Artigo 205.º Cumulação com a caução",
+      "tags": [
+        "artigo",
+        "cumulação",
+        "caução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_206",
+      "number": "206",
+      "title": "Prestação da caução",
+      "text": "Artigo 206.º Prestação da caução",
+      "tags": [
+        "artigo",
+        "prestação",
+        "caução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_207",
+      "number": "207",
+      "title": "Reforço da caução",
+      "text": "Artigo 207.º Reforço da caução",
+      "tags": [
+        "artigo",
+        "reforço",
+        "caução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_208",
+      "number": "208",
+      "title": "Quebra da caução",
+      "text": "Artigo 208.º Quebra da caução",
+      "tags": [
+        "artigo",
+        "quebra",
+        "caução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_209",
+      "number": "209",
+      "title": "Dificuldades de aplicação ou de execução de uma medida de coacção",
+      "text": "Artigo 209.º Dificuldades de aplicação ou de execução de uma medida de coacção",
+      "tags": [
+        "artigo",
+        "dificuldades",
+        "aplicação",
+        "execução",
+        "medida"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_210",
+      "number": "210",
+      "title": "Inêxito das diligências para aplicação da prisão preventiva",
+      "text": "Artigo 210.º Inêxito das diligências para aplicação da prisão preventiva",
+      "tags": [
+        "artigo",
+        "inêxito",
+        "diligências",
+        "aplicação",
+        "prisão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_211",
+      "number": "211",
+      "title": "Suspensão da execução da prisão preventiva",
+      "text": "Artigo 211.º Suspensão da execução da prisão preventiva",
+      "tags": [
+        "artigo",
+        "suspensão",
+        "execução",
+        "prisão",
+        "preventiva"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_212",
+      "number": "212",
+      "title": "Revogação e substituição das medidas",
+      "text": "Artigo 212.º Revogação e substituição das medidas",
+      "tags": [
+        "artigo",
+        "revogação",
+        "substituição",
+        "medidas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_213",
+      "number": "213",
+      "title": "Reexame dos pressupostos da prisão preventiva e da obrigação de pe",
+      "text": "Artigo 213.º Reexame dos pressupostos da prisão preventiva e da obrigação de permanência na habitação",
+      "tags": [
+        "artigo",
+        "reexame",
+        "pressupostos",
+        "prisão",
+        "preventiva"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_214",
+      "number": "214",
+      "title": "Extinção das medidas",
+      "text": "Artigo 214.º Extinção das medidas",
+      "tags": [
+        "artigo",
+        "extinção",
+        "medidas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_215",
+      "number": "215",
+      "title": "Prazos de duração máxima da prisão preventiva",
+      "text": "Artigo 215.º Prazos de duração máxima da prisão preventiva",
+      "tags": [
+        "artigo",
+        "prazos",
+        "duração",
+        "máxima",
+        "prisão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_216",
+      "number": "216",
+      "title": "Suspensão do decurso dos prazos de duração máxima da prisão preven",
+      "text": "Artigo 216.º Suspensão do decurso dos prazos de duração máxima da prisão preventiva",
+      "tags": [
+        "artigo",
+        "suspensão",
+        "decurso",
+        "prazos",
+        "duração"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_217",
+      "number": "217",
+      "title": "Libertação do arguido sujeito a prisão preventiva",
+      "text": "Artigo 217.º Libertação do arguido sujeito a prisão preventiva",
+      "tags": [
+        "artigo",
+        "libertação",
+        "arguido",
+        "sujeito",
+        "prisão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_218",
+      "number": "218",
+      "title": "Prazos de duração máxima de outras medidas de coacção",
+      "text": "Artigo 218.º Prazos de duração máxima de outras medidas de coacção",
+      "tags": [
+        "artigo",
+        "prazos",
+        "duração",
+        "máxima",
+        "outras"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_219",
+      "number": "219",
+      "title": "Recurso",
+      "text": "Artigo 219.º Recurso",
+      "tags": [
+        "artigo",
+        "recurso"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_220",
+      "number": "220",
+      "title": "Habeas corpus em virtude de detenção ilegal",
+      "text": "Artigo 220.º Habeas corpus em virtude de detenção ilegal",
+      "tags": [
+        "artigo",
+        "habeas",
+        "corpus",
+        "virtude",
+        "detenção"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_221",
+      "number": "221",
+      "title": "Procedimento",
+      "text": "Artigo 221.º Procedimento",
+      "tags": [
+        "artigo",
+        "procedimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_222",
+      "number": "222",
+      "title": "Habeas corpus em virtude de prisão ilegal",
+      "text": "Artigo 222.º Habeas corpus em virtude de prisão ilegal",
+      "tags": [
+        "artigo",
+        "habeas",
+        "corpus",
+        "virtude",
+        "prisão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_223",
+      "number": "223",
+      "title": "Procedimento",
+      "text": "Artigo 223.º Procedimento",
+      "tags": [
+        "artigo",
+        "procedimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_224",
+      "number": "224",
+      "title": "Incumprimento da decisão",
+      "text": "Artigo 224.º Incumprimento da decisão",
+      "tags": [
+        "artigo",
+        "incumprimento",
+        "decisão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_225",
+      "number": "225",
+      "title": "Modalidades",
+      "text": "Artigo 225.º Modalidades",
+      "tags": [
+        "artigo",
+        "modalidades"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_226",
+      "number": "226",
+      "title": "Prazo e legitimidade",
+      "text": "Artigo 226.º Prazo e legitimidade",
+      "tags": [
+        "artigo",
+        "legitimidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_227",
+      "number": "227",
+      "title": "Caução económica",
+      "text": "Artigo 227.º Caução económica",
+      "tags": [
+        "artigo",
+        "caução",
+        "económica"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_228",
+      "number": "228",
+      "title": "Arresto preventivo",
+      "text": "Artigo 228.º Arresto preventivo",
+      "tags": [
+        "artigo",
+        "arresto",
+        "preventivo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_229",
+      "number": "229",
+      "title": "Prevalência dos acordos e convenções internacionais",
+      "text": "Artigo 229.º Prevalência dos acordos e convenções internacionais",
+      "tags": [
+        "artigo",
+        "prevalência",
+        "acordos",
+        "convenções",
+        "internacionais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_230",
+      "number": "230",
+      "title": "Rogatórias ao estrangeiro",
+      "text": "Artigo 230.º Rogatórias ao estrangeiro",
+      "tags": [
+        "artigo",
+        "rogatórias",
+        "estrangeiro"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_231",
+      "number": "231",
+      "title": "Recepção e cumprimento de rogatórias",
+      "text": "Artigo 231.º Recepção e cumprimento de rogatórias",
+      "tags": [
+        "artigo",
+        "recepção",
+        "cumprimento",
+        "rogatórias"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_232",
+      "number": "232",
+      "title": "Recusa do cumprimento de rogatórias",
+      "text": "Artigo 232.º Recusa do cumprimento de rogatórias",
+      "tags": [
+        "artigo",
+        "recusa",
+        "cumprimento",
+        "rogatórias"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_233",
+      "number": "233",
+      "title": "Cooperação com entidades judiciárias internacionais",
+      "text": "Artigo 233.º Cooperação com entidades judiciárias internacionais",
+      "tags": [
+        "artigo",
+        "cooperação",
+        "entidades",
+        "judiciárias",
+        "internacionais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_234",
+      "number": "234",
+      "title": "Necessidade de revisão e confirmação",
+      "text": "Artigo 234.º Necessidade de revisão e confirmação",
+      "tags": [
+        "artigo",
+        "necessidade",
+        "revisão",
+        "confirmação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_235",
+      "number": "235",
+      "title": "Tribunal competente",
+      "text": "Artigo 235.º Tribunal competente",
+      "tags": [
+        "artigo",
+        "tribunal",
+        "competente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_236",
+      "number": "236",
+      "title": "Legitimidade",
+      "text": "Artigo 236.º Legitimidade",
+      "tags": [
+        "artigo",
+        "legitimidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_237",
+      "number": "237",
+      "title": "Requisitos da confirmação",
+      "text": "Artigo 237.º Requisitos da confirmação",
+      "tags": [
+        "artigo",
+        "requisitos",
+        "confirmação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_238",
+      "number": "238",
+      "title": "Exclusão da exequibilidade",
+      "text": "Artigo 238.º Exclusão da exequibilidade",
+      "tags": [
+        "artigo",
+        "exclusão",
+        "exequibilidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_239",
+      "number": "239",
+      "title": "Início da execução",
+      "text": "Artigo 239.º Início da execução",
+      "tags": [
+        "artigo",
+        "início",
+        "execução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_240",
+      "number": "240",
+      "title": "Procedimento",
+      "text": "Artigo 240.º Procedimento",
+      "tags": [
+        "artigo",
+        "procedimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_241",
+      "number": "241",
+      "title": "Aquisição da notícia do crime",
+      "text": "Artigo 241.º Aquisição da notícia do crime",
+      "tags": [
+        "artigo",
+        "aquisição",
+        "notícia"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_242",
+      "number": "242",
+      "title": "Denúncia obrigatória",
+      "text": "Artigo 242.º Denúncia obrigatória",
+      "tags": [
+        "artigo",
+        "denúncia",
+        "obrigatória"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_243",
+      "number": "243",
+      "title": "Auto de notícia",
+      "text": "Artigo 243.º Auto de notícia",
+      "tags": [
+        "artigo",
+        "notícia"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_244",
+      "number": "244",
+      "title": "Denúncia facultativa",
+      "text": "Artigo 244.º Denúncia facultativa",
+      "tags": [
+        "artigo",
+        "denúncia",
+        "facultativa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_245",
+      "number": "245",
+      "title": "Denúncia a entidade incompetente para o procedimento",
+      "text": "Artigo 245.º Denúncia a entidade incompetente para o procedimento",
+      "tags": [
+        "artigo",
+        "denúncia",
+        "entidade",
+        "incompetente",
+        "procedimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_246",
+      "number": "246",
+      "title": "Forma, conteúdo e espécies de denúncias",
+      "text": "Artigo 246.º Forma, conteúdo e espécies de denúncias",
+      "tags": [
+        "artigo",
+        "conteúdo",
+        "espécies",
+        "denúncias"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_247",
+      "number": "247",
+      "title": "Comunicação, registo e certificado da denúncia",
+      "text": "Artigo 247.º Comunicação, registo e certificado da denúncia",
+      "tags": [
+        "artigo",
+        "comunicação",
+        "registo",
+        "certificado",
+        "denúncia"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_248",
+      "number": "248",
+      "title": "Comunicação da notícia do crime",
+      "text": "Artigo 248.º Comunicação da notícia do crime",
+      "tags": [
+        "artigo",
+        "comunicação",
+        "notícia"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_249",
+      "number": "249",
+      "title": "Providências cautelares quanto aos meios de prova",
+      "text": "Artigo 249.º Providências cautelares quanto aos meios de prova",
+      "tags": [
+        "artigo",
+        "providências",
+        "cautelares",
+        "quanto"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_250",
+      "number": "250",
+      "title": "Identificação de suspeito e pedido de informações",
+      "text": "Artigo 250.º Identificação de suspeito e pedido de informações",
+      "tags": [
+        "artigo",
+        "identificação",
+        "suspeito",
+        "pedido",
+        "informações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_251",
+      "number": "251",
+      "title": "Revistas e buscas",
+      "text": "Artigo 251.º Revistas e buscas",
+      "tags": [
+        "artigo",
+        "revistas",
+        "buscas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_252",
+      "number": "252",
+      "title": "Apreensão de correspondência",
+      "text": "Artigo 252.º Apreensão de correspondência",
+      "tags": [
+        "artigo",
+        "apreensão",
+        "correspondência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_253",
+      "number": "253",
+      "title": "Relatório",
+      "text": "Artigo 253.º Relatório",
+      "tags": [
+        "artigo",
+        "relatório"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_254",
+      "number": "254",
+      "title": "Finalidades",
+      "text": "Artigo 254.º Finalidades",
+      "tags": [
+        "artigo",
+        "finalidades"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_255",
+      "number": "255",
+      "title": "Detenção em flagrante delito",
+      "text": "Artigo 255.º Detenção em flagrante delito",
+      "tags": [
+        "artigo",
+        "detenção",
+        "flagrante",
+        "delito"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_256",
+      "number": "256",
+      "title": "Flagrante delito",
+      "text": "Artigo 256.º Flagrante delito",
+      "tags": [
+        "artigo",
+        "flagrante",
+        "delito"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_257",
+      "number": "257",
+      "title": "Detenção fora de flagrante delito",
+      "text": "Artigo 257.º Detenção fora de flagrante delito",
+      "tags": [
+        "artigo",
+        "detenção",
+        "flagrante",
+        "delito"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_258",
+      "number": "258",
+      "title": "Mandados de detenção",
+      "text": "Artigo 258.º Mandados de detenção",
+      "tags": [
+        "artigo",
+        "mandados",
+        "detenção"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_259",
+      "number": "259",
+      "title": "Dever de comunicação",
+      "text": "Artigo 259.º Dever de comunicação",
+      "tags": [
+        "artigo",
+        "comunicação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_260",
+      "number": "260",
+      "title": "Condições gerais de efectivação",
+      "text": "Artigo 260.º Condições gerais de efectivação",
+      "tags": [
+        "artigo",
+        "condições",
+        "gerais",
+        "efectivação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_261",
+      "number": "261",
+      "title": "Libertação imediata do detido",
+      "text": "Artigo 261.º Libertação imediata do detido",
+      "tags": [
+        "artigo",
+        "libertação",
+        "imediata",
+        "detido"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_262",
+      "number": "262",
+      "title": "Finalidade e âmbito do inquérito",
+      "text": "Artigo 262.º Finalidade e âmbito do inquérito",
+      "tags": [
+        "artigo",
+        "finalidade",
+        "âmbito",
+        "inquérito"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_263",
+      "number": "263",
+      "title": "Direcção do inquérito",
+      "text": "Artigo 263.º Direcção do inquérito",
+      "tags": [
+        "artigo",
+        "direcção",
+        "inquérito"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_264",
+      "number": "264",
+      "title": "Competência",
+      "text": "Artigo 264.º Competência",
+      "tags": [
+        "artigo",
+        "competência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_265",
+      "number": "265",
+      "title": "Inquérito contra magistrados",
+      "text": "Artigo 265.º Inquérito contra magistrados",
+      "tags": [
+        "artigo",
+        "inquérito",
+        "contra",
+        "magistrados"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_266",
+      "number": "266",
+      "title": "Transmissão dos autos",
+      "text": "Artigo 266.º Transmissão dos autos",
+      "tags": [
+        "artigo",
+        "transmissão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_267",
+      "number": "267",
+      "title": "Actos do Ministério Público",
+      "text": "Artigo 267.º Actos do Ministério Público",
+      "tags": [
+        "artigo",
+        "ministério",
+        "público"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_268",
+      "number": "268",
+      "title": "Actos a praticar pelo juiz de instrução",
+      "text": "Artigo 268.º Actos a praticar pelo juiz de instrução",
+      "tags": [
+        "artigo",
+        "praticar",
+        "instrução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_269",
+      "number": "269",
+      "title": "Actos a ordenar ou autorizar pelo juiz de instrução",
+      "text": "Artigo 269.º Actos a ordenar ou autorizar pelo juiz de instrução",
+      "tags": [
+        "artigo",
+        "ordenar",
+        "autorizar",
+        "instrução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_270",
+      "number": "270",
+      "title": "Actos que podem ser delegados pelo Ministério Público nos órgãos d",
+      "text": "Artigo 270.º Actos que podem ser delegados pelo Ministério Público nos órgãos de polícia criminal",
+      "tags": [
+        "artigo",
+        "delegados",
+        "ministério",
+        "público",
+        "órgãos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_271",
+      "number": "271",
+      "title": "Declarações para memória futura",
+      "text": "Artigo 271.º Declarações para memória futura",
+      "tags": [
+        "artigo",
+        "declarações",
+        "memória",
+        "futura"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_272",
+      "number": "272",
+      "title": "Primeiro interrogatório e comunicações ao arguido",
+      "text": "Artigo 272.º Primeiro interrogatório e comunicações ao arguido",
+      "tags": [
+        "artigo",
+        "primeiro",
+        "interrogatório",
+        "comunicações",
+        "arguido"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_273",
+      "number": "273",
+      "title": "Mandado de comparência, notificação e detenção",
+      "text": "Artigo 273.º Mandado de comparência, notificação e detenção",
+      "tags": [
+        "artigo",
+        "mandado",
+        "comparência",
+        "notificação",
+        "detenção"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_274",
+      "number": "274",
+      "title": "Certidões e certificados de registo",
+      "text": "Artigo 274.º Certidões e certificados de registo",
+      "tags": [
+        "artigo",
+        "certidões",
+        "certificados",
+        "registo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_275",
+      "number": "275",
+      "title": "Autos de inquérito",
+      "text": "Artigo 275.º Autos de inquérito",
+      "tags": [
+        "artigo",
+        "inquérito"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_276",
+      "number": "276",
+      "title": "Prazos de duração máxima do inquérito",
+      "text": "Artigo 276.º Prazos de duração máxima do inquérito",
+      "tags": [
+        "artigo",
+        "prazos",
+        "duração",
+        "máxima",
+        "inquérito"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_277",
+      "number": "277",
+      "title": "Arquivamento do inquérito",
+      "text": "Artigo 277.º Arquivamento do inquérito",
+      "tags": [
+        "artigo",
+        "arquivamento",
+        "inquérito"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_278",
+      "number": "278",
+      "title": "Intervenção hierárquica",
+      "text": "Artigo 278.º Intervenção hierárquica",
+      "tags": [
+        "artigo",
+        "intervenção",
+        "hierárquica"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_279",
+      "number": "279",
+      "title": "Reabertura do inquérito",
+      "text": "Artigo 279.º Reabertura do inquérito",
+      "tags": [
+        "artigo",
+        "reabertura",
+        "inquérito"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_280",
+      "number": "280",
+      "title": "Arquivamento em caso de dispensa da pena",
+      "text": "Artigo 280.º Arquivamento em caso de dispensa da pena",
+      "tags": [
+        "artigo",
+        "arquivamento",
+        "dispensa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_281",
+      "number": "281",
+      "title": "Suspensão provisória do processo",
+      "text": "Artigo 281.º Suspensão provisória do processo",
+      "tags": [
+        "artigo",
+        "suspensão",
+        "provisória",
+        "processo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_282",
+      "number": "282",
+      "title": "Duração e efeitos da suspensão",
+      "text": "Artigo 282.º Duração e efeitos da suspensão",
+      "tags": [
+        "artigo",
+        "duração",
+        "efeitos",
+        "suspensão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_283",
+      "number": "283",
+      "title": "Acusação pelo Ministério Público",
+      "text": "Artigo 283.º Acusação pelo Ministério Público",
+      "tags": [
+        "artigo",
+        "acusação",
+        "ministério",
+        "público"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_284",
+      "number": "284",
+      "title": "Acusação pelo assistente",
+      "text": "Artigo 284.º Acusação pelo assistente",
+      "tags": [
+        "artigo",
+        "acusação",
+        "assistente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_285",
+      "number": "285",
+      "title": "Acusação particular",
+      "text": "Artigo 285.º Acusação particular",
+      "tags": [
+        "artigo",
+        "acusação",
+        "particular"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_286",
+      "number": "286",
+      "title": "Finalidade e âmbito da instrução",
+      "text": "Artigo 286.º Finalidade e âmbito da instrução",
+      "tags": [
+        "artigo",
+        "finalidade",
+        "âmbito",
+        "instrução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_287",
+      "number": "287",
+      "title": "Requerimento para abertura da instrução",
+      "text": "Artigo 287.º Requerimento para abertura da instrução",
+      "tags": [
+        "artigo",
+        "requerimento",
+        "abertura",
+        "instrução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_288",
+      "number": "288",
+      "title": "Direcção da instrução",
+      "text": "Artigo 288.º Direcção da instrução",
+      "tags": [
+        "artigo",
+        "direcção",
+        "instrução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_289",
+      "number": "289",
+      "title": "Conteúdo da instrução",
+      "text": "Artigo 289.º Conteúdo da instrução",
+      "tags": [
+        "artigo",
+        "conteúdo",
+        "instrução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_290",
+      "number": "290",
+      "title": "Actos do juiz de instrução e actos delegáveis",
+      "text": "Artigo 290.º Actos do juiz de instrução e actos delegáveis",
+      "tags": [
+        "artigo",
+        "instrução",
+        "delegáveis"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_291",
+      "number": "291",
+      "title": "Ordem dos actos e repetição",
+      "text": "Artigo 291.º Ordem dos actos e repetição",
+      "tags": [
+        "artigo",
+        "repetição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_292",
+      "number": "292",
+      "title": "Provas admissíveis",
+      "text": "Artigo 292.º Provas admissíveis",
+      "tags": [
+        "artigo",
+        "provas",
+        "admissíveis"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_293",
+      "number": "293",
+      "title": "Mandado de comparência e notificação",
+      "text": "Artigo 293.º Mandado de comparência e notificação",
+      "tags": [
+        "artigo",
+        "mandado",
+        "comparência",
+        "notificação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_294",
+      "number": "294",
+      "title": "Declarações para memória futura",
+      "text": "Artigo 294.º Declarações para memória futura",
+      "tags": [
+        "artigo",
+        "declarações",
+        "memória",
+        "futura"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_295",
+      "number": "295",
+      "title": "Certidões e certificados de registo",
+      "text": "Artigo 295.º Certidões e certificados de registo",
+      "tags": [
+        "artigo",
+        "certidões",
+        "certificados",
+        "registo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_296",
+      "number": "296",
+      "title": "Auto de instrução",
+      "text": "Artigo 296.º Auto de instrução",
+      "tags": [
+        "artigo",
+        "instrução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_297",
+      "number": "297",
+      "title": "Designação da data para o debate",
+      "text": "Artigo 297.º Designação da data para o debate",
+      "tags": [
+        "artigo",
+        "designação",
+        "debate"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_298",
+      "number": "298",
+      "title": "Finalidade do debate",
+      "text": "Artigo 298.º Finalidade do debate",
+      "tags": [
+        "artigo",
+        "finalidade",
+        "debate"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_299",
+      "number": "299",
+      "title": "Actos supervenientes",
+      "text": "Artigo 299.º Actos supervenientes",
+      "tags": [
+        "artigo",
+        "supervenientes"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_300",
+      "number": "300",
+      "title": "Adiamento do debate",
+      "text": "Artigo 300.º Adiamento do debate",
+      "tags": [
+        "artigo",
+        "adiamento",
+        "debate"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_301",
+      "number": "301",
+      "title": "Disciplina, direcção e organização do debate",
+      "text": "Artigo 301.º Disciplina, direcção e organização do debate",
+      "tags": [
+        "artigo",
+        "disciplina",
+        "direcção",
+        "organização",
+        "debate"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_302",
+      "number": "302",
+      "title": "Decurso do debate",
+      "text": "Artigo 302.º Decurso do debate",
+      "tags": [
+        "artigo",
+        "decurso",
+        "debate"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_303",
+      "number": "303",
+      "title": "Alteração dos factos descritos na acusação ou no requerimento para",
+      "text": "Artigo 303.º Alteração dos factos descritos na acusação ou no requerimento para abertura da instrução",
+      "tags": [
+        "artigo",
+        "alteração",
+        "factos",
+        "descritos",
+        "acusação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_304",
+      "number": "304",
+      "title": "Continuidade do debate",
+      "text": "Artigo 304.º Continuidade do debate",
+      "tags": [
+        "artigo",
+        "continuidade",
+        "debate"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_305",
+      "number": "305",
+      "title": "Artigo 305",
+      "text": "Artigo 305.º Acta",
+      "tags": [
+        "artigo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_306",
+      "number": "306",
+      "title": "Prazos de duração máxima da instrução",
+      "text": "Artigo 306.º Prazos de duração máxima da instrução",
+      "tags": [
+        "artigo",
+        "prazos",
+        "duração",
+        "máxima",
+        "instrução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_307",
+      "number": "307",
+      "title": "Decisão instrutória",
+      "text": "Artigo 307.º Decisão instrutória",
+      "tags": [
+        "artigo",
+        "decisão",
+        "instrutória"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_308",
+      "number": "308",
+      "title": "Despacho de pronúncia ou de não pronúncia",
+      "text": "Artigo 308.º Despacho de pronúncia ou de não pronúncia",
+      "tags": [
+        "pronúncia",
+        "artigo",
+        "despacho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_309",
+      "number": "309",
+      "title": "Nulidade da decisão instrutória",
+      "text": "Artigo 309.º Nulidade da decisão instrutória",
+      "tags": [
+        "artigo",
+        "nulidade",
+        "decisão",
+        "instrutória"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_310",
+      "number": "310",
+      "title": "Recursos",
+      "text": "Artigo 310.º Recursos",
+      "tags": [
+        "artigo",
+        "recursos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_311",
+      "number": "311",
+      "title": "Saneamento do processo",
+      "text": "Artigo 311.º Saneamento do processo",
+      "tags": [
+        "artigo",
+        "saneamento",
+        "processo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_312",
+      "number": "312",
+      "title": "Data da audiência",
+      "text": "Artigo 312.º Data da audiência",
+      "tags": [
+        "artigo",
+        "audiência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_313",
+      "number": "313",
+      "title": "Notificação do despacho que designa dia para a audiência",
+      "text": "Artigo 313.º Notificação do despacho que designa dia para a audiência",
+      "tags": [
+        "artigo",
+        "notificação",
+        "despacho",
+        "designa",
+        "audiência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_314",
+      "number": "314",
+      "title": "Comunicação aos restantes juízes",
+      "text": "Artigo 314.º Comunicação aos restantes juízes",
+      "tags": [
+        "artigo",
+        "comunicação",
+        "restantes",
+        "juízes"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_315",
+      "number": "315",
+      "title": "Contestação e rol de testemunhas",
+      "text": "Artigo 315.º Contestação e rol de testemunhas",
+      "tags": [
+        "artigo",
+        "contestação",
+        "testemunhas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_316",
+      "number": "316",
+      "title": "Adicionamento ou alteração do rol de testemunhas",
+      "text": "Artigo 316.º Adicionamento ou alteração do rol de testemunhas",
+      "tags": [
+        "artigo",
+        "adicionamento",
+        "alteração",
+        "testemunhas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_317",
+      "number": "317",
+      "title": "Notificação e compensação de testemunhas, peritos e consultores té",
+      "text": "Artigo 317.º Notificação e compensação de testemunhas, peritos e consultores técnicos",
+      "tags": [
+        "artigo",
+        "notificação",
+        "compensação",
+        "testemunhas",
+        "peritos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_318",
+      "number": "318",
+      "title": "Residentes fora do município",
+      "text": "Artigo 318.º Residentes fora do município",
+      "tags": [
+        "artigo",
+        "residentes",
+        "município"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_319",
+      "number": "319",
+      "title": "Tomada de declarações no domicílio",
+      "text": "Artigo 319.º Tomada de declarações no domicílio",
+      "tags": [
+        "artigo",
+        "tomada",
+        "declarações",
+        "domicílio"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_320",
+      "number": "320",
+      "title": "Realização de actos urgentes",
+      "text": "Artigo 320.º Realização de actos urgentes",
+      "tags": [
+        "artigo",
+        "realização",
+        "urgentes"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_321",
+      "number": "321",
+      "title": "Publicidade da audiência",
+      "text": "Artigo 321.º Publicidade da audiência",
+      "tags": [
+        "artigo",
+        "publicidade",
+        "audiência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_322",
+      "number": "322",
+      "title": "Disciplina da audiência e direcção dos trabalhos",
+      "text": "Artigo 322.º Disciplina da audiência e direcção dos trabalhos",
+      "tags": [
+        "artigo",
+        "disciplina",
+        "audiência",
+        "direcção",
+        "trabalhos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_323",
+      "number": "323",
+      "title": "Poderes de disciplina e de direcção",
+      "text": "Artigo 323.º Poderes de disciplina e de direcção",
+      "tags": [
+        "artigo",
+        "poderes",
+        "disciplina",
+        "direcção"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_324",
+      "number": "324",
+      "title": "Deveres de conduta das pessoas que assistem à audiência",
+      "text": "Artigo 324.º Deveres de conduta das pessoas que assistem à audiência",
+      "tags": [
+        "artigo",
+        "deveres",
+        "conduta",
+        "pessoas",
+        "assistem"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_325",
+      "number": "325",
+      "title": "Situação e deveres de conduta do arguido",
+      "text": "Artigo 325.º Situação e deveres de conduta do arguido",
+      "tags": [
+        "artigo",
+        "situação",
+        "deveres",
+        "conduta",
+        "arguido"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_326",
+      "number": "326",
+      "title": "Conduta dos advogados e defensores",
+      "text": "Artigo 326.º Conduta dos advogados e defensores",
+      "tags": [
+        "artigo",
+        "conduta",
+        "advogados",
+        "defensores"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_327",
+      "number": "327",
+      "title": "Contraditoriedade",
+      "text": "Artigo 327.º Contraditoriedade",
+      "tags": [
+        "artigo",
+        "contraditoriedade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_328",
+      "number": "328",
+      "title": "Continuidade da audiência",
+      "text": "Artigo 328.º Continuidade da audiência",
+      "tags": [
+        "artigo",
+        "continuidade",
+        "audiência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_329",
+      "number": "329",
+      "title": "Chamada e abertura da audiência",
+      "text": "Artigo 329.º Chamada e abertura da audiência",
+      "tags": [
+        "artigo",
+        "chamada",
+        "abertura",
+        "audiência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_330",
+      "number": "330",
+      "title": "Falta do Ministério Público, do defensor e do representante do ass",
+      "text": "Artigo 330.º Falta do Ministério Público, do defensor e do representante do assistente ou das partes civis",
+      "tags": [
+        "artigo",
+        "ministério",
+        "público",
+        "defensor",
+        "representante"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_331",
+      "number": "331",
+      "title": "Falta do assistente, de testemunhas, peritos, consultores técnicos",
+      "text": "Artigo 331.º Falta do assistente, de testemunhas, peritos, consultores técnicos ou das partes civis",
+      "tags": [
+        "artigo",
+        "assistente",
+        "testemunhas",
+        "peritos",
+        "consultores"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_332",
+      "number": "332",
+      "title": "Presença do arguido",
+      "text": "Artigo 332.º Presença do arguido",
+      "tags": [
+        "artigo",
+        "presença",
+        "arguido"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_333",
+      "number": "333",
+      "title": "Falta e julgamento na ausência do arguido notificado para a audiên",
+      "text": "Artigo 333.º Falta e julgamento na ausência do arguido notificado para a audiência",
+      "tags": [
+        "artigo",
+        "julgamento",
+        "ausência",
+        "arguido",
+        "notificado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_334",
+      "number": "334",
+      "title": "Audiência na ausência do arguido em casos especiais e de notificaç",
+      "text": "Artigo 334.º Audiência na ausência do arguido em casos especiais e de notificação edital",
+      "tags": [
+        "artigo",
+        "audiência",
+        "ausência",
+        "arguido",
+        "especiais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_335",
+      "number": "335",
+      "title": "Declaração de contumácia",
+      "text": "Artigo 335.º Declaração de contumácia",
+      "tags": [
+        "artigo",
+        "declaração",
+        "contumácia"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_336",
+      "number": "336",
+      "title": "Caducidade da declaração de contumácia",
+      "text": "Artigo 336.º Caducidade da declaração de contumácia",
+      "tags": [
+        "artigo",
+        "caducidade",
+        "declaração",
+        "contumácia"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_337",
+      "number": "337",
+      "title": "Efeitos e notificação da contumácia",
+      "text": "Artigo 337.º Efeitos e notificação da contumácia",
+      "tags": [
+        "artigo",
+        "efeitos",
+        "notificação",
+        "contumácia"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_338",
+      "number": "338",
+      "title": "Questões prévias ou incidentais",
+      "text": "Artigo 338.º Questões prévias ou incidentais",
+      "tags": [
+        "artigo",
+        "questões",
+        "prévias",
+        "incidentais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_339",
+      "number": "339",
+      "title": "Exposições introdutórias",
+      "text": "Artigo 339.º Exposições introdutórias",
+      "tags": [
+        "artigo",
+        "exposições",
+        "introdutórias"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_340",
+      "number": "340",
+      "title": "Princípios gerais",
+      "text": "Artigo 340.º Princípios gerais",
+      "tags": [
+        "artigo",
+        "princípios",
+        "gerais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_341",
+      "number": "341",
+      "title": "Ordem de produção da prova",
+      "text": "Artigo 341.º Ordem de produção da prova",
+      "tags": [
+        "artigo",
+        "produção"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_342",
+      "number": "342",
+      "title": "Identificação do arguido",
+      "text": "Artigo 342.º Identificação do arguido",
+      "tags": [
+        "artigo",
+        "identificação",
+        "arguido"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_343",
+      "number": "343",
+      "title": "Declarações do arguido",
+      "text": "Artigo 343.º Declarações do arguido",
+      "tags": [
+        "artigo",
+        "declarações",
+        "arguido"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_344",
+      "number": "344",
+      "title": "Confissão",
+      "text": "Artigo 344.º Confissão",
+      "tags": [
+        "artigo",
+        "confissão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_345",
+      "number": "345",
+      "title": "Perguntas sobre os factos",
+      "text": "Artigo 345.º Perguntas sobre os factos",
+      "tags": [
+        "artigo",
+        "perguntas",
+        "factos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_346",
+      "number": "346",
+      "title": "Declarações do assistente",
+      "text": "Artigo 346.º Declarações do assistente",
+      "tags": [
+        "artigo",
+        "declarações",
+        "assistente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_347",
+      "number": "347",
+      "title": "Declarações das partes civis",
+      "text": "Artigo 347.º Declarações das partes civis",
+      "tags": [
+        "artigo",
+        "declarações",
+        "partes"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_348",
+      "number": "348",
+      "title": "Inquirição das testemunhas",
+      "text": "Artigo 348.º Inquirição das testemunhas",
+      "tags": [
+        "artigo",
+        "inquirição",
+        "testemunhas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_349",
+      "number": "349",
+      "title": "Testemunhas menores de 16 anos",
+      "text": "Artigo 349.º Testemunhas menores de 16 anos",
+      "tags": [
+        "artigo",
+        "testemunhas",
+        "menores"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_350",
+      "number": "350",
+      "title": "Declarações de peritos e consultores técnicos",
+      "text": "Artigo 350.º Declarações de peritos e consultores técnicos",
+      "tags": [
+        "artigo",
+        "declarações",
+        "peritos",
+        "consultores",
+        "técnicos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_351",
+      "number": "351",
+      "title": "Perícia sobre o estado psíquico do arguido",
+      "text": "Artigo 351.º Perícia sobre o estado psíquico do arguido",
+      "tags": [
+        "artigo",
+        "perícia",
+        "estado",
+        "psíquico",
+        "arguido"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_352",
+      "number": "352",
+      "title": "Afastamento do arguido durante a prestação de declarações",
+      "text": "Artigo 352.º Afastamento do arguido durante a prestação de declarações",
+      "tags": [
+        "artigo",
+        "afastamento",
+        "arguido",
+        "durante",
+        "prestação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_353",
+      "number": "353",
+      "title": "Dispensa de testemunhas e outros declarantes",
+      "text": "Artigo 353.º Dispensa de testemunhas e outros declarantes",
+      "tags": [
+        "artigo",
+        "dispensa",
+        "testemunhas",
+        "outros",
+        "declarantes"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_354",
+      "number": "354",
+      "title": "Exame no local",
+      "text": "Artigo 354.º Exame no local",
+      "tags": [
+        "artigo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_355",
+      "number": "355",
+      "title": "Proibição de valoração de provas",
+      "text": "Artigo 355.º Proibição de valoração de provas",
+      "tags": [
+        "artigo",
+        "proibição",
+        "valoração",
+        "provas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_356",
+      "number": "356",
+      "title": "Reprodução ou leitura permitidas de autos e declarações",
+      "text": "Artigo 356.º Reprodução ou leitura permitidas de autos e declarações",
+      "tags": [
+        "artigo",
+        "reprodução",
+        "leitura",
+        "permitidas",
+        "declarações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_357",
+      "number": "357",
+      "title": "Reprodução ou leitura permitidas de declarações do arguido",
+      "text": "Artigo 357.º Reprodução ou leitura permitidas de declarações do arguido",
+      "tags": [
+        "artigo",
+        "reprodução",
+        "leitura",
+        "permitidas",
+        "declarações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_358",
+      "number": "358",
+      "title": "Alteração não substancial dos factos descritos na acusação ou na p",
+      "text": "Artigo 358.º Alteração não substancial dos factos descritos na acusação ou na pronúncia",
+      "tags": [
+        "artigo",
+        "alteração",
+        "substancial",
+        "factos",
+        "descritos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_359",
+      "number": "359",
+      "title": "Alteração substancial dos factos descritos na acusação ou na pronú",
+      "text": "Artigo 359.º Alteração substancial dos factos descritos na acusação ou na pronúncia",
+      "tags": [
+        "artigo",
+        "alteração",
+        "substancial",
+        "factos",
+        "descritos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_360",
+      "number": "360",
+      "title": "Alegações orais",
+      "text": "Artigo 360.º Alegações orais",
+      "tags": [
+        "artigo",
+        "alegações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_361",
+      "number": "361",
+      "title": "Últimas declarações do arguido e encerramento da discussão",
+      "text": "Artigo 361.º Últimas declarações do arguido e encerramento da discussão",
+      "tags": [
+        "artigo",
+        "últimas",
+        "declarações",
+        "arguido",
+        "encerramento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_362",
+      "number": "362",
+      "title": "Artigo 362",
+      "text": "Artigo 362.º Acta",
+      "tags": [
+        "artigo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_363",
+      "number": "363",
+      "title": "Documentação de declarações orais",
+      "text": "Artigo 363.º Documentação de declarações orais",
+      "tags": [
+        "artigo",
+        "documentação",
+        "declarações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_364",
+      "number": "364",
+      "title": "Forma da documentação",
+      "text": "Artigo 364.º Forma da documentação",
+      "tags": [
+        "artigo",
+        "documentação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_365",
+      "number": "365",
+      "title": "Deliberação e votação",
+      "text": "Artigo 365.º Deliberação e votação",
+      "tags": [
+        "artigo",
+        "deliberação",
+        "votação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_366",
+      "number": "366",
+      "title": "Secretário",
+      "text": "Artigo 366.º Secretário",
+      "tags": [
+        "artigo",
+        "secretário"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_367",
+      "number": "367",
+      "title": "Segredo da deliberação e votação",
+      "text": "Artigo 367.º Segredo da deliberação e votação",
+      "tags": [
+        "artigo",
+        "segredo",
+        "deliberação",
+        "votação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_368",
+      "number": "368",
+      "title": "Questão da culpabilidade",
+      "text": "Artigo 368.º Questão da culpabilidade",
+      "tags": [
+        "artigo",
+        "questão",
+        "culpabilidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_369",
+      "number": "369",
+      "title": "Questão da determinação da sanção",
+      "text": "Artigo 369.º Questão da determinação da sanção",
+      "tags": [
+        "artigo",
+        "questão",
+        "determinação",
+        "sanção"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_370",
+      "number": "370",
+      "title": "Relatório social",
+      "text": "Artigo 370.º Relatório social",
+      "tags": [
+        "artigo",
+        "relatório",
+        "social"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_371",
+      "number": "371",
+      "title": "Reabertura da audiência para a determinação da sanção",
+      "text": "Artigo 371.º Reabertura da audiência para a determinação da sanção",
+      "tags": [
+        "artigo",
+        "reabertura",
+        "audiência",
+        "determinação",
+        "sanção"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_372",
+      "number": "372",
+      "title": "Elaboração e assinatura da sentença",
+      "text": "Artigo 372.º Elaboração e assinatura da sentença",
+      "tags": [
+        "artigo",
+        "elaboração",
+        "assinatura",
+        "sentença"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_373",
+      "number": "373",
+      "title": "Leitura da sentença",
+      "text": "Artigo 373.º Leitura da sentença",
+      "tags": [
+        "artigo",
+        "leitura",
+        "sentença"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_374",
+      "number": "374",
+      "title": "Requisitos da sentença",
+      "text": "Artigo 374.º Requisitos da sentença",
+      "tags": [
+        "artigo",
+        "requisitos",
+        "sentença"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_375",
+      "number": "375",
+      "title": "Sentença condenatória",
+      "text": "Artigo 375.º Sentença condenatória",
+      "tags": [
+        "artigo",
+        "sentença",
+        "condenatória"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_376",
+      "number": "376",
+      "title": "Sentença absolutória",
+      "text": "Artigo 376.º Sentença absolutória",
+      "tags": [
+        "artigo",
+        "sentença",
+        "absolutória"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_377",
+      "number": "377",
+      "title": "Decisão sobre o pedido de indemnização civil",
+      "text": "Artigo 377.º Decisão sobre o pedido de indemnização civil",
+      "tags": [
+        "artigo",
+        "decisão",
+        "pedido",
+        "indemnização"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_378",
+      "number": "378",
+      "title": "Publicação de sentença absolutória",
+      "text": "Artigo 378.º Publicação de sentença absolutória",
+      "tags": [
+        "artigo",
+        "publicação",
+        "sentença",
+        "absolutória"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_379",
+      "number": "379",
+      "title": "Nulidade da sentença",
+      "text": "Artigo 379.º Nulidade da sentença",
+      "tags": [
+        "artigo",
+        "nulidade",
+        "sentença"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_380",
+      "number": "380",
+      "title": "Correcção da sentença",
+      "text": "Artigo 380.º Correcção da sentença",
+      "tags": [
+        "artigo",
+        "correcção",
+        "sentença"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_381",
+      "number": "381",
+      "title": "Quando tem lugar",
+      "text": "Artigo 381.º Quando tem lugar",
+      "tags": [
+        "artigo",
+        "quando"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_382",
+      "number": "382",
+      "title": "Apresentação ao Ministério Público e a julgamento",
+      "text": "Artigo 382.º Apresentação ao Ministério Público e a julgamento",
+      "tags": [
+        "artigo",
+        "apresentação",
+        "ministério",
+        "público",
+        "julgamento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_383",
+      "number": "383",
+      "title": "Notificações",
+      "text": "Artigo 383.º Notificações",
+      "tags": [
+        "artigo",
+        "notificações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_384",
+      "number": "384",
+      "title": "Arquivamento ou suspensão do processo",
+      "text": "Artigo 384.º Arquivamento ou suspensão do processo",
+      "tags": [
+        "artigo",
+        "arquivamento",
+        "suspensão",
+        "processo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_385",
+      "number": "385",
+      "title": "Libertação do arguido",
+      "text": "Artigo 385.º Libertação do arguido",
+      "tags": [
+        "artigo",
+        "libertação",
+        "arguido"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_386",
+      "number": "386",
+      "title": "Princípios gerais do julgamento",
+      "text": "Artigo 386.º Princípios gerais do julgamento",
+      "tags": [
+        "artigo",
+        "princípios",
+        "gerais",
+        "julgamento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_387",
+      "number": "387",
+      "title": "Audiência",
+      "text": "Artigo 387.º Audiência",
+      "tags": [
+        "artigo",
+        "audiência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_388",
+      "number": "388",
+      "title": "Assistente e partes civis",
+      "text": "Artigo 388.º Assistente e partes civis",
+      "tags": [
+        "artigo",
+        "assistente",
+        "partes"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_389",
+      "number": "389",
+      "title": "Tramitação",
+      "text": "Artigo 389.º Tramitação",
+      "tags": [
+        "artigo",
+        "tramitação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_390",
+      "number": "390",
+      "title": "Reenvio para outra forma de processo",
+      "text": "Artigo 390.º Reenvio para outra forma de processo",
+      "tags": [
+        "artigo",
+        "reenvio",
+        "processo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_391",
+      "number": "391",
+      "title": "Recorribilidade",
+      "text": "Artigo 391.º Recorribilidade",
+      "tags": [
+        "artigo",
+        "recorribilidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_392",
+      "number": "392",
+      "title": "Quando tem lugar",
+      "text": "Artigo 392.º Quando tem lugar",
+      "tags": [
+        "artigo",
+        "quando"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_393",
+      "number": "393",
+      "title": "Partes civis",
+      "text": "Artigo 393.º Partes civis",
+      "tags": [
+        "artigo",
+        "partes"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_394",
+      "number": "394",
+      "title": "Requerimento",
+      "text": "Artigo 394.º Requerimento",
+      "tags": [
+        "artigo",
+        "requerimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_395",
+      "number": "395",
+      "title": "Rejeição do requerimento",
+      "text": "Artigo 395.º Rejeição do requerimento",
+      "tags": [
+        "artigo",
+        "rejeição",
+        "requerimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_396",
+      "number": "396",
+      "title": "Notificação e oposição do arguido",
+      "text": "Artigo 396.º Notificação e oposição do arguido",
+      "tags": [
+        "artigo",
+        "notificação",
+        "oposição",
+        "arguido"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_397",
+      "number": "397",
+      "title": "Decisão",
+      "text": "Artigo 397.º Decisão",
+      "tags": [
+        "artigo",
+        "decisão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_398",
+      "number": "398",
+      "title": "Prosseguimento do processo",
+      "text": "Artigo 398.º Prosseguimento do processo",
+      "tags": [
+        "artigo",
+        "prosseguimento",
+        "processo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_399",
+      "number": "399",
+      "title": "Princípio geral",
+      "text": "Artigo 399.º Princípio geral",
+      "tags": [
+        "artigo",
+        "princípio"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_400",
+      "number": "400",
+      "title": "Decisões que não admitem recurso",
+      "text": "Artigo 400.º Decisões que não admitem recurso",
+      "tags": [
+        "artigo",
+        "decisões",
+        "admitem",
+        "recurso"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_401",
+      "number": "401",
+      "title": "Legitimidade e interesse em agir",
+      "text": "Artigo 401.º Legitimidade e interesse em agir",
+      "tags": [
+        "artigo",
+        "legitimidade",
+        "interesse"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_402",
+      "number": "402",
+      "title": "Âmbito do recurso",
+      "text": "Artigo 402.º Âmbito do recurso",
+      "tags": [
+        "artigo",
+        "âmbito",
+        "recurso"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_403",
+      "number": "403",
+      "title": "Limitação do recurso",
+      "text": "Artigo 403.º Limitação do recurso",
+      "tags": [
+        "artigo",
+        "limitação",
+        "recurso"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_404",
+      "number": "404",
+      "title": "Recurso subordinado",
+      "text": "Artigo 404.º Recurso subordinado",
+      "tags": [
+        "artigo",
+        "recurso",
+        "subordinado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_405",
+      "number": "405",
+      "title": "Reclamação contra despacho que não admitir ou que retiver o recurs",
+      "text": "Artigo 405.º Reclamação contra despacho que não admitir ou que retiver o recurso",
+      "tags": [
+        "artigo",
+        "reclamação",
+        "contra",
+        "despacho",
+        "admitir"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_406",
+      "number": "406",
+      "title": "Subida nos autos e em separado",
+      "text": "Artigo 406.º Subida nos autos e em separado",
+      "tags": [
+        "artigo",
+        "subida",
+        "separado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_407",
+      "number": "407",
+      "title": "Momento da subida",
+      "text": "Artigo 407.º Momento da subida",
+      "tags": [
+        "artigo",
+        "momento",
+        "subida"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_408",
+      "number": "408",
+      "title": "Recurso com efeito suspensivo",
+      "text": "Artigo 408.º Recurso com efeito suspensivo",
+      "tags": [
+        "artigo",
+        "recurso",
+        "efeito",
+        "suspensivo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_409",
+      "number": "409",
+      "title": "Proibição de reformatio in pejus",
+      "text": "Artigo 409.º Proibição de reformatio in pejus",
+      "tags": [
+        "artigo",
+        "proibição",
+        "reformatio"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_410",
+      "number": "410",
+      "title": "Fundamentos do recurso",
+      "text": "Artigo 410.º Fundamentos do recurso",
+      "tags": [
+        "artigo",
+        "fundamentos",
+        "recurso"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_411",
+      "number": "411",
+      "title": "Interposição e notificação do recurso",
+      "text": "Artigo 411.º Interposição e notificação do recurso",
+      "tags": [
+        "artigo",
+        "interposição",
+        "notificação",
+        "recurso"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_412",
+      "number": "412",
+      "title": "Motivação do recurso e conclusões",
+      "text": "Artigo 412.º Motivação do recurso e conclusões",
+      "tags": [
+        "artigo",
+        "motivação",
+        "recurso",
+        "conclusões"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_413",
+      "number": "413",
+      "title": "Resposta",
+      "text": "Artigo 413.º Resposta",
+      "tags": [
+        "artigo",
+        "resposta"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_414",
+      "number": "414",
+      "title": "Admissão do recurso",
+      "text": "Artigo 414.º Admissão do recurso",
+      "tags": [
+        "artigo",
+        "admissão",
+        "recurso"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_415",
+      "number": "415",
+      "title": "Desistência",
+      "text": "Artigo 415.º Desistência",
+      "tags": [
+        "artigo",
+        "desistência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_416",
+      "number": "416",
+      "title": "Vista ao Ministério Público",
+      "text": "Artigo 416.º Vista ao Ministério Público",
+      "tags": [
+        "artigo",
+        "ministério",
+        "público"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_417",
+      "number": "417",
+      "title": "Exame preliminar",
+      "text": "Artigo 417.º Exame preliminar",
+      "tags": [
+        "artigo",
+        "preliminar"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_418",
+      "number": "418",
+      "title": "Vistos",
+      "text": "Artigo 418.º Vistos",
+      "tags": [
+        "artigo",
+        "vistos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_419",
+      "number": "419",
+      "title": "Conferência",
+      "text": "Artigo 419.º Conferência",
+      "tags": [
+        "artigo",
+        "conferência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_420",
+      "number": "420",
+      "title": "Rejeição do recurso",
+      "text": "Artigo 420.º Rejeição do recurso",
+      "tags": [
+        "artigo",
+        "rejeição",
+        "recurso"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_421",
+      "number": "421",
+      "title": "Prosseguimento do processo",
+      "text": "Artigo 421.º Prosseguimento do processo",
+      "tags": [
+        "artigo",
+        "prosseguimento",
+        "processo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_422",
+      "number": "422",
+      "title": "Adiamento da audiência",
+      "text": "Artigo 422.º Adiamento da audiência",
+      "tags": [
+        "artigo",
+        "adiamento",
+        "audiência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_423",
+      "number": "423",
+      "title": "Audiência",
+      "text": "Artigo 423.º Audiência",
+      "tags": [
+        "artigo",
+        "audiência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_424",
+      "number": "424",
+      "title": "Deliberação",
+      "text": "Artigo 424.º Deliberação",
+      "tags": [
+        "artigo",
+        "deliberação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_425",
+      "number": "425",
+      "title": "Acórdão",
+      "text": "Artigo 425.º Acórdão",
+      "tags": [
+        "artigo",
+        "acórdão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_426",
+      "number": "426",
+      "title": "Reenvio do processo para novo julgamento",
+      "text": "Artigo 426.º Reenvio do processo para novo julgamento",
+      "tags": [
+        "artigo",
+        "reenvio",
+        "processo",
+        "julgamento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_427",
+      "number": "427",
+      "title": "Recurso para a relação",
+      "text": "Artigo 427.º Recurso para a relação",
+      "tags": [
+        "artigo",
+        "recurso",
+        "relação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_428",
+      "number": "428",
+      "title": "Poderes de cognição",
+      "text": "Artigo 428.º Poderes de cognição",
+      "tags": [
+        "artigo",
+        "poderes",
+        "cognição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_429",
+      "number": "429",
+      "title": "Composição do tribunal em audiência",
+      "text": "Artigo 429.º Composição do tribunal em audiência",
+      "tags": [
+        "artigo",
+        "composição",
+        "tribunal",
+        "audiência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_430",
+      "number": "430",
+      "title": "Renovação da prova",
+      "text": "Artigo 430.º Renovação da prova",
+      "tags": [
+        "artigo",
+        "renovação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_431",
+      "number": "431",
+      "title": "Modificabilidade da decisão recorrida",
+      "text": "Artigo 431.º Modificabilidade da decisão recorrida",
+      "tags": [
+        "artigo",
+        "modificabilidade",
+        "decisão",
+        "recorrida"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_432",
+      "number": "432",
+      "title": "Recurso para o Supremo Tribunal de Justiça",
+      "text": "Artigo 432.º Recurso para o Supremo Tribunal de Justiça",
+      "tags": [
+        "artigo",
+        "recurso",
+        "supremo",
+        "tribunal",
+        "justiça"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_433",
+      "number": "433",
+      "title": "Outros casos de recurso",
+      "text": "Artigo 433.º Outros casos de recurso",
+      "tags": [
+        "artigo",
+        "outros",
+        "recurso"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_434",
+      "number": "434",
+      "title": "Poderes de cognição",
+      "text": "Artigo 434.º Poderes de cognição",
+      "tags": [
+        "artigo",
+        "poderes",
+        "cognição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_435",
+      "number": "435",
+      "title": "Audiência",
+      "text": "Artigo 435.º Audiência",
+      "tags": [
+        "artigo",
+        "audiência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_436",
+      "number": "436",
+      "title": "Alteração da composição do tribunal",
+      "text": "Artigo 436.º Alteração da composição do tribunal",
+      "tags": [
+        "artigo",
+        "alteração",
+        "composição",
+        "tribunal"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_437",
+      "number": "437",
+      "title": "Fundamento do recurso",
+      "text": "Artigo 437.º Fundamento do recurso",
+      "tags": [
+        "artigo",
+        "fundamento",
+        "recurso"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_438",
+      "number": "438",
+      "title": "Interposição e efeito",
+      "text": "Artigo 438.º Interposição e efeito",
+      "tags": [
+        "artigo",
+        "interposição",
+        "efeito"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_439",
+      "number": "439",
+      "title": "Actos de secretaria",
+      "text": "Artigo 439.º Actos de secretaria",
+      "tags": [
+        "artigo",
+        "secretaria"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_440",
+      "number": "440",
+      "title": "Vista e exame preliminar",
+      "text": "Artigo 440.º Vista e exame preliminar",
+      "tags": [
+        "artigo",
+        "preliminar"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_441",
+      "number": "441",
+      "title": "Conferência",
+      "text": "Artigo 441.º Conferência",
+      "tags": [
+        "artigo",
+        "conferência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_442",
+      "number": "442",
+      "title": "Preparação do julgamento",
+      "text": "Artigo 442.º Preparação do julgamento",
+      "tags": [
+        "artigo",
+        "preparação",
+        "julgamento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_443",
+      "number": "443",
+      "title": "Julgamento",
+      "text": "Artigo 443.º Julgamento",
+      "tags": [
+        "artigo",
+        "julgamento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_444",
+      "number": "444",
+      "title": "Publicação do acórdão",
+      "text": "Artigo 444.º Publicação do acórdão",
+      "tags": [
+        "artigo",
+        "publicação",
+        "acórdão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_445",
+      "number": "445",
+      "title": "Eficácia da decisão",
+      "text": "Artigo 445.º Eficácia da decisão",
+      "tags": [
+        "artigo",
+        "eficácia",
+        "decisão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_446",
+      "number": "446",
+      "title": "Recurso de decisão proferida contra jurisprudência fixada pelo Sup",
+      "text": "Artigo 446.º Recurso de decisão proferida contra jurisprudência fixada pelo Supremo Tribunal de Justiça",
+      "tags": [
+        "artigo",
+        "recurso",
+        "decisão",
+        "proferida",
+        "contra"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_447",
+      "number": "447",
+      "title": "Recursos no interesse da unidade do direito",
+      "text": "Artigo 447.º Recursos no interesse da unidade do direito",
+      "tags": [
+        "artigo",
+        "recursos",
+        "interesse",
+        "unidade",
+        "direito"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_448",
+      "number": "448",
+      "title": "Disposições subsidiárias",
+      "text": "Artigo 448.º Disposições subsidiárias",
+      "tags": [
+        "artigo",
+        "disposições",
+        "subsidiárias"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_449",
+      "number": "449",
+      "title": "Fundamentos e admissibilidade da revisão",
+      "text": "Artigo 449.º Fundamentos e admissibilidade da revisão",
+      "tags": [
+        "artigo",
+        "fundamentos",
+        "admissibilidade",
+        "revisão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_450",
+      "number": "450",
+      "title": "Legitimidade",
+      "text": "Artigo 450.º Legitimidade",
+      "tags": [
+        "artigo",
+        "legitimidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_451",
+      "number": "451",
+      "title": "Formulação do pedido",
+      "text": "Artigo 451.º Formulação do pedido",
+      "tags": [
+        "artigo",
+        "formulação",
+        "pedido"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_452",
+      "number": "452",
+      "title": "Tramitação",
+      "text": "Artigo 452.º Tramitação",
+      "tags": [
+        "artigo",
+        "tramitação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_453",
+      "number": "453",
+      "title": "Produção de prova",
+      "text": "Artigo 453.º Produção de prova",
+      "tags": [
+        "artigo",
+        "produção"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_454",
+      "number": "454",
+      "title": "Informação e remessa do processo",
+      "text": "Artigo 454.º Informação e remessa do processo",
+      "tags": [
+        "artigo",
+        "informação",
+        "remessa",
+        "processo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_455",
+      "number": "455",
+      "title": "Tramitação no Supremo Tribunal de Justiça",
+      "text": "Artigo 455.º Tramitação no Supremo Tribunal de Justiça",
+      "tags": [
+        "artigo",
+        "tramitação",
+        "supremo",
+        "tribunal",
+        "justiça"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_456",
+      "number": "456",
+      "title": "Negação da revisão",
+      "text": "Artigo 456.º Negação da revisão",
+      "tags": [
+        "artigo",
+        "negação",
+        "revisão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_457",
+      "number": "457",
+      "title": "Autorização da revisão",
+      "text": "Artigo 457.º Autorização da revisão",
+      "tags": [
+        "artigo",
+        "autorização",
+        "revisão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_458",
+      "number": "458",
+      "title": "Anulação de sentenças inconciliáveis",
+      "text": "Artigo 458.º Anulação de sentenças inconciliáveis",
+      "tags": [
+        "artigo",
+        "anulação",
+        "sentenças",
+        "inconciliáveis"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_459",
+      "number": "459",
+      "title": "Meios de prova e actos urgentes",
+      "text": "Artigo 459.º Meios de prova e actos urgentes",
+      "tags": [
+        "artigo",
+        "urgentes"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_460",
+      "number": "460",
+      "title": "Novo julgamento",
+      "text": "Artigo 460.º Novo julgamento",
+      "tags": [
+        "artigo",
+        "julgamento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_461",
+      "number": "461",
+      "title": "Sentença absolutória no juízo de revisão",
+      "text": "Artigo 461.º Sentença absolutória no juízo de revisão",
+      "tags": [
+        "artigo",
+        "sentença",
+        "absolutória",
+        "revisão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_462",
+      "number": "462",
+      "title": "Indemnização",
+      "text": "Artigo 462.º Indemnização",
+      "tags": [
+        "artigo",
+        "indemnização"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_463",
+      "number": "463",
+      "title": "Sentença condenatória no juízo de revisão",
+      "text": "Artigo 463.º Sentença condenatória no juízo de revisão",
+      "tags": [
+        "artigo",
+        "sentença",
+        "condenatória",
+        "revisão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_464",
+      "number": "464",
+      "title": "Revisão de despacho",
+      "text": "Artigo 464.º Revisão de despacho",
+      "tags": [
+        "artigo",
+        "revisão",
+        "despacho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_465",
+      "number": "465",
+      "title": "Legitimidade para novo pedido de revisão",
+      "text": "Artigo 465.º Legitimidade para novo pedido de revisão",
+      "tags": [
+        "artigo",
+        "legitimidade",
+        "pedido",
+        "revisão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_466",
+      "number": "466",
+      "title": "Prioridade dos actos judiciais",
+      "text": "Artigo 466.º Prioridade dos actos judiciais",
+      "tags": [
+        "artigo",
+        "prioridade",
+        "judiciais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_467",
+      "number": "467",
+      "title": "Decisões com força executiva",
+      "text": "Artigo 467.º Decisões com força executiva",
+      "tags": [
+        "artigo",
+        "decisões",
+        "executiva"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_468",
+      "number": "468",
+      "title": "Decisões inexequíveis",
+      "text": "Artigo 468.º Decisões inexequíveis",
+      "tags": [
+        "artigo",
+        "decisões",
+        "inexequíveis"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_469",
+      "number": "469",
+      "title": "Promoção da execução",
+      "text": "Artigo 469.º Promoção da execução",
+      "tags": [
+        "artigo",
+        "promoção",
+        "execução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_470",
+      "number": "470",
+      "title": "Tribunal competente para a execução",
+      "text": "Artigo 470.º Tribunal competente para a execução",
+      "tags": [
+        "artigo",
+        "tribunal",
+        "competente",
+        "execução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_471",
+      "number": "471",
+      "title": "Conhecimento superveniente do concurso",
+      "text": "Artigo 471.º Conhecimento superveniente do concurso",
+      "tags": [
+        "artigo",
+        "conhecimento",
+        "superveniente",
+        "concurso"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_472",
+      "number": "472",
+      "title": "Tramitação",
+      "text": "Artigo 472.º Tramitação",
+      "tags": [
+        "artigo",
+        "tramitação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_473",
+      "number": "473",
+      "title": "Suspensão da execução",
+      "text": "Artigo 473.º Suspensão da execução",
+      "tags": [
+        "artigo",
+        "suspensão",
+        "execução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_474",
+      "number": "474",
+      "title": "Competência para questões incidentais",
+      "text": "Artigo 474.º Competência para questões incidentais",
+      "tags": [
+        "artigo",
+        "competência",
+        "questões",
+        "incidentais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_475",
+      "number": "475",
+      "title": "Extinção da execução",
+      "text": "Artigo 475.º Extinção da execução",
+      "tags": [
+        "artigo",
+        "extinção",
+        "execução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_476",
+      "number": "476",
+      "title": "Contumácia",
+      "text": "Artigo 476.º Contumácia",
+      "tags": [
+        "artigo",
+        "contumácia"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_477",
+      "number": "477",
+      "title": "Comunicação da sentença a diversas entidades",
+      "text": "Artigo 477.º Comunicação da sentença a diversas entidades",
+      "tags": [
+        "artigo",
+        "comunicação",
+        "sentença",
+        "diversas",
+        "entidades"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_478",
+      "number": "478",
+      "title": "Entrada no estabelecimento prisional",
+      "text": "Artigo 478.º Entrada no estabelecimento prisional",
+      "tags": [
+        "artigo",
+        "entrada",
+        "estabelecimento",
+        "prisional"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_479",
+      "number": "479",
+      "title": "Contagem do tempo de prisão",
+      "text": "Artigo 479.º Contagem do tempo de prisão",
+      "tags": [
+        "artigo",
+        "contagem",
+        "prisão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_480",
+      "number": "480",
+      "title": "Mandado de libertação",
+      "text": "Artigo 480.º Mandado de libertação",
+      "tags": [
+        "artigo",
+        "mandado",
+        "libertação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_481",
+      "number": "481",
+      "title": "Momento da libertação",
+      "text": "Artigo 481.º Momento da libertação",
+      "tags": [
+        "artigo",
+        "momento",
+        "libertação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_482",
+      "number": "482",
+      "title": "Comunicações",
+      "text": "Artigo 482.º Comunicações",
+      "tags": [
+        "artigo",
+        "comunicações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_483",
+      "number": "483",
+      "title": "Anomalia psíquica posterior",
+      "text": "Artigo 483.º Anomalia psíquica posterior",
+      "tags": [
+        "artigo",
+        "anomalia",
+        "psíquica",
+        "posterior"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_484",
+      "number": "484",
+      "title": "Início do processo da liberdade condicional",
+      "text": "Artigo 484.º Início do processo da liberdade condicional",
+      "tags": [
+        "artigo",
+        "início",
+        "processo",
+        "liberdade",
+        "condicional"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_485",
+      "number": "485",
+      "title": "Decisão",
+      "text": "Artigo 485.º Decisão",
+      "tags": [
+        "artigo",
+        "decisão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_486",
+      "number": "486",
+      "title": "Renovação da instância",
+      "text": "Artigo 486.º Renovação da instância",
+      "tags": [
+        "artigo",
+        "renovação",
+        "instância"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_487",
+      "number": "487",
+      "title": "Conteúdo da decisão e início do cumprimento",
+      "text": "Artigo 487.º Conteúdo da decisão e início do cumprimento",
+      "tags": [
+        "artigo",
+        "conteúdo",
+        "decisão",
+        "início",
+        "cumprimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_488",
+      "number": "488",
+      "title": "Execução, faltas e termo do cumprimento",
+      "text": "Artigo 488.º Execução, faltas e termo do cumprimento",
+      "tags": [
+        "artigo",
+        "execução",
+        "faltas",
+        "cumprimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_489",
+      "number": "489",
+      "title": "Prazo de pagamento",
+      "text": "Artigo 489.º Prazo de pagamento",
+      "tags": [
+        "artigo",
+        "pagamento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_490",
+      "number": "490",
+      "title": "Substituição da multa por dias de trabalho",
+      "text": "Artigo 490.º Substituição da multa por dias de trabalho",
+      "tags": [
+        "artigo",
+        "substituição",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_491",
+      "number": "491",
+      "title": "Não pagamento da multa",
+      "text": "Artigo 491.º Não pagamento da multa",
+      "tags": [
+        "artigo",
+        "pagamento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_492",
+      "number": "492",
+      "title": "Modificação dos deveres, regras de conduta e outras obrigações imp",
+      "text": "Artigo 492.º Modificação dos deveres, regras de conduta e outras obrigações impostos",
+      "tags": [
+        "artigo",
+        "modificação",
+        "deveres",
+        "regras",
+        "conduta"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_493",
+      "number": "493",
+      "title": "Apresentação periódica e sujeição a tratamento médico ou a cura",
+      "text": "Artigo 493.º Apresentação periódica e sujeição a tratamento médico ou a cura",
+      "tags": [
+        "artigo",
+        "apresentação",
+        "periódica",
+        "sujeição",
+        "tratamento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_494",
+      "number": "494",
+      "title": "Plano de reinserção social",
+      "text": "Artigo 494.º Plano de reinserção social",
+      "tags": [
+        "artigo",
+        "reinserção",
+        "social"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_495",
+      "number": "495",
+      "title": "Falta de cumprimento das condições de suspensão",
+      "text": "Artigo 495.º Falta de cumprimento das condições de suspensão",
+      "tags": [
+        "artigo",
+        "cumprimento",
+        "condições",
+        "suspensão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_496",
+      "number": "496",
+      "title": "Prestação de trabalho a favor da comunidade",
+      "text": "Artigo 496.º Prestação de trabalho a favor da comunidade",
+      "tags": [
+        "artigo",
+        "prestação",
+        "trabalho",
+        "comunidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_497",
+      "number": "497",
+      "title": "Admoestação",
+      "text": "Artigo 497.º Admoestação",
+      "tags": [
+        "artigo",
+        "admoestação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_498",
+      "number": "498",
+      "title": "Suspensão provisória, revogação, extinção, substituição e modifica",
+      "text": "Artigo 498.º Suspensão provisória, revogação, extinção, substituição e modificação da execução",
+      "tags": [
+        "artigo",
+        "suspensão",
+        "provisória",
+        "revogação",
+        "extinção"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_499",
+      "number": "499",
+      "title": "Decisão e trâmites",
+      "text": "Artigo 499.º Decisão e trâmites",
+      "tags": [
+        "artigo",
+        "decisão",
+        "trâmites"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_500",
+      "number": "500",
+      "title": "Proibição de condução",
+      "text": "Artigo 500.º Proibição de condução",
+      "tags": [
+        "artigo",
+        "proibição",
+        "condução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_501",
+      "number": "501",
+      "title": "Decisões sobre o internamento",
+      "text": "Artigo 501.º Decisões sobre o internamento",
+      "tags": [
+        "artigo",
+        "decisões",
+        "internamento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_502",
+      "number": "502",
+      "title": "Comunicação da sentença a diversas entidades",
+      "text": "Artigo 502.º Comunicação da sentença a diversas entidades",
+      "tags": [
+        "artigo",
+        "comunicação",
+        "sentença",
+        "diversas",
+        "entidades"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_503",
+      "number": "503",
+      "title": "Processo individual",
+      "text": "Artigo 503.º Processo individual",
+      "tags": [
+        "artigo",
+        "processo",
+        "individual"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_504",
+      "number": "504",
+      "title": "Reexame do internamento",
+      "text": "Artigo 504.º Reexame do internamento",
+      "tags": [
+        "artigo",
+        "reexame",
+        "internamento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_505",
+      "number": "505",
+      "title": "Revogação da liberdade para prova",
+      "text": "Artigo 505.º Revogação da liberdade para prova",
+      "tags": [
+        "artigo",
+        "revogação",
+        "liberdade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_506",
+      "number": "506",
+      "title": "Disposições aplicáveis",
+      "text": "Artigo 506.º Disposições aplicáveis",
+      "tags": [
+        "artigo",
+        "disposições",
+        "aplicáveis"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_507",
+      "number": "507",
+      "title": "Execução da pena e da medida de segurança privativa da liberdade",
+      "text": "Artigo 507.º Execução da pena e da medida de segurança privativa da liberdade",
+      "tags": [
+        "artigo",
+        "execução",
+        "medida",
+        "segurança",
+        "privativa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_508",
+      "number": "508",
+      "title": "Medidas de segurança não privativas da liberdade",
+      "text": "Artigo 508.º Medidas de segurança não privativas da liberdade",
+      "tags": [
+        "artigo",
+        "medidas",
+        "segurança",
+        "privativas",
+        "liberdade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_509",
+      "number": "509",
+      "title": "Execução da pena relativamente indeterminada",
+      "text": "Artigo 509.º Execução da pena relativamente indeterminada",
+      "tags": [
+        "artigo",
+        "execução",
+        "relativamente",
+        "indeterminada"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_510",
+      "number": "510",
+      "title": "Lei aplicável",
+      "text": "Artigo 510.º Lei aplicável",
+      "tags": [
+        "artigo",
+        "aplicável"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_511",
+      "number": "511",
+      "title": "Ordem dos pagamentos",
+      "text": "Artigo 511.º Ordem dos pagamentos",
+      "tags": [
+        "artigo",
+        "pagamentos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_512",
+      "number": "512",
+      "title": "Destino das multas",
+      "text": "Artigo 512.º Destino das multas",
+      "tags": [
+        "artigo",
+        "destino",
+        "multas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_513",
+      "number": "513",
+      "title": "Responsabilidade do arguido por custas",
+      "text": "Artigo 513.º Responsabilidade do arguido por custas",
+      "tags": [
+        "artigo",
+        "responsabilidade",
+        "arguido",
+        "custas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_514",
+      "number": "514",
+      "title": "Responsabilidade do arguido por encargos",
+      "text": "Artigo 514.º Responsabilidade do arguido por encargos",
+      "tags": [
+        "artigo",
+        "responsabilidade",
+        "arguido",
+        "encargos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_515",
+      "number": "515",
+      "title": "Responsabilidade do assistente por custas",
+      "text": "Artigo 515.º Responsabilidade do assistente por custas",
+      "tags": [
+        "artigo",
+        "responsabilidade",
+        "assistente",
+        "custas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_516",
+      "number": "516",
+      "title": "Arquivamento ou suspensão do processo",
+      "text": "Artigo 516.º Arquivamento ou suspensão do processo",
+      "tags": [
+        "artigo",
+        "arquivamento",
+        "suspensão",
+        "processo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_517",
+      "number": "517",
+      "title": "Casos de isenção do assistente",
+      "text": "Artigo 517.º Casos de isenção do assistente",
+      "tags": [
+        "artigo",
+        "isenção",
+        "assistente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_518",
+      "number": "518",
+      "title": "Responsabilidade do assistente por encargos",
+      "text": "Artigo 518.º Responsabilidade do assistente por encargos",
+      "tags": [
+        "artigo",
+        "responsabilidade",
+        "assistente",
+        "encargos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_519",
+      "number": "519",
+      "title": "Taxa devida pela constituição de assistente",
+      "text": "Artigo 519.º Taxa devida pela constituição de assistente",
+      "tags": [
+        "artigo",
+        "devida",
+        "constituição",
+        "assistente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_520",
+      "number": "520",
+      "title": "Responsabilidade do denunciante",
+      "text": "Artigo 520.º Responsabilidade do denunciante",
+      "tags": [
+        "artigo",
+        "responsabilidade",
+        "denunciante"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_521",
+      "number": "521",
+      "title": "Regras especiais",
+      "text": "Artigo 521.º Regras especiais",
+      "tags": [
+        "artigo",
+        "regras",
+        "especiais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_522",
+      "number": "522",
+      "title": "Isenções",
+      "text": "Artigo 522.º Isenções",
+      "tags": [
+        "artigo",
+        "isenções"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_523",
+      "number": "523",
+      "title": "Custas no pedido cível",
+      "text": "Artigo 523.º Custas no pedido cível",
+      "tags": [
+        "artigo",
+        "custas",
+        "pedido"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpppt_524",
+      "number": "524",
+      "title": "Disposições subsidiárias Nº de artigos",
+      "text": "Artigo 524.º Disposições subsidiárias Nº de artigos : 548 Páginas: 1 2 3 4 5 6 Seguinte > Ver índice sistemático do diploma Imprimir todo o diploma SUMÁRIO Aprova o Código do Processo Penal. Revoga o Decreto-Lei n.º 16489, de 15 de Fevereiro de 1929 _____________________ Excerpts from the Portuguese Code of Criminal Procedure; - (GDDC) Extraits du Code de procédure pénale portugais; - (GDDC) Estratti del Codice di Procedura Penale Portoghese; - (GDDC) Auszüge aus der Portugiesischen Strafprozessordnung; - (GDDC) Decreto-Lei n.º 78/87, de 17 de Fevereiro Depois de diversos propósitos e tentativas, algumas com começo de execução, que se foram esboçando ao longo dos anos, ingressa, por fim, na vida jurídica portuguesa um novo Código de Processo Penal. Só as obras não significativas são incontroversas; o Código, que agora passa a ocupar o espaço do de 1929 e da legislação avulsa que, dispersa e, por vezes, incoerentemente, o complementou, surge, no entanto, em resultado de uma ponderada preparação e de um debate institucional alargado. Decorrerão da sua entrada em vigor modificações orgânicas e adaptações de vária índole; haverá mesmo que reconverter, até certo ponto, as mentalidades de alguns dos protagonistas do sistema. Daí a necessidade de diferir o início da sua aplicação, excluindo-se, para além disso, tal aplicação aos processos pendentes. Uma excepção foi aberta; crê-se que com inteira justificação. Diz ela respeito à supressão da incaucionabilidade, por força da lei, qua...",
+      "tags": [
+        "código",
+        "diploma",
+        "processo",
+        "decreto",
+        "fevereiro"
+      ],
+      "relatedArticles": []
+    }
+  ]
+}

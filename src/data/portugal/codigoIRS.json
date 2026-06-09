@@ -1,0 +1,225 @@
+{
+  "country": "PT",
+  "code": "codigoIRS",
+  "displayName": "Código do IRS",
+  "color": "#276749",
+  "articles": [
+    {
+      "id": "irspt_1",
+      "number": "1",
+      "title": "Âmbito material de aplicação",
+      "text": "Artigo 1.º Âmbito material de aplicação",
+      "tags": [
+        "artigo",
+        "âmbito",
+        "material",
+        "aplicação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "irspt_2",
+      "number": "2",
+      "title": "Âmbito pessoal de aplicação",
+      "text": "Artigo 2.º Âmbito pessoal de aplicação",
+      "tags": [
+        "artigo",
+        "âmbito",
+        "pessoal",
+        "aplicação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "irspt_3",
+      "number": "3",
+      "title": "Estabelecimentos autorizados e pessoas qualificadas",
+      "text": "Artigo 3.º Estabelecimentos autorizados e pessoas qualificadas",
+      "tags": [
+        "artigo",
+        "estabelecimentos",
+        "autorizados",
+        "pessoas",
+        "qualificadas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "irspt_4",
+      "number": "4",
+      "title": "Confidencialidade",
+      "text": "Artigo 4.º Confidencialidade",
+      "tags": [
+        "artigo",
+        "confidencialidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "irspt_5",
+      "number": "5",
+      "title": "Gratuitidade",
+      "text": "Artigo 5.º Gratuitidade",
+      "tags": [
+        "artigo",
+        "gratuitidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "irspt_6",
+      "number": "6",
+      "title": "Admissibilidade",
+      "text": "Artigo 6.º Admissibilidade",
+      "tags": [
+        "artigo",
+        "admissibilidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "irspt_7",
+      "number": "7",
+      "title": "Informação",
+      "text": "Artigo 7.º Informação",
+      "tags": [
+        "artigo",
+        "informação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "irspt_8",
+      "number": "8",
+      "title": "Consentimento",
+      "text": "Artigo 8.º Consentimento",
+      "tags": [
+        "artigo",
+        "consentimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "irspt_9",
+      "number": "9",
+      "title": "Direito a assistência e indemnização",
+      "text": "Artigo 9.º Direito a assistência e indemnização",
+      "tags": [
+        "artigo",
+        "direito",
+        "assistência",
+        "indemnização"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "irspt_10",
+      "number": "10",
+      "title": "Potenciais dadores",
+      "text": "Artigo 10.º Potenciais dadores",
+      "tags": [
+        "artigo",
+        "potenciais",
+        "dadores"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "irspt_11",
+      "number": "11",
+      "title": "Registo Nacional",
+      "text": "Artigo 11.º Registo Nacional",
+      "tags": [
+        "artigo",
+        "registo",
+        "nacional"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "irspt_12",
+      "number": "12",
+      "title": "Certificação da morte",
+      "text": "Artigo 12.º Certificação da morte",
+      "tags": [
+        "artigo",
+        "certificação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "irspt_13",
+      "number": "13",
+      "title": "Formalidades de certificação",
+      "text": "Artigo 13.º Formalidades de certificação",
+      "tags": [
+        "artigo",
+        "formalidades",
+        "certificação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "irspt_14",
+      "number": "14",
+      "title": "Cuidados a observar na execução da colheita",
+      "text": "Artigo 14.º Cuidados a observar na execução da colheita",
+      "tags": [
+        "artigo",
+        "cuidados",
+        "observar",
+        "execução",
+        "colheita"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "irspt_15",
+      "number": "15",
+      "title": "Campanha de informação",
+      "text": "Artigo 15.º Campanha de informação",
+      "tags": [
+        "artigo",
+        "campanha",
+        "informação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "irspt_16",
+      "number": "16",
+      "title": "Responsabilidade",
+      "text": "Artigo 16.º Responsabilidade",
+      "tags": [
+        "artigo",
+        "responsabilidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "irspt_17",
+      "number": "17",
+      "title": "Norma revogatória",
+      "text": "Artigo 17.º Norma revogatória",
+      "tags": [
+        "artigo",
+        "revogatória"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "irspt_18",
+      "number": "18",
+      "title": "Entrada em vigor Nº de artigos",
+      "text": "Artigo 18.º Entrada em vigor Nº de artigos : 21 Ver índice sistemático do diploma Imprimir todo o diploma SUMÁRIO Colheita e transplante de órgãos e tecidos de origem humana _____________________ A Assembleia da República decreta, nos termos dos artigos 164.º, alínea e), 168.º, n.º 1, alínea f), e 169.º, n.º 3, da Constituição, o seguinte: CAPÍTULO I Disposições gerais",
+      "tags": [
+        "artigos",
+        "diploma",
+        "alínea",
+        "artigo",
+        "entrada"
+      ],
+      "relatedArticles": []
+    }
+  ]
+}

@@ -1,0 +1,2339 @@
+{
+  "country": "PT",
+  "code": "codigoEstrada",
+  "displayName": "Código da Estrada",
+  "color": "#C05621",
+  "articles": [
+    {
+      "id": "cept_1",
+      "number": "1",
+      "title": "Definições legais",
+      "text": "Artigo 1.º Definições legais",
+      "tags": [
+        "artigo",
+        "definições",
+        "legais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_2",
+      "number": "2",
+      "title": "Âmbito de aplicação",
+      "text": "Artigo 2.º Âmbito de aplicação",
+      "tags": [
+        "artigo",
+        "âmbito",
+        "aplicação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_3",
+      "number": "3",
+      "title": "Liberdade de trânsito",
+      "text": "Artigo 3.º Liberdade de trânsito",
+      "tags": [
+        "artigo",
+        "liberdade",
+        "trânsito"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_4",
+      "number": "4",
+      "title": "Ordens das autoridades",
+      "text": "Artigo 4.º Ordens das autoridades",
+      "tags": [
+        "artigo",
+        "ordens",
+        "autoridades"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_5",
+      "number": "5",
+      "title": "Sinalização",
+      "text": "Artigo 5.º Sinalização",
+      "tags": [
+        "artigo",
+        "sinalização"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_6",
+      "number": "6",
+      "title": "Sinais",
+      "text": "Artigo 6.º Sinais",
+      "tags": [
+        "artigo",
+        "sinais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_7",
+      "number": "7",
+      "title": "Hierarquia entre prescrições",
+      "text": "Artigo 7.º Hierarquia entre prescrições",
+      "tags": [
+        "artigo",
+        "hierarquia",
+        "prescrições"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_8",
+      "number": "8",
+      "title": "Realização de obras e utilização das vias públicas para fins espec",
+      "text": "Artigo 8.º Realização de obras e utilização das vias públicas para fins especiais",
+      "tags": [
+        "artigo",
+        "realização",
+        "utilização",
+        "públicas",
+        "especiais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_9",
+      "number": "9",
+      "title": "Suspensão ou condicionamento do trânsito",
+      "text": "Artigo 9.º Suspensão ou condicionamento do trânsito",
+      "tags": [
+        "artigo",
+        "suspensão",
+        "condicionamento",
+        "trânsito"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_10",
+      "number": "10",
+      "title": "Proibição temporária ou permanente da circulação de certos veículo",
+      "text": "Artigo 10.º Proibição temporária ou permanente da circulação de certos veículos",
+      "tags": [
+        "artigo",
+        "proibição",
+        "temporária",
+        "permanente",
+        "circulação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_11",
+      "number": "11",
+      "title": "Condução de veículos e animais",
+      "text": "Artigo 11.º Condução de veículos e animais",
+      "tags": [
+        "artigo",
+        "condução",
+        "veículos",
+        "animais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_12",
+      "number": "12",
+      "title": "Início de marcha",
+      "text": "Artigo 12.º Início de marcha",
+      "tags": [
+        "artigo",
+        "início",
+        "marcha"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_13",
+      "number": "13",
+      "title": "Posição de marcha",
+      "text": "Artigo 13.º Posição de marcha",
+      "tags": [
+        "artigo",
+        "posição",
+        "marcha"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_14",
+      "number": "14",
+      "title": "Pluralidade de vias de trânsito dentro das localidades",
+      "text": "Artigo 14.º Pluralidade de vias de trânsito dentro das localidades",
+      "tags": [
+        "artigo",
+        "pluralidade",
+        "trânsito",
+        "dentro",
+        "localidades"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_15",
+      "number": "15",
+      "title": "Trânsito em filas paralelas",
+      "text": "Artigo 15.º Trânsito em filas paralelas",
+      "tags": [
+        "artigo",
+        "trânsito",
+        "paralelas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_16",
+      "number": "16",
+      "title": "Placas, postes, ilhéus e dispositivos semelhantes",
+      "text": "Artigo 16.º Placas, postes, ilhéus e dispositivos semelhantes",
+      "tags": [
+        "artigo",
+        "placas",
+        "postes",
+        "ilhéus",
+        "dispositivos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_17",
+      "number": "17",
+      "title": "Bermas e passeios",
+      "text": "Artigo 17.º Bermas e passeios",
+      "tags": [
+        "artigo",
+        "bermas",
+        "passeios"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_18",
+      "number": "18",
+      "title": "Distância entre veículos",
+      "text": "Artigo 18.º Distância entre veículos",
+      "tags": [
+        "artigo",
+        "distância",
+        "veículos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_19",
+      "number": "19",
+      "title": "Visibilidade reduzida ou insuficiente",
+      "text": "Artigo 19.º Visibilidade reduzida ou insuficiente",
+      "tags": [
+        "artigo",
+        "visibilidade",
+        "reduzida",
+        "insuficiente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_20",
+      "number": "20",
+      "title": "Veículos de transporte coletivo de passageiros",
+      "text": "Artigo 20.º Veículos de transporte coletivo de passageiros",
+      "tags": [
+        "artigo",
+        "veículos",
+        "transporte",
+        "coletivo",
+        "passageiros"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_21",
+      "number": "21",
+      "title": "Sinalização de manobras",
+      "text": "Artigo 21.º Sinalização de manobras",
+      "tags": [
+        "artigo",
+        "sinalização",
+        "manobras"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_22",
+      "number": "22",
+      "title": "Sinais sonoros",
+      "text": "Artigo 22.º Sinais sonoros",
+      "tags": [
+        "artigo",
+        "sinais",
+        "sonoros"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_23",
+      "number": "23",
+      "title": "Sinais luminosos",
+      "text": "Artigo 23.º Sinais luminosos",
+      "tags": [
+        "artigo",
+        "sinais",
+        "luminosos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_24",
+      "number": "24",
+      "title": "Princípios gerais",
+      "text": "Artigo 24.º Princípios gerais",
+      "tags": [
+        "artigo",
+        "princípios",
+        "gerais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_25",
+      "number": "25",
+      "title": "Velocidade moderada",
+      "text": "Artigo 25.º Velocidade moderada",
+      "tags": [
+        "artigo",
+        "velocidade",
+        "moderada"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_26",
+      "number": "26",
+      "title": "Marcha lenta",
+      "text": "Artigo 26.º Marcha lenta",
+      "tags": [
+        "artigo",
+        "marcha"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_27",
+      "number": "27",
+      "title": "Limites gerais de velocidade",
+      "text": "Artigo 27.º Limites gerais de velocidade",
+      "tags": [
+        "artigo",
+        "limites",
+        "gerais",
+        "velocidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_28",
+      "number": "28",
+      "title": "Limites especiais de velocidade",
+      "text": "Artigo 28.º Limites especiais de velocidade",
+      "tags": [
+        "artigo",
+        "limites",
+        "especiais",
+        "velocidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_29",
+      "number": "29",
+      "title": "Princípio geral",
+      "text": "Artigo 29.º Princípio geral",
+      "tags": [
+        "artigo",
+        "princípio"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_30",
+      "number": "30",
+      "title": "Regra geral",
+      "text": "Artigo 30.º Regra geral",
+      "tags": [
+        "artigo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_31",
+      "number": "31",
+      "title": "Cedência de passagem em certas vias ou troços",
+      "text": "Artigo 31.º Cedência de passagem em certas vias ou troços",
+      "tags": [
+        "artigo",
+        "cedência",
+        "passagem",
+        "certas",
+        "troços"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_32",
+      "number": "32",
+      "title": "Cedência de passagem a certos veículos",
+      "text": "Artigo 32.º Cedência de passagem a certos veículos",
+      "tags": [
+        "artigo",
+        "cedência",
+        "passagem",
+        "certos",
+        "veículos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_33",
+      "number": "33",
+      "title": "Impossibilidade de cruzamento",
+      "text": "Artigo 33.º Impossibilidade de cruzamento",
+      "tags": [
+        "artigo",
+        "impossibilidade",
+        "cruzamento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_34",
+      "number": "34",
+      "title": "Veículos de grandes dimensões",
+      "text": "Artigo 34.º Veículos de grandes dimensões",
+      "tags": [
+        "artigo",
+        "veículos",
+        "grandes",
+        "dimensões"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_35",
+      "number": "35",
+      "title": "Disposição comum",
+      "text": "Artigo 35.º Disposição comum",
+      "tags": [
+        "artigo",
+        "disposição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_36",
+      "number": "36",
+      "title": "Regra geral",
+      "text": "Artigo 36.º Regra geral",
+      "tags": [
+        "artigo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_37",
+      "number": "37",
+      "title": "Exceções",
+      "text": "Artigo 37.º Exceções",
+      "tags": [
+        "artigo",
+        "exceções"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_38",
+      "number": "38",
+      "title": "Realização da manobra",
+      "text": "Artigo 38.º Realização da manobra",
+      "tags": [
+        "artigo",
+        "realização",
+        "manobra"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_39",
+      "number": "39",
+      "title": "Obrigação de facultar a ultrapassagem",
+      "text": "Artigo 39.º Obrigação de facultar a ultrapassagem",
+      "tags": [
+        "artigo",
+        "obrigação",
+        "facultar",
+        "ultrapassagem"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_40",
+      "number": "40",
+      "title": "Veículos de marcha lenta",
+      "text": "Artigo 40.º Veículos de marcha lenta",
+      "tags": [
+        "artigo",
+        "veículos",
+        "marcha"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_41",
+      "number": "41",
+      "title": "Ultrapassagens proibidas",
+      "text": "Artigo 41.º Ultrapassagens proibidas",
+      "tags": [
+        "artigo",
+        "ultrapassagens",
+        "proibidas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_42",
+      "number": "42",
+      "title": "Pluralidade de vias e trânsito em filas paralelas",
+      "text": "Artigo 42.º Pluralidade de vias e trânsito em filas paralelas",
+      "tags": [
+        "artigo",
+        "pluralidade",
+        "trânsito",
+        "paralelas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_43",
+      "number": "43",
+      "title": "Mudança de direção para a direita",
+      "text": "Artigo 43.º Mudança de direção para a direita",
+      "tags": [
+        "artigo",
+        "mudança",
+        "direção",
+        "direita"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_44",
+      "number": "44",
+      "title": "Mudança de direção para a esquerda",
+      "text": "Artigo 44.º Mudança de direção para a esquerda",
+      "tags": [
+        "artigo",
+        "mudança",
+        "direção",
+        "esquerda"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_45",
+      "number": "45",
+      "title": "Lugares em que é proibida",
+      "text": "Artigo 45.º Lugares em que é proibida",
+      "tags": [
+        "artigo",
+        "lugares",
+        "proibida"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_46",
+      "number": "46",
+      "title": "Realização da manobra",
+      "text": "Artigo 46.º Realização da manobra",
+      "tags": [
+        "artigo",
+        "realização",
+        "manobra"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_47",
+      "number": "47",
+      "title": "Lugares em que é proibida",
+      "text": "Artigo 47.º Lugares em que é proibida",
+      "tags": [
+        "artigo",
+        "lugares",
+        "proibida"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_48",
+      "number": "48",
+      "title": "Como devem efetuar-se",
+      "text": "Artigo 48.º Como devem efetuar-se",
+      "tags": [
+        "artigo",
+        "efetuar"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_49",
+      "number": "49",
+      "title": "Proibição de paragem ou estacionamento",
+      "text": "Artigo 49.º Proibição de paragem ou estacionamento",
+      "tags": [
+        "artigo",
+        "proibição",
+        "paragem",
+        "estacionamento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_50",
+      "number": "50",
+      "title": "Proibição de estacionamento",
+      "text": "Artigo 50.º Proibição de estacionamento",
+      "tags": [
+        "artigo",
+        "proibição",
+        "estacionamento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_51",
+      "number": "51",
+      "title": "Contagem das distâncias",
+      "text": "Artigo 51.º Contagem das distâncias",
+      "tags": [
+        "artigo",
+        "contagem",
+        "distâncias"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_52",
+      "number": "52",
+      "title": "Paragem de veículos de transporte coletivo",
+      "text": "Artigo 52.º Paragem de veículos de transporte coletivo",
+      "tags": [
+        "artigo",
+        "paragem",
+        "veículos",
+        "transporte",
+        "coletivo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_53",
+      "number": "53",
+      "title": "Regras gerais",
+      "text": "Artigo 53.º Regras gerais",
+      "tags": [
+        "artigo",
+        "regras",
+        "gerais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_54",
+      "number": "54",
+      "title": "Transporte de pessoas",
+      "text": "Artigo 54.º Transporte de pessoas",
+      "tags": [
+        "artigo",
+        "transporte",
+        "pessoas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_55",
+      "number": "55",
+      "title": "Transporte de crianças em automóvel",
+      "text": "Artigo 55.º Transporte de crianças em automóvel",
+      "tags": [
+        "artigo",
+        "transporte",
+        "crianças",
+        "automóvel"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_56",
+      "number": "56",
+      "title": "Transporte de carga",
+      "text": "Artigo 56.º Transporte de carga",
+      "tags": [
+        "artigo",
+        "transporte"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_57",
+      "number": "57",
+      "title": "Proibição de trânsito",
+      "text": "Artigo 57.º Proibição de trânsito",
+      "tags": [
+        "artigo",
+        "proibição",
+        "trânsito"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_58",
+      "number": "58",
+      "title": "Autorização especial",
+      "text": "Artigo 58.º Autorização especial",
+      "tags": [
+        "artigo",
+        "autorização",
+        "especial"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_59",
+      "number": "59",
+      "title": "Regras gerais",
+      "text": "Artigo 59.º Regras gerais",
+      "tags": [
+        "artigo",
+        "regras",
+        "gerais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_60",
+      "number": "60",
+      "title": "Utilização de luzes",
+      "text": "Artigo 60.º Utilização de luzes",
+      "tags": [
+        "artigo",
+        "utilização"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_61",
+      "number": "61",
+      "title": "Condições de utilização das luzes",
+      "text": "Artigo 61.º Condições de utilização das luzes",
+      "tags": [
+        "artigo",
+        "condições",
+        "utilização"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_62",
+      "number": "62",
+      "title": "Avaria nas luzes",
+      "text": "Artigo 62.º Avaria nas luzes",
+      "tags": [
+        "artigo",
+        "avaria"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_63",
+      "number": "63",
+      "title": "Sinalização de perigo",
+      "text": "Artigo 63.º Sinalização de perigo",
+      "tags": [
+        "artigo",
+        "sinalização",
+        "perigo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_64",
+      "number": "64",
+      "title": "Trânsito de veículos em serviço de urgência",
+      "text": "Artigo 64.º Trânsito de veículos em serviço de urgência",
+      "tags": [
+        "artigo",
+        "trânsito",
+        "veículos",
+        "serviço",
+        "urgência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_65",
+      "number": "65",
+      "title": "Cedência de passagem",
+      "text": "Artigo 65.º Cedência de passagem",
+      "tags": [
+        "artigo",
+        "cedência",
+        "passagem"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_66",
+      "number": "66",
+      "title": "Trânsito de veículos que efetuam transportes especiais",
+      "text": "Artigo 66.º Trânsito de veículos que efetuam transportes especiais",
+      "tags": [
+        "artigo",
+        "trânsito",
+        "veículos",
+        "efetuam",
+        "transportes"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_67",
+      "number": "67",
+      "title": "Atravessamento",
+      "text": "Artigo 67.º Atravessamento",
+      "tags": [
+        "artigo",
+        "atravessamento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_68",
+      "number": "68",
+      "title": "Imobilização forçada de veículo ou animal",
+      "text": "Artigo 68.º Imobilização forçada de veículo ou animal",
+      "tags": [
+        "artigo",
+        "imobilização",
+        "forçada",
+        "veículo",
+        "animal"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_69",
+      "number": "69",
+      "title": "Atravessamento",
+      "text": "Artigo 69.º Atravessamento",
+      "tags": [
+        "artigo",
+        "atravessamento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_70",
+      "number": "70",
+      "title": "Regras gerais",
+      "text": "Artigo 70.º Regras gerais",
+      "tags": [
+        "artigo",
+        "regras",
+        "gerais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_71",
+      "number": "71",
+      "title": "Estacionamento proibido",
+      "text": "Artigo 71.º Estacionamento proibido",
+      "tags": [
+        "artigo",
+        "estacionamento",
+        "proibido"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_72",
+      "number": "72",
+      "title": "Autoestradas",
+      "text": "Artigo 72.º Autoestradas",
+      "tags": [
+        "artigo",
+        "autoestradas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_73",
+      "number": "73",
+      "title": "Entrada e saída das autoestradas",
+      "text": "Artigo 73.º Entrada e saída das autoestradas",
+      "tags": [
+        "artigo",
+        "entrada",
+        "autoestradas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_74",
+      "number": "74",
+      "title": "Trânsito de veículos pesados de mercadorias ou conjuntos de veícul",
+      "text": "Artigo 74.º Trânsito de veículos pesados de mercadorias ou conjuntos de veículos",
+      "tags": [
+        "veículos",
+        "artigo",
+        "trânsito",
+        "pesados",
+        "mercadorias"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_75",
+      "number": "75",
+      "title": "Vias reservadas a automóveis e motociclos",
+      "text": "Artigo 75.º Vias reservadas a automóveis e motociclos",
+      "tags": [
+        "artigo",
+        "reservadas",
+        "automóveis",
+        "motociclos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_76",
+      "number": "76",
+      "title": "Vias reservadas",
+      "text": "Artigo 76.º Vias reservadas",
+      "tags": [
+        "artigo",
+        "reservadas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_77",
+      "number": "77",
+      "title": "Vias de trânsito reservadas",
+      "text": "Artigo 77.º Vias de trânsito reservadas",
+      "tags": [
+        "artigo",
+        "trânsito",
+        "reservadas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_78",
+      "number": "78",
+      "title": "Pistas especiais",
+      "text": "Artigo 78.º Pistas especiais",
+      "tags": [
+        "artigo",
+        "pistas",
+        "especiais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_79",
+      "number": "79",
+      "title": "Poluição do solo e do ar",
+      "text": "Artigo 79.º Poluição do solo e do ar",
+      "tags": [
+        "artigo",
+        "poluição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_80",
+      "number": "80",
+      "title": "Poluição sonora",
+      "text": "Artigo 80.º Poluição sonora",
+      "tags": [
+        "artigo",
+        "poluição",
+        "sonora"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_81",
+      "number": "81",
+      "title": "Condução sob influência de álcool ou de substâncias psicotrópicas",
+      "text": "Artigo 81.º Condução sob influência de álcool ou de substâncias psicotrópicas",
+      "tags": [
+        "artigo",
+        "condução",
+        "influência",
+        "álcool",
+        "substâncias"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_82",
+      "number": "82",
+      "title": "Utilização de dispositivos de segurança",
+      "text": "Artigo 82.º Utilização de dispositivos de segurança",
+      "tags": [
+        "artigo",
+        "utilização",
+        "dispositivos",
+        "segurança"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_83",
+      "number": "83",
+      "title": "Condução profissional de veículos de transporte",
+      "text": "Artigo 83.º Condução profissional de veículos de transporte",
+      "tags": [
+        "artigo",
+        "condução",
+        "profissional",
+        "veículos",
+        "transporte"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_84",
+      "number": "84",
+      "title": "Proibição de utilização de certos aparelhos",
+      "text": "Artigo 84.º Proibição de utilização de certos aparelhos",
+      "tags": [
+        "artigo",
+        "proibição",
+        "utilização",
+        "certos",
+        "aparelhos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_85",
+      "number": "85",
+      "title": "Documentos de que o condutor deve ser portador",
+      "text": "Artigo 85.º Documentos de que o condutor deve ser portador",
+      "tags": [
+        "artigo",
+        "documentos",
+        "condutor",
+        "portador"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_86",
+      "number": "86",
+      "title": "Prescrições especiais",
+      "text": "Artigo 86.º Prescrições especiais",
+      "tags": [
+        "artigo",
+        "prescrições",
+        "especiais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_87",
+      "number": "87",
+      "title": "Imobilização forçada por avaria ou acidente",
+      "text": "Artigo 87.º Imobilização forçada por avaria ou acidente",
+      "tags": [
+        "artigo",
+        "imobilização",
+        "forçada",
+        "avaria",
+        "acidente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_88",
+      "number": "88",
+      "title": "Pré-sinalização de perigo",
+      "text": "Artigo 88.º Pré-sinalização de perigo",
+      "tags": [
+        "artigo",
+        "sinalização",
+        "perigo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_89",
+      "number": "89",
+      "title": "Identificação em caso de acidente",
+      "text": "Artigo 89.º Identificação em caso de acidente",
+      "tags": [
+        "artigo",
+        "identificação",
+        "acidente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_90",
+      "number": "90",
+      "title": "Regras de condução",
+      "text": "Artigo 90.º Regras de condução",
+      "tags": [
+        "artigo",
+        "regras",
+        "condução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_91",
+      "number": "91",
+      "title": "Transporte de passageiros",
+      "text": "Artigo 91.º Transporte de passageiros",
+      "tags": [
+        "artigo",
+        "transporte",
+        "passageiros"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_92",
+      "number": "92",
+      "title": "Transporte de carga",
+      "text": "Artigo 92.º Transporte de carga",
+      "tags": [
+        "artigo",
+        "transporte"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_93",
+      "number": "93",
+      "title": "Utilização das luzes",
+      "text": "Artigo 93.º Utilização das luzes",
+      "tags": [
+        "artigo",
+        "utilização"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_94",
+      "number": "94",
+      "title": "Avaria nas luzes",
+      "text": "Artigo 94.º Avaria nas luzes",
+      "tags": [
+        "artigo",
+        "avaria"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_95",
+      "number": "95",
+      "title": "Sinalização de perigo",
+      "text": "Artigo 95.º Sinalização de perigo",
+      "tags": [
+        "artigo",
+        "sinalização",
+        "perigo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_96",
+      "number": "96",
+      "title": "Remissão",
+      "text": "Artigo 96.º Remissão",
+      "tags": [
+        "artigo",
+        "remissão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_97",
+      "number": "97",
+      "title": "Regras especiais",
+      "text": "Artigo 97.º Regras especiais",
+      "tags": [
+        "artigo",
+        "regras",
+        "especiais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_98",
+      "number": "98",
+      "title": "Regulamentação local",
+      "text": "Artigo 98.º Regulamentação local",
+      "tags": [
+        "artigo",
+        "regulamentação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_99",
+      "number": "99",
+      "title": "Lugares em que podem transitar",
+      "text": "Artigo 99.º Lugares em que podem transitar",
+      "tags": [
+        "artigo",
+        "lugares",
+        "transitar"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_100",
+      "number": "100",
+      "title": "Posição a ocupar na via",
+      "text": "Artigo 100.º Posição a ocupar na via",
+      "tags": [
+        "artigo",
+        "posição",
+        "ocupar"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_101",
+      "number": "101",
+      "title": "Atravessamento da faixa de rodagem",
+      "text": "Artigo 101.º Atravessamento da faixa de rodagem",
+      "tags": [
+        "artigo",
+        "atravessamento",
+        "rodagem"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_102",
+      "number": "102",
+      "title": "Iluminação de cortejos e formações organizadas",
+      "text": "Artigo 102.º Iluminação de cortejos e formações organizadas",
+      "tags": [
+        "artigo",
+        "iluminação",
+        "cortejos",
+        "formações",
+        "organizadas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_103",
+      "number": "103",
+      "title": "Cuidados a observar pelos condutores",
+      "text": "Artigo 103.º Cuidados a observar pelos condutores",
+      "tags": [
+        "artigo",
+        "cuidados",
+        "observar",
+        "condutores"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_104",
+      "number": "104",
+      "title": "Equiparação",
+      "text": "Artigo 104.º Equiparação",
+      "tags": [
+        "artigo",
+        "equiparação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_105",
+      "number": "105",
+      "title": "Automóveis",
+      "text": "Artigo 105.º Automóveis",
+      "tags": [
+        "artigo",
+        "automóveis"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_106",
+      "number": "106",
+      "title": "Classes e tipos de automóveis",
+      "text": "Artigo 106.º Classes e tipos de automóveis",
+      "tags": [
+        "artigo",
+        "classes",
+        "automóveis"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_107",
+      "number": "107",
+      "title": "Motociclos, ciclomotores, triciclos e quadriciclos",
+      "text": "Artigo 107.º Motociclos, ciclomotores, triciclos e quadriciclos",
+      "tags": [
+        "artigo",
+        "motociclos",
+        "ciclomotores",
+        "triciclos",
+        "quadriciclos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_108",
+      "number": "108",
+      "title": "Veículos agrícolas",
+      "text": "Artigo 108.º Veículos agrícolas",
+      "tags": [
+        "artigo",
+        "veículos",
+        "agrícolas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_109",
+      "number": "109",
+      "title": "Outros veículos a motor",
+      "text": "Artigo 109.º Outros veículos a motor",
+      "tags": [
+        "artigo",
+        "outros",
+        "veículos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_110",
+      "number": "110",
+      "title": "Reboques",
+      "text": "Artigo 110.º Reboques",
+      "tags": [
+        "artigo",
+        "reboques"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_111",
+      "number": "111",
+      "title": "Veículos únicos e conjuntos de veículos",
+      "text": "Artigo 111.º Veículos únicos e conjuntos de veículos",
+      "tags": [
+        "veículos",
+        "artigo",
+        "únicos",
+        "conjuntos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_112",
+      "number": "112",
+      "title": "Velocípedes",
+      "text": "Artigo 112.º Velocípedes",
+      "tags": [
+        "artigo",
+        "velocípedes"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_113",
+      "number": "113",
+      "title": "Reboque de veículos de duas rodas e carro lateral",
+      "text": "Artigo 113.º Reboque de veículos de duas rodas e carro lateral",
+      "tags": [
+        "artigo",
+        "reboque",
+        "veículos",
+        "lateral"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_114",
+      "number": "114",
+      "title": "Características dos veículos",
+      "text": "Artigo 114.º Características dos veículos",
+      "tags": [
+        "artigo",
+        "características",
+        "veículos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_115",
+      "number": "115",
+      "title": "Transformação de veículos",
+      "text": "Artigo 115.º Transformação de veículos",
+      "tags": [
+        "artigo",
+        "transformação",
+        "veículos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_116",
+      "number": "116",
+      "title": "Inspeções",
+      "text": "Artigo 116.º Inspeções",
+      "tags": [
+        "artigo",
+        "inspeções"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_117",
+      "number": "117",
+      "title": "Obrigatoriedade de matrícula",
+      "text": "Artigo 117.º Obrigatoriedade de matrícula",
+      "tags": [
+        "artigo",
+        "obrigatoriedade",
+        "matrícula"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_118",
+      "number": "118",
+      "title": "Identificação do veículo",
+      "text": "Artigo 118.º Identificação do veículo",
+      "tags": [
+        "artigo",
+        "identificação",
+        "veículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_119",
+      "number": "119",
+      "title": "Cancelamento da matrícula",
+      "text": "Artigo 119.º Cancelamento da matrícula",
+      "tags": [
+        "artigo",
+        "cancelamento",
+        "matrícula"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_120",
+      "number": "120",
+      "title": "Regime especial",
+      "text": "Artigo 120.º Regime especial",
+      "tags": [
+        "artigo",
+        "regime",
+        "especial"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_121",
+      "number": "121",
+      "title": "Habilitação legal para conduzir",
+      "text": "Artigo 121.º Habilitação legal para conduzir",
+      "tags": [
+        "artigo",
+        "habilitação",
+        "conduzir"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_122",
+      "number": "122",
+      "title": "Regime probatório",
+      "text": "Artigo 122.º Regime probatório",
+      "tags": [
+        "artigo",
+        "regime",
+        "probatório"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_123",
+      "number": "123",
+      "title": "Carta de condução",
+      "text": "Artigo 123.º Carta de condução",
+      "tags": [
+        "artigo",
+        "condução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_124",
+      "number": "124",
+      "title": "Licença de condução",
+      "text": "Artigo 124.º Licença de condução",
+      "tags": [
+        "artigo",
+        "licença",
+        "condução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_125",
+      "number": "125",
+      "title": "Outros títulos",
+      "text": "Artigo 125.º Outros títulos",
+      "tags": [
+        "artigo",
+        "outros",
+        "títulos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_126",
+      "number": "126",
+      "title": "Requisitos para a obtenção de títulos de condução",
+      "text": "Artigo 126.º Requisitos para a obtenção de títulos de condução",
+      "tags": [
+        "artigo",
+        "requisitos",
+        "obtenção",
+        "títulos",
+        "condução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_127",
+      "number": "127",
+      "title": "Restrições ao exercício da condução",
+      "text": "Artigo 127.º Restrições ao exercício da condução",
+      "tags": [
+        "artigo",
+        "restrições",
+        "exercício",
+        "condução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_128",
+      "number": "128",
+      "title": "Troca de títulos de condução",
+      "text": "Artigo 128.º Troca de títulos de condução",
+      "tags": [
+        "artigo",
+        "títulos",
+        "condução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_129",
+      "number": "129",
+      "title": "Novos exames",
+      "text": "Artigo 129.º Novos exames",
+      "tags": [
+        "artigo",
+        "exames"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_130",
+      "number": "130",
+      "title": "Caducidade dos títulos de condução",
+      "text": "Artigo 130.º Caducidade dos títulos de condução",
+      "tags": [
+        "artigo",
+        "caducidade",
+        "títulos",
+        "condução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_131",
+      "number": "131",
+      "title": "Âmbito",
+      "text": "Artigo 131.º Âmbito",
+      "tags": [
+        "artigo",
+        "âmbito"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_132",
+      "number": "132",
+      "title": "Regime",
+      "text": "Artigo 132.º Regime",
+      "tags": [
+        "artigo",
+        "regime"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_133",
+      "number": "133",
+      "title": "Punibilidade da negligência",
+      "text": "Artigo 133.º Punibilidade da negligência",
+      "tags": [
+        "artigo",
+        "punibilidade",
+        "negligência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_134",
+      "number": "134",
+      "title": "Concurso de infrações",
+      "text": "Artigo 134.º Concurso de infrações",
+      "tags": [
+        "artigo",
+        "concurso",
+        "infrações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_135",
+      "number": "135",
+      "title": "Responsabilidade pelas infrações",
+      "text": "Artigo 135.º Responsabilidade pelas infrações",
+      "tags": [
+        "artigo",
+        "responsabilidade",
+        "infrações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_136",
+      "number": "136",
+      "title": "Classificação das contraordenações rodoviárias",
+      "text": "Artigo 136.º Classificação das contraordenações rodoviárias",
+      "tags": [
+        "artigo",
+        "classificação",
+        "contraordenações",
+        "rodoviárias"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_137",
+      "number": "137",
+      "title": "Coima",
+      "text": "Artigo 137.º Coima",
+      "tags": [
+        "artigo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_138",
+      "number": "138",
+      "title": "Sanção acessória",
+      "text": "Artigo 138.º Sanção acessória",
+      "tags": [
+        "artigo",
+        "sanção",
+        "acessória"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_139",
+      "number": "139",
+      "title": "Determinação da medida da sanção",
+      "text": "Artigo 139.º Determinação da medida da sanção",
+      "tags": [
+        "artigo",
+        "determinação",
+        "medida",
+        "sanção"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_140",
+      "number": "140",
+      "title": "Atenuação especial da sanção acessória",
+      "text": "Artigo 140.º Atenuação especial da sanção acessória",
+      "tags": [
+        "artigo",
+        "atenuação",
+        "especial",
+        "sanção",
+        "acessória"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_141",
+      "number": "141",
+      "title": "Suspensão da execução da sanção acessória",
+      "text": "Artigo 141.º Suspensão da execução da sanção acessória",
+      "tags": [
+        "artigo",
+        "suspensão",
+        "execução",
+        "sanção",
+        "acessória"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_142",
+      "number": "142",
+      "title": "Revogação da suspensão da execução da sanção acessória",
+      "text": "Artigo 142.º Revogação da suspensão da execução da sanção acessória",
+      "tags": [
+        "artigo",
+        "revogação",
+        "suspensão",
+        "execução",
+        "sanção"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_143",
+      "number": "143",
+      "title": "Reincidência",
+      "text": "Artigo 143.º Reincidência",
+      "tags": [
+        "artigo",
+        "reincidência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_144",
+      "number": "144",
+      "title": "Registo de infrações",
+      "text": "Artigo 144.º Registo de infrações",
+      "tags": [
+        "artigo",
+        "registo",
+        "infrações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_145",
+      "number": "145",
+      "title": "Contraordenações graves",
+      "text": "Artigo 145.º Contraordenações graves",
+      "tags": [
+        "artigo",
+        "contraordenações",
+        "graves"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_146",
+      "number": "146",
+      "title": "Contraordenações muito graves",
+      "text": "Artigo 146.º Contraordenações muito graves",
+      "tags": [
+        "artigo",
+        "contraordenações",
+        "graves"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_147",
+      "number": "147",
+      "title": "Inibição de conduzir",
+      "text": "Artigo 147.º Inibição de conduzir",
+      "tags": [
+        "artigo",
+        "inibição",
+        "conduzir"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_148",
+      "number": "148",
+      "title": "Sistema de pontos e cassação do título de condução",
+      "text": "Artigo 148.º Sistema de pontos e cassação do título de condução",
+      "tags": [
+        "artigo",
+        "sistema",
+        "pontos",
+        "cassação",
+        "título"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_149",
+      "number": "149",
+      "title": "Registo de infrações",
+      "text": "Artigo 149.º Registo de infrações",
+      "tags": [
+        "artigo",
+        "registo",
+        "infrações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_150",
+      "number": "150",
+      "title": "Obrigação de seguro",
+      "text": "Artigo 150.º Obrigação de seguro",
+      "tags": [
+        "artigo",
+        "obrigação",
+        "seguro"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_151",
+      "number": "151",
+      "title": "Seguro de provas desportivas",
+      "text": "Artigo 151.º Seguro de provas desportivas",
+      "tags": [
+        "artigo",
+        "seguro",
+        "provas",
+        "desportivas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_152",
+      "number": "152",
+      "title": "Princípios gerais",
+      "text": "Artigo 152.º Princípios gerais",
+      "tags": [
+        "artigo",
+        "princípios",
+        "gerais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_153",
+      "number": "153",
+      "title": "Fiscalização da condução sob influência de álcool",
+      "text": "Artigo 153.º Fiscalização da condução sob influência de álcool",
+      "tags": [
+        "artigo",
+        "fiscalização",
+        "condução",
+        "influência",
+        "álcool"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_154",
+      "number": "154",
+      "title": "Impedimento de conduzir",
+      "text": "Artigo 154.º Impedimento de conduzir",
+      "tags": [
+        "artigo",
+        "impedimento",
+        "conduzir"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_155",
+      "number": "155",
+      "title": "Imobilização do veículo",
+      "text": "Artigo 155.º Imobilização do veículo",
+      "tags": [
+        "artigo",
+        "imobilização",
+        "veículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_156",
+      "number": "156",
+      "title": "Exames em caso de acidente",
+      "text": "Artigo 156.º Exames em caso de acidente",
+      "tags": [
+        "artigo",
+        "exames",
+        "acidente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_157",
+      "number": "157",
+      "title": "Fiscalização da condução sob influência de substâncias psicotrópic",
+      "text": "Artigo 157.º Fiscalização da condução sob influência de substâncias psicotrópicas",
+      "tags": [
+        "artigo",
+        "fiscalização",
+        "condução",
+        "influência",
+        "substâncias"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_158",
+      "number": "158",
+      "title": "Outras disposições",
+      "text": "Artigo 158.º Outras disposições",
+      "tags": [
+        "artigo",
+        "outras",
+        "disposições"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_159",
+      "number": "159",
+      "title": "Apreensão preventiva de títulos de condução",
+      "text": "Artigo 159.º Apreensão preventiva de títulos de condução",
+      "tags": [
+        "artigo",
+        "apreensão",
+        "preventiva",
+        "títulos",
+        "condução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_160",
+      "number": "160",
+      "title": "Outros casos de apreensão de títulos de condução",
+      "text": "Artigo 160.º Outros casos de apreensão de títulos de condução",
+      "tags": [
+        "artigo",
+        "outros",
+        "apreensão",
+        "títulos",
+        "condução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_161",
+      "number": "161",
+      "title": "Apreensão do documento de identificação do veículo",
+      "text": "Artigo 161.º Apreensão do documento de identificação do veículo",
+      "tags": [
+        "artigo",
+        "apreensão",
+        "documento",
+        "identificação",
+        "veículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_162",
+      "number": "162",
+      "title": "Apreensão de veículos",
+      "text": "Artigo 162.º Apreensão de veículos",
+      "tags": [
+        "artigo",
+        "apreensão",
+        "veículos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_163",
+      "number": "163",
+      "title": "Estacionamento indevido ou abusivo",
+      "text": "Artigo 163.º Estacionamento indevido ou abusivo",
+      "tags": [
+        "artigo",
+        "estacionamento",
+        "indevido",
+        "abusivo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_164",
+      "number": "164",
+      "title": "Bloqueamento e remoção",
+      "text": "Artigo 164.º Bloqueamento e remoção",
+      "tags": [
+        "artigo",
+        "bloqueamento",
+        "remoção"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_165",
+      "number": "165",
+      "title": "Presunção de abandono",
+      "text": "Artigo 165.º Presunção de abandono",
+      "tags": [
+        "artigo",
+        "presunção",
+        "abandono"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_166",
+      "number": "166",
+      "title": "Reclamação de veículos",
+      "text": "Artigo 166.º Reclamação de veículos",
+      "tags": [
+        "artigo",
+        "reclamação",
+        "veículos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_167",
+      "number": "167",
+      "title": "Hipoteca",
+      "text": "Artigo 167.º Hipoteca",
+      "tags": [
+        "artigo",
+        "hipoteca"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_168",
+      "number": "168",
+      "title": "Penhora",
+      "text": "Artigo 168.º Penhora",
+      "tags": [
+        "artigo",
+        "penhora"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_169",
+      "number": "169",
+      "title": "Competência para o processamento e aplicação das sanções",
+      "text": "Artigo 169.º Competência para o processamento e aplicação das sanções",
+      "tags": [
+        "artigo",
+        "competência",
+        "processamento",
+        "aplicação",
+        "sanções"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_170",
+      "number": "170",
+      "title": "Auto de notícia e de denúncia",
+      "text": "Artigo 170.º Auto de notícia e de denúncia",
+      "tags": [
+        "artigo",
+        "notícia",
+        "denúncia"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_171",
+      "number": "171",
+      "title": "Identificação do arguido",
+      "text": "Artigo 171.º Identificação do arguido",
+      "tags": [
+        "artigo",
+        "identificação",
+        "arguido"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_172",
+      "number": "172",
+      "title": "Cumprimento voluntário",
+      "text": "Artigo 172.º Cumprimento voluntário",
+      "tags": [
+        "artigo",
+        "cumprimento",
+        "voluntário"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_173",
+      "number": "173",
+      "title": "Garantia de cumprimento",
+      "text": "Artigo 173.º Garantia de cumprimento",
+      "tags": [
+        "artigo",
+        "garantia",
+        "cumprimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_174",
+      "number": "174",
+      "title": "Infratores com sanções por cumprir",
+      "text": "Artigo 174.º Infratores com sanções por cumprir",
+      "tags": [
+        "artigo",
+        "infratores",
+        "sanções",
+        "cumprir"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_175",
+      "number": "175",
+      "title": "Comunicação da infração e direito de audição e defesa do arguido",
+      "text": "Artigo 175.º Comunicação da infração e direito de audição e defesa do arguido",
+      "tags": [
+        "artigo",
+        "comunicação",
+        "infração",
+        "direito",
+        "audição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_176",
+      "number": "176",
+      "title": "Notificações",
+      "text": "Artigo 176.º Notificações",
+      "tags": [
+        "artigo",
+        "notificações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_177",
+      "number": "177",
+      "title": "Depoimentos",
+      "text": "Artigo 177.º Depoimentos",
+      "tags": [
+        "artigo",
+        "depoimentos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_178",
+      "number": "178",
+      "title": "Adiamento da diligência de inquirição de testemunhas",
+      "text": "Artigo 178.º Adiamento da diligência de inquirição de testemunhas",
+      "tags": [
+        "artigo",
+        "adiamento",
+        "diligência",
+        "inquirição",
+        "testemunhas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_179",
+      "number": "179",
+      "title": "Ausência do arguido",
+      "text": "Artigo 179.º Ausência do arguido",
+      "tags": [
+        "artigo",
+        "ausência",
+        "arguido"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_180",
+      "number": "180",
+      "title": "Medidas cautelares",
+      "text": "Artigo 180.º Medidas cautelares",
+      "tags": [
+        "artigo",
+        "medidas",
+        "cautelares"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_181",
+      "number": "181",
+      "title": "Decisão condenatória",
+      "text": "Artigo 181.º Decisão condenatória",
+      "tags": [
+        "artigo",
+        "decisão",
+        "condenatória"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_182",
+      "number": "182",
+      "title": "Cumprimento da decisão",
+      "text": "Artigo 182.º Cumprimento da decisão",
+      "tags": [
+        "artigo",
+        "cumprimento",
+        "decisão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_183",
+      "number": "183",
+      "title": "Pagamento da coima em prestações",
+      "text": "Artigo 183.º Pagamento da coima em prestações",
+      "tags": [
+        "artigo",
+        "pagamento",
+        "prestações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_184",
+      "number": "184",
+      "title": "Competência da entidade administrativa após decisão",
+      "text": "Artigo 184.º Competência da entidade administrativa após decisão",
+      "tags": [
+        "artigo",
+        "competência",
+        "entidade",
+        "administrativa",
+        "decisão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_185",
+      "number": "185",
+      "title": "Custas",
+      "text": "Artigo 185.º Custas",
+      "tags": [
+        "artigo",
+        "custas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_186",
+      "number": "186",
+      "title": "Recursos",
+      "text": "Artigo 186.º Recursos",
+      "tags": [
+        "artigo",
+        "recursos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_187",
+      "number": "187",
+      "title": "Efeitos do recurso",
+      "text": "Artigo 187.º Efeitos do recurso",
+      "tags": [
+        "artigo",
+        "efeitos",
+        "recurso"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_188",
+      "number": "188",
+      "title": "Prescrição do procedimento",
+      "text": "Artigo 188.º Prescrição do procedimento",
+      "tags": [
+        "artigo",
+        "prescrição",
+        "procedimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_189",
+      "number": "189",
+      "title": "Prescrição da coima e das sanções acessórias Nº de artigos",
+      "text": "Artigo 189.º Prescrição da coima e das sanções acessórias Nº de artigos : 199 Páginas: 1 2 Seguinte > Ver índice sistemático do diploma Imprimir todo o diploma SUMÁRIO Aprova o Código da Estrada _____________________ O Código da Estrada de 1954 e o seu regulamento geral eram, ao tempo da sua entrada em vigor, diplomas tecnicamente correctos, coerentes, bem redigidos e bem sistematizados. A evolução do próprio trânsito trouxe, porém, consigo, e sempre em medida crescente, a necessidade de proceder a inúmeras alterações naqueles textos, ou de os completar, conduzindo a uma situação em que o Código convivia com uma considerável legislação avulsa e com vasta regulamentação, nem sempre com ele facilmente compagináveis, tornando insegura e difícil a interpretação do normativo vigente. Tornava-se, portanto, necessário proceder à sua reforma e para tanto se lançou um processo de estudo amplamente participado por todas as entidades, públicas ou privadas, que, por estarem ligadas de um modo particular ao trânsito nas vias públicas, podiam, como vieram a fazer, dar aos trabalhos preparatórios contributos decisivos. Com a aprovação do presente Código pretende-se, fundamentalmente, uma actualização das regras jurídicas aplicáveis ao trânsito nas vias públicas, sem proceder a uma alteração radical, que não se mostra nem necessária, nem conveniente, nem, porventura, possível. É bem certo que, na perspectiva da segurança rodoviária, a referida evolução do trânsito impõe, de um modo geral, ma...",
+      "tags": [
+        "código",
+        "trânsito",
+        "proceder",
+        "públicas",
+        "diploma"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cept_201",
+      "number": "201",
+      "title": "Artigo 201",
+      "text": "artigo 201.º da Constituição, o Governo decreta o seguinte:",
+      "tags": [
+        "artigo",
+        "constituição",
+        "governo",
+        "decreta",
+        "seguinte"
+      ],
+      "relatedArticles": []
+    }
+  ]
+}

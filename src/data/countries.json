@@ -24,7 +24,11 @@
     "nameLocal": "Portugal",
     "flag": "🇵🇹",
     "active": true,
-    "codes": ["constituicaoPT", "codigoPenalPT", "codigoCivilPT", "codigoTrabalho"]
+    "codes": [
+      "constituicaoPT", "codigoPenalPT", "codigoCivilPT",
+      "codigoTrabalho", "codigoProcessoPenal", "codigoProcessoCivil",
+      "codigoComercial", "codigoEstrada", "codigoIRS", "codigoSociedades"
+    ]
   },
   { "code": "IT", "name": "Italy", "flag": "🇮🇹", "active": false },
   { "code": "ES", "name": "Spain", "flag": "🇪🇸", "active": false }

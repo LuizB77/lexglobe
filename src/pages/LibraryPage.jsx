@@ -7,7 +7,11 @@ import CodeIllustration from '../components/ui/CodeIllustration'
 
 const CODE_ORDER_BY_COUNTRY = {
   BR: ['constituicao', 'codigoPenal', 'codigoCivil', 'clt', 'eca', 'cdc'],
-  PT: ['constituicaoPT', 'codigoPenalPT', 'codigoCivilPT', 'codigoTrabalho'],
+  PT: [
+    'constituicaoPT', 'codigoPenalPT', 'codigoCivilPT', 'codigoTrabalho',
+    'codigoProcessoPenal', 'codigoProcessoCivil', 'codigoComercial',
+    'codigoEstrada', 'codigoIRS', 'codigoSociedades',
+  ],
 }
 
 const CODE_META = {
@@ -110,6 +114,66 @@ const CODE_META = {
     spine: '#1D9E75',
     icon: '👷',
     desc: 'Lei laboral portuguesa',
+  },
+  codigoProcessoPenal: {
+    label: 'Código de Processo Penal',
+    shortLabel: 'Proc. Penal',
+    year: '1987',
+    color: '#9B1C1C',
+    bg: '#fff5f5',
+    spine: '#C53030',
+    icon: '⚖️',
+    desc: 'Procedimento criminal português',
+  },
+  codigoProcessoCivil: {
+    label: 'Código de Processo Civil',
+    shortLabel: 'Proc. Civil',
+    year: '2013',
+    color: '#1a365d',
+    bg: '#ebf8ff',
+    spine: '#2B6CB0',
+    icon: '📋',
+    desc: 'Procedimento civil português',
+  },
+  codigoComercial: {
+    label: 'Código Comercial',
+    shortLabel: 'Cód. Comercial',
+    year: '1888',
+    color: '#744210',
+    bg: '#fffaf0',
+    spine: '#D69E2E',
+    icon: '⚓',
+    desc: 'Direito comercial e mercantil',
+  },
+  codigoEstrada: {
+    label: 'Código da Estrada',
+    shortLabel: 'Cód. Estrada',
+    year: '1994',
+    color: '#7B341E',
+    bg: '#fff8f0',
+    spine: '#C05621',
+    icon: '🚗',
+    desc: 'Regulação do trânsito e condução',
+  },
+  codigoIRS: {
+    label: 'Código do IRS',
+    shortLabel: 'IRS',
+    year: '1988',
+    color: '#1C4532',
+    bg: '#f0fff4',
+    spine: '#276749',
+    icon: '💶',
+    desc: 'Imposto sobre o rendimento singular',
+  },
+  codigoSociedades: {
+    label: 'Código das Sociedades',
+    shortLabel: 'Sociedades',
+    year: '1986',
+    color: '#1a365d',
+    bg: '#ebf8ff',
+    spine: '#2C5282',
+    icon: '🏢',
+    desc: 'Direito societário e empresarial',
   },
 }
 

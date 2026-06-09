@@ -10,10 +10,16 @@ const CODE_META = {
   clt:             { label: 'CLT',                       spine: '#1D9E75', color: '#145A3A' },
   eca:             { label: 'ECA',                       spine: '#F6AD55', color: '#923B05' },
   cdc:             { label: 'CDC',                       spine: '#63B3ED', color: '#1a4a7a' },
-  constituicaoPT:  { label: 'Constituição da República', spine: '#FFD700', color: '#B8860B' },
-  codigoPenalPT:   { label: 'Código Penal (PT)',         spine: '#E53E3E', color: '#9B1C1C' },
-  codigoCivilPT:   { label: 'Código Civil (PT)',         spine: '#7F77DD', color: '#4C3494' },
-  codigoTrabalho:  { label: 'Código do Trabalho',        spine: '#1D9E75', color: '#145A3A' },
+  constituicaoPT:      { label: 'Constituição da República',   spine: '#FFD700', color: '#B8860B' },
+  codigoPenalPT:       { label: 'Código Penal (PT)',           spine: '#E53E3E', color: '#9B1C1C' },
+  codigoCivilPT:       { label: 'Código Civil (PT)',           spine: '#7F77DD', color: '#4C3494' },
+  codigoTrabalho:      { label: 'Código do Trabalho',          spine: '#1D9E75', color: '#145A3A' },
+  codigoProcessoPenal: { label: 'Código de Processo Penal',    spine: '#C53030', color: '#9B1C1C' },
+  codigoProcessoCivil: { label: 'Código de Processo Civil',    spine: '#2B6CB0', color: '#1a365d' },
+  codigoComercial:     { label: 'Código Comercial',            spine: '#D69E2E', color: '#744210' },
+  codigoEstrada:       { label: 'Código da Estrada',           spine: '#C05621', color: '#7B341E' },
+  codigoIRS:           { label: 'Código do IRS',               spine: '#276749', color: '#1C4532' },
+  codigoSociedades:    { label: 'Código das Sociedades',       spine: '#2C5282', color: '#1a365d' },
 }
 
 const PREFIX_TO_CODE = {
@@ -23,10 +29,16 @@ const PREFIX_TO_CODE = {
   clt:  'clt',
   eca:  'eca',
   cdc:  'cdc',
-  cfpt: 'constituicaoPT',
-  cppt: 'codigoPenalPT',
-  ccpt: 'codigoCivilPT',
-  ctpt: 'codigoTrabalho',
+  cfpt:  'constituicaoPT',
+  cppt:  'codigoPenalPT',
+  ccpt:  'codigoCivilPT',
+  ctpt:  'codigoTrabalho',
+  cpppt: 'codigoProcessoPenal',
+  cpcpt: 'codigoProcessoCivil',
+  ccmpt: 'codigoComercial',
+  cept:  'codigoEstrada',
+  irspt: 'codigoIRS',
+  cscpt: 'codigoSociedades',
 }
 
 function getCodeKeyFromId(id) {
@@ -186,7 +198,7 @@ export default function AIAssistantPage() {
         </div>
         <div className="ml-auto flex items-center gap-1.5">
           <div className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse" />
-          <span className="text-xs text-white/40">Claude</span>
+          <span className="text-xs text-white/40">AI</span>
         </div>
       </div>
 
