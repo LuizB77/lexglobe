@@ -472,11 +472,8 @@ export default function LibraryPage() {
   const country = countries.find(c => c.code === countryCode)
   const CODE_ORDER = CODE_ORDER_BY_COUNTRY[countryCode] || CODE_ORDER_BY_COUNTRY['BR']
 
-  useEffect(() => {
-    if (!user) {
-      navigate('/', { replace: true })
-    }
-  }, [user, navigate])
+  // Allow guest browsing — no redirect needed
+  // Users just can't save bookmarks without an account
 
   const [openCode, setOpenCode] = useState(null)
   const [articleCounts, setArticleCounts] = useState({})

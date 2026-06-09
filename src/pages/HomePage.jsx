@@ -259,6 +259,7 @@ export default function HomePage() {
     enterCountry(country, globeInstance)
   }
 
+
   function handleAuthSuccess(country, globeInstance) {
     setAuthModal(null)
     enterCountry(country, globeInstance)
@@ -371,7 +372,13 @@ export default function HomePage() {
         <AuthModal
           countryName={authModal.country?.nameLocal || authModal.country?.name}
           onSuccess={() => handleAuthSuccess(authModal.country, authModal.globeInstance)}
-          onClose={() => setAuthModal(null)}
+          onClose={() => {
+            // Guest mode — close modal and enter country anyway
+            const country = authModal.country
+            const globeInstance = authModal.globeInstance
+            setAuthModal(null)
+            enterCountry(country, globeInstance)
+          }}
         />
       )}
 

@@ -184,6 +184,17 @@ export default function AuthModal({ onSuccess, onClose, countryName }) {
               {mode === 'signin' ? 'Sign up free' : 'Sign in'}
             </button>
           </p>
+
+          {/* Guest option */}
+          <div className="mt-4 pt-4 border-t border-gray-100 text-center">
+            <button
+              onClick={onClose}
+              className="text-xs text-gray-400 hover:text-gray-600
+                transition-colors py-1"
+            >
+              Continue as guest — browse without saving
+            </button>
+          </div>
         </div>
       </div>
     </div>
