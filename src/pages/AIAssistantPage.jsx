@@ -18,6 +18,10 @@ const CODE_META = {
   codigoProcessoCivil: { label: 'Código de Processo Civil',    spine: '#2B6CB0', color: '#1a365d' },
   codigoComercial:     { label: 'Código Comercial',            spine: '#D69E2E', color: '#744210' },
   codigoEstrada:       { label: 'Código da Estrada',           spine: '#C05621', color: '#7B341E' },
+  constitucionES:      { label: 'Constitución Española',       spine: '#C8A000', color: '#8B6914' },
+  codigoPenalES:       { label: 'Código Penal (ES)',           spine: '#C53030', color: '#9B1C1C' },
+  codigoCivilES:       { label: 'Código Civil (ES)',           spine: '#553C9A', color: '#44337A' },
+  estatutoTrabajadores:{ label: 'Estatuto de los Trabajadores',spine: '#276749', color: '#1C4532' },
 }
 
 const PREFIX_TO_CODE = {
@@ -35,6 +39,10 @@ const PREFIX_TO_CODE = {
   cpcpt: 'codigoProcessoCivil',
   ccmpt: 'codigoComercial',
   cept:  'codigoEstrada',
+  ces:  'constitucionES',
+  cpes: 'codigoPenalES',
+  cces: 'codigoCivilES',
+  etes: 'estatutoTrabajadores',
 }
 
 function getCodeKeyFromId(id) {

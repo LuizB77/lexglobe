@@ -31,5 +31,12 @@
     ]
   },
   { "code": "IT", "name": "Italy", "flag": "🇮🇹", "active": false },
-  { "code": "ES", "name": "Spain", "flag": "🇪🇸", "active": false }
+  {
+    "code": "ES",
+    "name": "Spain",
+    "nameLocal": "España",
+    "flag": "🇪🇸",
+    "active": true,
+    "codes": ["constitucionES", "codigoPenalES", "codigoCivilES", "estatutoTrabajadores"]
+  }
 ]

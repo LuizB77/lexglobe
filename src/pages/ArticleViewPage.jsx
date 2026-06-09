@@ -18,6 +18,10 @@ const CODE_META = {
   codigoProcessoCivil: { label: 'Código de Processo Civil',      color: '#1a365d', spine: '#2B6CB0', bg: '#ebf8ff' },
   codigoComercial:     { label: 'Código Comercial',              color: '#744210', spine: '#D69E2E', bg: '#fffaf0' },
   codigoEstrada:       { label: 'Código da Estrada',             color: '#7B341E', spine: '#C05621', bg: '#fff8f0' },
+  constitucionES:      { label: 'Constitución Española',         color: '#8B6914', spine: '#C8A000', bg: '#fffdf0' },
+  codigoPenalES:       { label: 'Código Penal (ES)',             color: '#9B1C1C', spine: '#C53030', bg: '#fff5f5' },
+  codigoCivilES:       { label: 'Código Civil (ES)',             color: '#44337A', spine: '#553C9A', bg: '#faf5ff' },
+  estatutoTrabajadores:{ label: 'Estatuto de los Trabajadores',  color: '#1C4532', spine: '#276749', bg: '#f0fff4' },
 }
 
 // articleId format: "cp_121", "cf_5", "cc_927", etc.
@@ -37,6 +41,10 @@ const PREFIX_TO_CODE = {
   cpcpt: 'codigoProcessoCivil',
   ccmpt: 'codigoComercial',
   cept:  'codigoEstrada',
+  ces:  'constitucionES',
+  cpes: 'codigoPenalES',
+  cces: 'codigoCivilES',
+  etes: 'estatutoTrabajadores',
 }
 
 function getCodeKeyFromId(articleId) {

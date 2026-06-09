@@ -99,6 +99,52 @@ function PortugalPanel({ visible, onEnter }) {
   )
 }
 
+function SpainPanel({ visible, onEnter }) {
+  return (
+    <div
+      className="absolute bottom-6 left-1/2 -translate-x-1/2 z-20
+        transition-all duration-300"
+      style={{
+        opacity: visible ? 1 : 0,
+        transform: visible
+          ? 'translateX(-50%) translateY(0)'
+          : 'translateX(-50%) translateY(12px)',
+        pointerEvents: visible ? 'auto' : 'none',
+        width: 'min(260px, calc(100vw - 32px))',
+      }}
+    >
+      <div className="rounded-2xl overflow-hidden shadow-2xl"
+        style={{ border: '1px solid rgba(255,255,255,0.6)' }}>
+        <div className="flex items-center justify-center py-8 text-6xl"
+          style={{ background: 'linear-gradient(135deg, #AA151B 0%, #F1BF00 50%, #AA151B 100%)' }}>
+          🇪🇸
+        </div>
+        <div className="bg-white/95 backdrop-blur px-4 py-3">
+          <div className="flex items-center gap-2 mb-2">
+            <span className="text-xl">🇪🇸</span>
+            <span className="font-bold text-gray-900 text-sm">España</span>
+            <span className="ml-auto text-xs px-2 py-0.5 rounded-full
+              bg-green-50 text-green-700 border border-green-200">
+              Available
+            </span>
+          </div>
+          <p className="text-xs text-gray-500 mb-3">
+            4 legal codes · Constitution, Penal, Civil, Labor
+          </p>
+          <button
+            onClick={onEnter}
+            className="w-full py-2.5 rounded-xl text-white text-sm font-semibold
+              min-h-[44px]"
+            style={{ backgroundColor: '#C8A000' }}
+          >
+            Explorar Biblioteca →
+          </button>
+        </div>
+      </div>
+    </div>
+  )
+}
+
 export default function HomePage() {
   const navigate = useNavigate()
   const { user } = useAuth()
@@ -107,6 +153,7 @@ export default function HomePage() {
   const [transitioning, setTransitioning] = useState(false)
   const [brazilHovered, setBrazilHovered] = useState(false)
   const [portugalHovered, setPortugalHovered] = useState(false)
+  const [spainHovered, setSpainHovered] = useState(false)
   const [authModal, setAuthModal] = useState(null) // { country, globeInstance }
   const [showHero, setShowHero] = useState(() => {
     const lastVisit = localStorage.getItem('lexglobe_last_visit')
@@ -151,6 +198,7 @@ export default function HomePage() {
     if (!user) {
       setBrazilHovered(false)
       setPortugalHovered(false)
+      setSpainHovered(false)
       setAuthModal({ country, globeInstance })
       return
     }
@@ -189,6 +237,7 @@ export default function HomePage() {
           if (isMobile) return
           setBrazilHovered(country?.code === 'BR')
           setPortugalHovered(country?.code === 'PT')
+          setSpainHovered(country?.code === 'ES')
         }}
         globeRef={globeRef}
         onMobileCountryTap={(country) => {
@@ -198,6 +247,11 @@ export default function HomePage() {
           } else if (country?.code === 'PT') {
             setPortugalHovered(true)
             setBrazilHovered(false)
+            setSpainHovered(false)
+          } else if (country?.code === 'ES') {
+            setSpainHovered(true)
+            setBrazilHovered(false)
+            setPortugalHovered(false)
           } else if (country?.active) {
             handleCountryClick(country, globeRef.current)
           } else {
@@ -224,6 +278,15 @@ export default function HomePage() {
       <PortugalPanel
         visible={portugalHovered && !authModal}
         onEnter={() => handleCountryClick(portugalCountry, globeRef.current)}
+      />
+
+      <SpainPanel
+        visible={spainHovered && !authModal}
+        onEnter={() => handleCountryClick(
+          { code: 'ES', name: 'Spain', nameLocal: 'España', flag: '🇪🇸', active: true,
+            codes: ['constitucionES', 'codigoPenalES', 'codigoCivilES', 'estatutoTrabajadores'] },
+          globeRef.current
+        )}
       />
 
       {/* Auth modal — globe stays visible behind */}

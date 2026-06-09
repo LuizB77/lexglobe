@@ -1,0 +1,266 @@
+{
+  "country": "ES",
+  "code": "constitucionES",
+  "displayName": "Constitución Española",
+  "color": "#C8A000",
+  "articles": [
+    {
+      "id": "ces_9",
+      "number": "9",
+      "title": "TÍTULO I",
+      "text": "Artículo 9 TÍTULO I",
+      "tags": [
+        "artículo",
+        "título"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ces_10",
+      "number": "10",
+      "title": "CAPÍTULO PRIMERO",
+      "text": "Artículo 10 CAPÍTULO PRIMERO",
+      "tags": [
+        "artículo",
+        "capítulo",
+        "primero"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ces_13",
+      "number": "13",
+      "title": "CAPÍTULO SEGUNDO",
+      "text": "Artículo 13 CAPÍTULO SEGUNDO",
+      "tags": [
+        "artículo",
+        "capítulo",
+        "segundo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ces_14",
+      "number": "14",
+      "title": "SECCIÓN 1",
+      "text": "Artículo 14 SECCIÓN 1",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ces_29",
+      "number": "29",
+      "title": "SECCIÓN 2",
+      "text": "Artículo 29 SECCIÓN 2",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ces_38",
+      "number": "38",
+      "title": "CAPÍTULO TERCERO",
+      "text": "Artículo 38 CAPÍTULO TERCERO",
+      "tags": [
+        "artículo",
+        "capítulo",
+        "tercero"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ces_52",
+      "number": "52",
+      "title": "CAPÍTULO CUARTO",
+      "text": "Artículo 52 CAPÍTULO CUARTO",
+      "tags": [
+        "artículo",
+        "capítulo",
+        "cuarto"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ces_54",
+      "number": "54",
+      "title": "CAPÍTULO QUINTO",
+      "text": "Artículo 54 CAPÍTULO QUINTO",
+      "tags": [
+        "artículo",
+        "capítulo",
+        "quinto"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ces_55",
+      "number": "55",
+      "title": "TÍTULO II",
+      "text": "Artículo 55 TÍTULO II",
+      "tags": [
+        "artículo",
+        "título"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ces_65",
+      "number": "65",
+      "title": "TÍTULO III CAPÍTULO PRIMERO",
+      "text": "Artículo 65 TÍTULO III CAPÍTULO PRIMERO",
+      "tags": [
+        "artículo",
+        "título",
+        "capítulo",
+        "primero"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ces_80",
+      "number": "80",
+      "title": "CAPÍTULO SEGUNDO",
+      "text": "Artículo 80 CAPÍTULO SEGUNDO",
+      "tags": [
+        "artículo",
+        "capítulo",
+        "segundo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ces_92",
+      "number": "92",
+      "title": "CAPÍTULO TERCERO",
+      "text": "Artículo 92 CAPÍTULO TERCERO",
+      "tags": [
+        "artículo",
+        "capítulo",
+        "tercero"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ces_96",
+      "number": "96",
+      "title": "TÍTULO IV",
+      "text": "Artículo 96 TÍTULO IV",
+      "tags": [
+        "artículo",
+        "título"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ces_107",
+      "number": "107",
+      "title": "TÍTULO V",
+      "text": "Artículo 107 TÍTULO V",
+      "tags": [
+        "artículo",
+        "título"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ces_116",
+      "number": "116",
+      "title": "TÍTULO VI",
+      "text": "Artículo 116 TÍTULO VI",
+      "tags": [
+        "artículo",
+        "título"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ces_127",
+      "number": "127",
+      "title": "TÍTULO VII",
+      "text": "Artículo 127 TÍTULO VII",
+      "tags": [
+        "artículo",
+        "título"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ces_136",
+      "number": "136",
+      "title": "TÍTULO VIII CAPÍTULO PRIMERO",
+      "text": "Artículo 136 TÍTULO VIII CAPÍTULO PRIMERO",
+      "tags": [
+        "artículo",
+        "título",
+        "capítulo",
+        "primero"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ces_139",
+      "number": "139",
+      "title": "CAPÍTULO SEGUNDO",
+      "text": "Artículo 139 CAPÍTULO SEGUNDO",
+      "tags": [
+        "artículo",
+        "capítulo",
+        "segundo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ces_142",
+      "number": "142",
+      "title": "CAPÍTULO TERCERO",
+      "text": "Artículo 142 CAPÍTULO TERCERO",
+      "tags": [
+        "artículo",
+        "capítulo",
+        "tercero"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ces_158",
+      "number": "158",
+      "title": "TÍTULO IX",
+      "text": "Artículo 158 TÍTULO IX",
+      "tags": [
+        "artículo",
+        "título"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ces_165",
+      "number": "165",
+      "title": "TÍTULO X",
+      "text": "Artículo 165 TÍTULO X",
+      "tags": [
+        "artículo",
+        "título"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ces_169",
+      "number": "169",
+      "title": "Disposición adicional primera Disposición adicional segunda Dispos",
+      "text": "Artículo 169 Disposición adicional primera Disposición adicional segunda Disposición adicional tercera Disposición adicional cuarta Disposición transitoria primera Disposición transitoria segunda Disposición transitoria tercera Disposición transitoria cuarta Disposición transitoria quinta Disposición transitoria sexta Disposición transitoria séptima Disposición transitoria octava Disposición transitoria novena Disposición derogatoria Disposición final [Firma] [Bloque 1: #preambulo] DON JUAN CARLOS I, REY DE ESPAÑA, A TODOS LOS QUE LA PRESENTE VIEREN Y ENTENDIEREN, SABED: QUE LAS CORTES HAN APROBADO Y EL PUEBLO ESPAÑOL RATIFICADO LA SIGUIENTE CONSTITUCIÓN: PREÁMBULO La Nación española, deseando establecer la justicia, la libertad y la seguridad y promover el bien de cuantos la integran, en uso de su soberanía, proclama su voluntad de: Garantizar la convivencia democrática dentro de la Constitución y de las leyes conforme a un orden económico y social justo. Consolidar un Estado de Derecho que asegure el imperio de la ley como expresión de la voluntad popular. Proteger a todos los españoles y pueblos de España en el ejercicio de los derechos humanos, sus culturas y tradiciones, lenguas e instituciones. Promover el progreso de la cultura y de la economía para asegurar a todos una digna calidad de vida. Establecer una sociedad democrática avanzada, y Colaborar en el fortalecimiento de unas relaciones pacíficas y de eficaz cooperación entre todos los pueblos de la Tierra. En conse...",
+      "tags": [
+        "disposición",
+        "transitoria",
+        "adicional",
+        "primera",
+        "segunda"
+      ],
+      "relatedArticles": []
+    }
+  ]
+}

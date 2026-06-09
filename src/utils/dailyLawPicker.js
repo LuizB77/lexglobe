@@ -25,6 +25,13 @@ export async function getDailyLaw(countryCode = 'BR') {
       import('../data/portugal/codigoComercial.json'),
       import('../data/portugal/codigoEstrada.json'),
     ])
+  } else if (countryCode === 'ES') {
+    modules = await Promise.all([
+      import('../data/spain/constitucionES.json'),
+      import('../data/spain/codigoPenalES.json'),
+      import('../data/spain/codigoCivilES.json'),
+      import('../data/spain/estatutoTrabajadores.json'),
+    ])
   } else {
     modules = await Promise.all([
       import('../data/brazil/constituicao.json'),

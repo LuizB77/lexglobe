@@ -15,6 +15,10 @@ const CODE_MAP = {
   codigoProcessoCivil: () => import('../data/portugal/codigoProcessoCivil.json'),
   codigoComercial:     () => import('../data/portugal/codigoComercial.json'),
   codigoEstrada:       () => import('../data/portugal/codigoEstrada.json'),
+  constitucionES:       () => import('../data/spain/constitucionES.json'),
+  codigoPenalES:        () => import('../data/spain/codigoPenalES.json'),
+  codigoCivilES:        () => import('../data/spain/codigoCivilES.json'),
+  estatutoTrabajadores: () => import('../data/spain/estatutoTrabajadores.json'),
 }
 
 const COUNTRY_CODES = {
@@ -24,6 +28,7 @@ const COUNTRY_CODES = {
     'codigoProcessoPenal', 'codigoProcessoCivil', 'codigoComercial',
     'codigoEstrada',
   ],
+  ES: ['constitucionES', 'codigoPenalES', 'codigoCivilES', 'estatutoTrabajadores'],
 }
 
 const cache = {}

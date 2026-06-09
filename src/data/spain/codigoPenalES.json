@@ -1,0 +1,2011 @@
+{
+  "country": "ES",
+  "code": "codigoPenalES",
+  "displayName": "Código Penal",
+  "color": "#C53030",
+  "articles": [
+    {
+      "id": "cpes_9",
+      "number": "9",
+      "title": "LIBRO I TÍTULO I CAPÍTULO I",
+      "text": "Artículo 9 LIBRO I TÍTULO I CAPÍTULO I",
+      "tags": [
+        "artículo",
+        "título",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_18",
+      "number": "18",
+      "title": "CAPÍTULO II",
+      "text": "Artículo 18 CAPÍTULO II",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_20",
+      "number": "20",
+      "title": "CAPÍTULO III",
+      "text": "Artículo 20 CAPÍTULO III",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_21",
+      "number": "21",
+      "title": "CAPÍTULO IV",
+      "text": "Artículo 21 CAPÍTULO IV",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_22",
+      "number": "22",
+      "title": "CAPÍTULO V",
+      "text": "Artículo 22 CAPÍTULO V",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_23",
+      "number": "23",
+      "title": "CAPÍTULO VI",
+      "text": "Artículo 23 CAPÍTULO VI",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_26",
+      "number": "26",
+      "title": "TÍTULO II",
+      "text": "Artículo 26 TÍTULO II",
+      "tags": [
+        "artículo",
+        "título"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_31bis",
+      "number": "31bis",
+      "title": "Artículo 31bis",
+      "text": "Artículo 31 bis",
+      "tags": [
+        "artículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_34",
+      "number": "34",
+      "title": "SECCIÓN 2",
+      "text": "Artículo 34 SECCIÓN 2",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_38",
+      "number": "38",
+      "title": "SECCIÓN 3",
+      "text": "Artículo 38 SECCIÓN 3",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_49",
+      "number": "49",
+      "title": "SECCIÓN 4",
+      "text": "Artículo 49 SECCIÓN 4",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_53",
+      "number": "53",
+      "title": "SECCIÓN 5",
+      "text": "Artículo 53 SECCIÓN 5",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_57",
+      "number": "57",
+      "title": "SECCIÓN 6",
+      "text": "Artículo 57 SECCIÓN 6",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_60",
+      "number": "60",
+      "title": "CAPÍTULO II SECCIÓN 1",
+      "text": "Artículo 60 CAPÍTULO II SECCIÓN 1",
+      "tags": [
+        "artículo",
+        "capítulo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_66bis",
+      "number": "66bis",
+      "title": "Artículo 66bis",
+      "text": "Artículo 66 bis",
+      "tags": [
+        "artículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_72",
+      "number": "72",
+      "title": "SECCIÓN 2",
+      "text": "Artículo 72 SECCIÓN 2",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_78bis",
+      "number": "78bis",
+      "title": "Artículo 78bis",
+      "text": "Artículo 78 bis",
+      "tags": [
+        "artículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_79",
+      "number": "79",
+      "title": "CAPÍTULO III SECCIÓN 1",
+      "text": "Artículo 79 CAPÍTULO III SECCIÓN 1",
+      "tags": [
+        "artículo",
+        "capítulo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_87",
+      "number": "87",
+      "title": "SECCIÓN 2",
+      "text": "Artículo 87 SECCIÓN 2",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_89",
+      "number": "89",
+      "title": "SECCIÓN 3",
+      "text": "Artículo 89 SECCIÓN 3",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_93",
+      "number": "93",
+      "title": "SECCIÓN 4",
+      "text": "Artículo 93 SECCIÓN 4",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_94bis",
+      "number": "94bis",
+      "title": "Artículo 94bis",
+      "text": "Artículo 94 bis TÍTULO IV CAPÍTULO I",
+      "tags": [
+        "artículo",
+        "título",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_100",
+      "number": "100",
+      "title": "CAPÍTULO II SECCIÓN 1",
+      "text": "Artículo 100 CAPÍTULO II SECCIÓN 1",
+      "tags": [
+        "artículo",
+        "capítulo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_104",
+      "number": "104",
+      "title": "SECCIÓN 2",
+      "text": "Artículo 104 SECCIÓN 2",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_108",
+      "number": "108",
+      "title": "TÍTULO V CAPÍTULO I",
+      "text": "Artículo 108 TÍTULO V CAPÍTULO I",
+      "tags": [
+        "artículo",
+        "título",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_115",
+      "number": "115",
+      "title": "CAPÍTULO II",
+      "text": "Artículo 115 CAPÍTULO II",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_122",
+      "number": "122",
+      "title": "CAPÍTULO III",
+      "text": "Artículo 122 CAPÍTULO III",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_124",
+      "number": "124",
+      "title": "CAPÍTULO IV",
+      "text": "Artículo 124 CAPÍTULO IV",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_126",
+      "number": "126",
+      "title": "TÍTULO VI",
+      "text": "Artículo 126 TÍTULO VI",
+      "tags": [
+        "artículo",
+        "título"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_127bis",
+      "number": "127bis",
+      "title": "Artículo 127bis",
+      "text": "Artículo 127 bis",
+      "tags": [
+        "artículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_129bis",
+      "number": "129bis",
+      "title": "Artículo 129bis",
+      "text": "Artículo 129 bis TÍTULO VII CAPÍTULO I",
+      "tags": [
+        "artículo",
+        "título",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_135",
+      "number": "135",
+      "title": "CAPÍTULO II",
+      "text": "Artículo 135 CAPÍTULO II",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_137",
+      "number": "137",
+      "title": "LIBRO II TÍTULO I",
+      "text": "Artículo 137 LIBRO II TÍTULO I",
+      "tags": [
+        "artículo",
+        "título"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_140bis",
+      "number": "140bis",
+      "title": "Artículo 140bis",
+      "text": "Artículo 140 bis",
+      "tags": [
+        "artículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_142bis",
+      "number": "142bis",
+      "title": "Artículo 142bis",
+      "text": "Artículo 142 bis",
+      "tags": [
+        "artículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_143bis",
+      "number": "143bis",
+      "title": "Artículo 143bis",
+      "text": "Artículo 143 bis TÍTULO II",
+      "tags": [
+        "artículo",
+        "título"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_145bis",
+      "number": "145bis",
+      "title": "Artículo 145bis",
+      "text": "Artículo 145 bis",
+      "tags": [
+        "artículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_146",
+      "number": "146",
+      "title": "TÍTULO III",
+      "text": "Artículo 146 TÍTULO III",
+      "tags": [
+        "artículo",
+        "título"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_152bis",
+      "number": "152bis",
+      "title": "Artículo 152bis",
+      "text": "Artículo 152 bis",
+      "tags": [
+        "artículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_156bis",
+      "number": "156bis",
+      "title": "Artículo 156bis",
+      "text": "Artículo 156 bis",
+      "tags": [
+        "artículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_158",
+      "number": "158",
+      "title": "TÍTULO V",
+      "text": "Artículo 158 TÍTULO V",
+      "tags": [
+        "artículo",
+        "título"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_162",
+      "number": "162",
+      "title": "TÍTULO VI CAPÍTULO I",
+      "text": "Artículo 162 TÍTULO VI CAPÍTULO I",
+      "tags": [
+        "artículo",
+        "título",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_168",
+      "number": "168",
+      "title": "CAPÍTULO II",
+      "text": "Artículo 168 CAPÍTULO II",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_171",
+      "number": "171",
+      "title": "CAPÍTULO III",
+      "text": "Artículo 171 CAPÍTULO III",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_172bis",
+      "number": "172bis",
+      "title": "Artículo 172bis",
+      "text": "Artículo 172 bis",
+      "tags": [
+        "artículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_177",
+      "number": "177",
+      "title": "TÍTULO VII bis",
+      "text": "Artículo 177 TÍTULO VII bis",
+      "tags": [
+        "artículo",
+        "título"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_177bis",
+      "number": "177bis",
+      "title": "Artículo 177bis",
+      "text": "Artículo 177 bis TÍTULO VIII CAPÍTULO I",
+      "tags": [
+        "artículo",
+        "título",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_180",
+      "number": "180",
+      "title": "CAPÍTULO II",
+      "text": "Artículo 180 CAPÍTULO II",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_183bis",
+      "number": "183bis",
+      "title": "Artículo 183bis",
+      "text": "Artículo 183 bis CAPÍTULO III",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_184",
+      "number": "184",
+      "title": "CAPÍTULO IV",
+      "text": "Artículo 184 CAPÍTULO IV",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_186",
+      "number": "186",
+      "title": "CAPÍTULO V",
+      "text": "Artículo 186 CAPÍTULO V",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_189bis",
+      "number": "189bis",
+      "title": "Artículo 189bis",
+      "text": "Artículo 189 bis",
+      "tags": [
+        "artículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_194bis",
+      "number": "194bis",
+      "title": "Artículo 194bis",
+      "text": "Artículo 194 bis TÍTULO IX",
+      "tags": [
+        "artículo",
+        "título"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_196",
+      "number": "196",
+      "title": "TÍTULO X CAPÍTULO I",
+      "text": "Artículo 196 TÍTULO X CAPÍTULO I",
+      "tags": [
+        "artículo",
+        "título",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_197bis",
+      "number": "197bis",
+      "title": "Artículo 197bis",
+      "text": "Artículo 197 bis",
+      "tags": [
+        "artículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_201",
+      "number": "201",
+      "title": "CAPÍTULO II",
+      "text": "Artículo 201 CAPÍTULO II",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_204",
+      "number": "204",
+      "title": "TÍTULO XI CAPÍTULO I",
+      "text": "Artículo 204 TÍTULO XI CAPÍTULO I",
+      "tags": [
+        "artículo",
+        "título",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_207",
+      "number": "207",
+      "title": "CAPÍTULO II",
+      "text": "Artículo 207 CAPÍTULO II",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_210",
+      "number": "210",
+      "title": "CAPÍTULO III",
+      "text": "Artículo 210 CAPÍTULO III",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_216",
+      "number": "216",
+      "title": "TÍTULO XII CAPÍTULO I",
+      "text": "Artículo 216 TÍTULO XII CAPÍTULO I",
+      "tags": [
+        "artículo",
+        "título",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_219",
+      "number": "219",
+      "title": "CAPÍTULO II",
+      "text": "Artículo 219 CAPÍTULO II",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_222",
+      "number": "222",
+      "title": "CAPÍTULO III SECCIÓN 1",
+      "text": "Artículo 222 CAPÍTULO III SECCIÓN 1",
+      "tags": [
+        "artículo",
+        "capítulo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_225",
+      "number": "225",
+      "title": "SECCIÓN 2",
+      "text": "Artículo 225 SECCIÓN 2",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_225bis",
+      "number": "225bis",
+      "title": "Artículo 225bis",
+      "text": "Artículo 225 bis SECCIÓN 3",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_233",
+      "number": "233",
+      "title": "TÍTULO XIII CAPÍTULO I",
+      "text": "Artículo 233 TÍTULO XIII CAPÍTULO I",
+      "tags": [
+        "artículo",
+        "título",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_236",
+      "number": "236",
+      "title": "CAPÍTULO II",
+      "text": "Artículo 236 CAPÍTULO II",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_242",
+      "number": "242",
+      "title": "CAPÍTULO III",
+      "text": "Artículo 242 CAPÍTULO III",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_243",
+      "number": "243",
+      "title": "CAPÍTULO IV",
+      "text": "Artículo 243 CAPÍTULO IV",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_244",
+      "number": "244",
+      "title": "CAPÍTULO V",
+      "text": "Artículo 244 CAPÍTULO V",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_247",
+      "number": "247",
+      "title": "CAPÍTULO VI SECCIÓN 1",
+      "text": "Artículo 247 CAPÍTULO VI SECCIÓN 1",
+      "tags": [
+        "artículo",
+        "capítulo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_251bis",
+      "number": "251bis",
+      "title": "Artículo 251bis",
+      "text": "Artículo 251 bis SECCIÓN 2",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_252",
+      "number": "252",
+      "title": "SECCIÓN 2 bis",
+      "text": "Artículo 252 SECCIÓN 2 bis",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_254",
+      "number": "254",
+      "title": "SECCIÓN 3",
+      "text": "Artículo 254 SECCIÓN 3",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_256",
+      "number": "256",
+      "title": "CAPÍTULO VII",
+      "text": "Artículo 256 CAPÍTULO VII",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_258bis",
+      "number": "258bis",
+      "title": "Artículo 258bis",
+      "text": "Artículo 258 bis",
+      "tags": [
+        "artículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_259bis",
+      "number": "259bis",
+      "title": "Artículo 259bis",
+      "text": "Artículo 259 bis",
+      "tags": [
+        "artículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_261bis",
+      "number": "261bis",
+      "title": "Artículo 261bis",
+      "text": "Artículo 261 bis CAPÍTULO VIII",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_262",
+      "number": "262",
+      "title": "CAPÍTULO IX",
+      "text": "Artículo 262 CAPÍTULO IX",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_264bis",
+      "number": "264bis",
+      "title": "Artículo 264bis",
+      "text": "Artículo 264 bis",
+      "tags": [
+        "artículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_267",
+      "number": "267",
+      "title": "CAPÍTULO X",
+      "text": "Artículo 267 CAPÍTULO X",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_269",
+      "number": "269",
+      "title": "CAPÍTULO XI SECCIÓN 1",
+      "text": "Artículo 269 CAPÍTULO XI SECCIÓN 1",
+      "tags": [
+        "artículo",
+        "capítulo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_272",
+      "number": "272",
+      "title": "SECCIÓN 2",
+      "text": "Artículo 272 SECCIÓN 2",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_277",
+      "number": "277",
+      "title": "SECCIÓN 3",
+      "text": "Artículo 277 SECCIÓN 3",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_282bis",
+      "number": "282bis",
+      "title": "Artículo 282bis",
+      "text": "Artículo 282 bis",
+      "tags": [
+        "artículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_285bis",
+      "number": "285bis",
+      "title": "Artículo 285bis",
+      "text": "Artículo 285 bis",
+      "tags": [
+        "artículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_286",
+      "number": "286",
+      "title": "SECCIÓN 4",
+      "text": "Artículo 286 SECCIÓN 4",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_286bis",
+      "number": "286bis",
+      "title": "Artículo 286bis",
+      "text": "Artículo 286 bis",
+      "tags": [
+        "artículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_288bis",
+      "number": "288bis",
+      "title": "Artículo 288bis",
+      "text": "Artículo 288 bis CAPÍTULO XII",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_289",
+      "number": "289",
+      "title": "CAPÍTULO XIII",
+      "text": "Artículo 289 CAPÍTULO XIII",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_297",
+      "number": "297",
+      "title": "CAPÍTULO XIV",
+      "text": "Artículo 297 CAPÍTULO XIV",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_304",
+      "number": "304",
+      "title": "TÍTULO XIII bis",
+      "text": "Artículo 304 TÍTULO XIII bis",
+      "tags": [
+        "artículo",
+        "título"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_304bis",
+      "number": "304bis",
+      "title": "Artículo 304bis",
+      "text": "Artículo 304 bis",
+      "tags": [
+        "artículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_305bis",
+      "number": "305bis",
+      "title": "Artículo 305bis",
+      "text": "Artículo 305 bis",
+      "tags": [
+        "artículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_307bis",
+      "number": "307bis",
+      "title": "Artículo 307bis",
+      "text": "Artículo 307 bis",
+      "tags": [
+        "artículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_308bis",
+      "number": "308bis",
+      "title": "Artículo 308bis",
+      "text": "Artículo 308 bis",
+      "tags": [
+        "artículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_310bis",
+      "number": "310bis",
+      "title": "Artículo 310bis",
+      "text": "Artículo 310 bis TÍTULO XV",
+      "tags": [
+        "artículo",
+        "título"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_311bis",
+      "number": "311bis",
+      "title": "Artículo 311bis",
+      "text": "Artículo 311 bis",
+      "tags": [
+        "artículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_318",
+      "number": "318",
+      "title": "TÍTULO XV bis",
+      "text": "Artículo 318 TÍTULO XV bis",
+      "tags": [
+        "artículo",
+        "título"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_318bis",
+      "number": "318bis",
+      "title": "Artículo 318bis",
+      "text": "Artículo 318 bis TÍTULO XVI CAPÍTULO I",
+      "tags": [
+        "artículo",
+        "título",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_320",
+      "number": "320",
+      "title": "CAPÍTULO II",
+      "text": "Artículo 320 CAPÍTULO II",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_324",
+      "number": "324",
+      "title": "CAPÍTULO III",
+      "text": "Artículo 324 CAPÍTULO III",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_326bis",
+      "number": "326bis",
+      "title": "Artículo 326bis",
+      "text": "Artículo 326 bis",
+      "tags": [
+        "artículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_331",
+      "number": "331",
+      "title": "CAPÍTULO IV",
+      "text": "Artículo 331 CAPÍTULO IV",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_337bis",
+      "number": "337bis",
+      "title": "Artículo 337bis",
+      "text": "Artículo 337 bis CAPÍTULO V",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_340",
+      "number": "340",
+      "title": "TÍTULO XVI bis",
+      "text": "Artículo 340 TÍTULO XVI bis",
+      "tags": [
+        "artículo",
+        "título"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_340bis",
+      "number": "340bis",
+      "title": "Artículo 340bis",
+      "text": "Artículo 340 bis",
+      "tags": [
+        "artículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_345",
+      "number": "345",
+      "title": "SECCIÓN 2",
+      "text": "Artículo 345 SECCIÓN 2",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_347",
+      "number": "347",
+      "title": "SECCIÓN 3",
+      "text": "Artículo 347 SECCIÓN 3",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_350",
+      "number": "350",
+      "title": "CAPÍTULO II SECCIÓN 1",
+      "text": "Artículo 350 CAPÍTULO II SECCIÓN 1",
+      "tags": [
+        "artículo",
+        "capítulo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_351",
+      "number": "351",
+      "title": "SECCIÓN 2",
+      "text": "Artículo 351 SECCIÓN 2",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_355",
+      "number": "355",
+      "title": "SECCIÓN 3",
+      "text": "Artículo 355 SECCIÓN 3",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_356",
+      "number": "356",
+      "title": "SECCIÓN 4",
+      "text": "Artículo 356 SECCIÓN 4",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_357",
+      "number": "357",
+      "title": "SECCIÓN 5",
+      "text": "Artículo 357 SECCIÓN 5",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_358bis",
+      "number": "358bis",
+      "title": "Artículo 358bis",
+      "text": "Artículo 358 bis CAPÍTULO III",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_361bis",
+      "number": "361bis",
+      "title": "Artículo 361bis",
+      "text": "Artículo 361 bis",
+      "tags": [
+        "artículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_362bis",
+      "number": "362bis",
+      "title": "Artículo 362bis",
+      "text": "Artículo 362 bis",
+      "tags": [
+        "artículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_369bis",
+      "number": "369bis",
+      "title": "Artículo 369bis",
+      "text": "Artículo 369 bis",
+      "tags": [
+        "artículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_378",
+      "number": "378",
+      "title": "CAPÍTULO IV",
+      "text": "Artículo 378 CAPÍTULO IV",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_382bis",
+      "number": "382bis",
+      "title": "Artículo 382bis",
+      "text": "Artículo 382 bis",
+      "tags": [
+        "artículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_385bis",
+      "number": "385bis",
+      "title": "Artículo 385bis",
+      "text": "Artículo 385 bis",
+      "tags": [
+        "artículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_389",
+      "number": "389",
+      "title": "CAPÍTULO II SECCIÓN 1",
+      "text": "Artículo 389 CAPÍTULO II SECCIÓN 1",
+      "tags": [
+        "artículo",
+        "capítulo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_394",
+      "number": "394",
+      "title": "SECCIÓN 2",
+      "text": "Artículo 394 SECCIÓN 2",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_396",
+      "number": "396",
+      "title": "SECCIÓN 3",
+      "text": "Artículo 396 SECCIÓN 3",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_399",
+      "number": "399",
+      "title": "SECCIÓN 4",
+      "text": "Artículo 399 SECCIÓN 4",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_399bis",
+      "number": "399bis",
+      "title": "Artículo 399bis",
+      "text": "Artículo 399 bis",
+      "tags": [
+        "artículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_400bis",
+      "number": "400bis",
+      "title": "Artículo 400bis",
+      "text": "Artículo 400 bis CAPÍTULO IV",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_401",
+      "number": "401",
+      "title": "CAPÍTULO V",
+      "text": "Artículo 401 CAPÍTULO V",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_402bis",
+      "number": "402bis",
+      "title": "Artículo 402bis",
+      "text": "Artículo 402 bis",
+      "tags": [
+        "artículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_403",
+      "number": "403",
+      "title": "TÍTULO XIX CAPÍTULO I",
+      "text": "Artículo 403 TÍTULO XIX CAPÍTULO I",
+      "tags": [
+        "artículo",
+        "título",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_406",
+      "number": "406",
+      "title": "CAPÍTULO II",
+      "text": "Artículo 406 CAPÍTULO II",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_409",
+      "number": "409",
+      "title": "CAPÍTULO III",
+      "text": "Artículo 409 CAPÍTULO III",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_412",
+      "number": "412",
+      "title": "CAPÍTULO IV",
+      "text": "Artículo 412 CAPÍTULO IV",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_418",
+      "number": "418",
+      "title": "CAPÍTULO V",
+      "text": "Artículo 418 CAPÍTULO V",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_427bis",
+      "number": "427bis",
+      "title": "Artículo 427bis",
+      "text": "Artículo 427 bis CAPÍTULO VI",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_431",
+      "number": "431",
+      "title": "CAPÍTULO VII",
+      "text": "Artículo 431 CAPÍTULO VII",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_432bis",
+      "number": "432bis",
+      "title": "Artículo 432bis",
+      "text": "Artículo 432 bis",
+      "tags": [
+        "artículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_433bis",
+      "number": "433bis",
+      "title": "Artículo 433bis",
+      "text": "Artículo 433 bis",
+      "tags": [
+        "artículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_435bis",
+      "number": "435bis",
+      "title": "Artículo 435bis",
+      "text": "Artículo 435 bis CAPÍTULO VIII",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_438bis",
+      "number": "438bis",
+      "title": "Artículo 438bis",
+      "text": "Artículo 438 bis CAPÍTULO IX",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_444",
+      "number": "444",
+      "title": "CAPÍTULO X",
+      "text": "Artículo 444 CAPÍTULO X",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_445",
+      "number": "445",
+      "title": "TÍTULO XX CAPÍTULO I",
+      "text": "Artículo 445 TÍTULO XX CAPÍTULO I",
+      "tags": [
+        "artículo",
+        "título",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_449",
+      "number": "449",
+      "title": "CAPÍTULO II",
+      "text": "Artículo 449 CAPÍTULO II",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_450",
+      "number": "450",
+      "title": "CAPÍTULO III",
+      "text": "Artículo 450 CAPÍTULO III",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_454",
+      "number": "454",
+      "title": "CAPÍTULO IV",
+      "text": "Artículo 454 CAPÍTULO IV",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_455",
+      "number": "455",
+      "title": "CAPÍTULO V",
+      "text": "Artículo 455 CAPÍTULO V",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_457",
+      "number": "457",
+      "title": "CAPÍTULO VI",
+      "text": "Artículo 457 CAPÍTULO VI",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_462",
+      "number": "462",
+      "title": "CAPÍTULO VII",
+      "text": "Artículo 462 CAPÍTULO VII",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_467",
+      "number": "467",
+      "title": "CAPÍTULO VIII",
+      "text": "Artículo 467 CAPÍTULO VIII",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_471",
+      "number": "471",
+      "title": "CAPÍTULO IX",
+      "text": "Artículo 471 CAPÍTULO IX",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_471bis",
+      "number": "471bis",
+      "title": "Artículo 471bis",
+      "text": "Artículo 471 bis TÍTULO XXI CAPÍTULO I",
+      "tags": [
+        "artículo",
+        "título",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_484",
+      "number": "484",
+      "title": "CAPÍTULO II",
+      "text": "Artículo 484 CAPÍTULO II",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_491",
+      "number": "491",
+      "title": "CAPÍTULO III SECCIÓN 1",
+      "text": "Artículo 491 CAPÍTULO III SECCIÓN 1",
+      "tags": [
+        "artículo",
+        "capítulo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_505",
+      "number": "505",
+      "title": "SECCIÓN 2",
+      "text": "Artículo 505 SECCIÓN 2",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_506bis",
+      "number": "506bis",
+      "title": "Artículo 506bis",
+      "text": "Artículo 506 bis",
+      "tags": [
+        "artículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_509",
+      "number": "509",
+      "title": "CAPÍTULO IV SECCIÓN 1",
+      "text": "Artículo 509 CAPÍTULO IV SECCIÓN 1",
+      "tags": [
+        "artículo",
+        "capítulo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_510bis",
+      "number": "510bis",
+      "title": "Artículo 510bis",
+      "text": "Artículo 510 bis",
+      "tags": [
+        "artículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_521bis",
+      "number": "521bis",
+      "title": "Artículo 521bis",
+      "text": "Artículo 521 bis SECCIÓN 2",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_528",
+      "number": "528",
+      "title": "CAPÍTULO V SECCIÓN 1",
+      "text": "Artículo 528 CAPÍTULO V SECCIÓN 1",
+      "tags": [
+        "artículo",
+        "capítulo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_533",
+      "number": "533",
+      "title": "SECCIÓN 2",
+      "text": "Artículo 533 SECCIÓN 2",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_536",
+      "number": "536",
+      "title": "SECCIÓN 3",
+      "text": "Artículo 536 SECCIÓN 3",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_542",
+      "number": "542",
+      "title": "CAPÍTULO VI",
+      "text": "Artículo 542 CAPÍTULO VI",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_543",
+      "number": "543",
+      "title": "TÍTULO XXII CAPÍTULO I",
+      "text": "Artículo 543 TÍTULO XXII CAPÍTULO I",
+      "tags": [
+        "artículo",
+        "título",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_549",
+      "number": "549",
+      "title": "CAPÍTULO II",
+      "text": "Artículo 549 CAPÍTULO II",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_556",
+      "number": "556",
+      "title": "CAPÍTULO III",
+      "text": "Artículo 556 CAPÍTULO III",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_557bis",
+      "number": "557bis",
+      "title": "Artículo 557bis",
+      "text": "Artículo 557 bis",
+      "tags": [
+        "artículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_561",
+      "number": "561",
+      "title": "CAPÍTULO IV",
+      "text": "Artículo 561 CAPÍTULO IV",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_562",
+      "number": "562",
+      "title": "CAPÍTULO V",
+      "text": "Artículo 562 CAPÍTULO V",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_570",
+      "number": "570",
+      "title": "CAPÍTULO VI",
+      "text": "Artículo 570 CAPÍTULO VI",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_570bis",
+      "number": "570bis",
+      "title": "Artículo 570bis",
+      "text": "Artículo 570 bis",
+      "tags": [
+        "artículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_572",
+      "number": "572",
+      "title": "SECCIÓN 2",
+      "text": "Artículo 572 SECCIÓN 2",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_573bis",
+      "number": "573bis",
+      "title": "Artículo 573bis",
+      "text": "Artículo 573 bis",
+      "tags": [
+        "artículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_579bis",
+      "number": "579bis",
+      "title": "Artículo 579bis",
+      "text": "Artículo 579 bis",
+      "tags": [
+        "artículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_580bis",
+      "number": "580bis",
+      "title": "Artículo 580bis",
+      "text": "Artículo 580 bis TÍTULO XXIII CAPÍTULO I",
+      "tags": [
+        "artículo",
+        "título",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_588",
+      "number": "588",
+      "title": "CAPÍTULO II",
+      "text": "Artículo 588 CAPÍTULO II",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_597",
+      "number": "597",
+      "title": "CAPÍTULO III",
+      "text": "Artículo 597 CAPÍTULO III",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_604",
+      "number": "604",
+      "title": "TÍTULO XXIV CAPÍTULO I",
+      "text": "Artículo 604 TÍTULO XXIV CAPÍTULO I",
+      "tags": [
+        "artículo",
+        "título",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_606",
+      "number": "606",
+      "title": "CAPÍTULO II",
+      "text": "Artículo 606 CAPÍTULO II",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_607",
+      "number": "607",
+      "title": "CAPÍTULO II BIS",
+      "text": "Artículo 607 CAPÍTULO II BIS",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_607bis",
+      "number": "607bis",
+      "title": "Artículo 607bis",
+      "text": "Artículo 607 bis CAPÍTULO III",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_614bis",
+      "number": "614bis",
+      "title": "Artículo 614bis",
+      "text": "Artículo 614 bis CAPÍTULO IV",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_615bis",
+      "number": "615bis",
+      "title": "Artículo 615bis",
+      "text": "Artículo 615 bis",
+      "tags": [
+        "artículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_616bis",
+      "number": "616bis",
+      "title": "Artículo 616bis",
+      "text": "Artículo 616 bis CAPÍTULO V",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cpes_779",
+      "number": "779",
+      "title": "Sin perjuicio de lo establecido para los demás procesos especiales",
+      "text": "Artículo 779. Sin perjuicio de lo establecido para los demás procesos especiales, el procedimiento regulado en este Título se aplicará al enjuiciamiento de los delitos castigados con pena privativa de libertad no superior a nueve años, o bien con cualesquiera otras penas de distinta naturaleza, bien sean únicas, conjuntas o alternativas, cualquiera que sea su cuantía o duración.» Subir [Bloque 979: #dfsegunda] Disposición final segunda. El apartado 2 del",
+      "tags": [
+        "artículo",
+        "perjuicio",
+        "establecido",
+        "procesos",
+        "especiales"
+      ],
+      "relatedArticles": []
+    }
+  ]
+}

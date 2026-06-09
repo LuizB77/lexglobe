@@ -1,0 +1,341 @@
+{
+  "country": "ES",
+  "code": "estatutoTrabajadores",
+  "displayName": "Estatuto de los Trabajadores",
+  "color": "#276749",
+  "articles": [
+    {
+      "id": "etes_3",
+      "number": "3",
+      "title": "Sección 2",
+      "text": "Artículo 3 Sección 2",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "etes_5",
+      "number": "5",
+      "title": "Sección 3",
+      "text": "Artículo 5 Sección 3",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "etes_9",
+      "number": "9",
+      "title": "Sección 4",
+      "text": "Artículo 9 Sección 4",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "etes_13",
+      "number": "13",
+      "title": "CAPÍTULO II Sección 1",
+      "text": "Artículo 13 CAPÍTULO II Sección 1",
+      "tags": [
+        "artículo",
+        "capítulo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "etes_16",
+      "number": "16",
+      "title": "Sección 2",
+      "text": "Artículo 16 Sección 2",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "etes_20bis",
+      "number": "20bis",
+      "title": "Artículo 20bis",
+      "text": "Artículo 20 bis",
+      "tags": [
+        "artículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "etes_21",
+      "number": "21",
+      "title": "Sección 3",
+      "text": "Artículo 21 Sección 3",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "etes_25",
+      "number": "25",
+      "title": "Sección 4",
+      "text": "Artículo 25 Sección 4",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "etes_33",
+      "number": "33",
+      "title": "Sección 5",
+      "text": "Artículo 33 Sección 5",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "etes_38",
+      "number": "38",
+      "title": "CAPÍTULO III Sección 1",
+      "text": "Artículo 38 CAPÍTULO III Sección 1",
+      "tags": [
+        "artículo",
+        "capítulo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "etes_41",
+      "number": "41",
+      "title": "Sección 2",
+      "text": "Artículo 41 Sección 2",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "etes_44",
+      "number": "44",
+      "title": "Sección 3",
+      "text": "Artículo 44 Sección 3",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "etes_47bis",
+      "number": "47bis",
+      "title": "Artículo 47bis",
+      "text": "Artículo 47 bis",
+      "tags": [
+        "artículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "etes_48bis",
+      "number": "48bis",
+      "title": "Artículo 48bis",
+      "text": "Artículo 48 bis Sección 4",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "etes_56",
+      "number": "56",
+      "title": "Sección 5",
+      "text": "Artículo 56 Sección 5",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "etes_57",
+      "number": "57",
+      "title": "CAPÍTULO IV",
+      "text": "Artículo 57 CAPÍTULO IV",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "etes_58",
+      "number": "58",
+      "title": "CAPÍTULO V Sección 1",
+      "text": "Artículo 58 CAPÍTULO V Sección 1",
+      "tags": [
+        "artículo",
+        "capítulo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "etes_59",
+      "number": "59",
+      "title": "Sección 2",
+      "text": "Artículo 59 Sección 2",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "etes_60",
+      "number": "60",
+      "title": "TÍTULO II CAPÍTULO I",
+      "text": "Artículo 60 TÍTULO II CAPÍTULO I",
+      "tags": [
+        "artículo",
+        "título",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "etes_61",
+      "number": "61",
+      "title": "Sección 1",
+      "text": "Artículo 61 Sección 1",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "etes_68",
+      "number": "68",
+      "title": "Sección 2",
+      "text": "Artículo 68 Sección 2",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "etes_76",
+      "number": "76",
+      "title": "CAPÍTULO II",
+      "text": "Artículo 76 CAPÍTULO II",
+      "tags": [
+        "artículo",
+        "capítulo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "etes_81",
+      "number": "81",
+      "title": "TÍTULO III CAPÍTULO I Sección 1",
+      "text": "Artículo 81 TÍTULO III CAPÍTULO I Sección 1",
+      "tags": [
+        "artículo",
+        "título",
+        "capítulo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "etes_86",
+      "number": "86",
+      "title": "Sección 2",
+      "text": "Artículo 86 Sección 2",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "etes_88",
+      "number": "88",
+      "title": "CAPÍTULO II Sección 1",
+      "text": "Artículo 88 CAPÍTULO II Sección 1",
+      "tags": [
+        "artículo",
+        "capítulo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "etes_91",
+      "number": "91",
+      "title": "Sección 2",
+      "text": "Artículo 91 Sección 2",
+      "tags": [
+        "artículo",
+        "sección"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "etes_92",
+      "number": "92",
+      "title": "Disposición adicional primera Disposición adicional segunda Dispos",
+      "text": "Artículo 92 Disposición adicional primera Disposición adicional segunda Disposición adicional tercera Disposición adicional cuarta Disposición adicional quinta Disposición adicional sexta Disposición adicional séptima Disposición adicional octava Disposición adicional novena Disposición adicional décima Disposición adicional undécima Disposición adicional duodécima Disposición adicional decimotercera Disposición adicional decimocuarta Disposición adicional decimoquinta Disposición adicional decimosexta Disposición adicional decimoséptima Disposición adicional decimoctava Disposición adicional decimonovena Disposición adicional vigésima Disposición adicional vigesimoprimera Disposición adicional vigesimosegunda Disposición adicional vigesimotercera Disposición adicional vigesimocuarta Disposición adicional vigesimoquinta Disposición adicional vigesimosexta Disposición adicional vigesimoséptima Disposición adicional vigesimoctava Disposición adicional vigesimonovena Disposición transitoria primera Disposición transitoria segunda Disposición transitoria tercera Disposición transitoria cuarta Disposición transitoria quinta Disposición transitoria sexta Disposición transitoria séptima Disposición transitoria octava Disposición transitoria novena Disposición transitoria décima Disposición transitoria undécima Disposición transitoria duodécima Disposición transitoria decimotercera Disposición final primera Disposición final segunda [Bloque 1: #preambulo] El artículo Uno.d) de la Ley...",
+      "tags": [
+        "disposición",
+        "adicional",
+        "transitoria",
+        "primera",
+        "segunda"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "etes_139",
+      "number": "139",
+      "title": "Artículo 139",
+      "text": "artículo 139 de la Ley 36/2011, de 10 de octubre , reguladora de la jurisdicción social. 9. La empresa garantizará el registro diario de jornada, que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de cada persona trabajadora, sin perjuicio de la flexibilidad horaria que se establece en este artículo. Mediante negociación colectiva o acuerdo de empresa o, en su defecto, decisión del empresario previa consulta con los representantes legales de los trabajadores en la empresa, se organizará y documentará este registro de jornada. La empresa conservará los registros a que se refiere este precepto durante cuatro años y permanecerán a disposición de las personas trabajadoras, de sus representantes legales y de la Inspección de Trabajo y Seguridad Social. Se modifica el apartado 8 por el art. 127.2 del Real Decreto-ley 5/2023, de 28 de junio. Ref. BOE-A-2023-15135 Se modifica el apartado 7 y se añade el 9 por el",
+      "tags": [
+        "empresa",
+        "jornada",
+        "artículo",
+        "social",
+        "registro"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "etes_267",
+      "number": "267",
+      "title": "Artículo 267",
+      "text": "artículo 267 del texto refundido de la Ley General de la Seguridad Social y sus normas de desarrollo. Se modifica el apartado 6 por la disposición final 2.2 del Real Decreto-ley 8/2024, de 28 de noviembre. Ref. BOE-A-2024-24840 Se modifica por el art. 1.6 del Real Decreto-ley 32/2021, de 28 de diciembre. Ref. BOE-A-2021-21788 Redactado conforme a la corrección de errores publicada en BOE núm. 16, de 19 de enero de 2022. Ref. BOE-A-2022-801 Seleccionar redacci&oacute;n: &Uacute;ltima actualizaci&oacute;n, publicada el 29/11/2024, en vigor a partir del 30/11/2024. Modificaci&oacute;n publicada el 30/12/2021, en vigor a partir del 31/12/2021. Texto original, publicado el 24/10/2015, en vigor a partir del 13/11/2015. Subir [Bloque 70: #a4-2]",
+      "tags": [
+        "publicada",
+        "oacute",
+        "partir",
+        "modifica",
+        "decreto"
+      ],
+      "relatedArticles": []
+    }
+  ]
+}

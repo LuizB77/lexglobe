@@ -14,6 +14,7 @@ const CODE_ORDER_BY_COUNTRY = {
     'codigoProcessoPenal', 'codigoProcessoCivil', 'codigoComercial',
     'codigoEstrada',
   ],
+  ES: ['constitucionES', 'codigoPenalES', 'codigoCivilES', 'estatutoTrabajadores'],
 }
 
 const CODE_META = {
@@ -156,6 +157,46 @@ const CODE_META = {
     spine: '#C05621',
     icon: '🚗',
     desc: 'Regulação do trânsito e condução',
+  },
+  constitucionES: {
+    label: 'Constitución Española',
+    shortLabel: 'Constitución',
+    year: '1978',
+    color: '#8B6914',
+    bg: '#fffdf0',
+    spine: '#C8A000',
+    icon: '⚖️',
+    desc: 'Ley fundamental del Reino de España',
+  },
+  codigoPenalES: {
+    label: 'Código Penal',
+    shortLabel: 'Código Penal',
+    year: '1995',
+    color: '#9B1C1C',
+    bg: '#fff5f5',
+    spine: '#C53030',
+    icon: '🔒',
+    desc: 'Delitos y penas en el derecho español',
+  },
+  codigoCivilES: {
+    label: 'Código Civil',
+    shortLabel: 'Código Civil',
+    year: '1889',
+    color: '#44337A',
+    bg: '#faf5ff',
+    spine: '#553C9A',
+    icon: '📜',
+    desc: 'Relaciones civiles, contratos y familia',
+  },
+  estatutoTrabajadores: {
+    label: 'Estatuto de los Trabajadores',
+    shortLabel: 'Estatuto',
+    year: '2015',
+    color: '#1C4532',
+    bg: '#f0fff4',
+    spine: '#276749',
+    icon: '👷',
+    desc: 'Derechos y deberes laborales en España',
   },
 }
 
