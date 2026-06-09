@@ -5,7 +5,10 @@ import { search } from '../utils/searchEngine'
 import countries from '../data/countries.json'
 import CodeIllustration from '../components/ui/CodeIllustration'
 
-const CODE_ORDER = ['constituicao', 'codigoPenal', 'codigoCivil', 'clt', 'eca', 'cdc']
+const CODE_ORDER_BY_COUNTRY = {
+  BR: ['constituicao', 'codigoPenal', 'codigoCivil', 'clt', 'eca', 'cdc'],
+  PT: ['constituicaoPT', 'codigoPenalPT', 'codigoCivilPT', 'codigoTrabalho'],
+}
 
 const CODE_META = {
   constituicao: {
@@ -67,6 +70,46 @@ const CODE_META = {
     spine: '#63B3ED',
     icon: '🛒',
     desc: 'Código de Defesa do Consumidor',
+  },
+  constituicaoPT: {
+    label: 'Constituição da República',
+    shortLabel: 'Constituição',
+    year: '1976',
+    color: '#B8860B',
+    bg: '#fffbe6',
+    spine: '#FFD700',
+    icon: '⚖️',
+    desc: 'Lei fundamental da República Portuguesa',
+  },
+  codigoPenalPT: {
+    label: 'Código Penal',
+    shortLabel: 'Código Penal',
+    year: '1982',
+    color: '#9B1C1C',
+    bg: '#fff0f0',
+    spine: '#E53E3E',
+    icon: '🔒',
+    desc: 'Crimes e penalidades no direito português',
+  },
+  codigoCivilPT: {
+    label: 'Código Civil',
+    shortLabel: 'Código Civil',
+    year: '1966',
+    color: '#4C3494',
+    bg: '#f3f0ff',
+    spine: '#7F77DD',
+    icon: '📜',
+    desc: 'Relações civis, contratos e família',
+  },
+  codigoTrabalho: {
+    label: 'Código do Trabalho',
+    shortLabel: 'Cód. Trabalho',
+    year: '2003',
+    color: '#145A3A',
+    bg: '#f0fff8',
+    spine: '#1D9E75',
+    icon: '👷',
+    desc: 'Lei laboral portuguesa',
   },
 }
 
@@ -233,6 +276,8 @@ export default function LibraryPage() {
   const { countryCode } = useParams()
   const navigate = useNavigate()
   const country = countries.find(c => c.code === countryCode)
+  const CODE_ORDER = CODE_ORDER_BY_COUNTRY[countryCode] || CODE_ORDER_BY_COUNTRY['BR']
+
   const [openCode, setOpenCode] = useState(null)
   const [articleCounts, setArticleCounts] = useState({})
   const [entered, setEntered] = useState(false)
@@ -248,13 +293,14 @@ export default function LibraryPage() {
 
   // Load article counts for all codes
   useEffect(() => {
+    setArticleCounts({})
     Promise.all(
       CODE_ORDER.map(async k => {
         const data = await loadCode(k)
         return [k, data?.articles?.length || 0]
       })
     ).then(entries => setArticleCounts(Object.fromEntries(entries)))
-  }, [])
+  }, [countryCode])
 
   useEffect(() => {
     if (!libraryQuery.trim()) { setLibraryResults([]); setSearchOpen(false); return }

@@ -4,23 +4,31 @@ import { loadCode } from '../utils/searchEngine'
 import BookmarkButton from '../components/ui/BookmarkButton'
 
 const CODE_META = {
-  constituicao: { label: 'Constituição Federal', color: '#B8860B', spine: '#FFD700', bg: '#fffbe6' },
-  codigoPenal:  { label: 'Código Penal',          color: '#9B1C1C', spine: '#E53E3E', bg: '#fff0f0' },
-  codigoCivil:  { label: 'Código Civil',           color: '#4C3494', spine: '#7F77DD', bg: '#f3f0ff' },
-  clt:          { label: 'CLT',                    color: '#145A3A', spine: '#1D9E75', bg: '#f0fff8' },
-  eca:          { label: 'ECA',                    color: '#923B05', spine: '#F6AD55', bg: '#fff7ed' },
-  cdc:          { label: 'CDC',                    color: '#1a4a7a', spine: '#63B3ED', bg: '#eff8ff' },
+  constituicao:    { label: 'Constituição Federal',          color: '#B8860B', spine: '#FFD700', bg: '#fffbe6' },
+  codigoPenal:     { label: 'Código Penal',                  color: '#9B1C1C', spine: '#E53E3E', bg: '#fff0f0' },
+  codigoCivil:     { label: 'Código Civil',                  color: '#4C3494', spine: '#7F77DD', bg: '#f3f0ff' },
+  clt:             { label: 'CLT',                           color: '#145A3A', spine: '#1D9E75', bg: '#f0fff8' },
+  eca:             { label: 'ECA',                           color: '#923B05', spine: '#F6AD55', bg: '#fff7ed' },
+  cdc:             { label: 'CDC',                           color: '#1a4a7a', spine: '#63B3ED', bg: '#eff8ff' },
+  constituicaoPT:  { label: 'Constituição da República',     color: '#B8860B', spine: '#FFD700', bg: '#fffbe6' },
+  codigoPenalPT:   { label: 'Código Penal (PT)',             color: '#9B1C1C', spine: '#E53E3E', bg: '#fff0f0' },
+  codigoCivilPT:   { label: 'Código Civil (PT)',             color: '#4C3494', spine: '#7F77DD', bg: '#f3f0ff' },
+  codigoTrabalho:  { label: 'Código do Trabalho',            color: '#145A3A', spine: '#1D9E75', bg: '#f0fff8' },
 }
 
 // articleId format: "cp_121", "cf_5", "cc_927", etc.
 // prefix maps to code key
 const PREFIX_TO_CODE = {
-  cf:  'constituicao',
-  cp:  'codigoPenal',
-  cc:  'codigoCivil',
-  clt: 'clt',
-  eca: 'eca',
-  cdc: 'cdc',
+  cf:   'constituicao',
+  cp:   'codigoPenal',
+  cc:   'codigoCivil',
+  clt:  'clt',
+  eca:  'eca',
+  cdc:  'cdc',
+  cfpt: 'constituicaoPT',
+  cppt: 'codigoPenalPT',
+  ccpt: 'codigoCivilPT',
+  ctpt: 'codigoTrabalho',
 }
 
 function getCodeKeyFromId(articleId) {

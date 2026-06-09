@@ -18,7 +18,14 @@
   { "code": "GB", "name": "United Kingdom", "flag": "🇬🇧", "active": false },
   { "code": "CA", "name": "Canada", "flag": "🇨🇦", "active": false },
   { "code": "AU", "name": "Australia", "flag": "🇦🇺", "active": false },
-  { "code": "PT", "name": "Portugal", "flag": "🇵🇹", "active": false },
+  {
+    "code": "PT",
+    "name": "Portugal",
+    "nameLocal": "Portugal",
+    "flag": "🇵🇹",
+    "active": true,
+    "codes": ["constituicaoPT", "codigoPenalPT", "codigoCivilPT", "codigoTrabalho"]
+  },
   { "code": "IT", "name": "Italy", "flag": "🇮🇹", "active": false },
   { "code": "ES", "name": "Spain", "flag": "🇪🇸", "active": false }
 ]

@@ -1,0 +1,7408 @@
+{
+  "country": "PT",
+  "code": "codigoTrabalho",
+  "displayName": "Código do Trabalho",
+  "color": "#1D9E75",
+  "articles": [
+    {
+      "id": "ctpt_1",
+      "number": "1",
+      "title": "Fontes específicas",
+      "text": "Artigo 1.º Fontes específicas",
+      "tags": [
+        "artigo",
+        "fontes",
+        "específicas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_2",
+      "number": "2",
+      "title": "Instrumentos de regulamentação colectiva de trabalho",
+      "text": "Artigo 2.º Instrumentos de regulamentação colectiva de trabalho",
+      "tags": [
+        "artigo",
+        "instrumentos",
+        "regulamentação",
+        "colectiva",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_3",
+      "number": "3",
+      "title": "Relações entre fontes de regulação",
+      "text": "Artigo 3.º Relações entre fontes de regulação",
+      "tags": [
+        "artigo",
+        "relações",
+        "fontes",
+        "regulação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_4",
+      "number": "4",
+      "title": "Igualdade de tratamento de trabalhador estrangeiro ou apátrida",
+      "text": "Artigo 4.º Igualdade de tratamento de trabalhador estrangeiro ou apátrida",
+      "tags": [
+        "artigo",
+        "igualdade",
+        "tratamento",
+        "trabalhador",
+        "estrangeiro"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_5",
+      "number": "5",
+      "title": "Forma e conteúdo de contrato com trabalhador estrangeiro ou apátri",
+      "text": "Artigo 5.º Forma e conteúdo de contrato com trabalhador estrangeiro ou apátrida",
+      "tags": [
+        "artigo",
+        "conteúdo",
+        "contrato",
+        "trabalhador",
+        "estrangeiro"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_6",
+      "number": "6",
+      "title": "Destacamento em território português",
+      "text": "Artigo 6.º Destacamento em território português",
+      "tags": [
+        "artigo",
+        "destacamento",
+        "território",
+        "português"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_7",
+      "number": "7",
+      "title": "Condições de trabalho de trabalhador destacado",
+      "text": "Artigo 7.º Condições de trabalho de trabalhador destacado",
+      "tags": [
+        "artigo",
+        "condições",
+        "trabalho",
+        "trabalhador",
+        "destacado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_8",
+      "number": "8",
+      "title": "Destacamento para outro Estado",
+      "text": "Artigo 8.º Destacamento para outro Estado",
+      "tags": [
+        "artigo",
+        "destacamento",
+        "estado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_9",
+      "number": "9",
+      "title": "Contrato de trabalho com regime especial",
+      "text": "Artigo 9.º Contrato de trabalho com regime especial",
+      "tags": [
+        "artigo",
+        "contrato",
+        "trabalho",
+        "regime",
+        "especial"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_10",
+      "number": "10",
+      "title": "Situações equiparadas",
+      "text": "Artigo 10.º Situações equiparadas",
+      "tags": [
+        "artigo",
+        "situações",
+        "equiparadas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_11",
+      "number": "11",
+      "title": "Noção de contrato de trabalho",
+      "text": "Artigo 11.º Noção de contrato de trabalho",
+      "tags": [
+        "artigo",
+        "contrato",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_12",
+      "number": "12",
+      "title": "Presunção de contrato de trabalho",
+      "text": "Artigo 12.º Presunção de contrato de trabalho",
+      "tags": [
+        "artigo",
+        "presunção",
+        "contrato",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_13",
+      "number": "13",
+      "title": "Princípio geral sobre capacidade",
+      "text": "Artigo 13.º Princípio geral sobre capacidade",
+      "tags": [
+        "artigo",
+        "princípio",
+        "capacidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_14",
+      "number": "14",
+      "title": "Liberdade de expressão e de opinião",
+      "text": "Artigo 14.º Liberdade de expressão e de opinião",
+      "tags": [
+        "artigo",
+        "liberdade",
+        "expressão",
+        "opinião"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_15",
+      "number": "15",
+      "title": "Integridade física e moral",
+      "text": "Artigo 15.º Integridade física e moral",
+      "tags": [
+        "artigo",
+        "integridade",
+        "física"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_16",
+      "number": "16",
+      "title": "Reserva da intimidade da vida privada",
+      "text": "Artigo 16.º Reserva da intimidade da vida privada",
+      "tags": [
+        "artigo",
+        "reserva",
+        "intimidade",
+        "privada"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_17",
+      "number": "17",
+      "title": "Protecção de dados pessoais",
+      "text": "Artigo 17.º Protecção de dados pessoais",
+      "tags": [
+        "artigo",
+        "protecção",
+        "pessoais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_18",
+      "number": "18",
+      "title": "Dados biométricos",
+      "text": "Artigo 18.º Dados biométricos",
+      "tags": [
+        "artigo",
+        "biométricos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_19",
+      "number": "19",
+      "title": "Testes e exames médicos",
+      "text": "Artigo 19.º Testes e exames médicos",
+      "tags": [
+        "artigo",
+        "testes",
+        "exames",
+        "médicos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_20",
+      "number": "20",
+      "title": "Meios de vigilância a distância",
+      "text": "Artigo 20.º Meios de vigilância a distância",
+      "tags": [
+        "artigo",
+        "vigilância",
+        "distância"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_21",
+      "number": "21",
+      "title": "Utilização de meios de vigilância a distância",
+      "text": "Artigo 21.º Utilização de meios de vigilância a distância",
+      "tags": [
+        "artigo",
+        "utilização",
+        "vigilância",
+        "distância"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_22",
+      "number": "22",
+      "title": "Confidencialidade de mensagens e de acesso a informação",
+      "text": "Artigo 22.º Confidencialidade de mensagens e de acesso a informação",
+      "tags": [
+        "artigo",
+        "confidencialidade",
+        "mensagens",
+        "acesso",
+        "informação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_23",
+      "number": "23",
+      "title": "Conceitos em matéria de igualdade e não discriminação",
+      "text": "Artigo 23.º Conceitos em matéria de igualdade e não discriminação",
+      "tags": [
+        "artigo",
+        "conceitos",
+        "matéria",
+        "igualdade",
+        "discriminação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_24",
+      "number": "24",
+      "title": "Direito à igualdade no acesso a emprego e no trabalho",
+      "text": "Artigo 24.º Direito à igualdade no acesso a emprego e no trabalho",
+      "tags": [
+        "artigo",
+        "direito",
+        "igualdade",
+        "acesso",
+        "emprego"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_25",
+      "number": "25",
+      "title": "Proibição de discriminação",
+      "text": "Artigo 25.º Proibição de discriminação",
+      "tags": [
+        "artigo",
+        "proibição",
+        "discriminação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_26",
+      "number": "26",
+      "title": "Regras contrárias ao princípio da igualdade e não discriminação",
+      "text": "Artigo 26.º Regras contrárias ao princípio da igualdade e não discriminação",
+      "tags": [
+        "artigo",
+        "regras",
+        "contrárias",
+        "princípio",
+        "igualdade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_27",
+      "number": "27",
+      "title": "Medida de acção positiva",
+      "text": "Artigo 27.º Medida de acção positiva",
+      "tags": [
+        "artigo",
+        "medida",
+        "positiva"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_28",
+      "number": "28",
+      "title": "Indemnização por acto discriminatório",
+      "text": "Artigo 28.º Indemnização por acto discriminatório",
+      "tags": [
+        "artigo",
+        "indemnização",
+        "discriminatório"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_29",
+      "number": "29",
+      "title": "Assédio",
+      "text": "Artigo 29.º Assédio",
+      "tags": [
+        "artigo",
+        "assédio"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_30",
+      "number": "30",
+      "title": "Acesso ao emprego, actividade profissional ou formação",
+      "text": "Artigo 30.º Acesso ao emprego, actividade profissional ou formação",
+      "tags": [
+        "artigo",
+        "acesso",
+        "emprego",
+        "actividade",
+        "profissional"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_31",
+      "number": "31",
+      "title": "Igualdade de condições de trabalho",
+      "text": "Artigo 31.º Igualdade de condições de trabalho",
+      "tags": [
+        "artigo",
+        "igualdade",
+        "condições",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_32",
+      "number": "32",
+      "title": "Registo de processos de recrutamento",
+      "text": "Artigo 32.º Registo de processos de recrutamento",
+      "tags": [
+        "artigo",
+        "registo",
+        "processos",
+        "recrutamento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_33",
+      "number": "33",
+      "title": "Parentalidade",
+      "text": "Artigo 33.º Parentalidade",
+      "tags": [
+        "artigo",
+        "parentalidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_34",
+      "number": "34",
+      "title": "Articulação com regime de protecção social",
+      "text": "Artigo 34.º Articulação com regime de protecção social",
+      "tags": [
+        "artigo",
+        "articulação",
+        "regime",
+        "protecção",
+        "social"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_35",
+      "number": "35",
+      "title": "Protecção na parentalidade",
+      "text": "Artigo 35.º Protecção na parentalidade",
+      "tags": [
+        "artigo",
+        "protecção",
+        "parentalidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_36",
+      "number": "36",
+      "title": "Conceitos em matéria de protecção da parentalidade",
+      "text": "Artigo 36.º Conceitos em matéria de protecção da parentalidade",
+      "tags": [
+        "artigo",
+        "conceitos",
+        "matéria",
+        "protecção",
+        "parentalidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_37",
+      "number": "37",
+      "title": "Licença em situação de risco clínico durante a gravidez",
+      "text": "Artigo 37.º Licença em situação de risco clínico durante a gravidez",
+      "tags": [
+        "artigo",
+        "licença",
+        "situação",
+        "clínico",
+        "durante"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_38",
+      "number": "38",
+      "title": "Licença por interrupção da gravidez",
+      "text": "Artigo 38.º Licença por interrupção da gravidez",
+      "tags": [
+        "artigo",
+        "licença",
+        "interrupção",
+        "gravidez"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_39",
+      "number": "39",
+      "title": "Modalidades de licença parental",
+      "text": "Artigo 39.º Modalidades de licença parental",
+      "tags": [
+        "artigo",
+        "modalidades",
+        "licença",
+        "parental"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_40",
+      "number": "40",
+      "title": "Licença parental inicial",
+      "text": "Artigo 40.º Licença parental inicial",
+      "tags": [
+        "artigo",
+        "licença",
+        "parental",
+        "inicial"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_41",
+      "number": "41",
+      "title": "Períodos de licença parental exclusiva da mãe",
+      "text": "Artigo 41.º Períodos de licença parental exclusiva da mãe",
+      "tags": [
+        "artigo",
+        "períodos",
+        "licença",
+        "parental",
+        "exclusiva"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_42",
+      "number": "42",
+      "title": "Licença parental inicial a gozar por um progenitor em caso de impo",
+      "text": "Artigo 42.º Licença parental inicial a gozar por um progenitor em caso de impossibilidade do outro",
+      "tags": [
+        "artigo",
+        "licença",
+        "parental",
+        "inicial",
+        "progenitor"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_43",
+      "number": "43",
+      "title": "Licença parental exclusiva do pai",
+      "text": "Artigo 43.º Licença parental exclusiva do pai",
+      "tags": [
+        "artigo",
+        "licença",
+        "parental",
+        "exclusiva"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_44",
+      "number": "44",
+      "title": "Licença por adopção",
+      "text": "Artigo 44.º Licença por adopção",
+      "tags": [
+        "artigo",
+        "licença",
+        "adopção"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_45",
+      "number": "45",
+      "title": "Dispensa no âmbito dos processos de adoção e acolhimento familiar",
+      "text": "Artigo 45.º Dispensa no âmbito dos processos de adoção e acolhimento familiar",
+      "tags": [
+        "artigo",
+        "dispensa",
+        "âmbito",
+        "processos",
+        "adoção"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_46",
+      "number": "46",
+      "title": "Dispensa para consulta pré-natal",
+      "text": "Artigo 46.º Dispensa para consulta pré-natal",
+      "tags": [
+        "artigo",
+        "dispensa",
+        "consulta"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_47",
+      "number": "47",
+      "title": "Dispensa para amamentação ou aleitação",
+      "text": "Artigo 47.º Dispensa para amamentação ou aleitação",
+      "tags": [
+        "artigo",
+        "dispensa",
+        "amamentação",
+        "aleitação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_48",
+      "number": "48",
+      "title": "Procedimento de dispensa para amamentação ou aleitação",
+      "text": "Artigo 48.º Procedimento de dispensa para amamentação ou aleitação",
+      "tags": [
+        "artigo",
+        "procedimento",
+        "dispensa",
+        "amamentação",
+        "aleitação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_49",
+      "number": "49",
+      "title": "Falta para assistência a filho",
+      "text": "Artigo 49.º Falta para assistência a filho",
+      "tags": [
+        "artigo",
+        "assistência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_50",
+      "number": "50",
+      "title": "Falta para assistência a neto",
+      "text": "Artigo 50.º Falta para assistência a neto",
+      "tags": [
+        "artigo",
+        "assistência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_51",
+      "number": "51",
+      "title": "Licença parental complementar",
+      "text": "Artigo 51.º Licença parental complementar",
+      "tags": [
+        "artigo",
+        "licença",
+        "parental",
+        "complementar"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_52",
+      "number": "52",
+      "title": "Licença para assistência a filho",
+      "text": "Artigo 52.º Licença para assistência a filho",
+      "tags": [
+        "artigo",
+        "licença",
+        "assistência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_53",
+      "number": "53",
+      "title": "Licença para assistência a filho com deficiência, doença crónica o",
+      "text": "Artigo 53.º Licença para assistência a filho com deficiência, doença crónica ou doença oncológica",
+      "tags": [
+        "doença",
+        "artigo",
+        "licença",
+        "assistência",
+        "deficiência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_54",
+      "number": "54",
+      "title": "Redução do tempo de trabalho para assistência a filho menor com de",
+      "text": "Artigo 54.º Redução do tempo de trabalho para assistência a filho menor com deficiência ou doença crónica",
+      "tags": [
+        "artigo",
+        "redução",
+        "trabalho",
+        "assistência",
+        "deficiência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_55",
+      "number": "55",
+      "title": "Trabalho a tempo parcial de trabalhador com responsabilidades fami",
+      "text": "Artigo 55.º Trabalho a tempo parcial de trabalhador com responsabilidades familiares",
+      "tags": [
+        "artigo",
+        "trabalho",
+        "parcial",
+        "trabalhador",
+        "responsabilidades"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_56",
+      "number": "56",
+      "title": "Horário flexível de trabalhador com responsabilidades familiares",
+      "text": "Artigo 56.º Horário flexível de trabalhador com responsabilidades familiares",
+      "tags": [
+        "artigo",
+        "horário",
+        "flexível",
+        "trabalhador",
+        "responsabilidades"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_57",
+      "number": "57",
+      "title": "Autorização de trabalho a tempo parcial ou em regime de horário fl",
+      "text": "Artigo 57.º Autorização de trabalho a tempo parcial ou em regime de horário flexível",
+      "tags": [
+        "artigo",
+        "autorização",
+        "trabalho",
+        "parcial",
+        "regime"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_58",
+      "number": "58",
+      "title": "Dispensa de algumas formas de organização do tempo de trabalho",
+      "text": "Artigo 58.º Dispensa de algumas formas de organização do tempo de trabalho",
+      "tags": [
+        "artigo",
+        "dispensa",
+        "algumas",
+        "formas",
+        "organização"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_59",
+      "number": "59",
+      "title": "Dispensa de prestação de trabalho suplementar",
+      "text": "Artigo 59.º Dispensa de prestação de trabalho suplementar",
+      "tags": [
+        "artigo",
+        "dispensa",
+        "prestação",
+        "trabalho",
+        "suplementar"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_60",
+      "number": "60",
+      "title": "Dispensa de prestação de trabalho no período nocturno",
+      "text": "Artigo 60.º Dispensa de prestação de trabalho no período nocturno",
+      "tags": [
+        "artigo",
+        "dispensa",
+        "prestação",
+        "trabalho",
+        "período"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_61",
+      "number": "61",
+      "title": "Formação para reinserção profissional",
+      "text": "Artigo 61.º Formação para reinserção profissional",
+      "tags": [
+        "artigo",
+        "formação",
+        "reinserção",
+        "profissional"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_62",
+      "number": "62",
+      "title": "Protecção da segurança e saúde de trabalhadora grávida, puérpera o",
+      "text": "Artigo 62.º Protecção da segurança e saúde de trabalhadora grávida, puérpera ou lactante",
+      "tags": [
+        "artigo",
+        "protecção",
+        "segurança",
+        "trabalhadora",
+        "grávida"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_63",
+      "number": "63",
+      "title": "Protecção em caso de despedimento",
+      "text": "Artigo 63.º Protecção em caso de despedimento",
+      "tags": [
+        "artigo",
+        "protecção",
+        "despedimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_64",
+      "number": "64",
+      "title": "Extensão de direitos atribuídos a progenitores",
+      "text": "Artigo 64.º Extensão de direitos atribuídos a progenitores",
+      "tags": [
+        "artigo",
+        "extensão",
+        "direitos",
+        "atribuídos",
+        "progenitores"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_65",
+      "number": "65",
+      "title": "Regime de licenças, faltas e dispensas",
+      "text": "Artigo 65.º Regime de licenças, faltas e dispensas",
+      "tags": [
+        "artigo",
+        "regime",
+        "licenças",
+        "faltas",
+        "dispensas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_66",
+      "number": "66",
+      "title": "Princípios gerais relativos ao trabalho de menor",
+      "text": "Artigo 66.º Princípios gerais relativos ao trabalho de menor",
+      "tags": [
+        "artigo",
+        "princípios",
+        "gerais",
+        "relativos",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_67",
+      "number": "67",
+      "title": "Formação profissional de menor",
+      "text": "Artigo 67.º Formação profissional de menor",
+      "tags": [
+        "artigo",
+        "formação",
+        "profissional"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_68",
+      "number": "68",
+      "title": "Admissão de menor ao trabalho",
+      "text": "Artigo 68.º Admissão de menor ao trabalho",
+      "tags": [
+        "artigo",
+        "admissão",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_69",
+      "number": "69",
+      "title": "Admissão de menor sem escolaridade obrigatória, frequência do níve",
+      "text": "Artigo 69.º Admissão de menor sem escolaridade obrigatória, frequência do nível secundário de educação ou sem qualificação profissional",
+      "tags": [
+        "artigo",
+        "admissão",
+        "escolaridade",
+        "obrigatória",
+        "frequência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_70",
+      "number": "70",
+      "title": "Capacidade do menor para celebrar contrato de trabalho e receber a",
+      "text": "Artigo 70.º Capacidade do menor para celebrar contrato de trabalho e receber a retribuição",
+      "tags": [
+        "artigo",
+        "capacidade",
+        "celebrar",
+        "contrato",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_71",
+      "number": "71",
+      "title": "Denúncia de contrato por menor",
+      "text": "Artigo 71.º Denúncia de contrato por menor",
+      "tags": [
+        "artigo",
+        "denúncia",
+        "contrato"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_72",
+      "number": "72",
+      "title": "Protecção da segurança e saúde de menor",
+      "text": "Artigo 72.º Protecção da segurança e saúde de menor",
+      "tags": [
+        "artigo",
+        "protecção",
+        "segurança"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_73",
+      "number": "73",
+      "title": "Limites máximos do período normal de trabalho de menor",
+      "text": "Artigo 73.º Limites máximos do período normal de trabalho de menor",
+      "tags": [
+        "artigo",
+        "limites",
+        "máximos",
+        "período",
+        "normal"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_74",
+      "number": "74",
+      "title": "Dispensa de algumas formas de organização do tempo de trabalho de",
+      "text": "Artigo 74.º Dispensa de algumas formas de organização do tempo de trabalho de menor",
+      "tags": [
+        "artigo",
+        "dispensa",
+        "algumas",
+        "formas",
+        "organização"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_75",
+      "number": "75",
+      "title": "Trabalho suplementar de menor",
+      "text": "Artigo 75.º Trabalho suplementar de menor",
+      "tags": [
+        "artigo",
+        "trabalho",
+        "suplementar"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_76",
+      "number": "76",
+      "title": "Trabalho de menor no período nocturno",
+      "text": "Artigo 76.º Trabalho de menor no período nocturno",
+      "tags": [
+        "artigo",
+        "trabalho",
+        "período",
+        "nocturno"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_77",
+      "number": "77",
+      "title": "Intervalo de descanso de menor",
+      "text": "Artigo 77.º Intervalo de descanso de menor",
+      "tags": [
+        "artigo",
+        "intervalo",
+        "descanso"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_78",
+      "number": "78",
+      "title": "Descanso diário de menor",
+      "text": "Artigo 78.º Descanso diário de menor",
+      "tags": [
+        "artigo",
+        "descanso",
+        "diário"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_79",
+      "number": "79",
+      "title": "Descanso semanal de menor",
+      "text": "Artigo 79.º Descanso semanal de menor",
+      "tags": [
+        "artigo",
+        "descanso",
+        "semanal"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_80",
+      "number": "80",
+      "title": "Descanso semanal e períodos de trabalho de menor em caso de plurie",
+      "text": "Artigo 80.º Descanso semanal e períodos de trabalho de menor em caso de pluriemprego",
+      "tags": [
+        "artigo",
+        "descanso",
+        "semanal",
+        "períodos",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_81",
+      "number": "81",
+      "title": "Participação de menor em espectáculo ou outra actividade",
+      "text": "Artigo 81.º Participação de menor em espectáculo ou outra actividade",
+      "tags": [
+        "artigo",
+        "participação",
+        "espectáculo",
+        "actividade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_82",
+      "number": "82",
+      "title": "Crime por utilização indevida de trabalho de menor",
+      "text": "Artigo 82.º Crime por utilização indevida de trabalho de menor",
+      "tags": [
+        "artigo",
+        "utilização",
+        "indevida",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_83",
+      "number": "83",
+      "title": "Crime de desobediência por não cessação da actividade de menor",
+      "text": "Artigo 83.º Crime de desobediência por não cessação da actividade de menor",
+      "tags": [
+        "artigo",
+        "desobediência",
+        "cessação",
+        "actividade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_84",
+      "number": "84",
+      "title": "Princípios gerais quanto ao emprego de trabalhador com capacidade",
+      "text": "Artigo 84.º Princípios gerais quanto ao emprego de trabalhador com capacidade de trabalho reduzida",
+      "tags": [
+        "artigo",
+        "princípios",
+        "gerais",
+        "quanto",
+        "emprego"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_85",
+      "number": "85",
+      "title": "Princípios gerais quanto ao emprego de trabalhador com deficiência",
+      "text": "Artigo 85.º Princípios gerais quanto ao emprego de trabalhador com deficiência, doença crónica ou doença oncológica",
+      "tags": [
+        "doença",
+        "artigo",
+        "princípios",
+        "gerais",
+        "quanto"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_86",
+      "number": "86",
+      "title": "Medidas de ação positiva em favor de trabalhador com deficiência o",
+      "text": "Artigo 86.º Medidas de ação positiva em favor de trabalhador com deficiência ou doença crónica",
+      "tags": [
+        "artigo",
+        "medidas",
+        "positiva",
+        "trabalhador",
+        "deficiência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_87",
+      "number": "87",
+      "title": "Dispensa de algumas formas de organização do tempo de trabalho de",
+      "text": "Artigo 87.º Dispensa de algumas formas de organização do tempo de trabalho de trabalhador com deficiência ou doença crónica",
+      "tags": [
+        "artigo",
+        "dispensa",
+        "algumas",
+        "formas",
+        "organização"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_88",
+      "number": "88",
+      "title": "Trabalho suplementar de trabalhador com deficiência ou doença crón",
+      "text": "Artigo 88.º Trabalho suplementar de trabalhador com deficiência ou doença crónica",
+      "tags": [
+        "artigo",
+        "trabalho",
+        "suplementar",
+        "trabalhador",
+        "deficiência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_89",
+      "number": "89",
+      "title": "Noção de trabalhador-estudante",
+      "text": "Artigo 89.º Noção de trabalhador-estudante",
+      "tags": [
+        "artigo",
+        "trabalhador",
+        "estudante"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_90",
+      "number": "90",
+      "title": "Organização do tempo de trabalho de trabalhador-estudante",
+      "text": "Artigo 90.º Organização do tempo de trabalho de trabalhador-estudante",
+      "tags": [
+        "artigo",
+        "organização",
+        "trabalho",
+        "trabalhador",
+        "estudante"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_91",
+      "number": "91",
+      "title": "Faltas para prestação de provas de avaliação",
+      "text": "Artigo 91.º Faltas para prestação de provas de avaliação",
+      "tags": [
+        "artigo",
+        "faltas",
+        "prestação",
+        "provas",
+        "avaliação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_92",
+      "number": "92",
+      "title": "Férias e licenças de trabalhador-estudante",
+      "text": "Artigo 92.º Férias e licenças de trabalhador-estudante",
+      "tags": [
+        "artigo",
+        "férias",
+        "licenças",
+        "trabalhador",
+        "estudante"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_93",
+      "number": "93",
+      "title": "Promoção profissional de trabalhador-estudante",
+      "text": "Artigo 93.º Promoção profissional de trabalhador-estudante",
+      "tags": [
+        "artigo",
+        "promoção",
+        "profissional",
+        "trabalhador",
+        "estudante"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_94",
+      "number": "94",
+      "title": "Concessão do estatuto de trabalhador-estudante",
+      "text": "Artigo 94.º Concessão do estatuto de trabalhador-estudante",
+      "tags": [
+        "artigo",
+        "concessão",
+        "estatuto",
+        "trabalhador",
+        "estudante"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_95",
+      "number": "95",
+      "title": "Cessação e renovação de direitos",
+      "text": "Artigo 95.º Cessação e renovação de direitos",
+      "tags": [
+        "artigo",
+        "cessação",
+        "renovação",
+        "direitos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_96",
+      "number": "96",
+      "title": "Procedimento para exercício de direitos de trabalhador-estudante",
+      "text": "Artigo 96.º Procedimento para exercício de direitos de trabalhador-estudante",
+      "tags": [
+        "artigo",
+        "procedimento",
+        "exercício",
+        "direitos",
+        "trabalhador"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_97",
+      "number": "97",
+      "title": "Poder de direcção",
+      "text": "Artigo 97.º Poder de direcção",
+      "tags": [
+        "artigo",
+        "direcção"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_98",
+      "number": "98",
+      "title": "Poder disciplinar",
+      "text": "Artigo 98.º Poder disciplinar",
+      "tags": [
+        "artigo",
+        "disciplinar"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_99",
+      "number": "99",
+      "title": "Regulamento interno de empresa",
+      "text": "Artigo 99.º Regulamento interno de empresa",
+      "tags": [
+        "artigo",
+        "regulamento",
+        "interno",
+        "empresa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_100",
+      "number": "100",
+      "title": "Tipos de empresas",
+      "text": "Artigo 100.º Tipos de empresas",
+      "tags": [
+        "artigo",
+        "empresas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_101",
+      "number": "101",
+      "title": "Pluralidade de empregadores",
+      "text": "Artigo 101.º Pluralidade de empregadores",
+      "tags": [
+        "artigo",
+        "pluralidade",
+        "empregadores"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_102",
+      "number": "102",
+      "title": "Culpa na formação do contrato",
+      "text": "Artigo 102.º Culpa na formação do contrato",
+      "tags": [
+        "artigo",
+        "formação",
+        "contrato"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_103",
+      "number": "103",
+      "title": "Regime da promessa de contrato de trabalho",
+      "text": "Artigo 103.º Regime da promessa de contrato de trabalho",
+      "tags": [
+        "artigo",
+        "regime",
+        "promessa",
+        "contrato",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_104",
+      "number": "104",
+      "title": "Contrato de trabalho de adesão",
+      "text": "Artigo 104.º Contrato de trabalho de adesão",
+      "tags": [
+        "artigo",
+        "contrato",
+        "trabalho",
+        "adesão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_105",
+      "number": "105",
+      "title": "Cláusulas contratuais gerais",
+      "text": "Artigo 105.º Cláusulas contratuais gerais",
+      "tags": [
+        "artigo",
+        "cláusulas",
+        "contratuais",
+        "gerais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_106",
+      "number": "106",
+      "title": "Dever de informação",
+      "text": "Artigo 106.º Dever de informação",
+      "tags": [
+        "artigo",
+        "informação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_107",
+      "number": "107",
+      "title": "Meios de informação",
+      "text": "Artigo 107.º Meios de informação",
+      "tags": [
+        "artigo",
+        "informação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_108",
+      "number": "108",
+      "title": "Informação relativa a prestação de trabalho no estrangeiro",
+      "text": "Artigo 108.º Informação relativa a prestação de trabalho no estrangeiro",
+      "tags": [
+        "artigo",
+        "informação",
+        "relativa",
+        "prestação",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_109",
+      "number": "109",
+      "title": "Actualização da informação",
+      "text": "Artigo 109.º Actualização da informação",
+      "tags": [
+        "artigo",
+        "actualização",
+        "informação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_110",
+      "number": "110",
+      "title": "Regra geral sobre a forma de contrato de trabalho",
+      "text": "Artigo 110.º Regra geral sobre a forma de contrato de trabalho",
+      "tags": [
+        "artigo",
+        "contrato",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_111",
+      "number": "111",
+      "title": "Noção de período experimental",
+      "text": "Artigo 111.º Noção de período experimental",
+      "tags": [
+        "artigo",
+        "período",
+        "experimental"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_112",
+      "number": "112",
+      "title": "Duração do período experimental",
+      "text": "Artigo 112.º Duração do período experimental",
+      "tags": [
+        "artigo",
+        "duração",
+        "período",
+        "experimental"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_113",
+      "number": "113",
+      "title": "Contagem do período experimental",
+      "text": "Artigo 113.º Contagem do período experimental",
+      "tags": [
+        "artigo",
+        "contagem",
+        "período",
+        "experimental"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_114",
+      "number": "114",
+      "title": "Denúncia do contrato durante o período experimental",
+      "text": "Artigo 114.º Denúncia do contrato durante o período experimental",
+      "tags": [
+        "artigo",
+        "denúncia",
+        "contrato",
+        "durante",
+        "período"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_115",
+      "number": "115",
+      "title": "Determinação da actividade do trabalhador",
+      "text": "Artigo 115.º Determinação da actividade do trabalhador",
+      "tags": [
+        "artigo",
+        "determinação",
+        "actividade",
+        "trabalhador"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_116",
+      "number": "116",
+      "title": "Autonomia técnica",
+      "text": "Artigo 116.º Autonomia técnica",
+      "tags": [
+        "artigo",
+        "autonomia",
+        "técnica"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_117",
+      "number": "117",
+      "title": "Efeitos de falta de título profissional",
+      "text": "Artigo 117.º Efeitos de falta de título profissional",
+      "tags": [
+        "artigo",
+        "efeitos",
+        "título",
+        "profissional"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_118",
+      "number": "118",
+      "title": "Funções desempenhadas pelo trabalhador",
+      "text": "Artigo 118.º Funções desempenhadas pelo trabalhador",
+      "tags": [
+        "artigo",
+        "funções",
+        "desempenhadas",
+        "trabalhador"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_119",
+      "number": "119",
+      "title": "Mudança para categoria inferior",
+      "text": "Artigo 119.º Mudança para categoria inferior",
+      "tags": [
+        "artigo",
+        "mudança",
+        "categoria",
+        "inferior"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_120",
+      "number": "120",
+      "title": "Mobilidade funcional",
+      "text": "Artigo 120.º Mobilidade funcional",
+      "tags": [
+        "artigo",
+        "mobilidade",
+        "funcional"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_121",
+      "number": "121",
+      "title": "Invalidade parcial de contrato de trabalho",
+      "text": "Artigo 121.º Invalidade parcial de contrato de trabalho",
+      "tags": [
+        "artigo",
+        "invalidade",
+        "parcial",
+        "contrato",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_122",
+      "number": "122",
+      "title": "Efeitos da invalidade de contrato de trabalho",
+      "text": "Artigo 122.º Efeitos da invalidade de contrato de trabalho",
+      "tags": [
+        "artigo",
+        "efeitos",
+        "invalidade",
+        "contrato",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_123",
+      "number": "123",
+      "title": "Invalidade e cessação de contrato de trabalho",
+      "text": "Artigo 123.º Invalidade e cessação de contrato de trabalho",
+      "tags": [
+        "artigo",
+        "invalidade",
+        "cessação",
+        "contrato",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_124",
+      "number": "124",
+      "title": "Contrato com objecto ou fim contrário à lei ou à ordem pública",
+      "text": "Artigo 124.º Contrato com objecto ou fim contrário à lei ou à ordem pública",
+      "tags": [
+        "artigo",
+        "contrato",
+        "objecto",
+        "contrário",
+        "pública"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_125",
+      "number": "125",
+      "title": "Convalidação de contrato de trabalho",
+      "text": "Artigo 125.º Convalidação de contrato de trabalho",
+      "tags": [
+        "artigo",
+        "convalidação",
+        "contrato",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_126",
+      "number": "126",
+      "title": "Deveres gerais das partes",
+      "text": "Artigo 126.º Deveres gerais das partes",
+      "tags": [
+        "artigo",
+        "deveres",
+        "gerais",
+        "partes"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_127",
+      "number": "127",
+      "title": "Deveres do empregador",
+      "text": "Artigo 127.º Deveres do empregador",
+      "tags": [
+        "artigo",
+        "deveres",
+        "empregador"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_128",
+      "number": "128",
+      "title": "Deveres do trabalhador",
+      "text": "Artigo 128.º Deveres do trabalhador",
+      "tags": [
+        "artigo",
+        "deveres",
+        "trabalhador"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_129",
+      "number": "129",
+      "title": "Garantias do trabalhador",
+      "text": "Artigo 129.º Garantias do trabalhador",
+      "tags": [
+        "artigo",
+        "garantias",
+        "trabalhador"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_130",
+      "number": "130",
+      "title": "Objectivos da formação profissional",
+      "text": "Artigo 130.º Objectivos da formação profissional",
+      "tags": [
+        "artigo",
+        "objectivos",
+        "formação",
+        "profissional"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_131",
+      "number": "131",
+      "title": "Formação contínua",
+      "text": "Artigo 131.º Formação contínua",
+      "tags": [
+        "artigo",
+        "formação",
+        "contínua"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_132",
+      "number": "132",
+      "title": "Crédito de horas e subsídio para formação contínua",
+      "text": "Artigo 132.º Crédito de horas e subsídio para formação contínua",
+      "tags": [
+        "artigo",
+        "crédito",
+        "subsídio",
+        "formação",
+        "contínua"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_133",
+      "number": "133",
+      "title": "Conteúdo da formação contínua",
+      "text": "Artigo 133.º Conteúdo da formação contínua",
+      "tags": [
+        "artigo",
+        "conteúdo",
+        "formação",
+        "contínua"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_134",
+      "number": "134",
+      "title": "Efeito da cessação do contrato de trabalho no direito a formação",
+      "text": "Artigo 134.º Efeito da cessação do contrato de trabalho no direito a formação",
+      "tags": [
+        "artigo",
+        "efeito",
+        "cessação",
+        "contrato",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_135",
+      "number": "135",
+      "title": "Condição ou termo suspensivo",
+      "text": "Artigo 135.º Condição ou termo suspensivo",
+      "tags": [
+        "artigo",
+        "condição",
+        "suspensivo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_136",
+      "number": "136",
+      "title": "Pacto de não concorrência",
+      "text": "Artigo 136.º Pacto de não concorrência",
+      "tags": [
+        "artigo",
+        "concorrência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_137",
+      "number": "137",
+      "title": "Pacto de permanência",
+      "text": "Artigo 137.º Pacto de permanência",
+      "tags": [
+        "artigo",
+        "permanência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_138",
+      "number": "138",
+      "title": "Limitação da liberdade de trabalho",
+      "text": "Artigo 138.º Limitação da liberdade de trabalho",
+      "tags": [
+        "artigo",
+        "limitação",
+        "liberdade",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_139",
+      "number": "139",
+      "title": "Regime do termo resolutivo",
+      "text": "Artigo 139.º Regime do termo resolutivo",
+      "tags": [
+        "artigo",
+        "regime",
+        "resolutivo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_140",
+      "number": "140",
+      "title": "Admissibilidade de contrato de trabalho a termo resolutivo",
+      "text": "Artigo 140.º Admissibilidade de contrato de trabalho a termo resolutivo",
+      "tags": [
+        "artigo",
+        "admissibilidade",
+        "contrato",
+        "trabalho",
+        "resolutivo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_141",
+      "number": "141",
+      "title": "Forma e conteúdo de contrato de trabalho a termo",
+      "text": "Artigo 141.º Forma e conteúdo de contrato de trabalho a termo",
+      "tags": [
+        "artigo",
+        "conteúdo",
+        "contrato",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_142",
+      "number": "142",
+      "title": "Casos especiais de contrato de trabalho de muito curta duração",
+      "text": "Artigo 142.º Casos especiais de contrato de trabalho de muito curta duração",
+      "tags": [
+        "artigo",
+        "especiais",
+        "contrato",
+        "trabalho",
+        "duração"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_143",
+      "number": "143",
+      "title": "Sucessão de contrato de trabalho a termo",
+      "text": "Artigo 143.º Sucessão de contrato de trabalho a termo",
+      "tags": [
+        "artigo",
+        "sucessão",
+        "contrato",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_144",
+      "number": "144",
+      "title": "Informações relativas a contrato de trabalho a termo",
+      "text": "Artigo 144.º Informações relativas a contrato de trabalho a termo",
+      "tags": [
+        "artigo",
+        "informações",
+        "relativas",
+        "contrato",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_145",
+      "number": "145",
+      "title": "Preferência na admissão",
+      "text": "Artigo 145.º Preferência na admissão",
+      "tags": [
+        "artigo",
+        "preferência",
+        "admissão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_146",
+      "number": "146",
+      "title": "Igualdade de tratamento no âmbito de contrato a termo",
+      "text": "Artigo 146.º Igualdade de tratamento no âmbito de contrato a termo",
+      "tags": [
+        "artigo",
+        "igualdade",
+        "tratamento",
+        "âmbito",
+        "contrato"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_147",
+      "number": "147",
+      "title": "Contrato de trabalho sem termo",
+      "text": "Artigo 147.º Contrato de trabalho sem termo",
+      "tags": [
+        "artigo",
+        "contrato",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_148",
+      "number": "148",
+      "title": "Duração de contrato de trabalho a termo",
+      "text": "Artigo 148.º Duração de contrato de trabalho a termo",
+      "tags": [
+        "artigo",
+        "duração",
+        "contrato",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_149",
+      "number": "149",
+      "title": "Renovação de contrato de trabalho a termo certo",
+      "text": "Artigo 149.º Renovação de contrato de trabalho a termo certo",
+      "tags": [
+        "artigo",
+        "renovação",
+        "contrato",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_150",
+      "number": "150",
+      "title": "Noção de trabalho a tempo parcial",
+      "text": "Artigo 150.º Noção de trabalho a tempo parcial",
+      "tags": [
+        "artigo",
+        "trabalho",
+        "parcial"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_151",
+      "number": "151",
+      "title": "Liberdade de celebração de contrato de trabalho a tempo parcial",
+      "text": "Artigo 151.º Liberdade de celebração de contrato de trabalho a tempo parcial",
+      "tags": [
+        "artigo",
+        "liberdade",
+        "celebração",
+        "contrato",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_152",
+      "number": "152",
+      "title": "Preferência na admissão para trabalho a tempo parcial",
+      "text": "Artigo 152.º Preferência na admissão para trabalho a tempo parcial",
+      "tags": [
+        "artigo",
+        "preferência",
+        "admissão",
+        "trabalho",
+        "parcial"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_153",
+      "number": "153",
+      "title": "Forma e conteúdo de contrato de trabalho a tempo parcial",
+      "text": "Artigo 153.º Forma e conteúdo de contrato de trabalho a tempo parcial",
+      "tags": [
+        "artigo",
+        "conteúdo",
+        "contrato",
+        "trabalho",
+        "parcial"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_154",
+      "number": "154",
+      "title": "Condições de trabalho a tempo parcial",
+      "text": "Artigo 154.º Condições de trabalho a tempo parcial",
+      "tags": [
+        "artigo",
+        "condições",
+        "trabalho",
+        "parcial"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_155",
+      "number": "155",
+      "title": "Alteração da duração do trabalho a tempo parcial",
+      "text": "Artigo 155.º Alteração da duração do trabalho a tempo parcial",
+      "tags": [
+        "artigo",
+        "alteração",
+        "duração",
+        "trabalho",
+        "parcial"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_156",
+      "number": "156",
+      "title": "Deveres do empregador em caso de trabalho a tempo parcial",
+      "text": "Artigo 156.º Deveres do empregador em caso de trabalho a tempo parcial",
+      "tags": [
+        "artigo",
+        "deveres",
+        "empregador",
+        "trabalho",
+        "parcial"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_157",
+      "number": "157",
+      "title": "Admissibilidade de trabalho intermitente",
+      "text": "Artigo 157.º Admissibilidade de trabalho intermitente",
+      "tags": [
+        "artigo",
+        "admissibilidade",
+        "trabalho",
+        "intermitente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_158",
+      "number": "158",
+      "title": "Forma e conteúdo de contrato de trabalho intermitente",
+      "text": "Artigo 158.º Forma e conteúdo de contrato de trabalho intermitente",
+      "tags": [
+        "artigo",
+        "conteúdo",
+        "contrato",
+        "trabalho",
+        "intermitente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_159",
+      "number": "159",
+      "title": "Período de prestação de trabalho",
+      "text": "Artigo 159.º Período de prestação de trabalho",
+      "tags": [
+        "artigo",
+        "período",
+        "prestação",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_160",
+      "number": "160",
+      "title": "Direitos do trabalhador",
+      "text": "Artigo 160.º Direitos do trabalhador",
+      "tags": [
+        "artigo",
+        "direitos",
+        "trabalhador"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_161",
+      "number": "161",
+      "title": "Objecto da comissão de serviço",
+      "text": "Artigo 161.º Objecto da comissão de serviço",
+      "tags": [
+        "artigo",
+        "objecto",
+        "comissão",
+        "serviço"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_162",
+      "number": "162",
+      "title": "Regime de contrato de trabalho em comissão de serviço",
+      "text": "Artigo 162.º Regime de contrato de trabalho em comissão de serviço",
+      "tags": [
+        "artigo",
+        "regime",
+        "contrato",
+        "trabalho",
+        "comissão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_163",
+      "number": "163",
+      "title": "Cessação de comissão de serviço",
+      "text": "Artigo 163.º Cessação de comissão de serviço",
+      "tags": [
+        "artigo",
+        "cessação",
+        "comissão",
+        "serviço"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_164",
+      "number": "164",
+      "title": "Efeitos da cessação da comissão de serviço",
+      "text": "Artigo 164.º Efeitos da cessação da comissão de serviço",
+      "tags": [
+        "artigo",
+        "efeitos",
+        "cessação",
+        "comissão",
+        "serviço"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_165",
+      "number": "165",
+      "title": "Noção de teletrabalho e âmbito do regime",
+      "text": "Artigo 165.º Noção de teletrabalho e âmbito do regime",
+      "tags": [
+        "artigo",
+        "teletrabalho",
+        "âmbito",
+        "regime"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_166",
+      "number": "166",
+      "title": "Acordo para prestação de teletrabalho",
+      "text": "Artigo 166.º Acordo para prestação de teletrabalho",
+      "tags": [
+        "artigo",
+        "acordo",
+        "prestação",
+        "teletrabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_167",
+      "number": "167",
+      "title": "Duração e cessação do acordo de teletrabalho",
+      "text": "Artigo 167.º Duração e cessação do acordo de teletrabalho",
+      "tags": [
+        "artigo",
+        "duração",
+        "cessação",
+        "acordo",
+        "teletrabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_168",
+      "number": "168",
+      "title": "Equipamentos e sistemas",
+      "text": "Artigo 168.º Equipamentos e sistemas",
+      "tags": [
+        "artigo",
+        "equipamentos",
+        "sistemas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_169",
+      "number": "169",
+      "title": "Igualdade de direitos e deveres",
+      "text": "Artigo 169.º Igualdade de direitos e deveres",
+      "tags": [
+        "artigo",
+        "igualdade",
+        "direitos",
+        "deveres"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_170",
+      "number": "170",
+      "title": "Privacidade de trabalhador em regime de teletrabalho",
+      "text": "Artigo 170.º Privacidade de trabalhador em regime de teletrabalho",
+      "tags": [
+        "artigo",
+        "privacidade",
+        "trabalhador",
+        "regime",
+        "teletrabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_171",
+      "number": "171",
+      "title": "Fiscalização",
+      "text": "Artigo 171.º Fiscalização",
+      "tags": [
+        "artigo",
+        "fiscalização"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_172",
+      "number": "172",
+      "title": "Conceitos específicos do regime de trabalho temporário",
+      "text": "Artigo 172.º Conceitos específicos do regime de trabalho temporário",
+      "tags": [
+        "artigo",
+        "conceitos",
+        "específicos",
+        "regime",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_173",
+      "number": "173",
+      "title": "Cedência ilícita de trabalhador",
+      "text": "Artigo 173.º Cedência ilícita de trabalhador",
+      "tags": [
+        "artigo",
+        "cedência",
+        "ilícita",
+        "trabalhador"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_174",
+      "number": "174",
+      "title": "Casos especiais de responsabilidade da empresa de trabalho temporá",
+      "text": "Artigo 174.º Casos especiais de responsabilidade da empresa de trabalho temporário ou do utilizador",
+      "tags": [
+        "artigo",
+        "especiais",
+        "responsabilidade",
+        "empresa",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_175",
+      "number": "175",
+      "title": "Admissibilidade de contrato de utilização de trabalho temporário",
+      "text": "Artigo 175.º Admissibilidade de contrato de utilização de trabalho temporário",
+      "tags": [
+        "artigo",
+        "admissibilidade",
+        "contrato",
+        "utilização",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_176",
+      "number": "176",
+      "title": "Justificação de contrato de utilização de trabalho temporário",
+      "text": "Artigo 176.º Justificação de contrato de utilização de trabalho temporário",
+      "tags": [
+        "artigo",
+        "justificação",
+        "contrato",
+        "utilização",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_177",
+      "number": "177",
+      "title": "Forma e conteúdo de contrato de utilização de trabalho temporário",
+      "text": "Artigo 177.º Forma e conteúdo de contrato de utilização de trabalho temporário",
+      "tags": [
+        "artigo",
+        "conteúdo",
+        "contrato",
+        "utilização",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_178",
+      "number": "178",
+      "title": "Duração de contrato de utilização de trabalho temporário",
+      "text": "Artigo 178.º Duração de contrato de utilização de trabalho temporário",
+      "tags": [
+        "artigo",
+        "duração",
+        "contrato",
+        "utilização",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_179",
+      "number": "179",
+      "title": "Proibição de contratos sucessivos",
+      "text": "Artigo 179.º Proibição de contratos sucessivos",
+      "tags": [
+        "artigo",
+        "proibição",
+        "contratos",
+        "sucessivos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_180",
+      "number": "180",
+      "title": "Admissibilidade de contrato de trabalho temporário",
+      "text": "Artigo 180.º Admissibilidade de contrato de trabalho temporário",
+      "tags": [
+        "artigo",
+        "admissibilidade",
+        "contrato",
+        "trabalho",
+        "temporário"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_181",
+      "number": "181",
+      "title": "Forma e conteúdo de contrato de trabalho temporário",
+      "text": "Artigo 181.º Forma e conteúdo de contrato de trabalho temporário",
+      "tags": [
+        "artigo",
+        "conteúdo",
+        "contrato",
+        "trabalho",
+        "temporário"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_182",
+      "number": "182",
+      "title": "Duração de contrato de trabalho temporário",
+      "text": "Artigo 182.º Duração de contrato de trabalho temporário",
+      "tags": [
+        "artigo",
+        "duração",
+        "contrato",
+        "trabalho",
+        "temporário"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_183",
+      "number": "183",
+      "title": "Forma e conteúdo de contrato de trabalho por tempo indeterminado p",
+      "text": "Artigo 183.º Forma e conteúdo de contrato de trabalho por tempo indeterminado para cedência temporária",
+      "tags": [
+        "artigo",
+        "conteúdo",
+        "contrato",
+        "trabalho",
+        "indeterminado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_184",
+      "number": "184",
+      "title": "Período sem cedência temporária",
+      "text": "Artigo 184.º Período sem cedência temporária",
+      "tags": [
+        "artigo",
+        "período",
+        "cedência",
+        "temporária"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_185",
+      "number": "185",
+      "title": "Condições de trabalho de trabalhador temporário",
+      "text": "Artigo 185.º Condições de trabalho de trabalhador temporário",
+      "tags": [
+        "artigo",
+        "condições",
+        "trabalho",
+        "trabalhador",
+        "temporário"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_186",
+      "number": "186",
+      "title": "Segurança e saúde no trabalho temporário",
+      "text": "Artigo 186.º Segurança e saúde no trabalho temporário",
+      "tags": [
+        "artigo",
+        "segurança",
+        "trabalho",
+        "temporário"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_187",
+      "number": "187",
+      "title": "Formação profissional de trabalhador temporário",
+      "text": "Artigo 187.º Formação profissional de trabalhador temporário",
+      "tags": [
+        "artigo",
+        "formação",
+        "profissional",
+        "trabalhador",
+        "temporário"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_188",
+      "number": "188",
+      "title": "Substituição de trabalhador temporário",
+      "text": "Artigo 188.º Substituição de trabalhador temporário",
+      "tags": [
+        "artigo",
+        "substituição",
+        "trabalhador",
+        "temporário"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_189",
+      "number": "189",
+      "title": "Enquadramento de trabalhador temporário",
+      "text": "Artigo 189.º Enquadramento de trabalhador temporário",
+      "tags": [
+        "artigo",
+        "enquadramento",
+        "trabalhador",
+        "temporário"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_190",
+      "number": "190",
+      "title": "Prestações garantidas pela caução para exercício da actividade de",
+      "text": "Artigo 190.º Prestações garantidas pela caução para exercício da actividade de trabalho temporário",
+      "tags": [
+        "artigo",
+        "prestações",
+        "garantidas",
+        "caução",
+        "exercício"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_191",
+      "number": "191",
+      "title": "Execução da caução",
+      "text": "Artigo 191.º Execução da caução",
+      "tags": [
+        "artigo",
+        "execução",
+        "caução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_192",
+      "number": "192",
+      "title": "Sanções acessórias no âmbito de trabalho temporário",
+      "text": "Artigo 192.º Sanções acessórias no âmbito de trabalho temporário",
+      "tags": [
+        "artigo",
+        "sanções",
+        "acessórias",
+        "âmbito",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_193",
+      "number": "193",
+      "title": "Noção de local de trabalho",
+      "text": "Artigo 193.º Noção de local de trabalho",
+      "tags": [
+        "artigo",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_194",
+      "number": "194",
+      "title": "Transferência de local de trabalho",
+      "text": "Artigo 194.º Transferência de local de trabalho",
+      "tags": [
+        "artigo",
+        "transferência",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_195",
+      "number": "195",
+      "title": "Transferência a pedido do trabalhador",
+      "text": "Artigo 195.º Transferência a pedido do trabalhador",
+      "tags": [
+        "artigo",
+        "transferência",
+        "pedido",
+        "trabalhador"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_196",
+      "number": "196",
+      "title": "Procedimento em caso de transferência do local de trabalho",
+      "text": "Artigo 196.º Procedimento em caso de transferência do local de trabalho",
+      "tags": [
+        "artigo",
+        "procedimento",
+        "transferência",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_197",
+      "number": "197",
+      "title": "Tempo de trabalho",
+      "text": "Artigo 197.º Tempo de trabalho",
+      "tags": [
+        "artigo",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_198",
+      "number": "198",
+      "title": "Período normal de trabalho",
+      "text": "Artigo 198.º Período normal de trabalho",
+      "tags": [
+        "artigo",
+        "período",
+        "normal",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_199",
+      "number": "199",
+      "title": "Período de descanso",
+      "text": "Artigo 199.º Período de descanso",
+      "tags": [
+        "artigo",
+        "período",
+        "descanso"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_200",
+      "number": "200",
+      "title": "Horário de trabalho",
+      "text": "Artigo 200.º Horário de trabalho",
+      "tags": [
+        "artigo",
+        "horário",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_201",
+      "number": "201",
+      "title": "Período de funcionamento",
+      "text": "Artigo 201.º Período de funcionamento",
+      "tags": [
+        "artigo",
+        "período",
+        "funcionamento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_202",
+      "number": "202",
+      "title": "Registo de tempos de trabalho",
+      "text": "Artigo 202.º Registo de tempos de trabalho",
+      "tags": [
+        "artigo",
+        "registo",
+        "tempos",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_203",
+      "number": "203",
+      "title": "Limites máximos do período normal de trabalho",
+      "text": "Artigo 203.º Limites máximos do período normal de trabalho",
+      "tags": [
+        "artigo",
+        "limites",
+        "máximos",
+        "período",
+        "normal"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_204",
+      "number": "204",
+      "title": "Adaptabilidade por regulamentação colectiva",
+      "text": "Artigo 204.º Adaptabilidade por regulamentação colectiva",
+      "tags": [
+        "artigo",
+        "adaptabilidade",
+        "regulamentação",
+        "colectiva"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_205",
+      "number": "205",
+      "title": "Adaptabilidade individual",
+      "text": "Artigo 205.º Adaptabilidade individual",
+      "tags": [
+        "artigo",
+        "adaptabilidade",
+        "individual"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_206",
+      "number": "206",
+      "title": "Adaptabilidade grupal",
+      "text": "Artigo 206.º Adaptabilidade grupal",
+      "tags": [
+        "artigo",
+        "adaptabilidade",
+        "grupal"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_207",
+      "number": "207",
+      "title": "Período de referência",
+      "text": "Artigo 207.º Período de referência",
+      "tags": [
+        "artigo",
+        "período",
+        "referência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_208",
+      "number": "208",
+      "title": "Banco de horas por regulamentação coletiva",
+      "text": "Artigo 208.º Banco de horas por regulamentação coletiva",
+      "tags": [
+        "artigo",
+        "regulamentação",
+        "coletiva"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_209",
+      "number": "209",
+      "title": "Horário concentrado",
+      "text": "Artigo 209.º Horário concentrado",
+      "tags": [
+        "artigo",
+        "horário",
+        "concentrado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_210",
+      "number": "210",
+      "title": "Excepções aos limites máximos do período normal de trabalho",
+      "text": "Artigo 210.º Excepções aos limites máximos do período normal de trabalho",
+      "tags": [
+        "artigo",
+        "excepções",
+        "limites",
+        "máximos",
+        "período"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_211",
+      "number": "211",
+      "title": "Limite máximo da duração média do trabalho semanal",
+      "text": "Artigo 211.º Limite máximo da duração média do trabalho semanal",
+      "tags": [
+        "artigo",
+        "limite",
+        "máximo",
+        "duração",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_212",
+      "number": "212",
+      "title": "Elaboração de horário de trabalho",
+      "text": "Artigo 212.º Elaboração de horário de trabalho",
+      "tags": [
+        "artigo",
+        "elaboração",
+        "horário",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_213",
+      "number": "213",
+      "title": "Intervalo de descanso",
+      "text": "Artigo 213.º Intervalo de descanso",
+      "tags": [
+        "artigo",
+        "intervalo",
+        "descanso"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_214",
+      "number": "214",
+      "title": "Descanso diário",
+      "text": "Artigo 214.º Descanso diário",
+      "tags": [
+        "artigo",
+        "descanso",
+        "diário"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_215",
+      "number": "215",
+      "title": "Mapa de horário de trabalho",
+      "text": "Artigo 215.º Mapa de horário de trabalho",
+      "tags": [
+        "artigo",
+        "horário",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_216",
+      "number": "216",
+      "title": "Afixação do mapa de horário de trabalho",
+      "text": "Artigo 216.º Afixação do mapa de horário de trabalho",
+      "tags": [
+        "artigo",
+        "afixação",
+        "horário",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_217",
+      "number": "217",
+      "title": "Alteração de horário de trabalho",
+      "text": "Artigo 217.º Alteração de horário de trabalho",
+      "tags": [
+        "artigo",
+        "alteração",
+        "horário",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_218",
+      "number": "218",
+      "title": "Condições de isenção de horário de trabalho",
+      "text": "Artigo 218.º Condições de isenção de horário de trabalho",
+      "tags": [
+        "artigo",
+        "condições",
+        "isenção",
+        "horário",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_219",
+      "number": "219",
+      "title": "Modalidades e efeitos de isenção de horário de trabalho",
+      "text": "Artigo 219.º Modalidades e efeitos de isenção de horário de trabalho",
+      "tags": [
+        "artigo",
+        "modalidades",
+        "efeitos",
+        "isenção",
+        "horário"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_220",
+      "number": "220",
+      "title": "Noção de trabalho por turnos",
+      "text": "Artigo 220.º Noção de trabalho por turnos",
+      "tags": [
+        "artigo",
+        "trabalho",
+        "turnos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_221",
+      "number": "221",
+      "title": "Organização de turnos",
+      "text": "Artigo 221.º Organização de turnos",
+      "tags": [
+        "artigo",
+        "organização",
+        "turnos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_222",
+      "number": "222",
+      "title": "Protecção em matéria de segurança e saúde no trabalho",
+      "text": "Artigo 222.º Protecção em matéria de segurança e saúde no trabalho",
+      "tags": [
+        "artigo",
+        "protecção",
+        "matéria",
+        "segurança",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_223",
+      "number": "223",
+      "title": "Noção de trabalho nocturno",
+      "text": "Artigo 223.º Noção de trabalho nocturno",
+      "tags": [
+        "artigo",
+        "trabalho",
+        "nocturno"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_224",
+      "number": "224",
+      "title": "Duração do trabalho de trabalhador nocturno",
+      "text": "Artigo 224.º Duração do trabalho de trabalhador nocturno",
+      "tags": [
+        "artigo",
+        "duração",
+        "trabalho",
+        "trabalhador",
+        "nocturno"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_225",
+      "number": "225",
+      "title": "Protecção de trabalhador nocturno",
+      "text": "Artigo 225.º Protecção de trabalhador nocturno",
+      "tags": [
+        "artigo",
+        "protecção",
+        "trabalhador",
+        "nocturno"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_226",
+      "number": "226",
+      "title": "Noção de trabalho suplementar",
+      "text": "Artigo 226.º Noção de trabalho suplementar",
+      "tags": [
+        "artigo",
+        "trabalho",
+        "suplementar"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_227",
+      "number": "227",
+      "title": "Condições de prestação de trabalho suplementar",
+      "text": "Artigo 227.º Condições de prestação de trabalho suplementar",
+      "tags": [
+        "artigo",
+        "condições",
+        "prestação",
+        "trabalho",
+        "suplementar"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_228",
+      "number": "228",
+      "title": "Limites de duração do trabalho suplementar",
+      "text": "Artigo 228.º Limites de duração do trabalho suplementar",
+      "tags": [
+        "artigo",
+        "limites",
+        "duração",
+        "trabalho",
+        "suplementar"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_229",
+      "number": "229",
+      "title": "Descanso compensatório de trabalho suplementar",
+      "text": "Artigo 229.º Descanso compensatório de trabalho suplementar",
+      "tags": [
+        "artigo",
+        "descanso",
+        "compensatório",
+        "trabalho",
+        "suplementar"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_230",
+      "number": "230",
+      "title": "Regimes especiais de trabalho suplementar",
+      "text": "Artigo 230.º Regimes especiais de trabalho suplementar",
+      "tags": [
+        "artigo",
+        "regimes",
+        "especiais",
+        "trabalho",
+        "suplementar"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_231",
+      "number": "231",
+      "title": "Registo de trabalho suplementar",
+      "text": "Artigo 231.º Registo de trabalho suplementar",
+      "tags": [
+        "artigo",
+        "registo",
+        "trabalho",
+        "suplementar"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_232",
+      "number": "232",
+      "title": "Descanso semanal",
+      "text": "Artigo 232.º Descanso semanal",
+      "tags": [
+        "artigo",
+        "descanso",
+        "semanal"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_233",
+      "number": "233",
+      "title": "Cumulação de descanso semanal e de descanso diário",
+      "text": "Artigo 233.º Cumulação de descanso semanal e de descanso diário",
+      "tags": [
+        "descanso",
+        "artigo",
+        "cumulação",
+        "semanal",
+        "diário"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_234",
+      "number": "234",
+      "title": "Feriados obrigatórios",
+      "text": "Artigo 234.º Feriados obrigatórios",
+      "tags": [
+        "artigo",
+        "feriados",
+        "obrigatórios"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_235",
+      "number": "235",
+      "title": "Feriados facultativos",
+      "text": "Artigo 235.º Feriados facultativos",
+      "tags": [
+        "artigo",
+        "feriados",
+        "facultativos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_236",
+      "number": "236",
+      "title": "Regime dos feriados",
+      "text": "Artigo 236.º Regime dos feriados",
+      "tags": [
+        "artigo",
+        "regime",
+        "feriados"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_237",
+      "number": "237",
+      "title": "Direito a férias",
+      "text": "Artigo 237.º Direito a férias",
+      "tags": [
+        "artigo",
+        "direito",
+        "férias"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_238",
+      "number": "238",
+      "title": "Duração do período de férias",
+      "text": "Artigo 238.º Duração do período de férias",
+      "tags": [
+        "artigo",
+        "duração",
+        "período",
+        "férias"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_239",
+      "number": "239",
+      "title": "Casos especiais de duração do período de férias",
+      "text": "Artigo 239.º Casos especiais de duração do período de férias",
+      "tags": [
+        "artigo",
+        "especiais",
+        "duração",
+        "período",
+        "férias"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_240",
+      "number": "240",
+      "title": "Ano do gozo das férias",
+      "text": "Artigo 240.º Ano do gozo das férias",
+      "tags": [
+        "artigo",
+        "férias"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_241",
+      "number": "241",
+      "title": "Marcação do período de férias",
+      "text": "Artigo 241.º Marcação do período de férias",
+      "tags": [
+        "artigo",
+        "marcação",
+        "período",
+        "férias"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_242",
+      "number": "242",
+      "title": "Encerramento para férias",
+      "text": "Artigo 242.º Encerramento para férias",
+      "tags": [
+        "artigo",
+        "encerramento",
+        "férias"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_243",
+      "number": "243",
+      "title": "Alteração do período de férias por motivo relativo à empresa",
+      "text": "Artigo 243.º Alteração do período de férias por motivo relativo à empresa",
+      "tags": [
+        "artigo",
+        "alteração",
+        "período",
+        "férias",
+        "motivo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_244",
+      "number": "244",
+      "title": "Alteração do período de férias por motivo relativo ao trabalhador",
+      "text": "Artigo 244.º Alteração do período de férias por motivo relativo ao trabalhador",
+      "tags": [
+        "artigo",
+        "alteração",
+        "período",
+        "férias",
+        "motivo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_245",
+      "number": "245",
+      "title": "Efeitos da cessação do contrato de trabalho no direito a férias",
+      "text": "Artigo 245.º Efeitos da cessação do contrato de trabalho no direito a férias",
+      "tags": [
+        "artigo",
+        "efeitos",
+        "cessação",
+        "contrato",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_246",
+      "number": "246",
+      "title": "Violação do direito a férias",
+      "text": "Artigo 246.º Violação do direito a férias",
+      "tags": [
+        "artigo",
+        "violação",
+        "direito",
+        "férias"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_247",
+      "number": "247",
+      "title": "Exercício de outra actividade durante as férias",
+      "text": "Artigo 247.º Exercício de outra actividade durante as férias",
+      "tags": [
+        "artigo",
+        "exercício",
+        "actividade",
+        "durante",
+        "férias"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_248",
+      "number": "248",
+      "title": "Noção de falta",
+      "text": "Artigo 248.º Noção de falta",
+      "tags": [
+        "artigo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_249",
+      "number": "249",
+      "title": "Tipos de falta",
+      "text": "Artigo 249.º Tipos de falta",
+      "tags": [
+        "artigo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_250",
+      "number": "250",
+      "title": "Imperatividade do regime de faltas",
+      "text": "Artigo 250.º Imperatividade do regime de faltas",
+      "tags": [
+        "artigo",
+        "imperatividade",
+        "regime",
+        "faltas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_251",
+      "number": "251",
+      "title": "Faltas por motivo de falecimento de cônjuge, parente ou afim",
+      "text": "Artigo 251.º Faltas por motivo de falecimento de cônjuge, parente ou afim",
+      "tags": [
+        "artigo",
+        "faltas",
+        "motivo",
+        "falecimento",
+        "cônjuge"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_252",
+      "number": "252",
+      "title": "Falta para assistência a membro do agregado familiar",
+      "text": "Artigo 252.º Falta para assistência a membro do agregado familiar",
+      "tags": [
+        "artigo",
+        "assistência",
+        "membro",
+        "agregado",
+        "familiar"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_253",
+      "number": "253",
+      "title": "Comunicação de ausência",
+      "text": "Artigo 253.º Comunicação de ausência",
+      "tags": [
+        "artigo",
+        "comunicação",
+        "ausência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_254",
+      "number": "254",
+      "title": "Prova de motivo justificativo de falta",
+      "text": "Artigo 254.º Prova de motivo justificativo de falta",
+      "tags": [
+        "artigo",
+        "motivo",
+        "justificativo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_255",
+      "number": "255",
+      "title": "Efeitos de falta justificada",
+      "text": "Artigo 255.º Efeitos de falta justificada",
+      "tags": [
+        "artigo",
+        "efeitos",
+        "justificada"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_256",
+      "number": "256",
+      "title": "Efeitos de falta injustificada",
+      "text": "Artigo 256.º Efeitos de falta injustificada",
+      "tags": [
+        "artigo",
+        "efeitos",
+        "injustificada"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_257",
+      "number": "257",
+      "title": "Substituição da perda de retribuição por motivo de falta",
+      "text": "Artigo 257.º Substituição da perda de retribuição por motivo de falta",
+      "tags": [
+        "artigo",
+        "substituição",
+        "retribuição",
+        "motivo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_258",
+      "number": "258",
+      "title": "Princípios gerais sobre a retribuição",
+      "text": "Artigo 258.º Princípios gerais sobre a retribuição",
+      "tags": [
+        "artigo",
+        "princípios",
+        "gerais",
+        "retribuição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_259",
+      "number": "259",
+      "title": "Retribuição em espécie",
+      "text": "Artigo 259.º Retribuição em espécie",
+      "tags": [
+        "artigo",
+        "retribuição",
+        "espécie"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_260",
+      "number": "260",
+      "title": "Prestações incluídas ou excluídas da retribuição",
+      "text": "Artigo 260.º Prestações incluídas ou excluídas da retribuição",
+      "tags": [
+        "artigo",
+        "prestações",
+        "incluídas",
+        "excluídas",
+        "retribuição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_261",
+      "number": "261",
+      "title": "Modalidades de retribuição",
+      "text": "Artigo 261.º Modalidades de retribuição",
+      "tags": [
+        "artigo",
+        "modalidades",
+        "retribuição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_262",
+      "number": "262",
+      "title": "Cálculo de prestação complementar ou acessória",
+      "text": "Artigo 262.º Cálculo de prestação complementar ou acessória",
+      "tags": [
+        "artigo",
+        "cálculo",
+        "prestação",
+        "complementar",
+        "acessória"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_263",
+      "number": "263",
+      "title": "Subsídio de Natal",
+      "text": "Artigo 263.º Subsídio de Natal",
+      "tags": [
+        "artigo",
+        "subsídio"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_264",
+      "number": "264",
+      "title": "Retribuição do período de férias e subsídio",
+      "text": "Artigo 264.º Retribuição do período de férias e subsídio",
+      "tags": [
+        "artigo",
+        "retribuição",
+        "período",
+        "férias",
+        "subsídio"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_265",
+      "number": "265",
+      "title": "Retribuição por isenção de horário de trabalho",
+      "text": "Artigo 265.º Retribuição por isenção de horário de trabalho",
+      "tags": [
+        "artigo",
+        "retribuição",
+        "isenção",
+        "horário",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_266",
+      "number": "266",
+      "title": "Pagamento de trabalho nocturno",
+      "text": "Artigo 266.º Pagamento de trabalho nocturno",
+      "tags": [
+        "artigo",
+        "pagamento",
+        "trabalho",
+        "nocturno"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_267",
+      "number": "267",
+      "title": "Retribuição por exercício de funções afins ou funcionalmente ligad",
+      "text": "Artigo 267.º Retribuição por exercício de funções afins ou funcionalmente ligadas",
+      "tags": [
+        "artigo",
+        "retribuição",
+        "exercício",
+        "funções",
+        "funcionalmente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_268",
+      "number": "268",
+      "title": "Pagamento de trabalho suplementar",
+      "text": "Artigo 268.º Pagamento de trabalho suplementar",
+      "tags": [
+        "artigo",
+        "pagamento",
+        "trabalho",
+        "suplementar"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_269",
+      "number": "269",
+      "title": "Prestações relativas a dia feriado",
+      "text": "Artigo 269.º Prestações relativas a dia feriado",
+      "tags": [
+        "artigo",
+        "prestações",
+        "relativas",
+        "feriado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_270",
+      "number": "270",
+      "title": "Critérios de determinação da retribuição",
+      "text": "Artigo 270.º Critérios de determinação da retribuição",
+      "tags": [
+        "artigo",
+        "critérios",
+        "determinação",
+        "retribuição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_271",
+      "number": "271",
+      "title": "Cálculo do valor da retribuição horária",
+      "text": "Artigo 271.º Cálculo do valor da retribuição horária",
+      "tags": [
+        "artigo",
+        "cálculo",
+        "retribuição",
+        "horária"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_272",
+      "number": "272",
+      "title": "Determinação judicial do valor da retribuição",
+      "text": "Artigo 272.º Determinação judicial do valor da retribuição",
+      "tags": [
+        "artigo",
+        "determinação",
+        "judicial",
+        "retribuição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_273",
+      "number": "273",
+      "title": "Determinação da retribuição mínima mensal garantida",
+      "text": "Artigo 273.º Determinação da retribuição mínima mensal garantida",
+      "tags": [
+        "artigo",
+        "determinação",
+        "retribuição",
+        "mínima",
+        "mensal"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_274",
+      "number": "274",
+      "title": "Prestações incluídas na retribuição mínima mensal garantida",
+      "text": "Artigo 274.º Prestações incluídas na retribuição mínima mensal garantida",
+      "tags": [
+        "artigo",
+        "prestações",
+        "incluídas",
+        "retribuição",
+        "mínima"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_275",
+      "number": "275",
+      "title": "Redução da retribuição mínima mensal garantida relacionada com o t",
+      "text": "Artigo 275.º Redução da retribuição mínima mensal garantida relacionada com o trabalhador",
+      "tags": [
+        "artigo",
+        "redução",
+        "retribuição",
+        "mínima",
+        "mensal"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_276",
+      "number": "276",
+      "title": "Forma de cumprimento",
+      "text": "Artigo 276.º Forma de cumprimento",
+      "tags": [
+        "artigo",
+        "cumprimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_277",
+      "number": "277",
+      "title": "Lugar do cumprimento",
+      "text": "Artigo 277.º Lugar do cumprimento",
+      "tags": [
+        "artigo",
+        "cumprimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_278",
+      "number": "278",
+      "title": "Tempo do cumprimento",
+      "text": "Artigo 278.º Tempo do cumprimento",
+      "tags": [
+        "artigo",
+        "cumprimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_279",
+      "number": "279",
+      "title": "Compensações e descontos",
+      "text": "Artigo 279.º Compensações e descontos",
+      "tags": [
+        "artigo",
+        "compensações",
+        "descontos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_280",
+      "number": "280",
+      "title": "Cessão de crédito retributivo",
+      "text": "Artigo 280.º Cessão de crédito retributivo",
+      "tags": [
+        "artigo",
+        "cessão",
+        "crédito",
+        "retributivo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_281",
+      "number": "281",
+      "title": "Princípios gerais em matéria de segurança e saúde no trabalho",
+      "text": "Artigo 281.º Princípios gerais em matéria de segurança e saúde no trabalho",
+      "tags": [
+        "artigo",
+        "princípios",
+        "gerais",
+        "matéria",
+        "segurança"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_282",
+      "number": "282",
+      "title": "Informação, consulta e formação dos trabalhadores",
+      "text": "Artigo 282.º Informação, consulta e formação dos trabalhadores",
+      "tags": [
+        "artigo",
+        "informação",
+        "consulta",
+        "formação",
+        "trabalhadores"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_283",
+      "number": "283",
+      "title": "Acidentes de trabalho e doenças profissionais",
+      "text": "Artigo 283.º Acidentes de trabalho e doenças profissionais",
+      "tags": [
+        "artigo",
+        "acidentes",
+        "trabalho",
+        "doenças",
+        "profissionais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_284",
+      "number": "284",
+      "title": "Regulamentação da prevenção e reparação",
+      "text": "Artigo 284.º Regulamentação da prevenção e reparação",
+      "tags": [
+        "artigo",
+        "regulamentação",
+        "prevenção",
+        "reparação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_285",
+      "number": "285",
+      "title": "Efeitos de transmissão de empresa ou estabelecimento",
+      "text": "Artigo 285.º Efeitos de transmissão de empresa ou estabelecimento",
+      "tags": [
+        "artigo",
+        "efeitos",
+        "transmissão",
+        "empresa",
+        "estabelecimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_286",
+      "number": "286",
+      "title": "Informação e consulta dos trabalhadores e de representantes dos tr",
+      "text": "Artigo 286.º Informação e consulta dos trabalhadores e de representantes dos trabalhadores",
+      "tags": [
+        "trabalhadores",
+        "artigo",
+        "informação",
+        "consulta",
+        "representantes"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_287",
+      "number": "287",
+      "title": "Representação dos trabalhadores após a transmissão",
+      "text": "Artigo 287.º Representação dos trabalhadores após a transmissão",
+      "tags": [
+        "artigo",
+        "representação",
+        "trabalhadores",
+        "transmissão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_288",
+      "number": "288",
+      "title": "Noção de cedência ocasional de trabalhador",
+      "text": "Artigo 288.º Noção de cedência ocasional de trabalhador",
+      "tags": [
+        "artigo",
+        "cedência",
+        "ocasional",
+        "trabalhador"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_289",
+      "number": "289",
+      "title": "Admissibilidade de cedência ocasional",
+      "text": "Artigo 289.º Admissibilidade de cedência ocasional",
+      "tags": [
+        "artigo",
+        "admissibilidade",
+        "cedência",
+        "ocasional"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_290",
+      "number": "290",
+      "title": "Acordo de cedência ocasional de trabalhador",
+      "text": "Artigo 290.º Acordo de cedência ocasional de trabalhador",
+      "tags": [
+        "artigo",
+        "acordo",
+        "cedência",
+        "ocasional",
+        "trabalhador"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_291",
+      "number": "291",
+      "title": "Regime de prestação de trabalho de trabalhador cedido",
+      "text": "Artigo 291.º Regime de prestação de trabalho de trabalhador cedido",
+      "tags": [
+        "artigo",
+        "regime",
+        "prestação",
+        "trabalho",
+        "trabalhador"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_292",
+      "number": "292",
+      "title": "Consequência de recurso ilícito a cedência ou de irregularidade do",
+      "text": "Artigo 292.º Consequência de recurso ilícito a cedência ou de irregularidade do acordo",
+      "tags": [
+        "artigo",
+        "consequência",
+        "recurso",
+        "ilícito",
+        "cedência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_293",
+      "number": "293",
+      "title": "Enquadramento de trabalhador cedido",
+      "text": "Artigo 293.º Enquadramento de trabalhador cedido",
+      "tags": [
+        "artigo",
+        "enquadramento",
+        "trabalhador",
+        "cedido"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_294",
+      "number": "294",
+      "title": "Factos determinantes de redução ou suspensão",
+      "text": "Artigo 294.º Factos determinantes de redução ou suspensão",
+      "tags": [
+        "artigo",
+        "factos",
+        "determinantes",
+        "redução",
+        "suspensão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_295",
+      "number": "295",
+      "title": "Efeitos da redução ou da suspensão",
+      "text": "Artigo 295.º Efeitos da redução ou da suspensão",
+      "tags": [
+        "artigo",
+        "efeitos",
+        "redução",
+        "suspensão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_296",
+      "number": "296",
+      "title": "Facto determinante da suspensão respeitante a trabalhador",
+      "text": "Artigo 296.º Facto determinante da suspensão respeitante a trabalhador",
+      "tags": [
+        "artigo",
+        "determinante",
+        "suspensão",
+        "respeitante",
+        "trabalhador"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_297",
+      "number": "297",
+      "title": "Regresso do trabalhador",
+      "text": "Artigo 297.º Regresso do trabalhador",
+      "tags": [
+        "artigo",
+        "regresso",
+        "trabalhador"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_298",
+      "number": "298",
+      "title": "Redução ou suspensão em situação de crise empresarial",
+      "text": "Artigo 298.º Redução ou suspensão em situação de crise empresarial",
+      "tags": [
+        "artigo",
+        "redução",
+        "suspensão",
+        "situação",
+        "empresarial"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_299",
+      "number": "299",
+      "title": "Comunicações em caso de redução ou suspensão",
+      "text": "Artigo 299.º Comunicações em caso de redução ou suspensão",
+      "tags": [
+        "artigo",
+        "comunicações",
+        "redução",
+        "suspensão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_300",
+      "number": "300",
+      "title": "Informações e negociação em caso de redução ou suspensão",
+      "text": "Artigo 300.º Informações e negociação em caso de redução ou suspensão",
+      "tags": [
+        "artigo",
+        "informações",
+        "negociação",
+        "redução",
+        "suspensão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_301",
+      "number": "301",
+      "title": "Duração de medida de redução ou suspensão",
+      "text": "Artigo 301.º Duração de medida de redução ou suspensão",
+      "tags": [
+        "artigo",
+        "duração",
+        "medida",
+        "redução",
+        "suspensão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_302",
+      "number": "302",
+      "title": "Formação profissional durante a redução ou suspensão",
+      "text": "Artigo 302.º Formação profissional durante a redução ou suspensão",
+      "tags": [
+        "artigo",
+        "formação",
+        "profissional",
+        "durante",
+        "redução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_303",
+      "number": "303",
+      "title": "Deveres do empregador no período de redução ou suspensão",
+      "text": "Artigo 303.º Deveres do empregador no período de redução ou suspensão",
+      "tags": [
+        "artigo",
+        "deveres",
+        "empregador",
+        "período",
+        "redução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_304",
+      "number": "304",
+      "title": "Deveres do trabalhador no período de redução ou suspensão",
+      "text": "Artigo 304.º Deveres do trabalhador no período de redução ou suspensão",
+      "tags": [
+        "artigo",
+        "deveres",
+        "trabalhador",
+        "período",
+        "redução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_305",
+      "number": "305",
+      "title": "Direitos do trabalhador no período de redução ou suspensão",
+      "text": "Artigo 305.º Direitos do trabalhador no período de redução ou suspensão",
+      "tags": [
+        "artigo",
+        "direitos",
+        "trabalhador",
+        "período",
+        "redução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_306",
+      "number": "306",
+      "title": "Efeitos da redução ou suspensão em férias, subsídio de férias ou d",
+      "text": "Artigo 306.º Efeitos da redução ou suspensão em férias, subsídio de férias ou de Natal",
+      "tags": [
+        "férias",
+        "artigo",
+        "efeitos",
+        "redução",
+        "suspensão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_307",
+      "number": "307",
+      "title": "Acompanhamento da medida",
+      "text": "Artigo 307.º Acompanhamento da medida",
+      "tags": [
+        "artigo",
+        "acompanhamento",
+        "medida"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_308",
+      "number": "308",
+      "title": "Direitos dos representantes dos trabalhadores durante a redução ou",
+      "text": "Artigo 308.º Direitos dos representantes dos trabalhadores durante a redução ou suspensão",
+      "tags": [
+        "artigo",
+        "direitos",
+        "representantes",
+        "trabalhadores",
+        "durante"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_309",
+      "number": "309",
+      "title": "Retribuição durante o encerramento ou a diminuição de actividade",
+      "text": "Artigo 309.º Retribuição durante o encerramento ou a diminuição de actividade",
+      "tags": [
+        "artigo",
+        "retribuição",
+        "durante",
+        "encerramento",
+        "diminuição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_310",
+      "number": "310",
+      "title": "Cessação de encerramento ou de diminuição de actividade",
+      "text": "Artigo 310.º Cessação de encerramento ou de diminuição de actividade",
+      "tags": [
+        "artigo",
+        "cessação",
+        "encerramento",
+        "diminuição",
+        "actividade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_311",
+      "number": "311",
+      "title": "Procedimento em caso de encerramento temporário por facto imputáve",
+      "text": "Artigo 311.º Procedimento em caso de encerramento temporário por facto imputável ao empregador",
+      "tags": [
+        "artigo",
+        "procedimento",
+        "encerramento",
+        "temporário",
+        "imputável"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_312",
+      "number": "312",
+      "title": "Caução em caso de encerramento temporário por facto imputável ao e",
+      "text": "Artigo 312.º Caução em caso de encerramento temporário por facto imputável ao empregador",
+      "tags": [
+        "artigo",
+        "caução",
+        "encerramento",
+        "temporário",
+        "imputável"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_313",
+      "number": "313",
+      "title": "Actos proibidos em caso de encerramento temporário",
+      "text": "Artigo 313.º Actos proibidos em caso de encerramento temporário",
+      "tags": [
+        "artigo",
+        "proibidos",
+        "encerramento",
+        "temporário"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_314",
+      "number": "314",
+      "title": "Anulabilidade de acto de disposição",
+      "text": "Artigo 314.º Anulabilidade de acto de disposição",
+      "tags": [
+        "artigo",
+        "anulabilidade",
+        "disposição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_315",
+      "number": "315",
+      "title": "Extensão do regime a caso de encerramento definitivo",
+      "text": "Artigo 315.º Extensão do regime a caso de encerramento definitivo",
+      "tags": [
+        "artigo",
+        "extensão",
+        "regime",
+        "encerramento",
+        "definitivo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_316",
+      "number": "316",
+      "title": "Responsabilidade penal em caso de encerramento de empresa ou estab",
+      "text": "Artigo 316.º Responsabilidade penal em caso de encerramento de empresa ou estabelecimento",
+      "tags": [
+        "artigo",
+        "responsabilidade",
+        "encerramento",
+        "empresa",
+        "estabelecimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_317",
+      "number": "317",
+      "title": "Concessão e efeitos da licença sem retribuição",
+      "text": "Artigo 317.º Concessão e efeitos da licença sem retribuição",
+      "tags": [
+        "artigo",
+        "concessão",
+        "efeitos",
+        "licença",
+        "retribuição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_318",
+      "number": "318",
+      "title": "Noção de pré-reforma",
+      "text": "Artigo 318.º Noção de pré-reforma",
+      "tags": [
+        "artigo",
+        "reforma"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_319",
+      "number": "319",
+      "title": "Acordo de pré-reforma",
+      "text": "Artigo 319.º Acordo de pré-reforma",
+      "tags": [
+        "artigo",
+        "acordo",
+        "reforma"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_320",
+      "number": "320",
+      "title": "Prestação de pré-reforma",
+      "text": "Artigo 320.º Prestação de pré-reforma",
+      "tags": [
+        "artigo",
+        "prestação",
+        "reforma"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_321",
+      "number": "321",
+      "title": "Direitos de trabalhador em situação de pré-reforma",
+      "text": "Artigo 321.º Direitos de trabalhador em situação de pré-reforma",
+      "tags": [
+        "artigo",
+        "direitos",
+        "trabalhador",
+        "situação",
+        "reforma"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_322",
+      "number": "322",
+      "title": "Cessação de pré-reforma",
+      "text": "Artigo 322.º Cessação de pré-reforma",
+      "tags": [
+        "artigo",
+        "cessação",
+        "reforma"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_323",
+      "number": "323",
+      "title": "Efeitos gerais do incumprimento do contrato de trabalho",
+      "text": "Artigo 323.º Efeitos gerais do incumprimento do contrato de trabalho",
+      "tags": [
+        "artigo",
+        "efeitos",
+        "gerais",
+        "incumprimento",
+        "contrato"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_324",
+      "number": "324",
+      "title": "Efeitos para o empregador de falta de pagamento pontual da retribu",
+      "text": "Artigo 324.º Efeitos para o empregador de falta de pagamento pontual da retribuição",
+      "tags": [
+        "artigo",
+        "efeitos",
+        "empregador",
+        "pagamento",
+        "pontual"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_325",
+      "number": "325",
+      "title": "Requisitos da suspensão de contrato de trabalho",
+      "text": "Artigo 325.º Requisitos da suspensão de contrato de trabalho",
+      "tags": [
+        "artigo",
+        "requisitos",
+        "suspensão",
+        "contrato",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_326",
+      "number": "326",
+      "title": "Prestação de trabalho durante a suspensão",
+      "text": "Artigo 326.º Prestação de trabalho durante a suspensão",
+      "tags": [
+        "artigo",
+        "prestação",
+        "trabalho",
+        "durante",
+        "suspensão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_327",
+      "number": "327",
+      "title": "Cessação da suspensão do contrato de trabalho",
+      "text": "Artigo 327.º Cessação da suspensão do contrato de trabalho",
+      "tags": [
+        "artigo",
+        "cessação",
+        "suspensão",
+        "contrato",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_328",
+      "number": "328",
+      "title": "Sanções disciplinares",
+      "text": "Artigo 328.º Sanções disciplinares",
+      "tags": [
+        "artigo",
+        "sanções",
+        "disciplinares"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_329",
+      "number": "329",
+      "title": "Procedimento disciplinar e prescrição",
+      "text": "Artigo 329.º Procedimento disciplinar e prescrição",
+      "tags": [
+        "artigo",
+        "procedimento",
+        "disciplinar",
+        "prescrição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_330",
+      "number": "330",
+      "title": "Critério de decisão e aplicação de sanção disciplinar",
+      "text": "Artigo 330.º Critério de decisão e aplicação de sanção disciplinar",
+      "tags": [
+        "artigo",
+        "critério",
+        "decisão",
+        "aplicação",
+        "sanção"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_331",
+      "number": "331",
+      "title": "Sanções abusivas",
+      "text": "Artigo 331.º Sanções abusivas",
+      "tags": [
+        "artigo",
+        "sanções",
+        "abusivas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_332",
+      "number": "332",
+      "title": "Registo de sanções disciplinares",
+      "text": "Artigo 332.º Registo de sanções disciplinares",
+      "tags": [
+        "artigo",
+        "registo",
+        "sanções",
+        "disciplinares"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_333",
+      "number": "333",
+      "title": "Privilégios creditórios",
+      "text": "Artigo 333.º Privilégios creditórios",
+      "tags": [
+        "artigo",
+        "privilégios",
+        "creditórios"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_334",
+      "number": "334",
+      "title": "Responsabilidade solidária de sociedade em relação de participaçõe",
+      "text": "Artigo 334.º Responsabilidade solidária de sociedade em relação de participações recíprocas, de domínio ou de grupo",
+      "tags": [
+        "artigo",
+        "responsabilidade",
+        "solidária",
+        "sociedade",
+        "relação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_335",
+      "number": "335",
+      "title": "Responsabilidade de sócio, gerente, administrador ou director",
+      "text": "Artigo 335.º Responsabilidade de sócio, gerente, administrador ou director",
+      "tags": [
+        "artigo",
+        "responsabilidade",
+        "gerente",
+        "administrador",
+        "director"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_336",
+      "number": "336",
+      "title": "Fundo de Garantia Salarial",
+      "text": "Artigo 336.º Fundo de Garantia Salarial",
+      "tags": [
+        "artigo",
+        "garantia",
+        "salarial"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_337",
+      "number": "337",
+      "title": "Prescrição e prova de crédito",
+      "text": "Artigo 337.º Prescrição e prova de crédito",
+      "tags": [
+        "artigo",
+        "prescrição",
+        "crédito"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_338",
+      "number": "338",
+      "title": "Proibição de despedimento sem justa causa",
+      "text": "Artigo 338.º Proibição de despedimento sem justa causa",
+      "tags": [
+        "artigo",
+        "proibição",
+        "despedimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_339",
+      "number": "339",
+      "title": "Imperatividade do regime de cessação do contrato de trabalho",
+      "text": "Artigo 339.º Imperatividade do regime de cessação do contrato de trabalho",
+      "tags": [
+        "artigo",
+        "imperatividade",
+        "regime",
+        "cessação",
+        "contrato"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_340",
+      "number": "340",
+      "title": "Modalidades de cessação do contrato de trabalho",
+      "text": "Artigo 340.º Modalidades de cessação do contrato de trabalho",
+      "tags": [
+        "artigo",
+        "modalidades",
+        "cessação",
+        "contrato",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_341",
+      "number": "341",
+      "title": "Documentos a entregar ao trabalhador",
+      "text": "Artigo 341.º Documentos a entregar ao trabalhador",
+      "tags": [
+        "artigo",
+        "documentos",
+        "entregar",
+        "trabalhador"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_342",
+      "number": "342",
+      "title": "Devolução de instrumentos de trabalho",
+      "text": "Artigo 342.º Devolução de instrumentos de trabalho",
+      "tags": [
+        "artigo",
+        "devolução",
+        "instrumentos",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_343",
+      "number": "343",
+      "title": "Causas de caducidade de contrato de trabalho",
+      "text": "Artigo 343.º Causas de caducidade de contrato de trabalho",
+      "tags": [
+        "artigo",
+        "causas",
+        "caducidade",
+        "contrato",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_344",
+      "number": "344",
+      "title": "Caducidade de contrato de trabalho a termo certo",
+      "text": "Artigo 344.º Caducidade de contrato de trabalho a termo certo",
+      "tags": [
+        "artigo",
+        "caducidade",
+        "contrato",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_345",
+      "number": "345",
+      "title": "Caducidade de contrato de trabalho a termo incerto",
+      "text": "Artigo 345.º Caducidade de contrato de trabalho a termo incerto",
+      "tags": [
+        "artigo",
+        "caducidade",
+        "contrato",
+        "trabalho",
+        "incerto"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_346",
+      "number": "346",
+      "title": "Morte de empregador, extinção de pessoa colectiva ou encerramento",
+      "text": "Artigo 346.º Morte de empregador, extinção de pessoa colectiva ou encerramento de empresa",
+      "tags": [
+        "artigo",
+        "empregador",
+        "extinção",
+        "pessoa",
+        "colectiva"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_347",
+      "number": "347",
+      "title": "Insolvência e recuperação de empresa",
+      "text": "Artigo 347.º Insolvência e recuperação de empresa",
+      "tags": [
+        "artigo",
+        "insolvência",
+        "recuperação",
+        "empresa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_348",
+      "number": "348",
+      "title": "Conversão em contrato a termo após reforma por velhice ou idade de",
+      "text": "Artigo 348.º Conversão em contrato a termo após reforma por velhice ou idade de 70 anos",
+      "tags": [
+        "artigo",
+        "conversão",
+        "contrato",
+        "reforma",
+        "velhice"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_349",
+      "number": "349",
+      "title": "Cessação de contrato de trabalho por acordo",
+      "text": "Artigo 349.º Cessação de contrato de trabalho por acordo",
+      "tags": [
+        "artigo",
+        "cessação",
+        "contrato",
+        "trabalho",
+        "acordo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_350",
+      "number": "350",
+      "title": "Cessação do acordo de revogação",
+      "text": "Artigo 350.º Cessação do acordo de revogação",
+      "tags": [
+        "artigo",
+        "cessação",
+        "acordo",
+        "revogação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_351",
+      "number": "351",
+      "title": "Noção de justa causa de despedimento",
+      "text": "Artigo 351.º Noção de justa causa de despedimento",
+      "tags": [
+        "artigo",
+        "despedimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_352",
+      "number": "352",
+      "title": "Inquérito prévio",
+      "text": "Artigo 352.º Inquérito prévio",
+      "tags": [
+        "artigo",
+        "inquérito",
+        "prévio"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_353",
+      "number": "353",
+      "title": "Nota de culpa",
+      "text": "Artigo 353.º Nota de culpa",
+      "tags": [
+        "artigo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_354",
+      "number": "354",
+      "title": "Suspensão preventiva de trabalhador",
+      "text": "Artigo 354.º Suspensão preventiva de trabalhador",
+      "tags": [
+        "artigo",
+        "suspensão",
+        "preventiva",
+        "trabalhador"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_355",
+      "number": "355",
+      "title": "Resposta à nota de culpa",
+      "text": "Artigo 355.º Resposta à nota de culpa",
+      "tags": [
+        "artigo",
+        "resposta"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_356",
+      "number": "356",
+      "title": "Instrução",
+      "text": "Artigo 356.º Instrução",
+      "tags": [
+        "artigo",
+        "instrução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_357",
+      "number": "357",
+      "title": "Decisão de despedimento por facto imputável ao trabalhador",
+      "text": "Artigo 357.º Decisão de despedimento por facto imputável ao trabalhador",
+      "tags": [
+        "artigo",
+        "decisão",
+        "despedimento",
+        "imputável",
+        "trabalhador"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_358",
+      "number": "358",
+      "title": "Procedimento em caso de microempresa",
+      "text": "Artigo 358.º Procedimento em caso de microempresa",
+      "tags": [
+        "artigo",
+        "procedimento",
+        "microempresa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_359",
+      "number": "359",
+      "title": "Noção de despedimento colectivo",
+      "text": "Artigo 359.º Noção de despedimento colectivo",
+      "tags": [
+        "artigo",
+        "despedimento",
+        "colectivo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_360",
+      "number": "360",
+      "title": "Comunicações em caso de despedimento colectivo",
+      "text": "Artigo 360.º Comunicações em caso de despedimento colectivo",
+      "tags": [
+        "artigo",
+        "comunicações",
+        "despedimento",
+        "colectivo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_361",
+      "number": "361",
+      "title": "Informações e negociação em caso de despedimento colectivo",
+      "text": "Artigo 361.º Informações e negociação em caso de despedimento colectivo",
+      "tags": [
+        "artigo",
+        "informações",
+        "negociação",
+        "despedimento",
+        "colectivo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_362",
+      "number": "362",
+      "title": "Intervenção do ministério responsável pela área laboral",
+      "text": "Artigo 362.º Intervenção do ministério responsável pela área laboral",
+      "tags": [
+        "artigo",
+        "intervenção",
+        "ministério",
+        "responsável",
+        "laboral"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_363",
+      "number": "363",
+      "title": "Decisão de despedimento colectivo",
+      "text": "Artigo 363.º Decisão de despedimento colectivo",
+      "tags": [
+        "artigo",
+        "decisão",
+        "despedimento",
+        "colectivo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_364",
+      "number": "364",
+      "title": "Crédito de horas durante o aviso prévio",
+      "text": "Artigo 364.º Crédito de horas durante o aviso prévio",
+      "tags": [
+        "artigo",
+        "crédito",
+        "durante",
+        "prévio"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_365",
+      "number": "365",
+      "title": "Denúncia do contrato pelo trabalhador durante o aviso prévio",
+      "text": "Artigo 365.º Denúncia do contrato pelo trabalhador durante o aviso prévio",
+      "tags": [
+        "artigo",
+        "denúncia",
+        "contrato",
+        "trabalhador",
+        "durante"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_366",
+      "number": "366",
+      "title": "Compensação por despedimento colectivo",
+      "text": "Artigo 366.º Compensação por despedimento colectivo",
+      "tags": [
+        "artigo",
+        "compensação",
+        "despedimento",
+        "colectivo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_367",
+      "number": "367",
+      "title": "Noção de despedimento por extinção de posto de trabalho",
+      "text": "Artigo 367.º Noção de despedimento por extinção de posto de trabalho",
+      "tags": [
+        "artigo",
+        "despedimento",
+        "extinção",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_368",
+      "number": "368",
+      "title": "Requisitos de despedimento por extinção de posto de trabalho",
+      "text": "Artigo 368.º Requisitos de despedimento por extinção de posto de trabalho",
+      "tags": [
+        "artigo",
+        "requisitos",
+        "despedimento",
+        "extinção",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_369",
+      "number": "369",
+      "title": "Comunicações em caso de despedimento por extinção de posto de trab",
+      "text": "Artigo 369.º Comunicações em caso de despedimento por extinção de posto de trabalho",
+      "tags": [
+        "artigo",
+        "comunicações",
+        "despedimento",
+        "extinção",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_370",
+      "number": "370",
+      "title": "Consultas em caso de despedimento por extinção de posto de trabalh",
+      "text": "Artigo 370.º Consultas em caso de despedimento por extinção de posto de trabalho",
+      "tags": [
+        "artigo",
+        "consultas",
+        "despedimento",
+        "extinção",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_371",
+      "number": "371",
+      "title": "Decisão de despedimento por extinção de posto de trabalho",
+      "text": "Artigo 371.º Decisão de despedimento por extinção de posto de trabalho",
+      "tags": [
+        "artigo",
+        "decisão",
+        "despedimento",
+        "extinção",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_372",
+      "number": "372",
+      "title": "Direitos de trabalhador em caso de despedimento por extinção de po",
+      "text": "Artigo 372.º Direitos de trabalhador em caso de despedimento por extinção de posto de trabalho",
+      "tags": [
+        "artigo",
+        "direitos",
+        "trabalhador",
+        "despedimento",
+        "extinção"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_373",
+      "number": "373",
+      "title": "Noção de despedimento por inadaptação",
+      "text": "Artigo 373.º Noção de despedimento por inadaptação",
+      "tags": [
+        "artigo",
+        "despedimento",
+        "inadaptação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_374",
+      "number": "374",
+      "title": "Situações de inadaptação",
+      "text": "Artigo 374.º Situações de inadaptação",
+      "tags": [
+        "artigo",
+        "situações",
+        "inadaptação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_375",
+      "number": "375",
+      "title": "Requisitos de despedimento por inadaptação",
+      "text": "Artigo 375.º Requisitos de despedimento por inadaptação",
+      "tags": [
+        "artigo",
+        "requisitos",
+        "despedimento",
+        "inadaptação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_376",
+      "number": "376",
+      "title": "Comunicações em caso de despedimento por inadaptação",
+      "text": "Artigo 376.º Comunicações em caso de despedimento por inadaptação",
+      "tags": [
+        "artigo",
+        "comunicações",
+        "despedimento",
+        "inadaptação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_377",
+      "number": "377",
+      "title": "Consultas em caso de despedimento por inadaptação",
+      "text": "Artigo 377.º Consultas em caso de despedimento por inadaptação",
+      "tags": [
+        "artigo",
+        "consultas",
+        "despedimento",
+        "inadaptação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_378",
+      "number": "378",
+      "title": "Decisão de despedimento por inadaptação",
+      "text": "Artigo 378.º Decisão de despedimento por inadaptação",
+      "tags": [
+        "artigo",
+        "decisão",
+        "despedimento",
+        "inadaptação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_379",
+      "number": "379",
+      "title": "Direitos de trabalhador em caso de despedimento por inadaptação",
+      "text": "Artigo 379.º Direitos de trabalhador em caso de despedimento por inadaptação",
+      "tags": [
+        "artigo",
+        "direitos",
+        "trabalhador",
+        "despedimento",
+        "inadaptação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_380",
+      "number": "380",
+      "title": "Manutenção do nível de emprego",
+      "text": "Artigo 380.º Manutenção do nível de emprego",
+      "tags": [
+        "artigo",
+        "manutenção",
+        "emprego"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_381",
+      "number": "381",
+      "title": "Fundamentos gerais de ilicitude de despedimento",
+      "text": "Artigo 381.º Fundamentos gerais de ilicitude de despedimento",
+      "tags": [
+        "artigo",
+        "fundamentos",
+        "gerais",
+        "ilicitude",
+        "despedimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_382",
+      "number": "382",
+      "title": "Ilicitude de despedimento por facto imputável ao trabalhador",
+      "text": "Artigo 382.º Ilicitude de despedimento por facto imputável ao trabalhador",
+      "tags": [
+        "artigo",
+        "ilicitude",
+        "despedimento",
+        "imputável",
+        "trabalhador"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_383",
+      "number": "383",
+      "title": "Ilicitude de despedimento colectivo",
+      "text": "Artigo 383.º Ilicitude de despedimento colectivo",
+      "tags": [
+        "artigo",
+        "ilicitude",
+        "despedimento",
+        "colectivo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_384",
+      "number": "384",
+      "title": "Ilicitude de despedimento por extinção de posto de trabalho",
+      "text": "Artigo 384.º Ilicitude de despedimento por extinção de posto de trabalho",
+      "tags": [
+        "artigo",
+        "ilicitude",
+        "despedimento",
+        "extinção",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_385",
+      "number": "385",
+      "title": "Ilicitude de despedimento por inadaptação",
+      "text": "Artigo 385.º Ilicitude de despedimento por inadaptação",
+      "tags": [
+        "artigo",
+        "ilicitude",
+        "despedimento",
+        "inadaptação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_386",
+      "number": "386",
+      "title": "Suspensão de despedimento",
+      "text": "Artigo 386.º Suspensão de despedimento",
+      "tags": [
+        "artigo",
+        "suspensão",
+        "despedimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_387",
+      "number": "387",
+      "title": "Apreciação judicial do despedimento",
+      "text": "Artigo 387.º Apreciação judicial do despedimento",
+      "tags": [
+        "artigo",
+        "apreciação",
+        "judicial",
+        "despedimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_388",
+      "number": "388",
+      "title": "Apreciação judicial do despedimento colectivo",
+      "text": "Artigo 388.º Apreciação judicial do despedimento colectivo",
+      "tags": [
+        "artigo",
+        "apreciação",
+        "judicial",
+        "despedimento",
+        "colectivo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_389",
+      "number": "389",
+      "title": "Efeitos da ilicitude de despedimento",
+      "text": "Artigo 389.º Efeitos da ilicitude de despedimento",
+      "tags": [
+        "artigo",
+        "efeitos",
+        "ilicitude",
+        "despedimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_390",
+      "number": "390",
+      "title": "Compensação em caso de despedimento ilícito",
+      "text": "Artigo 390.º Compensação em caso de despedimento ilícito",
+      "tags": [
+        "artigo",
+        "compensação",
+        "despedimento",
+        "ilícito"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_391",
+      "number": "391",
+      "title": "Indemnização em substituição de reintegração a pedido do trabalhad",
+      "text": "Artigo 391.º Indemnização em substituição de reintegração a pedido do trabalhador",
+      "tags": [
+        "artigo",
+        "indemnização",
+        "substituição",
+        "reintegração",
+        "pedido"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_392",
+      "number": "392",
+      "title": "Indemnização em substituição de reintegração a pedido do empregado",
+      "text": "Artigo 392.º Indemnização em substituição de reintegração a pedido do empregador",
+      "tags": [
+        "artigo",
+        "indemnização",
+        "substituição",
+        "reintegração",
+        "pedido"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_393",
+      "number": "393",
+      "title": "Regras especiais relativas a contrato de trabalho a termo",
+      "text": "Artigo 393.º Regras especiais relativas a contrato de trabalho a termo",
+      "tags": [
+        "artigo",
+        "regras",
+        "especiais",
+        "relativas",
+        "contrato"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_394",
+      "number": "394",
+      "title": "Justa causa de resolução",
+      "text": "Artigo 394.º Justa causa de resolução",
+      "tags": [
+        "artigo",
+        "resolução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_395",
+      "number": "395",
+      "title": "Procedimento para resolução de contrato pelo trabalhador",
+      "text": "Artigo 395.º Procedimento para resolução de contrato pelo trabalhador",
+      "tags": [
+        "artigo",
+        "procedimento",
+        "resolução",
+        "contrato",
+        "trabalhador"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_396",
+      "number": "396",
+      "title": "Indemnização ou compensação devida ao trabalhador",
+      "text": "Artigo 396.º Indemnização ou compensação devida ao trabalhador",
+      "tags": [
+        "artigo",
+        "indemnização",
+        "compensação",
+        "devida",
+        "trabalhador"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_397",
+      "number": "397",
+      "title": "Revogação da resolução",
+      "text": "Artigo 397.º Revogação da resolução",
+      "tags": [
+        "artigo",
+        "revogação",
+        "resolução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_398",
+      "number": "398",
+      "title": "Impugnação da resolução",
+      "text": "Artigo 398.º Impugnação da resolução",
+      "tags": [
+        "artigo",
+        "impugnação",
+        "resolução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_399",
+      "number": "399",
+      "title": "Responsabilidade do trabalhador em caso de resolução ilícita",
+      "text": "Artigo 399.º Responsabilidade do trabalhador em caso de resolução ilícita",
+      "tags": [
+        "artigo",
+        "responsabilidade",
+        "trabalhador",
+        "resolução",
+        "ilícita"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_400",
+      "number": "400",
+      "title": "Denúncia com aviso prévio",
+      "text": "Artigo 400.º Denúncia com aviso prévio",
+      "tags": [
+        "artigo",
+        "denúncia",
+        "prévio"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_401",
+      "number": "401",
+      "title": "Denúncia sem aviso prévio",
+      "text": "Artigo 401.º Denúncia sem aviso prévio",
+      "tags": [
+        "artigo",
+        "denúncia",
+        "prévio"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_402",
+      "number": "402",
+      "title": "Revogação da denúncia",
+      "text": "Artigo 402.º Revogação da denúncia",
+      "tags": [
+        "artigo",
+        "revogação",
+        "denúncia"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_403",
+      "number": "403",
+      "title": "Abandono do trabalho",
+      "text": "Artigo 403.º Abandono do trabalho",
+      "tags": [
+        "artigo",
+        "abandono",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_404",
+      "number": "404",
+      "title": "Estruturas de representação colectiva dos trabalhadores",
+      "text": "Artigo 404.º Estruturas de representação colectiva dos trabalhadores",
+      "tags": [
+        "artigo",
+        "estruturas",
+        "representação",
+        "colectiva",
+        "trabalhadores"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_405",
+      "number": "405",
+      "title": "Autonomia e independência",
+      "text": "Artigo 405.º Autonomia e independência",
+      "tags": [
+        "artigo",
+        "autonomia",
+        "independência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_406",
+      "number": "406",
+      "title": "Proibição de actos discriminatórios",
+      "text": "Artigo 406.º Proibição de actos discriminatórios",
+      "tags": [
+        "artigo",
+        "proibição",
+        "discriminatórios"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_407",
+      "number": "407",
+      "title": "Crime por violação da autonomia ou independência sindical, ou por",
+      "text": "Artigo 407.º Crime por violação da autonomia ou independência sindical, ou por acto discriminatório",
+      "tags": [
+        "artigo",
+        "violação",
+        "autonomia",
+        "independência",
+        "sindical"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_408",
+      "number": "408",
+      "title": "Crédito de horas de representantes dos trabalhadores",
+      "text": "Artigo 408.º Crédito de horas de representantes dos trabalhadores",
+      "tags": [
+        "artigo",
+        "crédito",
+        "representantes",
+        "trabalhadores"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_409",
+      "number": "409",
+      "title": "Faltas de representantes dos trabalhadores",
+      "text": "Artigo 409.º Faltas de representantes dos trabalhadores",
+      "tags": [
+        "artigo",
+        "faltas",
+        "representantes",
+        "trabalhadores"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_410",
+      "number": "410",
+      "title": "Protecção em caso de procedimento disciplinar ou despedimento",
+      "text": "Artigo 410.º Protecção em caso de procedimento disciplinar ou despedimento",
+      "tags": [
+        "artigo",
+        "protecção",
+        "procedimento",
+        "disciplinar",
+        "despedimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_411",
+      "number": "411",
+      "title": "Protecção em caso de transferência",
+      "text": "Artigo 411.º Protecção em caso de transferência",
+      "tags": [
+        "artigo",
+        "protecção",
+        "transferência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_412",
+      "number": "412",
+      "title": "Informações confidenciais",
+      "text": "Artigo 412.º Informações confidenciais",
+      "tags": [
+        "artigo",
+        "informações",
+        "confidenciais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_413",
+      "number": "413",
+      "title": "Justificação e controlo judicial em matéria de confidencialidade d",
+      "text": "Artigo 413.º Justificação e controlo judicial em matéria de confidencialidade de informação",
+      "tags": [
+        "artigo",
+        "justificação",
+        "controlo",
+        "judicial",
+        "matéria"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_414",
+      "number": "414",
+      "title": "Exercício de direitos",
+      "text": "Artigo 414.º Exercício de direitos",
+      "tags": [
+        "artigo",
+        "exercício",
+        "direitos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_415",
+      "number": "415",
+      "title": "Princípios gerais relativos a comissões, subcomissões e comissões",
+      "text": "Artigo 415.º Princípios gerais relativos a comissões, subcomissões e comissões coordenadoras",
+      "tags": [
+        "comissões",
+        "artigo",
+        "princípios",
+        "gerais",
+        "relativos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_416",
+      "number": "416",
+      "title": "Personalidade e capacidade de comissão de trabalhadores",
+      "text": "Artigo 416.º Personalidade e capacidade de comissão de trabalhadores",
+      "tags": [
+        "artigo",
+        "personalidade",
+        "capacidade",
+        "comissão",
+        "trabalhadores"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_417",
+      "number": "417",
+      "title": "Número de membros de comissão de trabalhadores, comissão coordenad",
+      "text": "Artigo 417.º Número de membros de comissão de trabalhadores, comissão coordenadora ou subcomissão",
+      "tags": [
+        "comissão",
+        "artigo",
+        "número",
+        "membros",
+        "trabalhadores"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_418",
+      "number": "418",
+      "title": "Duração do mandato",
+      "text": "Artigo 418.º Duração do mandato",
+      "tags": [
+        "artigo",
+        "duração",
+        "mandato"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_419",
+      "number": "419",
+      "title": "Reunião de trabalhadores no local de trabalho convocada por comiss",
+      "text": "Artigo 419.º Reunião de trabalhadores no local de trabalho convocada por comissão de trabalhadores",
+      "tags": [
+        "trabalhadores",
+        "artigo",
+        "reunião",
+        "trabalho",
+        "convocada"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_420",
+      "number": "420",
+      "title": "Procedimento para reunião de trabalhadores no local de trabalho",
+      "text": "Artigo 420.º Procedimento para reunião de trabalhadores no local de trabalho",
+      "tags": [
+        "artigo",
+        "procedimento",
+        "reunião",
+        "trabalhadores",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_421",
+      "number": "421",
+      "title": "Apoio à comissão de trabalhadores e difusão de informação",
+      "text": "Artigo 421.º Apoio à comissão de trabalhadores e difusão de informação",
+      "tags": [
+        "artigo",
+        "comissão",
+        "trabalhadores",
+        "difusão",
+        "informação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_422",
+      "number": "422",
+      "title": "Crédito de horas de membros das comissões",
+      "text": "Artigo 422.º Crédito de horas de membros das comissões",
+      "tags": [
+        "artigo",
+        "crédito",
+        "membros",
+        "comissões"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_423",
+      "number": "423",
+      "title": "Direitos da comissão e da subcomissão de trabalhadores",
+      "text": "Artigo 423.º Direitos da comissão e da subcomissão de trabalhadores",
+      "tags": [
+        "artigo",
+        "direitos",
+        "comissão",
+        "subcomissão",
+        "trabalhadores"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_424",
+      "number": "424",
+      "title": "Conteúdo do direito a informação",
+      "text": "Artigo 424.º Conteúdo do direito a informação",
+      "tags": [
+        "artigo",
+        "conteúdo",
+        "direito",
+        "informação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_425",
+      "number": "425",
+      "title": "Obrigatoriedade de consulta da comissão de trabalhadores",
+      "text": "Artigo 425.º Obrigatoriedade de consulta da comissão de trabalhadores",
+      "tags": [
+        "artigo",
+        "obrigatoriedade",
+        "consulta",
+        "comissão",
+        "trabalhadores"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_426",
+      "number": "426",
+      "title": "Finalidade e conteúdo do controlo de gestão",
+      "text": "Artigo 426.º Finalidade e conteúdo do controlo de gestão",
+      "tags": [
+        "artigo",
+        "finalidade",
+        "conteúdo",
+        "controlo",
+        "gestão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_427",
+      "number": "427",
+      "title": "Exercício do direito a informação e consulta",
+      "text": "Artigo 427.º Exercício do direito a informação e consulta",
+      "tags": [
+        "artigo",
+        "exercício",
+        "direito",
+        "informação",
+        "consulta"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_428",
+      "number": "428",
+      "title": "Representantes dos trabalhadores em órgãos de entidade pública emp",
+      "text": "Artigo 428.º Representantes dos trabalhadores em órgãos de entidade pública empresarial",
+      "tags": [
+        "artigo",
+        "representantes",
+        "trabalhadores",
+        "órgãos",
+        "entidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_429",
+      "number": "429",
+      "title": "Exercício do direito de participação nos processos de reestruturaç",
+      "text": "Artigo 429.º Exercício do direito de participação nos processos de reestruturação",
+      "tags": [
+        "artigo",
+        "exercício",
+        "direito",
+        "participação",
+        "processos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_430",
+      "number": "430",
+      "title": "Constituição e aprovação dos estatutos de comissão de trabalhadore",
+      "text": "Artigo 430.º Constituição e aprovação dos estatutos de comissão de trabalhadores",
+      "tags": [
+        "artigo",
+        "constituição",
+        "aprovação",
+        "estatutos",
+        "comissão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_431",
+      "number": "431",
+      "title": "Votação da constituição e aprovação dos estatutos de comissão de t",
+      "text": "Artigo 431.º Votação da constituição e aprovação dos estatutos de comissão de trabalhadores",
+      "tags": [
+        "artigo",
+        "votação",
+        "constituição",
+        "aprovação",
+        "estatutos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_432",
+      "number": "432",
+      "title": "Procedimento para apuramento do resultado",
+      "text": "Artigo 432.º Procedimento para apuramento do resultado",
+      "tags": [
+        "artigo",
+        "procedimento",
+        "apuramento",
+        "resultado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_433",
+      "number": "433",
+      "title": "Regras gerais da eleição dos membros da comissão e subcomissões de",
+      "text": "Artigo 433.º Regras gerais da eleição dos membros da comissão e subcomissões de trabalhadores",
+      "tags": [
+        "artigo",
+        "regras",
+        "gerais",
+        "eleição",
+        "membros"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_434",
+      "number": "434",
+      "title": "Conteúdo dos estatutos da comissão de trabalhadores",
+      "text": "Artigo 434.º Conteúdo dos estatutos da comissão de trabalhadores",
+      "tags": [
+        "artigo",
+        "conteúdo",
+        "estatutos",
+        "comissão",
+        "trabalhadores"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_435",
+      "number": "435",
+      "title": "Estatutos da comissão coordenadora",
+      "text": "Artigo 435.º Estatutos da comissão coordenadora",
+      "tags": [
+        "artigo",
+        "estatutos",
+        "comissão",
+        "coordenadora"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_436",
+      "number": "436",
+      "title": "Adesão e revogação de adesão a comissão coordenadora",
+      "text": "Artigo 436.º Adesão e revogação de adesão a comissão coordenadora",
+      "tags": [
+        "adesão",
+        "artigo",
+        "revogação",
+        "comissão",
+        "coordenadora"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_437",
+      "number": "437",
+      "title": "Eleição de comissão coordenadora",
+      "text": "Artigo 437.º Eleição de comissão coordenadora",
+      "tags": [
+        "artigo",
+        "eleição",
+        "comissão",
+        "coordenadora"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_438",
+      "number": "438",
+      "title": "Registos e publicações referentes a comissões e subcomissões",
+      "text": "Artigo 438.º Registos e publicações referentes a comissões e subcomissões",
+      "tags": [
+        "artigo",
+        "registos",
+        "publicações",
+        "referentes",
+        "comissões"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_439",
+      "number": "439",
+      "title": "Controlo de legalidade da constituição e dos estatutos das comissõ",
+      "text": "Artigo 439.º Controlo de legalidade da constituição e dos estatutos das comissões",
+      "tags": [
+        "artigo",
+        "controlo",
+        "legalidade",
+        "constituição",
+        "estatutos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_440",
+      "number": "440",
+      "title": "Direito de associação",
+      "text": "Artigo 440.º Direito de associação",
+      "tags": [
+        "artigo",
+        "direito",
+        "associação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_441",
+      "number": "441",
+      "title": "Regime subsidiário",
+      "text": "Artigo 441.º Regime subsidiário",
+      "tags": [
+        "artigo",
+        "regime",
+        "subsidiário"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_442",
+      "number": "442",
+      "title": "Conceitos no âmbito do direito de associação",
+      "text": "Artigo 442.º Conceitos no âmbito do direito de associação",
+      "tags": [
+        "artigo",
+        "conceitos",
+        "âmbito",
+        "direito",
+        "associação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_443",
+      "number": "443",
+      "title": "Direitos das associações",
+      "text": "Artigo 443.º Direitos das associações",
+      "tags": [
+        "artigo",
+        "direitos",
+        "associações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_444",
+      "number": "444",
+      "title": "Liberdade de inscrição",
+      "text": "Artigo 444.º Liberdade de inscrição",
+      "tags": [
+        "artigo",
+        "liberdade",
+        "inscrição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_445",
+      "number": "445",
+      "title": "Princípios de auto-regulamentação, organização e gestão democrátic",
+      "text": "Artigo 445.º Princípios de auto-regulamentação, organização e gestão democráticas",
+      "tags": [
+        "artigo",
+        "princípios",
+        "regulamentação",
+        "organização",
+        "gestão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_446",
+      "number": "446",
+      "title": "Autonomia e independência das associações",
+      "text": "Artigo 446.º Autonomia e independência das associações",
+      "tags": [
+        "artigo",
+        "autonomia",
+        "independência",
+        "associações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_447",
+      "number": "447",
+      "title": "Constituição, registo e aquisição de personalidade",
+      "text": "Artigo 447.º Constituição, registo e aquisição de personalidade",
+      "tags": [
+        "artigo",
+        "constituição",
+        "registo",
+        "aquisição",
+        "personalidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_448",
+      "number": "448",
+      "title": "Aquisição e perda da qualidade de associação de empregadores",
+      "text": "Artigo 448.º Aquisição e perda da qualidade de associação de empregadores",
+      "tags": [
+        "artigo",
+        "aquisição",
+        "qualidade",
+        "associação",
+        "empregadores"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_449",
+      "number": "449",
+      "title": "Alteração de estatutos",
+      "text": "Artigo 449.º Alteração de estatutos",
+      "tags": [
+        "artigo",
+        "alteração",
+        "estatutos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_450",
+      "number": "450",
+      "title": "Conteúdo dos estatutos",
+      "text": "Artigo 450.º Conteúdo dos estatutos",
+      "tags": [
+        "artigo",
+        "conteúdo",
+        "estatutos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_451",
+      "number": "451",
+      "title": "Princípios da organização e da gestão democráticas",
+      "text": "Artigo 451.º Princípios da organização e da gestão democráticas",
+      "tags": [
+        "artigo",
+        "princípios",
+        "organização",
+        "gestão",
+        "democráticas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_452",
+      "number": "452",
+      "title": "Regime disciplinar",
+      "text": "Artigo 452.º Regime disciplinar",
+      "tags": [
+        "artigo",
+        "regime",
+        "disciplinar"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_453",
+      "number": "453",
+      "title": "Impenhorabilidade de bens",
+      "text": "Artigo 453.º Impenhorabilidade de bens",
+      "tags": [
+        "artigo",
+        "impenhorabilidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_454",
+      "number": "454",
+      "title": "Publicitação dos membros da direcção",
+      "text": "Artigo 454.º Publicitação dos membros da direcção",
+      "tags": [
+        "artigo",
+        "publicitação",
+        "membros",
+        "direcção"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_455",
+      "number": "455",
+      "title": "Averbamento ao registo",
+      "text": "Artigo 455.º Averbamento ao registo",
+      "tags": [
+        "artigo",
+        "averbamento",
+        "registo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_456",
+      "number": "456",
+      "title": "Extinção de associações e cancelamento do registo",
+      "text": "Artigo 456.º Extinção de associações e cancelamento do registo",
+      "tags": [
+        "artigo",
+        "extinção",
+        "associações",
+        "cancelamento",
+        "registo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_457",
+      "number": "457",
+      "title": "Quotização sindical e protecção dos trabalhadores",
+      "text": "Artigo 457.º Quotização sindical e protecção dos trabalhadores",
+      "tags": [
+        "artigo",
+        "quotização",
+        "sindical",
+        "protecção",
+        "trabalhadores"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_458",
+      "number": "458",
+      "title": "Cobrança de quotas sindicais",
+      "text": "Artigo 458.º Cobrança de quotas sindicais",
+      "tags": [
+        "artigo",
+        "cobrança",
+        "quotas",
+        "sindicais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_459",
+      "number": "459",
+      "title": "Crime de retenção de quota sindical",
+      "text": "Artigo 459.º Crime de retenção de quota sindical",
+      "tags": [
+        "artigo",
+        "retenção",
+        "sindical"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_460",
+      "number": "460",
+      "title": "Direito a actividade sindical na empresa",
+      "text": "Artigo 460.º Direito a actividade sindical na empresa",
+      "tags": [
+        "artigo",
+        "direito",
+        "actividade",
+        "sindical",
+        "empresa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_461",
+      "number": "461",
+      "title": "Reunião de trabalhadores no local de trabalho",
+      "text": "Artigo 461.º Reunião de trabalhadores no local de trabalho",
+      "tags": [
+        "artigo",
+        "reunião",
+        "trabalhadores",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_462",
+      "number": "462",
+      "title": "Eleição, destituição ou cessação de funções de delegado sindical",
+      "text": "Artigo 462.º Eleição, destituição ou cessação de funções de delegado sindical",
+      "tags": [
+        "artigo",
+        "eleição",
+        "destituição",
+        "cessação",
+        "funções"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_463",
+      "number": "463",
+      "title": "Número de delegados sindicais",
+      "text": "Artigo 463.º Número de delegados sindicais",
+      "tags": [
+        "artigo",
+        "número",
+        "delegados",
+        "sindicais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_464",
+      "number": "464",
+      "title": "Direito a instalações",
+      "text": "Artigo 464.º Direito a instalações",
+      "tags": [
+        "artigo",
+        "direito",
+        "instalações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_465",
+      "number": "465",
+      "title": "Afixação e distribuição de informação sindical",
+      "text": "Artigo 465.º Afixação e distribuição de informação sindical",
+      "tags": [
+        "artigo",
+        "afixação",
+        "distribuição",
+        "informação",
+        "sindical"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_466",
+      "number": "466",
+      "title": "Informação e consulta de delegado sindical",
+      "text": "Artigo 466.º Informação e consulta de delegado sindical",
+      "tags": [
+        "artigo",
+        "informação",
+        "consulta",
+        "delegado",
+        "sindical"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_467",
+      "number": "467",
+      "title": "Crédito de horas de delegado sindical",
+      "text": "Artigo 467.º Crédito de horas de delegado sindical",
+      "tags": [
+        "artigo",
+        "crédito",
+        "delegado",
+        "sindical"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_468",
+      "number": "468",
+      "title": "Crédito de horas e faltas de membro de direcção",
+      "text": "Artigo 468.º Crédito de horas e faltas de membro de direcção",
+      "tags": [
+        "artigo",
+        "crédito",
+        "faltas",
+        "membro",
+        "direcção"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_469",
+      "number": "469",
+      "title": "Noção de legislação do trabalho",
+      "text": "Artigo 469.º Noção de legislação do trabalho",
+      "tags": [
+        "artigo",
+        "legislação",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_470",
+      "number": "470",
+      "title": "Precedência de discussão",
+      "text": "Artigo 470.º Precedência de discussão",
+      "tags": [
+        "artigo",
+        "precedência",
+        "discussão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_471",
+      "number": "471",
+      "title": "Participação da Comissão Permanente de Concertação Social",
+      "text": "Artigo 471.º Participação da Comissão Permanente de Concertação Social",
+      "tags": [
+        "artigo",
+        "participação",
+        "comissão",
+        "permanente",
+        "concertação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_472",
+      "number": "472",
+      "title": "Publicação de projectos e propostas",
+      "text": "Artigo 472.º Publicação de projectos e propostas",
+      "tags": [
+        "artigo",
+        "publicação",
+        "projectos",
+        "propostas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_473",
+      "number": "473",
+      "title": "Prazo de apreciação pública",
+      "text": "Artigo 473.º Prazo de apreciação pública",
+      "tags": [
+        "artigo",
+        "apreciação",
+        "pública"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_474",
+      "number": "474",
+      "title": "Pareceres e audições das organizações representativas",
+      "text": "Artigo 474.º Pareceres e audições das organizações representativas",
+      "tags": [
+        "artigo",
+        "pareceres",
+        "audições",
+        "organizações",
+        "representativas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_475",
+      "number": "475",
+      "title": "Resultado de apreciação pública",
+      "text": "Artigo 475.º Resultado de apreciação pública",
+      "tags": [
+        "artigo",
+        "resultado",
+        "apreciação",
+        "pública"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_476",
+      "number": "476",
+      "title": "Princípio do tratamento mais favorável",
+      "text": "Artigo 476.º Princípio do tratamento mais favorável",
+      "tags": [
+        "artigo",
+        "princípio",
+        "tratamento",
+        "favorável"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_477",
+      "number": "477",
+      "title": "Forma de instrumento de regulamentação colectiva de trabalho",
+      "text": "Artigo 477.º Forma de instrumento de regulamentação colectiva de trabalho",
+      "tags": [
+        "artigo",
+        "instrumento",
+        "regulamentação",
+        "colectiva",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_478",
+      "number": "478",
+      "title": "Limites do conteúdo de instrumento de regulamentação colectiva de",
+      "text": "Artigo 478.º Limites do conteúdo de instrumento de regulamentação colectiva de trabalho",
+      "tags": [
+        "artigo",
+        "limites",
+        "conteúdo",
+        "instrumento",
+        "regulamentação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_479",
+      "number": "479",
+      "title": "Apreciação relativa à igualdade e não discriminação",
+      "text": "Artigo 479.º Apreciação relativa à igualdade e não discriminação",
+      "tags": [
+        "artigo",
+        "apreciação",
+        "relativa",
+        "igualdade",
+        "discriminação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_480",
+      "number": "480",
+      "title": "Publicidade de instrumento de regulamentação colectiva de trabalho",
+      "text": "Artigo 480.º Publicidade de instrumento de regulamentação colectiva de trabalho aplicável",
+      "tags": [
+        "artigo",
+        "publicidade",
+        "instrumento",
+        "regulamentação",
+        "colectiva"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_481",
+      "number": "481",
+      "title": "Preferência de instrumento de regulamentação colectiva de trabalho",
+      "text": "Artigo 481.º Preferência de instrumento de regulamentação colectiva de trabalho negocial vertical",
+      "tags": [
+        "artigo",
+        "preferência",
+        "instrumento",
+        "regulamentação",
+        "colectiva"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_482",
+      "number": "482",
+      "title": "Concorrência entre instrumentos de regulamentação colectiva de tra",
+      "text": "Artigo 482.º Concorrência entre instrumentos de regulamentação colectiva de trabalho negociais",
+      "tags": [
+        "artigo",
+        "concorrência",
+        "instrumentos",
+        "regulamentação",
+        "colectiva"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_483",
+      "number": "483",
+      "title": "Concorrência entre instrumentos de regulamentação colectiva de tra",
+      "text": "Artigo 483.º Concorrência entre instrumentos de regulamentação colectiva de trabalho não negociais",
+      "tags": [
+        "artigo",
+        "concorrência",
+        "instrumentos",
+        "regulamentação",
+        "colectiva"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_484",
+      "number": "484",
+      "title": "Concorrência entre instrumentos de regulamentação colectiva de tra",
+      "text": "Artigo 484.º Concorrência entre instrumentos de regulamentação colectiva de trabalho negociais e não negociais",
+      "tags": [
+        "negociais",
+        "artigo",
+        "concorrência",
+        "instrumentos",
+        "regulamentação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_485",
+      "number": "485",
+      "title": "Promoção da contratação colectiva",
+      "text": "Artigo 485.º Promoção da contratação colectiva",
+      "tags": [
+        "artigo",
+        "promoção",
+        "contratação",
+        "colectiva"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_486",
+      "number": "486",
+      "title": "Proposta negocial",
+      "text": "Artigo 486.º Proposta negocial",
+      "tags": [
+        "artigo",
+        "proposta",
+        "negocial"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_487",
+      "number": "487",
+      "title": "Resposta à proposta",
+      "text": "Artigo 487.º Resposta à proposta",
+      "tags": [
+        "artigo",
+        "resposta",
+        "proposta"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_488",
+      "number": "488",
+      "title": "Prioridade em matéria negocial",
+      "text": "Artigo 488.º Prioridade em matéria negocial",
+      "tags": [
+        "artigo",
+        "prioridade",
+        "matéria",
+        "negocial"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_489",
+      "number": "489",
+      "title": "Boa fé na negociação",
+      "text": "Artigo 489.º Boa fé na negociação",
+      "tags": [
+        "artigo",
+        "negociação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_490",
+      "number": "490",
+      "title": "Apoio técnico da Administração",
+      "text": "Artigo 490.º Apoio técnico da Administração",
+      "tags": [
+        "artigo",
+        "técnico",
+        "administração"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_491",
+      "number": "491",
+      "title": "Representantes de entidades celebrantes",
+      "text": "Artigo 491.º Representantes de entidades celebrantes",
+      "tags": [
+        "artigo",
+        "representantes",
+        "entidades",
+        "celebrantes"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_492",
+      "number": "492",
+      "title": "Conteúdo de convenção colectiva",
+      "text": "Artigo 492.º Conteúdo de convenção colectiva",
+      "tags": [
+        "artigo",
+        "conteúdo",
+        "convenção",
+        "colectiva"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_493",
+      "number": "493",
+      "title": "Comissão paritária",
+      "text": "Artigo 493.º Comissão paritária",
+      "tags": [
+        "artigo",
+        "comissão",
+        "paritária"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_494",
+      "number": "494",
+      "title": "Procedimento do depósito de convenção colectiva",
+      "text": "Artigo 494.º Procedimento do depósito de convenção colectiva",
+      "tags": [
+        "artigo",
+        "procedimento",
+        "depósito",
+        "convenção",
+        "colectiva"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_495",
+      "number": "495",
+      "title": "Alteração de convenção antes da decisão sobre o depósito",
+      "text": "Artigo 495.º Alteração de convenção antes da decisão sobre o depósito",
+      "tags": [
+        "artigo",
+        "alteração",
+        "convenção",
+        "decisão",
+        "depósito"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_496",
+      "number": "496",
+      "title": "Princípio da filiação",
+      "text": "Artigo 496.º Princípio da filiação",
+      "tags": [
+        "artigo",
+        "princípio",
+        "filiação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_497",
+      "number": "497",
+      "title": "Escolha de convenção aplicável",
+      "text": "Artigo 497.º Escolha de convenção aplicável",
+      "tags": [
+        "artigo",
+        "escolha",
+        "convenção",
+        "aplicável"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_498",
+      "number": "498",
+      "title": "Aplicação de convenção em caso de transmissão de empresa ou estabe",
+      "text": "Artigo 498.º Aplicação de convenção em caso de transmissão de empresa ou estabelecimento",
+      "tags": [
+        "artigo",
+        "aplicação",
+        "convenção",
+        "transmissão",
+        "empresa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_499",
+      "number": "499",
+      "title": "Vigência e renovação de convenção colectiva",
+      "text": "Artigo 499.º Vigência e renovação de convenção colectiva",
+      "tags": [
+        "artigo",
+        "vigência",
+        "renovação",
+        "convenção",
+        "colectiva"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_500",
+      "number": "500",
+      "title": "Denúncia de convenção colectiva",
+      "text": "Artigo 500.º Denúncia de convenção colectiva",
+      "tags": [
+        "artigo",
+        "denúncia",
+        "convenção",
+        "colectiva"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_501",
+      "number": "501",
+      "title": "Sobrevigência e caducidade de convenção colectiva",
+      "text": "Artigo 501.º Sobrevigência e caducidade de convenção colectiva",
+      "tags": [
+        "artigo",
+        "sobrevigência",
+        "caducidade",
+        "convenção",
+        "colectiva"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_502",
+      "number": "502",
+      "title": "Cessação e suspensão da vigência de convenção colectiva",
+      "text": "Artigo 502.º Cessação e suspensão da vigência de convenção colectiva",
+      "tags": [
+        "artigo",
+        "cessação",
+        "suspensão",
+        "vigência",
+        "convenção"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_503",
+      "number": "503",
+      "title": "Sucessão de convenções colectivas",
+      "text": "Artigo 503.º Sucessão de convenções colectivas",
+      "tags": [
+        "artigo",
+        "sucessão",
+        "convenções",
+        "colectivas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_504",
+      "number": "504",
+      "title": "Adesão a convenção colectiva ou a decisão arbitral",
+      "text": "Artigo 504.º Adesão a convenção colectiva ou a decisão arbitral",
+      "tags": [
+        "artigo",
+        "adesão",
+        "convenção",
+        "colectiva",
+        "decisão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_505",
+      "number": "505",
+      "title": "Disposições comuns sobre arbitragem de conflitos colectivos de tra",
+      "text": "Artigo 505.º Disposições comuns sobre arbitragem de conflitos colectivos de trabalho",
+      "tags": [
+        "artigo",
+        "disposições",
+        "comuns",
+        "arbitragem",
+        "conflitos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_506",
+      "number": "506",
+      "title": "Admissibilidade da arbitragem voluntária",
+      "text": "Artigo 506.º Admissibilidade da arbitragem voluntária",
+      "tags": [
+        "artigo",
+        "admissibilidade",
+        "arbitragem",
+        "voluntária"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_507",
+      "number": "507",
+      "title": "Funcionamento da arbitragem voluntária",
+      "text": "Artigo 507.º Funcionamento da arbitragem voluntária",
+      "tags": [
+        "artigo",
+        "funcionamento",
+        "arbitragem",
+        "voluntária"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_508",
+      "number": "508",
+      "title": "Admissibilidade de arbitragem obrigatória",
+      "text": "Artigo 508.º Admissibilidade de arbitragem obrigatória",
+      "tags": [
+        "artigo",
+        "admissibilidade",
+        "arbitragem",
+        "obrigatória"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_509",
+      "number": "509",
+      "title": "Determinação de arbitragem obrigatória",
+      "text": "Artigo 509.º Determinação de arbitragem obrigatória",
+      "tags": [
+        "artigo",
+        "determinação",
+        "arbitragem",
+        "obrigatória"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_510",
+      "number": "510",
+      "title": "Admissibilidade da arbitragem necessária",
+      "text": "Artigo 510.º Admissibilidade da arbitragem necessária",
+      "tags": [
+        "artigo",
+        "admissibilidade",
+        "arbitragem",
+        "necessária"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_511",
+      "number": "511",
+      "title": "Determinação de arbitragem necessária",
+      "text": "Artigo 511.º Determinação de arbitragem necessária",
+      "tags": [
+        "artigo",
+        "determinação",
+        "arbitragem",
+        "necessária"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_512",
+      "number": "512",
+      "title": "Competência do Conselho Económico e Social",
+      "text": "Artigo 512.º Competência do Conselho Económico e Social",
+      "tags": [
+        "artigo",
+        "competência",
+        "conselho",
+        "económico",
+        "social"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_513",
+      "number": "513",
+      "title": "Regulamentação da arbitragem",
+      "text": "Artigo 513.º Regulamentação da arbitragem",
+      "tags": [
+        "artigo",
+        "regulamentação",
+        "arbitragem"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_514",
+      "number": "514",
+      "title": "Extensão de convenção colectiva ou decisão arbitral",
+      "text": "Artigo 514.º Extensão de convenção colectiva ou decisão arbitral",
+      "tags": [
+        "artigo",
+        "extensão",
+        "convenção",
+        "colectiva",
+        "decisão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_515",
+      "number": "515",
+      "title": "Subsidiariedade",
+      "text": "Artigo 515.º Subsidiariedade",
+      "tags": [
+        "artigo",
+        "subsidiariedade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_516",
+      "number": "516",
+      "title": "Competência e procedimento para emissão de portaria de extensão",
+      "text": "Artigo 516.º Competência e procedimento para emissão de portaria de extensão",
+      "tags": [
+        "artigo",
+        "competência",
+        "procedimento",
+        "emissão",
+        "portaria"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_517",
+      "number": "517",
+      "title": "Admissibilidade de portaria de condições de trabalho",
+      "text": "Artigo 517.º Admissibilidade de portaria de condições de trabalho",
+      "tags": [
+        "artigo",
+        "admissibilidade",
+        "portaria",
+        "condições",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_518",
+      "number": "518",
+      "title": "Competência e procedimento para emissão de portaria de condições d",
+      "text": "Artigo 518.º Competência e procedimento para emissão de portaria de condições de trabalho",
+      "tags": [
+        "artigo",
+        "competência",
+        "procedimento",
+        "emissão",
+        "portaria"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_519",
+      "number": "519",
+      "title": "Publicação e entrada em vigor de instrumento de regulamentação col",
+      "text": "Artigo 519.º Publicação e entrada em vigor de instrumento de regulamentação colectiva de trabalho",
+      "tags": [
+        "artigo",
+        "publicação",
+        "entrada",
+        "instrumento",
+        "regulamentação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_520",
+      "number": "520",
+      "title": "Aplicação de instrumento de regulamentação colectiva de trabalho",
+      "text": "Artigo 520.º Aplicação de instrumento de regulamentação colectiva de trabalho",
+      "tags": [
+        "artigo",
+        "aplicação",
+        "instrumento",
+        "regulamentação",
+        "colectiva"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_521",
+      "number": "521",
+      "title": "Violação de disposição de instrumento de regulamentação colectiva",
+      "text": "Artigo 521.º Violação de disposição de instrumento de regulamentação colectiva de trabalho",
+      "tags": [
+        "artigo",
+        "violação",
+        "disposição",
+        "instrumento",
+        "regulamentação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_522",
+      "number": "522",
+      "title": "Boa fé",
+      "text": "Artigo 522.º Boa fé",
+      "tags": [
+        "artigo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_523",
+      "number": "523",
+      "title": "Admissibilidade e regime da conciliação",
+      "text": "Artigo 523.º Admissibilidade e regime da conciliação",
+      "tags": [
+        "artigo",
+        "admissibilidade",
+        "regime",
+        "conciliação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_524",
+      "number": "524",
+      "title": "Procedimento de conciliação",
+      "text": "Artigo 524.º Procedimento de conciliação",
+      "tags": [
+        "artigo",
+        "procedimento",
+        "conciliação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_525",
+      "number": "525",
+      "title": "Transformação da conciliação em mediação",
+      "text": "Artigo 525.º Transformação da conciliação em mediação",
+      "tags": [
+        "artigo",
+        "transformação",
+        "conciliação",
+        "mediação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_526",
+      "number": "526",
+      "title": "Admissibilidade e regime da mediação",
+      "text": "Artigo 526.º Admissibilidade e regime da mediação",
+      "tags": [
+        "artigo",
+        "admissibilidade",
+        "regime",
+        "mediação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_527",
+      "number": "527",
+      "title": "Procedimento de mediação",
+      "text": "Artigo 527.º Procedimento de mediação",
+      "tags": [
+        "artigo",
+        "procedimento",
+        "mediação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_528",
+      "number": "528",
+      "title": "Mediação por outra entidade",
+      "text": "Artigo 528.º Mediação por outra entidade",
+      "tags": [
+        "artigo",
+        "mediação",
+        "entidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_529",
+      "number": "529",
+      "title": "Arbitragem",
+      "text": "Artigo 529.º Arbitragem",
+      "tags": [
+        "artigo",
+        "arbitragem"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_530",
+      "number": "530",
+      "title": "Direito à greve",
+      "text": "Artigo 530.º Direito à greve",
+      "tags": [
+        "artigo",
+        "direito"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_531",
+      "number": "531",
+      "title": "Competência para declarar a greve",
+      "text": "Artigo 531.º Competência para declarar a greve",
+      "tags": [
+        "artigo",
+        "competência",
+        "declarar"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_532",
+      "number": "532",
+      "title": "Representação dos trabalhadores em greve",
+      "text": "Artigo 532.º Representação dos trabalhadores em greve",
+      "tags": [
+        "artigo",
+        "representação",
+        "trabalhadores"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_533",
+      "number": "533",
+      "title": "Piquete de greve",
+      "text": "Artigo 533.º Piquete de greve",
+      "tags": [
+        "artigo",
+        "piquete"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_534",
+      "number": "534",
+      "title": "Aviso prévio de greve",
+      "text": "Artigo 534.º Aviso prévio de greve",
+      "tags": [
+        "artigo",
+        "prévio"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_535",
+      "number": "535",
+      "title": "Proibição de substituição de grevistas",
+      "text": "Artigo 535.º Proibição de substituição de grevistas",
+      "tags": [
+        "artigo",
+        "proibição",
+        "substituição",
+        "grevistas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_536",
+      "number": "536",
+      "title": "Efeitos da greve",
+      "text": "Artigo 536.º Efeitos da greve",
+      "tags": [
+        "artigo",
+        "efeitos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_537",
+      "number": "537",
+      "title": "Obrigação de prestação de serviços durante a greve",
+      "text": "Artigo 537.º Obrigação de prestação de serviços durante a greve",
+      "tags": [
+        "artigo",
+        "obrigação",
+        "prestação",
+        "serviços",
+        "durante"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_538",
+      "number": "538",
+      "title": "Definição de serviços a assegurar durante a greve",
+      "text": "Artigo 538.º Definição de serviços a assegurar durante a greve",
+      "tags": [
+        "artigo",
+        "definição",
+        "serviços",
+        "assegurar",
+        "durante"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_539",
+      "number": "539",
+      "title": "Termo da greve",
+      "text": "Artigo 539.º Termo da greve",
+      "tags": [
+        "artigo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_540",
+      "number": "540",
+      "title": "Proibição de coacção, prejuízo ou discriminação de trabalhador",
+      "text": "Artigo 540.º Proibição de coacção, prejuízo ou discriminação de trabalhador",
+      "tags": [
+        "artigo",
+        "proibição",
+        "coacção",
+        "prejuízo",
+        "discriminação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_541",
+      "number": "541",
+      "title": "Efeitos de greve declarada ou executada de forma contrária à lei",
+      "text": "Artigo 541.º Efeitos de greve declarada ou executada de forma contrária à lei",
+      "tags": [
+        "artigo",
+        "efeitos",
+        "declarada",
+        "executada",
+        "contrária"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_542",
+      "number": "542",
+      "title": "Regulamentação da greve por convenção colectiva",
+      "text": "Artigo 542.º Regulamentação da greve por convenção colectiva",
+      "tags": [
+        "artigo",
+        "regulamentação",
+        "convenção",
+        "colectiva"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_543",
+      "number": "543",
+      "title": "Responsabilidade penal em matéria de greve",
+      "text": "Artigo 543.º Responsabilidade penal em matéria de greve",
+      "tags": [
+        "artigo",
+        "responsabilidade",
+        "matéria"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_544",
+      "number": "544",
+      "title": "Conceito e proibição de lock-out",
+      "text": "Artigo 544.º Conceito e proibição de lock-out",
+      "tags": [
+        "artigo",
+        "conceito",
+        "proibição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_545",
+      "number": "545",
+      "title": "Responsabilidade penal em matéria de lock-out",
+      "text": "Artigo 545.º Responsabilidade penal em matéria de lock-out",
+      "tags": [
+        "artigo",
+        "responsabilidade",
+        "matéria"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_546",
+      "number": "546",
+      "title": "Responsabilidade de pessoas colectivas e equiparadas",
+      "text": "Artigo 546.º Responsabilidade de pessoas colectivas e equiparadas",
+      "tags": [
+        "artigo",
+        "responsabilidade",
+        "pessoas",
+        "colectivas",
+        "equiparadas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_547",
+      "number": "547",
+      "title": "Desobediência qualificada",
+      "text": "Artigo 547.º Desobediência qualificada",
+      "tags": [
+        "artigo",
+        "desobediência",
+        "qualificada"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_548",
+      "number": "548",
+      "title": "Noção de contra-ordenação laboral",
+      "text": "Artigo 548.º Noção de contra-ordenação laboral",
+      "tags": [
+        "artigo",
+        "contra",
+        "ordenação",
+        "laboral"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_549",
+      "number": "549",
+      "title": "Regime das contra-ordenações laborais",
+      "text": "Artigo 549.º Regime das contra-ordenações laborais",
+      "tags": [
+        "artigo",
+        "regime",
+        "contra",
+        "ordenações",
+        "laborais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_550",
+      "number": "550",
+      "title": "Punibilidade da negligência",
+      "text": "Artigo 550.º Punibilidade da negligência",
+      "tags": [
+        "artigo",
+        "punibilidade",
+        "negligência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_551",
+      "number": "551",
+      "title": "Sujeito responsável por contra-ordenação laboral",
+      "text": "Artigo 551.º Sujeito responsável por contra-ordenação laboral",
+      "tags": [
+        "artigo",
+        "sujeito",
+        "responsável",
+        "contra",
+        "ordenação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_552",
+      "number": "552",
+      "title": "Apresentação de documentos",
+      "text": "Artigo 552.º Apresentação de documentos",
+      "tags": [
+        "artigo",
+        "apresentação",
+        "documentos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_553",
+      "number": "553",
+      "title": "Escalões de gravidade das contra-ordenações laborais",
+      "text": "Artigo 553.º Escalões de gravidade das contra-ordenações laborais",
+      "tags": [
+        "artigo",
+        "escalões",
+        "gravidade",
+        "contra",
+        "ordenações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_554",
+      "number": "554",
+      "title": "Valores das coimas",
+      "text": "Artigo 554.º Valores das coimas",
+      "tags": [
+        "artigo",
+        "valores",
+        "coimas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_555",
+      "number": "555",
+      "title": "Outros valores de coimas",
+      "text": "Artigo 555.º Outros valores de coimas",
+      "tags": [
+        "artigo",
+        "outros",
+        "valores",
+        "coimas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_556",
+      "number": "556",
+      "title": "Critérios especiais de medida da coima",
+      "text": "Artigo 556.º Critérios especiais de medida da coima",
+      "tags": [
+        "artigo",
+        "critérios",
+        "especiais",
+        "medida"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_557",
+      "number": "557",
+      "title": "Artigo 557",
+      "text": "Artigo 557.º Dolo",
+      "tags": [
+        "artigo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_558",
+      "number": "558",
+      "title": "Pluralidade de contra-ordenações",
+      "text": "Artigo 558.º Pluralidade de contra-ordenações",
+      "tags": [
+        "artigo",
+        "pluralidade",
+        "contra",
+        "ordenações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_559",
+      "number": "559",
+      "title": "Determinação da medida da coima",
+      "text": "Artigo 559.º Determinação da medida da coima",
+      "tags": [
+        "artigo",
+        "determinação",
+        "medida"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_560",
+      "number": "560",
+      "title": "Dispensa de coima",
+      "text": "Artigo 560.º Dispensa de coima",
+      "tags": [
+        "artigo",
+        "dispensa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_561",
+      "number": "561",
+      "title": "Reincidência",
+      "text": "Artigo 561.º Reincidência",
+      "tags": [
+        "artigo",
+        "reincidência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_562",
+      "number": "562",
+      "title": "Sanções acessórias",
+      "text": "Artigo 562.º Sanções acessórias",
+      "tags": [
+        "artigo",
+        "sanções",
+        "acessórias"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_563",
+      "number": "563",
+      "title": "Dispensa e eliminação da publicidade",
+      "text": "Artigo 563.º Dispensa e eliminação da publicidade",
+      "tags": [
+        "artigo",
+        "dispensa",
+        "eliminação",
+        "publicidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_564",
+      "number": "564",
+      "title": "Cumprimento de dever omitido",
+      "text": "Artigo 564.º Cumprimento de dever omitido",
+      "tags": [
+        "artigo",
+        "cumprimento",
+        "omitido"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_565",
+      "number": "565",
+      "title": "Registo individual",
+      "text": "Artigo 565.º Registo individual",
+      "tags": [
+        "artigo",
+        "registo",
+        "individual"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_566",
+      "number": "566",
+      "title": "Destino das coimas Nº de artigos",
+      "text": "Artigo 566.º Destino das coimas Nº de artigos : 601 Páginas: 1 2 3 4 5 6 7 Seguinte > Ver índice sistemático do diploma Imprimir todo o diploma SUMÁRIO Aprova a revisão do Código do Trabalho _____________________ Lei n.º 7/2009 de 12 de Fevereiro Aprova a revisão do Código do Trabalho A Assembleia da República decreta, nos termos da alínea c) do",
+      "tags": [
+        "diploma",
+        "aprova",
+        "revisão",
+        "código",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_681",
+      "number": "681",
+      "title": "Artigo 681",
+      "text": "artigo 681.º, este na parte referente aos dois primeiros artigos, do Código do Trabalho, aprovado pela Lei n.º 99/2003, de 27 de Agosto, produz efeitos a partir da entrada em vigor da revisão do Código de Processo do Trabalho. Consultar o Código do Trabalho(actualizado face ao diploma em epígrafe) 6 - A revogação dos preceitos a seguir referidos da Lei n.º 35/2004, de 29 de Julho, na redacção dada pela Lei n.º 9/2006, de 20 de Março, e pelo Decreto-Lei n.º 164/2007, de 3 de Maio, produz efeitos a partir da entrada em vigor do diploma que regular a mesma matéria: a) Artigos 14.º a 26.º, 469.º e 470.º, sobre trabalho no domicílio; b) Artigos 41.º a 65.º e 474.º, sobre protecção do património genético; c) Artigos 84.º a 95.º, sobre protecção de trabalhadora grávida, puérpera ou lactante; d) Artigos 103.º a 106.º, sobre regime de segurança social em diversas licenças, faltas e dispensas; e) Artigos 107.º a 113.º, sobre regimes aplicáveis à Administração Pública; f) Artigos 115.º a 126.º e 476.º, sobre protecção de menor no trabalho; g) Artigos 139.º a 146.º e 477.º, sobre participação de menor em espectáculo ou outra actividade de natureza cultural, artística ou publicitária; h) Artigos 155.º e 156.º, sobre especificidades da frequência de estabelecimento de ensino por parte de trabalhador-estudante, incluindo quando aplicáveis a trabalhador por conta própria e a estudante que, estando abrangido pelo estatuto de trabalhador-estudante, se encontre em situação de desemprego involun...",
+      "tags": [
+        "artigos",
+        "trabalho",
+        "código",
+        "protecção",
+        "trabalhador"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "ctpt_688",
+      "number": "688",
+      "title": "Artigo 688",
+      "text": "artigo 688.º, sobre designação de árbitros para arbitragem obrigatória e listas de árbitros; e) Artigos 630.º a 640.º, sobre procedimento de contra-ordenações laborais. 4 - A revogação dos artigos 34.º a 43.º, 50.º e 643.º do Código do Trabalho, aprovado pela Lei n.º 99/2003, de 27 de Agosto, e dos artigos 68.º a 77 e 99.º a 106.º e 475.º da Lei n.º 35/2004, de 29 de Julho, sobre protecção da maternidade e da paternidade produz efeitos a partir da entrada em vigor da legislação que regule o regime de protecção social na parentalidade. 5 - A revogação dos artigos 414.º, 418.º, 430.º e 435.º, do n.º 2 do",
+      "tags": [
+        "artigos",
+        "árbitros",
+        "revogação",
+        "protecção",
+        "artigo"
+      ],
+      "relatedArticles": []
+    }
+  ]
+}

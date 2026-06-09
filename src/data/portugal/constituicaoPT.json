@@ -1,0 +1,3664 @@
+{
+  "country": "PT",
+  "code": "constituicaoPT",
+  "displayName": "Constituição da República Portuguesa",
+  "color": "#FFD700",
+  "articles": [
+    {
+      "id": "cfpt_1",
+      "number": "1",
+      "title": "Artigo 1",
+      "text": "Artigo 1.º (República Portuguesa)",
+      "tags": [
+        "artigo",
+        "república",
+        "portuguesa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_2",
+      "number": "2",
+      "title": "Artigo 2",
+      "text": "Artigo 2.º (Estado de direito democrático)",
+      "tags": [
+        "artigo",
+        "estado",
+        "direito",
+        "democrático"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_3",
+      "number": "3",
+      "title": "Artigo 3",
+      "text": "Artigo 3.º (Soberania e legalidade)",
+      "tags": [
+        "artigo",
+        "soberania",
+        "legalidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_4",
+      "number": "4",
+      "title": "Artigo 4",
+      "text": "ARTIGO 4.º (Cidadania portuguesa)",
+      "tags": [
+        "artigo",
+        "cidadania",
+        "portuguesa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_5",
+      "number": "5",
+      "title": "Artigo 5",
+      "text": "Artigo 5.º (Território)",
+      "tags": [
+        "artigo",
+        "território"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_6",
+      "number": "6",
+      "title": "Artigo 6",
+      "text": "Artigo 6.º (Estado unitário)",
+      "tags": [
+        "artigo",
+        "estado",
+        "unitário"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_7",
+      "number": "7",
+      "title": "Artigo 7",
+      "text": "Artigo 7.º (Relações internacionais)",
+      "tags": [
+        "artigo",
+        "relações",
+        "internacionais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_8",
+      "number": "8",
+      "title": "Artigo 8",
+      "text": "Artigo 8.º (Direito internacional)",
+      "tags": [
+        "artigo",
+        "direito",
+        "internacional"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_9",
+      "number": "9",
+      "title": "Artigo 9",
+      "text": "Artigo 9.º (Tarefas fundamentais do Estado)",
+      "tags": [
+        "artigo",
+        "tarefas",
+        "fundamentais",
+        "estado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_10",
+      "number": "10",
+      "title": "Artigo 10",
+      "text": "Artigo 10.º (Sufrágio universal e partidos políticos)",
+      "tags": [
+        "artigo",
+        "sufrágio",
+        "universal",
+        "partidos",
+        "políticos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_11",
+      "number": "11",
+      "title": "Artigo 11",
+      "text": "Artigo 11.º (Símbolos nacionais e língua oficial)",
+      "tags": [
+        "artigo",
+        "símbolos",
+        "nacionais",
+        "língua",
+        "oficial"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_12",
+      "number": "12",
+      "title": "Artigo 12",
+      "text": "ARTIGO 12.º (Princípio da universalidade)",
+      "tags": [
+        "artigo",
+        "princípio",
+        "universalidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_13",
+      "number": "13",
+      "title": "Artigo 13",
+      "text": "Artigo 13.º (Princípio da igualdade)",
+      "tags": [
+        "artigo",
+        "princípio",
+        "igualdade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_14",
+      "number": "14",
+      "title": "Artigo 14",
+      "text": "ARTIGO 14.º (Portugueses no estrangeiro)",
+      "tags": [
+        "artigo",
+        "portugueses",
+        "estrangeiro"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_15",
+      "number": "15",
+      "title": "Artigo 15",
+      "text": "Artigo 15.º (Estrangeiros, apátridas, cidadãos europeus)",
+      "tags": [
+        "artigo",
+        "estrangeiros",
+        "apátridas",
+        "cidadãos",
+        "europeus"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_16",
+      "number": "16",
+      "title": "Artigo 16",
+      "text": "ARTIGO 16.º (Âmbito e sentido dos direitos fundamentais)",
+      "tags": [
+        "artigo",
+        "âmbito",
+        "sentido",
+        "direitos",
+        "fundamentais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_17",
+      "number": "17",
+      "title": "Artigo 17",
+      "text": "ARTIGO 17.º (Regime dos direitos, liberdades e garantias)",
+      "tags": [
+        "artigo",
+        "regime",
+        "direitos",
+        "liberdades",
+        "garantias"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_18",
+      "number": "18",
+      "title": "Artigo 18",
+      "text": "ARTIGO 18.º (Força jurídica)",
+      "tags": [
+        "artigo",
+        "jurídica"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_19",
+      "number": "19",
+      "title": "Artigo 19",
+      "text": "Artigo 19.º (Suspensão do exercício de direitos)",
+      "tags": [
+        "artigo",
+        "suspensão",
+        "exercício",
+        "direitos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_20",
+      "number": "20",
+      "title": "Artigo 20",
+      "text": "Artigo 20.º (Acesso ao direito e tutela jurisdicional efectiva)",
+      "tags": [
+        "artigo",
+        "acesso",
+        "direito",
+        "tutela",
+        "jurisdicional"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_21",
+      "number": "21",
+      "title": "Artigo 21",
+      "text": "ARTIGO 21.º (Direito de resistência)",
+      "tags": [
+        "artigo",
+        "direito",
+        "resistência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_22",
+      "number": "22",
+      "title": "Artigo 22",
+      "text": "ARTIGO 22.º (Responsabilidade das entidades públicas)",
+      "tags": [
+        "artigo",
+        "responsabilidade",
+        "entidades",
+        "públicas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_23",
+      "number": "23",
+      "title": "Artigo 23",
+      "text": "Artigo 23.º (Provedor de Justiça)",
+      "tags": [
+        "artigo",
+        "provedor",
+        "justiça"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_24",
+      "number": "24",
+      "title": "Artigo 24",
+      "text": "ARTIGO 24.º (Direito à vida)",
+      "tags": [
+        "artigo",
+        "direito"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_25",
+      "number": "25",
+      "title": "Artigo 25",
+      "text": "Artigo 25.º (Direito à integridade pessoal)",
+      "tags": [
+        "artigo",
+        "direito",
+        "integridade",
+        "pessoal"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_26",
+      "number": "26",
+      "title": "Artigo 26",
+      "text": "Artigo 26.º (Outros direitos pessoais)",
+      "tags": [
+        "artigo",
+        "outros",
+        "direitos",
+        "pessoais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_27",
+      "number": "27",
+      "title": "Artigo 27",
+      "text": "Artigo 27.º (Direito à liberdade e à segurança)",
+      "tags": [
+        "artigo",
+        "direito",
+        "liberdade",
+        "segurança"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_28",
+      "number": "28",
+      "title": "Artigo 28",
+      "text": "Artigo 28.º (Prisão preventiva)",
+      "tags": [
+        "artigo",
+        "prisão",
+        "preventiva"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_29",
+      "number": "29",
+      "title": "Artigo 29",
+      "text": "ARTIGO 29.º (Aplicação da lei criminal)",
+      "tags": [
+        "artigo",
+        "aplicação",
+        "criminal"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_30",
+      "number": "30",
+      "title": "Artigo 30",
+      "text": "Artigo 30.º (Limites das penas e das medidas de segurança)",
+      "tags": [
+        "artigo",
+        "limites",
+        "medidas",
+        "segurança"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_31",
+      "number": "31",
+      "title": "Artigo 31",
+      "text": "Artigo 31.º (Habeas corpus)",
+      "tags": [
+        "artigo",
+        "habeas",
+        "corpus"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_32",
+      "number": "32",
+      "title": "Artigo 32",
+      "text": "Artigo 32.º (Garantias de processo criminal)",
+      "tags": [
+        "artigo",
+        "garantias",
+        "processo",
+        "criminal"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_33",
+      "number": "33",
+      "title": "Artigo 33",
+      "text": "Artigo 33.º (Expulsão, extradição e direito de asilo)",
+      "tags": [
+        "artigo",
+        "expulsão",
+        "extradição",
+        "direito"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_34",
+      "number": "34",
+      "title": "Artigo 34",
+      "text": "Artigo 34.º (Inviolabilidade do domicílio e da correspondência)",
+      "tags": [
+        "artigo",
+        "inviolabilidade",
+        "domicílio",
+        "correspondência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_35",
+      "number": "35",
+      "title": "Artigo 35",
+      "text": "Artigo 35.º (Utilização da informática)",
+      "tags": [
+        "artigo",
+        "utilização",
+        "informática"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_36",
+      "number": "36",
+      "title": "Artigo 36",
+      "text": "Artigo 36.º (Família, casamento e filiação)",
+      "tags": [
+        "artigo",
+        "família",
+        "casamento",
+        "filiação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_37",
+      "number": "37",
+      "title": "Artigo 37",
+      "text": "Artigo 37.º (Liberdade de expressão e informação)",
+      "tags": [
+        "artigo",
+        "liberdade",
+        "expressão",
+        "informação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_38",
+      "number": "38",
+      "title": "Artigo 38",
+      "text": "Artigo 38.º (Liberdade de imprensa e meios de comunicação social)",
+      "tags": [
+        "artigo",
+        "liberdade",
+        "imprensa",
+        "comunicação",
+        "social"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_39",
+      "number": "39",
+      "title": "Artigo 39",
+      "text": "Artigo 39.º (Regulação da comunicação social)",
+      "tags": [
+        "artigo",
+        "regulação",
+        "comunicação",
+        "social"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_40",
+      "number": "40",
+      "title": "Artigo 40",
+      "text": "Artigo 40.º (Direitos de antena, de resposta e de réplica política)",
+      "tags": [
+        "artigo",
+        "direitos",
+        "antena",
+        "resposta",
+        "réplica"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_41",
+      "number": "41",
+      "title": "Artigo 41",
+      "text": "ARTIGO 41.º (Liberdade de consciência, de religião e de culto)",
+      "tags": [
+        "artigo",
+        "liberdade",
+        "consciência",
+        "religião"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_42",
+      "number": "42",
+      "title": "Artigo 42",
+      "text": "ARTIGO 42.º (Liberdade de criação cultural)",
+      "tags": [
+        "artigo",
+        "liberdade",
+        "criação",
+        "cultural"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_43",
+      "number": "43",
+      "title": "Artigo 43",
+      "text": "Artigo 43.º (Liberdade de aprender e ensinar)",
+      "tags": [
+        "artigo",
+        "liberdade",
+        "aprender",
+        "ensinar"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_44",
+      "number": "44",
+      "title": "Artigo 44",
+      "text": "ARTIGO 44.º (Direito de deslocação e de emigração)",
+      "tags": [
+        "artigo",
+        "direito",
+        "deslocação",
+        "emigração"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_45",
+      "number": "45",
+      "title": "Artigo 45",
+      "text": "ARTIGO 45.º (Direito de reunião e de manifestação)",
+      "tags": [
+        "artigo",
+        "direito",
+        "reunião",
+        "manifestação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_46",
+      "number": "46",
+      "title": "Artigo 46",
+      "text": "Artigo 46.º (Liberdade de associação)",
+      "tags": [
+        "artigo",
+        "liberdade",
+        "associação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_47",
+      "number": "47",
+      "title": "Artigo 47",
+      "text": "ARTIGO 47.º (Liberdade de escolha de profissão e acesso à função pública)",
+      "tags": [
+        "artigo",
+        "liberdade",
+        "escolha",
+        "profissão",
+        "acesso"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_48",
+      "number": "48",
+      "title": "Artigo 48",
+      "text": "ARTIGO 48.º (Participação na vida pública)",
+      "tags": [
+        "artigo",
+        "participação",
+        "pública"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_49",
+      "number": "49",
+      "title": "Artigo 49",
+      "text": "ARTIGO 49.º (Direito de sufrágio)",
+      "tags": [
+        "artigo",
+        "direito",
+        "sufrágio"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_50",
+      "number": "50",
+      "title": "Artigo 50",
+      "text": "Artigo 50.º (Direito de acesso a cargos públicos)",
+      "tags": [
+        "artigo",
+        "direito",
+        "acesso",
+        "cargos",
+        "públicos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_51",
+      "number": "51",
+      "title": "Artigo 51",
+      "text": "Artigo 51.º (Associações e partidos políticos)",
+      "tags": [
+        "artigo",
+        "associações",
+        "partidos",
+        "políticos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_52",
+      "number": "52",
+      "title": "Artigo 52",
+      "text": "Artigo 52.º (Direito de petição e direito de acção popular)",
+      "tags": [
+        "direito",
+        "artigo",
+        "petição",
+        "popular"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_53",
+      "number": "53",
+      "title": "Artigo 53",
+      "text": "ARTIGO 53.º (Segurança no emprego)",
+      "tags": [
+        "artigo",
+        "segurança",
+        "emprego"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_54",
+      "number": "54",
+      "title": "Artigo 54",
+      "text": "Artigo 54.º (Comissões de trabalhadores)",
+      "tags": [
+        "artigo",
+        "comissões",
+        "trabalhadores"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_55",
+      "number": "55",
+      "title": "Artigo 55",
+      "text": "Artigo 55.º (Liberdade sindical)",
+      "tags": [
+        "artigo",
+        "liberdade",
+        "sindical"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_56",
+      "number": "56",
+      "title": "Artigo 56",
+      "text": "Artigo 56.º (Direitos das associações sindicais e contratação colectiva)",
+      "tags": [
+        "artigo",
+        "direitos",
+        "associações",
+        "sindicais",
+        "contratação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_57",
+      "number": "57",
+      "title": "Artigo 57",
+      "text": "Artigo 57.º (Direito à greve e proibição do lock-out)",
+      "tags": [
+        "artigo",
+        "direito",
+        "proibição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_58",
+      "number": "58",
+      "title": "Artigo 58",
+      "text": "Artigo 58.º (Direito ao trabalho)",
+      "tags": [
+        "artigo",
+        "direito",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_59",
+      "number": "59",
+      "title": "Artigo 59",
+      "text": "Artigo 59.º (Direitos dos trabalhadores)",
+      "tags": [
+        "artigo",
+        "direitos",
+        "trabalhadores"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_60",
+      "number": "60",
+      "title": "Artigo 60",
+      "text": "Artigo 60.º (Direitos dos consumidores)",
+      "tags": [
+        "artigo",
+        "direitos",
+        "consumidores"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_61",
+      "number": "61",
+      "title": "Artigo 61",
+      "text": "Artigo 61.º (Iniciativa privada, cooperativa e autogestionária)",
+      "tags": [
+        "artigo",
+        "iniciativa",
+        "privada",
+        "cooperativa",
+        "autogestionária"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_62",
+      "number": "62",
+      "title": "Artigo 62",
+      "text": "Artigo 62.º (Direito de propriedade privada)",
+      "tags": [
+        "artigo",
+        "direito",
+        "propriedade",
+        "privada"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_63",
+      "number": "63",
+      "title": "Artigo 63",
+      "text": "Artigo 63.º (Segurança social e solidariedade)",
+      "tags": [
+        "artigo",
+        "segurança",
+        "social",
+        "solidariedade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_64",
+      "number": "64",
+      "title": "Artigo 64",
+      "text": "Artigo 64.º (Saúde)",
+      "tags": [
+        "artigo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_65",
+      "number": "65",
+      "title": "Artigo 65",
+      "text": "Artigo 65.º (Habitação e urbanismo)",
+      "tags": [
+        "artigo",
+        "habitação",
+        "urbanismo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_66",
+      "number": "66",
+      "title": "Artigo 66",
+      "text": "Artigo 66.º (Ambiente e qualidade de vida)",
+      "tags": [
+        "artigo",
+        "ambiente",
+        "qualidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_67",
+      "number": "67",
+      "title": "Artigo 67",
+      "text": "Artigo 67.º (Família)",
+      "tags": [
+        "artigo",
+        "família"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_68",
+      "number": "68",
+      "title": "Artigo 68",
+      "text": "Artigo 68.º (Paternidade e maternidade)",
+      "tags": [
+        "artigo",
+        "paternidade",
+        "maternidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_69",
+      "number": "69",
+      "title": "Artigo 69",
+      "text": "Artigo 69.º (Infância)",
+      "tags": [
+        "artigo",
+        "infância"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_70",
+      "number": "70",
+      "title": "Artigo 70",
+      "text": "Artigo 70.º (Juventude)",
+      "tags": [
+        "artigo",
+        "juventude"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_71",
+      "number": "71",
+      "title": "Artigo 71",
+      "text": "Artigo 71.º (Cidadãos portadores de deficiência)",
+      "tags": [
+        "artigo",
+        "cidadãos",
+        "portadores",
+        "deficiência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_72",
+      "number": "72",
+      "title": "Artigo 72",
+      "text": "Artigo 72.º (Terceira idade)",
+      "tags": [
+        "artigo",
+        "terceira"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_73",
+      "number": "73",
+      "title": "Artigo 73",
+      "text": "Artigo 73.º (Educação, cultura e ciência)",
+      "tags": [
+        "artigo",
+        "educação",
+        "cultura",
+        "ciência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_74",
+      "number": "74",
+      "title": "Artigo 74",
+      "text": "Artigo 74.º (Ensino)",
+      "tags": [
+        "artigo",
+        "ensino"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_75",
+      "number": "75",
+      "title": "Artigo 75",
+      "text": "Artigo 75.º (Ensino público, particular e cooperativo)",
+      "tags": [
+        "artigo",
+        "ensino",
+        "público",
+        "particular",
+        "cooperativo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_76",
+      "number": "76",
+      "title": "Artigo 76",
+      "text": "Artigo 76.º (Universidade e acesso ao ensino superior)",
+      "tags": [
+        "artigo",
+        "universidade",
+        "acesso",
+        "ensino",
+        "superior"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_77",
+      "number": "77",
+      "title": "Artigo 77",
+      "text": "ARTIGO 77.º (Participação democrática no ensino)",
+      "tags": [
+        "artigo",
+        "participação",
+        "democrática",
+        "ensino"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_78",
+      "number": "78",
+      "title": "Artigo 78",
+      "text": "Artigo 78.º (Fruição e criação cultural)",
+      "tags": [
+        "artigo",
+        "fruição",
+        "criação",
+        "cultural"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_79",
+      "number": "79",
+      "title": "Artigo 79",
+      "text": "Artigo 79.º (Cultura física e desporto)",
+      "tags": [
+        "artigo",
+        "cultura",
+        "física",
+        "desporto"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_80",
+      "number": "80",
+      "title": "Artigo 80",
+      "text": "Artigo 80.º (Princípios fundamentais)",
+      "tags": [
+        "artigo",
+        "princípios",
+        "fundamentais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_81",
+      "number": "81",
+      "title": "Artigo 81",
+      "text": "Artigo 81.º (Incumbências prioritárias do Estado)",
+      "tags": [
+        "artigo",
+        "incumbências",
+        "prioritárias",
+        "estado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_82",
+      "number": "82",
+      "title": "Artigo 82",
+      "text": "Artigo 82.º (Sectores de propriedade dos meios de produção)",
+      "tags": [
+        "artigo",
+        "sectores",
+        "propriedade",
+        "produção"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_83",
+      "number": "83",
+      "title": "Artigo 83",
+      "text": "Artigo 83.º (Requisitos de apropriação pública)",
+      "tags": [
+        "artigo",
+        "requisitos",
+        "apropriação",
+        "pública"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_84",
+      "number": "84",
+      "title": "Artigo 84",
+      "text": "Artigo 84.º (Domínio público)",
+      "tags": [
+        "artigo",
+        "domínio",
+        "público"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_85",
+      "number": "85",
+      "title": "Artigo 85",
+      "text": "Artigo 85.º (Cooperativas e experiências de autogestão)",
+      "tags": [
+        "artigo",
+        "cooperativas",
+        "experiências",
+        "autogestão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_86",
+      "number": "86",
+      "title": "Artigo 86",
+      "text": "Artigo 86.º (Empresas privadas)",
+      "tags": [
+        "artigo",
+        "empresas",
+        "privadas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_87",
+      "number": "87",
+      "title": "Artigo 87",
+      "text": "Artigo 87.º (Actividade económica e investimentos estrangeiros)",
+      "tags": [
+        "artigo",
+        "actividade",
+        "económica",
+        "investimentos",
+        "estrangeiros"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_88",
+      "number": "88",
+      "title": "Artigo 88",
+      "text": "Artigo 88.º (Meios de produção em abandono)",
+      "tags": [
+        "artigo",
+        "produção",
+        "abandono"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_89",
+      "number": "89",
+      "title": "Artigo 89",
+      "text": "Artigo 89.º (Participação dos trabalhadores na gestão)",
+      "tags": [
+        "artigo",
+        "participação",
+        "trabalhadores",
+        "gestão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_90",
+      "number": "90",
+      "title": "Artigo 90",
+      "text": "Artigo 90.º (Objectivos dos planos)",
+      "tags": [
+        "artigo",
+        "objectivos",
+        "planos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_91",
+      "number": "91",
+      "title": "Artigo 91",
+      "text": "Artigo 91.º (Elaboração e execução dos planos)",
+      "tags": [
+        "artigo",
+        "elaboração",
+        "execução",
+        "planos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_92",
+      "number": "92",
+      "title": "Artigo 92",
+      "text": "Artigo 92.º (Conselho Económico e Social)",
+      "tags": [
+        "artigo",
+        "conselho",
+        "económico",
+        "social"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_93",
+      "number": "93",
+      "title": "Artigo 93",
+      "text": "Artigo 93.º (Objectivos da política agrícola)",
+      "tags": [
+        "artigo",
+        "objectivos",
+        "política",
+        "agrícola"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_94",
+      "number": "94",
+      "title": "Artigo 94",
+      "text": "Artigo 94.º (Eliminação dos latifúndios)",
+      "tags": [
+        "artigo",
+        "eliminação",
+        "latifúndios"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_95",
+      "number": "95",
+      "title": "Artigo 95",
+      "text": "Artigo 95.º (Redimensionamento do minifúndio)",
+      "tags": [
+        "artigo",
+        "redimensionamento",
+        "minifúndio"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_96",
+      "number": "96",
+      "title": "Artigo 96",
+      "text": "Artigo 96.º (Formas de exploração de terra alheia)",
+      "tags": [
+        "artigo",
+        "formas",
+        "exploração",
+        "alheia"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_97",
+      "number": "97",
+      "title": "Artigo 97",
+      "text": "Artigo 97.º (Auxílio do Estado)",
+      "tags": [
+        "artigo",
+        "auxílio",
+        "estado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_98",
+      "number": "98",
+      "title": "Artigo 98",
+      "text": "Artigo 98.º (Participação na definição da política agrícola)",
+      "tags": [
+        "artigo",
+        "participação",
+        "definição",
+        "política",
+        "agrícola"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_99",
+      "number": "99",
+      "title": "Artigo 99",
+      "text": "Artigo 99.º (Objectivos da política comercial)",
+      "tags": [
+        "artigo",
+        "objectivos",
+        "política",
+        "comercial"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_100",
+      "number": "100",
+      "title": "Artigo 100",
+      "text": "Artigo 100.º (Objectivos da política industrial)",
+      "tags": [
+        "artigo",
+        "objectivos",
+        "política",
+        "industrial"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_101",
+      "number": "101",
+      "title": "Artigo 101",
+      "text": "Artigo 101.º (Sistema financeiro)",
+      "tags": [
+        "artigo",
+        "sistema",
+        "financeiro"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_102",
+      "number": "102",
+      "title": "Artigo 102",
+      "text": "Artigo 102.º (Banco de Portugal)",
+      "tags": [
+        "artigo",
+        "portugal"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_103",
+      "number": "103",
+      "title": "Artigo 103",
+      "text": "Artigo 103.º (Sistema fiscal)",
+      "tags": [
+        "artigo",
+        "sistema",
+        "fiscal"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_104",
+      "number": "104",
+      "title": "Artigo 104",
+      "text": "Artigo 104.º (Impostos)",
+      "tags": [
+        "artigo",
+        "impostos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_105",
+      "number": "105",
+      "title": "Artigo 105",
+      "text": "Artigo 105.º (Orçamento)",
+      "tags": [
+        "artigo",
+        "orçamento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_106",
+      "number": "106",
+      "title": "Artigo 106",
+      "text": "Artigo 106.º (Elaboração do Orçamento)",
+      "tags": [
+        "artigo",
+        "elaboração",
+        "orçamento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_107",
+      "number": "107",
+      "title": "Artigo 107",
+      "text": "Artigo 107.º (Fiscalização)",
+      "tags": [
+        "artigo",
+        "fiscalização"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_108",
+      "number": "108",
+      "title": "Artigo 108",
+      "text": "Artigo 108.º (Titularidade e exercício do poder)",
+      "tags": [
+        "artigo",
+        "titularidade",
+        "exercício"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_109",
+      "number": "109",
+      "title": "Artigo 109",
+      "text": "Artigo 109.º (Participação política dos cidadãos)",
+      "tags": [
+        "artigo",
+        "participação",
+        "política",
+        "cidadãos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_110",
+      "number": "110",
+      "title": "Artigo 110",
+      "text": "Artigo 110.º (Órgãos de soberania)",
+      "tags": [
+        "artigo",
+        "órgãos",
+        "soberania"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_111",
+      "number": "111",
+      "title": "Artigo 111",
+      "text": "Artigo 111.º (Separação e interdependência)",
+      "tags": [
+        "artigo",
+        "separação",
+        "interdependência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_112",
+      "number": "112",
+      "title": "Artigo 112",
+      "text": "Artigo 112.º (Actos normativos)",
+      "tags": [
+        "artigo",
+        "normativos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_113",
+      "number": "113",
+      "title": "Artigo 113",
+      "text": "Artigo 113.º (Princípios gerais de direito eleitoral)",
+      "tags": [
+        "artigo",
+        "princípios",
+        "gerais",
+        "direito",
+        "eleitoral"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_114",
+      "number": "114",
+      "title": "Artigo 114",
+      "text": "Artigo 114.º (Partidos políticos e direito de oposição)",
+      "tags": [
+        "artigo",
+        "partidos",
+        "políticos",
+        "direito",
+        "oposição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_115",
+      "number": "115",
+      "title": "Artigo 115",
+      "text": "Artigo 115.º (Referendo)",
+      "tags": [
+        "artigo",
+        "referendo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_116",
+      "number": "116",
+      "title": "Artigo 116",
+      "text": "Artigo 116.º (Órgãos colegiais)",
+      "tags": [
+        "artigo",
+        "órgãos",
+        "colegiais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_117",
+      "number": "117",
+      "title": "Artigo 117",
+      "text": "Artigo 117.º (Estatuto dos titulares de cargos políticos)",
+      "tags": [
+        "artigo",
+        "estatuto",
+        "titulares",
+        "cargos",
+        "políticos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_118",
+      "number": "118",
+      "title": "Artigo 118",
+      "text": "Artigo 118.º (Princípio da renovação)",
+      "tags": [
+        "artigo",
+        "princípio",
+        "renovação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_119",
+      "number": "119",
+      "title": "Artigo 119",
+      "text": "Artigo 119.º (Publicidade dos actos)",
+      "tags": [
+        "artigo",
+        "publicidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_120",
+      "number": "120",
+      "title": "Artigo 120",
+      "text": "Artigo 120.º (Definição)",
+      "tags": [
+        "artigo",
+        "definição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_121",
+      "number": "121",
+      "title": "Artigo 121",
+      "text": "Artigo 121.º (Eleição)",
+      "tags": [
+        "artigo",
+        "eleição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_122",
+      "number": "122",
+      "title": "Artigo 122",
+      "text": "Artigo 122.º (Elegibilidade)",
+      "tags": [
+        "artigo",
+        "elegibilidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_123",
+      "number": "123",
+      "title": "Artigo 123",
+      "text": "Artigo 123.º (Reelegibilidade)",
+      "tags": [
+        "artigo",
+        "reelegibilidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_124",
+      "number": "124",
+      "title": "Artigo 124",
+      "text": "Artigo 124.º (Candidaturas)",
+      "tags": [
+        "artigo",
+        "candidaturas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_125",
+      "number": "125",
+      "title": "Artigo 125",
+      "text": "Artigo 125.º (Data da eleição)",
+      "tags": [
+        "artigo",
+        "eleição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_126",
+      "number": "126",
+      "title": "Artigo 126",
+      "text": "Artigo 126.º (Sistema eleitoral)",
+      "tags": [
+        "artigo",
+        "sistema",
+        "eleitoral"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_127",
+      "number": "127",
+      "title": "Artigo 127",
+      "text": "Artigo 127.º (Posse e juramento)",
+      "tags": [
+        "artigo",
+        "juramento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_128",
+      "number": "128",
+      "title": "Artigo 128",
+      "text": "Artigo 128.º (Mandato)",
+      "tags": [
+        "artigo",
+        "mandato"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_129",
+      "number": "129",
+      "title": "Artigo 129",
+      "text": "Artigo 129.º (Ausência do território nacional)",
+      "tags": [
+        "artigo",
+        "ausência",
+        "território",
+        "nacional"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_130",
+      "number": "130",
+      "title": "Artigo 130",
+      "text": "Artigo 130.º (Responsabilidade criminal)",
+      "tags": [
+        "artigo",
+        "responsabilidade",
+        "criminal"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_131",
+      "number": "131",
+      "title": "Artigo 131",
+      "text": "Artigo 131.º (Renúncia ao mandato)",
+      "tags": [
+        "artigo",
+        "renúncia",
+        "mandato"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_132",
+      "number": "132",
+      "title": "Artigo 132",
+      "text": "Artigo 132.º (Substituição interina)",
+      "tags": [
+        "artigo",
+        "substituição",
+        "interina"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_133",
+      "number": "133",
+      "title": "Artigo 133",
+      "text": "Artigo 133.º (Competência quanto a outros órgãos)",
+      "tags": [
+        "artigo",
+        "competência",
+        "quanto",
+        "outros",
+        "órgãos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_134",
+      "number": "134",
+      "title": "Artigo 134",
+      "text": "Artigo 134.º (Competência para prática de actos próprios)",
+      "tags": [
+        "artigo",
+        "competência",
+        "prática",
+        "próprios"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_135",
+      "number": "135",
+      "title": "Artigo 135",
+      "text": "Artigo 135.º (Competência nas relações internacionais)",
+      "tags": [
+        "artigo",
+        "competência",
+        "relações",
+        "internacionais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_136",
+      "number": "136",
+      "title": "Artigo 136",
+      "text": "Artigo 136.º (Promulgação e veto)",
+      "tags": [
+        "artigo",
+        "promulgação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_137",
+      "number": "137",
+      "title": "Artigo 137",
+      "text": "Artigo 137.º (Falta de promulgação ou de assinatura)",
+      "tags": [
+        "artigo",
+        "promulgação",
+        "assinatura"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_138",
+      "number": "138",
+      "title": "Artigo 138",
+      "text": "Artigo 138.º (Declaração do estado de sítio ou do estado de emergência)",
+      "tags": [
+        "estado",
+        "artigo",
+        "declaração",
+        "emergência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_139",
+      "number": "139",
+      "title": "Artigo 139",
+      "text": "Artigo 139.º (Actos do Presidente da República interino)",
+      "tags": [
+        "artigo",
+        "presidente",
+        "república",
+        "interino"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_140",
+      "number": "140",
+      "title": "Artigo 140",
+      "text": "Artigo 140.º (Referenda ministerial)",
+      "tags": [
+        "artigo",
+        "referenda",
+        "ministerial"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_141",
+      "number": "141",
+      "title": "Artigo 141",
+      "text": "Artigo 141.º (Definição)",
+      "tags": [
+        "artigo",
+        "definição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_142",
+      "number": "142",
+      "title": "Artigo 142",
+      "text": "Artigo 142.º (Composição)",
+      "tags": [
+        "artigo",
+        "composição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_143",
+      "number": "143",
+      "title": "Artigo 143",
+      "text": "Artigo 143.º (Posse e mandato)",
+      "tags": [
+        "artigo",
+        "mandato"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_144",
+      "number": "144",
+      "title": "Artigo 144",
+      "text": "Artigo 144.º (Organização e funcionamento)",
+      "tags": [
+        "artigo",
+        "organização",
+        "funcionamento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_145",
+      "number": "145",
+      "title": "Artigo 145",
+      "text": "Artigo 145.º (Competência)",
+      "tags": [
+        "artigo",
+        "competência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_146",
+      "number": "146",
+      "title": "Artigo 146",
+      "text": "Artigo 146.º (Emissão dos pareceres)",
+      "tags": [
+        "artigo",
+        "emissão",
+        "pareceres"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_147",
+      "number": "147",
+      "title": "Artigo 147",
+      "text": "Artigo 147.º (Definição)",
+      "tags": [
+        "artigo",
+        "definição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_148",
+      "number": "148",
+      "title": "Artigo 148",
+      "text": "Artigo 148.º (Composição)",
+      "tags": [
+        "artigo",
+        "composição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_149",
+      "number": "149",
+      "title": "Artigo 149",
+      "text": "Artigo 149.º (Círculos eleitorais)",
+      "tags": [
+        "artigo",
+        "círculos",
+        "eleitorais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_150",
+      "number": "150",
+      "title": "Artigo 150",
+      "text": "Artigo 150.º (Condições de elegibilidade)",
+      "tags": [
+        "artigo",
+        "condições",
+        "elegibilidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_151",
+      "number": "151",
+      "title": "Artigo 151",
+      "text": "Artigo 151.º (Candidaturas)",
+      "tags": [
+        "artigo",
+        "candidaturas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_152",
+      "number": "152",
+      "title": "Artigo 152",
+      "text": "Artigo 152.º (Representação política)",
+      "tags": [
+        "artigo",
+        "representação",
+        "política"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_153",
+      "number": "153",
+      "title": "Artigo 153",
+      "text": "Artigo 153.º (Início e termo do mandato)",
+      "tags": [
+        "artigo",
+        "início",
+        "mandato"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_154",
+      "number": "154",
+      "title": "Artigo 154",
+      "text": "Artigo 154.º (Incompatibilidades e impedimentos)",
+      "tags": [
+        "artigo",
+        "incompatibilidades",
+        "impedimentos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_155",
+      "number": "155",
+      "title": "Artigo 155",
+      "text": "Artigo 155.º (Exercício da função de Deputado)",
+      "tags": [
+        "artigo",
+        "exercício",
+        "função",
+        "deputado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_156",
+      "number": "156",
+      "title": "Artigo 156",
+      "text": "Artigo 156.º (Poderes dos Deputados)",
+      "tags": [
+        "artigo",
+        "poderes",
+        "deputados"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_157",
+      "number": "157",
+      "title": "Artigo 157",
+      "text": "Artigo 157.º (Imunidades)",
+      "tags": [
+        "artigo",
+        "imunidades"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_158",
+      "number": "158",
+      "title": "Artigo 158",
+      "text": "Artigo 158.º (Direitos e regalias)",
+      "tags": [
+        "artigo",
+        "direitos",
+        "regalias"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_159",
+      "number": "159",
+      "title": "Artigo 159",
+      "text": "Artigo 159.º (Deveres)",
+      "tags": [
+        "artigo",
+        "deveres"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_160",
+      "number": "160",
+      "title": "Artigo 160",
+      "text": "Artigo 160.º (Perda e renúncia do mandato)",
+      "tags": [
+        "artigo",
+        "renúncia",
+        "mandato"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_161",
+      "number": "161",
+      "title": "Artigo 161",
+      "text": "Artigo 161.º (Competência política e legislativa)",
+      "tags": [
+        "artigo",
+        "competência",
+        "política",
+        "legislativa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_162",
+      "number": "162",
+      "title": "Artigo 162",
+      "text": "Artigo 162.º (Competência de fiscalização)",
+      "tags": [
+        "artigo",
+        "competência",
+        "fiscalização"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_163",
+      "number": "163",
+      "title": "Artigo 163",
+      "text": "Artigo 163.º (Competência quanto a outros órgãos)",
+      "tags": [
+        "artigo",
+        "competência",
+        "quanto",
+        "outros",
+        "órgãos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_164",
+      "number": "164",
+      "title": "Artigo 164",
+      "text": "Artigo 164.º (Reserva absoluta de competência legislativa)",
+      "tags": [
+        "artigo",
+        "reserva",
+        "absoluta",
+        "competência",
+        "legislativa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_165",
+      "number": "165",
+      "title": "Artigo 165",
+      "text": "Artigo 165.º (Reserva relativa de competência legislativa)",
+      "tags": [
+        "artigo",
+        "reserva",
+        "relativa",
+        "competência",
+        "legislativa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_166",
+      "number": "166",
+      "title": "Artigo 166",
+      "text": "Artigo 166.º (Forma dos actos)",
+      "tags": [
+        "artigo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_167",
+      "number": "167",
+      "title": "Artigo 167",
+      "text": "Artigo 167.º (Iniciativa da lei e do referendo)",
+      "tags": [
+        "artigo",
+        "iniciativa",
+        "referendo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_168",
+      "number": "168",
+      "title": "Artigo 168",
+      "text": "Artigo 168.º (Discussão e votação)",
+      "tags": [
+        "artigo",
+        "discussão",
+        "votação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_169",
+      "number": "169",
+      "title": "Artigo 169",
+      "text": "Artigo 169.º (Apreciação parlamentar de actos legislativos)",
+      "tags": [
+        "artigo",
+        "apreciação",
+        "parlamentar",
+        "legislativos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_170",
+      "number": "170",
+      "title": "Artigo 170",
+      "text": "Artigo 170.º (Processo de urgência)",
+      "tags": [
+        "artigo",
+        "processo",
+        "urgência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_171",
+      "number": "171",
+      "title": "Artigo 171",
+      "text": "Artigo 171.º (Legislatura)",
+      "tags": [
+        "artigo",
+        "legislatura"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_172",
+      "number": "172",
+      "title": "Artigo 172",
+      "text": "Artigo 172.º (Dissolução)",
+      "tags": [
+        "artigo",
+        "dissolução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_173",
+      "number": "173",
+      "title": "Artigo 173",
+      "text": "Artigo 173.º (Reunião após eleições)",
+      "tags": [
+        "artigo",
+        "reunião",
+        "eleições"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_174",
+      "number": "174",
+      "title": "Artigo 174",
+      "text": "Artigo 174.º (Sessão legislativa, período de funcionamento e convocação)",
+      "tags": [
+        "artigo",
+        "sessão",
+        "legislativa",
+        "período",
+        "funcionamento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_175",
+      "number": "175",
+      "title": "Artigo 175",
+      "text": "Artigo 175.º (Competência interna da Assembleia)",
+      "tags": [
+        "artigo",
+        "competência",
+        "interna",
+        "assembleia"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_176",
+      "number": "176",
+      "title": "Artigo 176",
+      "text": "Artigo 176.º (Ordem do dia das reuniões plenárias)",
+      "tags": [
+        "artigo",
+        "reuniões",
+        "plenárias"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_177",
+      "number": "177",
+      "title": "Artigo 177",
+      "text": "Artigo 177.º (Participação dos membros do Governo)",
+      "tags": [
+        "artigo",
+        "participação",
+        "membros",
+        "governo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_178",
+      "number": "178",
+      "title": "Artigo 178",
+      "text": "Artigo 178.º (Comissões)",
+      "tags": [
+        "artigo",
+        "comissões"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_179",
+      "number": "179",
+      "title": "Artigo 179",
+      "text": "Artigo 179.º (Comissão Permanente)",
+      "tags": [
+        "artigo",
+        "comissão",
+        "permanente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_180",
+      "number": "180",
+      "title": "Artigo 180",
+      "text": "Artigo 180.º (Grupos parlamentares)",
+      "tags": [
+        "artigo",
+        "grupos",
+        "parlamentares"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_181",
+      "number": "181",
+      "title": "Artigo 181",
+      "text": "Artigo 181.º (Funcionários e especialistas ao serviço da Assembleia)",
+      "tags": [
+        "artigo",
+        "funcionários",
+        "especialistas",
+        "serviço",
+        "assembleia"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_182",
+      "number": "182",
+      "title": "Artigo 182",
+      "text": "Artigo 182.º (Definição)",
+      "tags": [
+        "artigo",
+        "definição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_183",
+      "number": "183",
+      "title": "Artigo 183",
+      "text": "Artigo 183.º (Composição)",
+      "tags": [
+        "artigo",
+        "composição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_184",
+      "number": "184",
+      "title": "Artigo 184",
+      "text": "Artigo 184.º (Conselho de Ministros)",
+      "tags": [
+        "artigo",
+        "conselho",
+        "ministros"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_185",
+      "number": "185",
+      "title": "Artigo 185",
+      "text": "Artigo 185.º (Substituição de membros do Governo)",
+      "tags": [
+        "artigo",
+        "substituição",
+        "membros",
+        "governo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_186",
+      "number": "186",
+      "title": "Artigo 186",
+      "text": "Artigo 186.º (Início e cessação de funções)",
+      "tags": [
+        "artigo",
+        "início",
+        "cessação",
+        "funções"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_187",
+      "number": "187",
+      "title": "Artigo 187",
+      "text": "Artigo 187.º (Formação)",
+      "tags": [
+        "artigo",
+        "formação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_188",
+      "number": "188",
+      "title": "Artigo 188",
+      "text": "Artigo 188.º (Programa do Governo)",
+      "tags": [
+        "artigo",
+        "programa",
+        "governo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_189",
+      "number": "189",
+      "title": "Artigo 189",
+      "text": "Artigo 189.º (Solidariedade governamental)",
+      "tags": [
+        "artigo",
+        "solidariedade",
+        "governamental"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_190",
+      "number": "190",
+      "title": "Artigo 190",
+      "text": "Artigo 190.º (Responsabilidade do Governo)",
+      "tags": [
+        "artigo",
+        "responsabilidade",
+        "governo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_191",
+      "number": "191",
+      "title": "Artigo 191",
+      "text": "Artigo 191.º (Responsabilidade dos membros do Governo)",
+      "tags": [
+        "artigo",
+        "responsabilidade",
+        "membros",
+        "governo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_192",
+      "number": "192",
+      "title": "Artigo 192",
+      "text": "Artigo 192.º (Apreciação do programa do Governo)",
+      "tags": [
+        "artigo",
+        "apreciação",
+        "programa",
+        "governo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_193",
+      "number": "193",
+      "title": "Artigo 193",
+      "text": "Artigo 193.º (Solicitação de voto de confiança)",
+      "tags": [
+        "artigo",
+        "solicitação",
+        "confiança"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_194",
+      "number": "194",
+      "title": "Artigo 194",
+      "text": "Artigo 194.º (Moções de censura)",
+      "tags": [
+        "artigo",
+        "moções",
+        "censura"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_195",
+      "number": "195",
+      "title": "Artigo 195",
+      "text": "Artigo 195.º (Demissão do Governo)",
+      "tags": [
+        "artigo",
+        "demissão",
+        "governo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_196",
+      "number": "196",
+      "title": "Artigo 196",
+      "text": "Artigo 196.º (Efectivação da responsabilidade criminal dos membros do Governo)",
+      "tags": [
+        "artigo",
+        "efectivação",
+        "responsabilidade",
+        "criminal",
+        "membros"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_197",
+      "number": "197",
+      "title": "Artigo 197",
+      "text": "Artigo 197.º (Competência política)",
+      "tags": [
+        "artigo",
+        "competência",
+        "política"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_198",
+      "number": "198",
+      "title": "Artigo 198",
+      "text": "Artigo 198.º (Competência legislativa)",
+      "tags": [
+        "artigo",
+        "competência",
+        "legislativa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_199",
+      "number": "199",
+      "title": "Artigo 199",
+      "text": "Artigo 199.º (Competência administrativa)",
+      "tags": [
+        "artigo",
+        "competência",
+        "administrativa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_200",
+      "number": "200",
+      "title": "Artigo 200",
+      "text": "Artigo 200.º (Competência do Conselho de Ministros)",
+      "tags": [
+        "artigo",
+        "competência",
+        "conselho",
+        "ministros"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_201",
+      "number": "201",
+      "title": "Artigo 201",
+      "text": "Artigo 201.º (Competência dos membros do Governo)",
+      "tags": [
+        "artigo",
+        "competência",
+        "membros",
+        "governo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_202",
+      "number": "202",
+      "title": "Artigo 202",
+      "text": "Artigo 202.º (Função jurisdicional)",
+      "tags": [
+        "artigo",
+        "função",
+        "jurisdicional"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_203",
+      "number": "203",
+      "title": "Artigo 203",
+      "text": "Artigo 203.º (Independência)",
+      "tags": [
+        "artigo",
+        "independência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_204",
+      "number": "204",
+      "title": "Artigo 204",
+      "text": "Artigo 204.º (Apreciação da inconstitucionalidade)",
+      "tags": [
+        "artigo",
+        "apreciação",
+        "inconstitucionalidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_205",
+      "number": "205",
+      "title": "Artigo 205",
+      "text": "Artigo 205.º (Decisões dos tribunais)",
+      "tags": [
+        "artigo",
+        "decisões",
+        "tribunais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_206",
+      "number": "206",
+      "title": "Artigo 206",
+      "text": "Artigo 206.º (Audiências dos tribunais)",
+      "tags": [
+        "artigo",
+        "audiências",
+        "tribunais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_207",
+      "number": "207",
+      "title": "Artigo 207",
+      "text": "Artigo 207.º (Júri, participação popular e assessoria técnica)",
+      "tags": [
+        "artigo",
+        "participação",
+        "popular",
+        "assessoria",
+        "técnica"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_208",
+      "number": "208",
+      "title": "Artigo 208",
+      "text": "Artigo 208.º (Patrocínio forense)",
+      "tags": [
+        "artigo",
+        "patrocínio",
+        "forense"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_209",
+      "number": "209",
+      "title": "Artigo 209",
+      "text": "Artigo 209.º (Categorias de tribunais)",
+      "tags": [
+        "artigo",
+        "categorias",
+        "tribunais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_210",
+      "number": "210",
+      "title": "Artigo 210",
+      "text": "Artigo 210.º (Supremo Tribunal de Justiça e instâncias)",
+      "tags": [
+        "artigo",
+        "supremo",
+        "tribunal",
+        "justiça",
+        "instâncias"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_211",
+      "number": "211",
+      "title": "Artigo 211",
+      "text": "Artigo 211.º (Competência e especialização dos tribunais judiciais)",
+      "tags": [
+        "artigo",
+        "competência",
+        "especialização",
+        "tribunais",
+        "judiciais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_212",
+      "number": "212",
+      "title": "Artigo 212",
+      "text": "Artigo 212.º (Tribunais administrativos e fiscais)",
+      "tags": [
+        "artigo",
+        "tribunais",
+        "administrativos",
+        "fiscais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_213",
+      "number": "213",
+      "title": "Artigo 213",
+      "text": "Artigo 213.º (Tribunais militares)",
+      "tags": [
+        "artigo",
+        "tribunais",
+        "militares"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_214",
+      "number": "214",
+      "title": "Artigo 214",
+      "text": "Artigo 214.º (Tribunal de Contas)",
+      "tags": [
+        "artigo",
+        "tribunal",
+        "contas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_215",
+      "number": "215",
+      "title": "Artigo 215",
+      "text": "Artigo 215.º (Magistratura dos tribunais judiciais)",
+      "tags": [
+        "artigo",
+        "magistratura",
+        "tribunais",
+        "judiciais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_216",
+      "number": "216",
+      "title": "Artigo 216",
+      "text": "Artigo 216.º (Garantias e incompatibilidades)",
+      "tags": [
+        "artigo",
+        "garantias",
+        "incompatibilidades"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_217",
+      "number": "217",
+      "title": "Artigo 217",
+      "text": "Artigo 217.º (Nomeação, colocação, transferência e promoção de juízes)",
+      "tags": [
+        "artigo",
+        "nomeação",
+        "colocação",
+        "transferência",
+        "promoção"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_218",
+      "number": "218",
+      "title": "Artigo 218",
+      "text": "Artigo 218.º (Conselho Superior da Magistratura)",
+      "tags": [
+        "artigo",
+        "conselho",
+        "superior",
+        "magistratura"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_219",
+      "number": "219",
+      "title": "Artigo 219",
+      "text": "Artigo 219.º (Funções e estatuto)",
+      "tags": [
+        "artigo",
+        "funções",
+        "estatuto"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_220",
+      "number": "220",
+      "title": "Artigo 220",
+      "text": "Artigo 220.º (Procuradoria-Geral da República)",
+      "tags": [
+        "artigo",
+        "procuradoria",
+        "república"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_221",
+      "number": "221",
+      "title": "Artigo 221",
+      "text": "Artigo 221.º (Definição)",
+      "tags": [
+        "artigo",
+        "definição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_222",
+      "number": "222",
+      "title": "Artigo 222",
+      "text": "Artigo 222.º (Composição e estatuto dos juízes)",
+      "tags": [
+        "artigo",
+        "composição",
+        "estatuto",
+        "juízes"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_223",
+      "number": "223",
+      "title": "Artigo 223",
+      "text": "Artigo 223.º (Competência)",
+      "tags": [
+        "artigo",
+        "competência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_224",
+      "number": "224",
+      "title": "Artigo 224",
+      "text": "Artigo 224.º (Organização e funcionamento)",
+      "tags": [
+        "artigo",
+        "organização",
+        "funcionamento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_225",
+      "number": "225",
+      "title": "Artigo 225",
+      "text": "Artigo 225.º (Regime político-administrativo dos Açores e da Madeira)",
+      "tags": [
+        "artigo",
+        "regime",
+        "político",
+        "administrativo",
+        "açores"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_226",
+      "number": "226",
+      "title": "Artigo 226",
+      "text": "Artigo 226.º (Estatutos e leis eleitorais)",
+      "tags": [
+        "artigo",
+        "estatutos",
+        "eleitorais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_227",
+      "number": "227",
+      "title": "Artigo 227",
+      "text": "Artigo 227.º (Poderes das regiões autónomas)",
+      "tags": [
+        "artigo",
+        "poderes",
+        "regiões",
+        "autónomas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_228",
+      "number": "228",
+      "title": "Artigo 228",
+      "text": "Artigo 228.º (Autonomia legislativa)",
+      "tags": [
+        "artigo",
+        "autonomia",
+        "legislativa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_229",
+      "number": "229",
+      "title": "Artigo 229",
+      "text": "Artigo 229.º (Cooperação dos órgãos de soberania e dos órgãos regionais)",
+      "tags": [
+        "órgãos",
+        "artigo",
+        "cooperação",
+        "soberania",
+        "regionais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_230",
+      "number": "230",
+      "title": "Artigo 230",
+      "text": "Artigo 230.º (Representante da República)",
+      "tags": [
+        "artigo",
+        "representante",
+        "república"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_231",
+      "number": "231",
+      "title": "Artigo 231",
+      "text": "Artigo 231.º (Órgãos de governo próprio das regiões autónomas)",
+      "tags": [
+        "artigo",
+        "órgãos",
+        "governo",
+        "próprio",
+        "regiões"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_232",
+      "number": "232",
+      "title": "Artigo 232",
+      "text": "Artigo 232.º (Competência da Assembleia Legislativa da região autónoma)",
+      "tags": [
+        "artigo",
+        "competência",
+        "assembleia",
+        "legislativa",
+        "região"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_233",
+      "number": "233",
+      "title": "Artigo 233",
+      "text": "Artigo 233.º (Assinatura e veto do Representante da República)",
+      "tags": [
+        "artigo",
+        "assinatura",
+        "representante",
+        "república"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_234",
+      "number": "234",
+      "title": "Artigo 234",
+      "text": "Artigo 234.º (Dissolução e demissão dos órgãos de governo próprio)",
+      "tags": [
+        "artigo",
+        "dissolução",
+        "demissão",
+        "órgãos",
+        "governo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_235",
+      "number": "235",
+      "title": "Artigo 235",
+      "text": "Artigo 235.º (Autarquias locais)",
+      "tags": [
+        "artigo",
+        "autarquias",
+        "locais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_236",
+      "number": "236",
+      "title": "Artigo 236",
+      "text": "Artigo 236.º (Categorias de autarquias locais e divisão administrativa)",
+      "tags": [
+        "artigo",
+        "categorias",
+        "autarquias",
+        "locais",
+        "divisão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_237",
+      "number": "237",
+      "title": "Artigo 237",
+      "text": "Artigo 237.º (Descentralização administrativa)",
+      "tags": [
+        "artigo",
+        "descentralização",
+        "administrativa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_238",
+      "number": "238",
+      "title": "Artigo 238",
+      "text": "Artigo 238.º (Património e finanças locais)",
+      "tags": [
+        "artigo",
+        "património",
+        "finanças",
+        "locais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_239",
+      "number": "239",
+      "title": "Artigo 239",
+      "text": "Artigo 239.º (Órgãos deliberativos e executivos)",
+      "tags": [
+        "artigo",
+        "órgãos",
+        "deliberativos",
+        "executivos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_240",
+      "number": "240",
+      "title": "Artigo 240",
+      "text": "Artigo 240.º (Referendo local)",
+      "tags": [
+        "artigo",
+        "referendo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_241",
+      "number": "241",
+      "title": "Artigo 241",
+      "text": "Artigo 241.º (Poder regulamentar)",
+      "tags": [
+        "artigo",
+        "regulamentar"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_242",
+      "number": "242",
+      "title": "Artigo 242",
+      "text": "Artigo 242.º (Tutela administrativa)",
+      "tags": [
+        "artigo",
+        "tutela",
+        "administrativa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_243",
+      "number": "243",
+      "title": "Artigo 243",
+      "text": "Artigo 243.º (Pessoal das autarquias locais)",
+      "tags": [
+        "artigo",
+        "pessoal",
+        "autarquias",
+        "locais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_244",
+      "number": "244",
+      "title": "Artigo 244",
+      "text": "Artigo 244.º (Órgãos da freguesia)",
+      "tags": [
+        "artigo",
+        "órgãos",
+        "freguesia"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_245",
+      "number": "245",
+      "title": "Artigo 245",
+      "text": "Artigo 245.º (Assembleia de freguesia)",
+      "tags": [
+        "artigo",
+        "assembleia",
+        "freguesia"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_246",
+      "number": "246",
+      "title": "Artigo 246",
+      "text": "Artigo 246.º (Junta de freguesia)",
+      "tags": [
+        "artigo",
+        "freguesia"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_247",
+      "number": "247",
+      "title": "Artigo 247",
+      "text": "Artigo 247.º (Associação)",
+      "tags": [
+        "artigo",
+        "associação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_248",
+      "number": "248",
+      "title": "Artigo 248",
+      "text": "Artigo 248.º (Delegação de tarefas)",
+      "tags": [
+        "artigo",
+        "delegação",
+        "tarefas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_249",
+      "number": "249",
+      "title": "Artigo 249",
+      "text": "ARTIGO 249.º (Modificação dos municípios)",
+      "tags": [
+        "artigo",
+        "modificação",
+        "municípios"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_250",
+      "number": "250",
+      "title": "Artigo 250",
+      "text": "Artigo 250.º (Órgãos do município)",
+      "tags": [
+        "artigo",
+        "órgãos",
+        "município"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_251",
+      "number": "251",
+      "title": "Artigo 251",
+      "text": "Artigo 251.º (Assembleia municipal)",
+      "tags": [
+        "artigo",
+        "assembleia",
+        "municipal"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_252",
+      "number": "252",
+      "title": "Artigo 252",
+      "text": "Artigo 252.º (Câmara municipal)",
+      "tags": [
+        "artigo",
+        "câmara",
+        "municipal"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_253",
+      "number": "253",
+      "title": "Artigo 253",
+      "text": "Artigo 253.º (Associação e federação)",
+      "tags": [
+        "artigo",
+        "associação",
+        "federação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_254",
+      "number": "254",
+      "title": "Artigo 254",
+      "text": "Artigo 254.º (Participação nas receitas dos impostos directos)",
+      "tags": [
+        "artigo",
+        "participação",
+        "receitas",
+        "impostos",
+        "directos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_255",
+      "number": "255",
+      "title": "Artigo 255",
+      "text": "Artigo 255.º (Criação legal)",
+      "tags": [
+        "artigo",
+        "criação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_256",
+      "number": "256",
+      "title": "Artigo 256",
+      "text": "Artigo 256.º (Instituição em concreto)",
+      "tags": [
+        "artigo",
+        "instituição",
+        "concreto"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_257",
+      "number": "257",
+      "title": "Artigo 257",
+      "text": "Artigo 257.º (Atribuições)",
+      "tags": [
+        "artigo",
+        "atribuições"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_258",
+      "number": "258",
+      "title": "Artigo 258",
+      "text": "Artigo 258.º (Planeamento)",
+      "tags": [
+        "artigo",
+        "planeamento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_259",
+      "number": "259",
+      "title": "Artigo 259",
+      "text": "Artigo 259.º (Órgãos da região)",
+      "tags": [
+        "artigo",
+        "órgãos",
+        "região"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_260",
+      "number": "260",
+      "title": "Artigo 260",
+      "text": "Artigo 260.º (Assembleia regional)",
+      "tags": [
+        "artigo",
+        "assembleia",
+        "regional"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_261",
+      "number": "261",
+      "title": "Artigo 261",
+      "text": "Artigo 261.º (Junta regional)",
+      "tags": [
+        "artigo",
+        "regional"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_262",
+      "number": "262",
+      "title": "Artigo 262",
+      "text": "Artigo 262.º (Representante do Governo)",
+      "tags": [
+        "artigo",
+        "representante",
+        "governo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_263",
+      "number": "263",
+      "title": "Artigo 263",
+      "text": "Artigo 263.º (Constituição e área)",
+      "tags": [
+        "artigo",
+        "constituição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_264",
+      "number": "264",
+      "title": "Artigo 264",
+      "text": "Artigo 264.º (Estrutura)",
+      "tags": [
+        "artigo",
+        "estrutura"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_265",
+      "number": "265",
+      "title": "Artigo 265",
+      "text": "Artigo 265.º (Direitos e competência)",
+      "tags": [
+        "artigo",
+        "direitos",
+        "competência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_266",
+      "number": "266",
+      "title": "Artigo 266",
+      "text": "Artigo 266.º (Princípios fundamentais)",
+      "tags": [
+        "artigo",
+        "princípios",
+        "fundamentais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_267",
+      "number": "267",
+      "title": "Artigo 267",
+      "text": "Artigo 267.º (Estrutura da Administração)",
+      "tags": [
+        "artigo",
+        "estrutura",
+        "administração"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_268",
+      "number": "268",
+      "title": "Artigo 268",
+      "text": "Artigo 268.º (Direitos e garantias dos administrados)",
+      "tags": [
+        "artigo",
+        "direitos",
+        "garantias",
+        "administrados"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_269",
+      "number": "269",
+      "title": "Artigo 269",
+      "text": "ARTIGO 269.º (Regime da função pública)",
+      "tags": [
+        "artigo",
+        "regime",
+        "função",
+        "pública"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_270",
+      "number": "270",
+      "title": "Artigo 270",
+      "text": "Artigo 270.º (Restrições ao exercício de direitos)",
+      "tags": [
+        "artigo",
+        "restrições",
+        "exercício",
+        "direitos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_271",
+      "number": "271",
+      "title": "Artigo 271",
+      "text": "Artigo 271.º (Responsabilidade dos funcionários e agentes)",
+      "tags": [
+        "artigo",
+        "responsabilidade",
+        "funcionários",
+        "agentes"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_272",
+      "number": "272",
+      "title": "Artigo 272",
+      "text": "ARTIGO 272.º (Polícia)",
+      "tags": [
+        "artigo",
+        "polícia"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_273",
+      "number": "273",
+      "title": "Artigo 273",
+      "text": "Artigo 273.º (Defesa nacional)",
+      "tags": [
+        "artigo",
+        "defesa",
+        "nacional"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_274",
+      "number": "274",
+      "title": "Artigo 274",
+      "text": "Artigo 274.º (Conselho Superior de Defesa Nacional)",
+      "tags": [
+        "artigo",
+        "conselho",
+        "superior",
+        "defesa",
+        "nacional"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_275",
+      "number": "275",
+      "title": "Artigo 275",
+      "text": "Artigo 275.º (Forças Armadas)",
+      "tags": [
+        "artigo",
+        "forças",
+        "armadas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_276",
+      "number": "276",
+      "title": "Artigo 276",
+      "text": "Artigo 276.º (Defesa da Pátria, serviço militar e serviço cívico)",
+      "tags": [
+        "serviço",
+        "artigo",
+        "defesa",
+        "pátria",
+        "militar"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_277",
+      "number": "277",
+      "title": "Artigo 277",
+      "text": "Artigo 277.º (Inconstitucionalidade por acção)",
+      "tags": [
+        "artigo",
+        "inconstitucionalidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_278",
+      "number": "278",
+      "title": "Artigo 278",
+      "text": "Artigo 278.º (Fiscalização preventiva da constitucionalidade)",
+      "tags": [
+        "artigo",
+        "fiscalização",
+        "preventiva",
+        "constitucionalidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_279",
+      "number": "279",
+      "title": "Artigo 279",
+      "text": "Artigo 279.º (Efeitos da decisão)",
+      "tags": [
+        "artigo",
+        "efeitos",
+        "decisão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_280",
+      "number": "280",
+      "title": "Artigo 280",
+      "text": "Artigo 280.º (Fiscalização concreta da constitucionalidade e da legalidade)",
+      "tags": [
+        "artigo",
+        "fiscalização",
+        "concreta",
+        "constitucionalidade",
+        "legalidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_281",
+      "number": "281",
+      "title": "Artigo 281",
+      "text": "Artigo 281.º (Fiscalização abstracta da constitucionalidade e da legalidade)",
+      "tags": [
+        "artigo",
+        "fiscalização",
+        "abstracta",
+        "constitucionalidade",
+        "legalidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_282",
+      "number": "282",
+      "title": "Artigo 282",
+      "text": "ARTIGO 282.º (Efeitos da declaração de inconstitucionalidade ou de ilegalidade)",
+      "tags": [
+        "artigo",
+        "efeitos",
+        "declaração",
+        "inconstitucionalidade",
+        "ilegalidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_283",
+      "number": "283",
+      "title": "Artigo 283",
+      "text": "Artigo 283.º (Inconstitucionalidade por omissão)",
+      "tags": [
+        "artigo",
+        "inconstitucionalidade",
+        "omissão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_284",
+      "number": "284",
+      "title": "Artigo 284",
+      "text": "Artigo 284.º (Competência e tempo de revisão)",
+      "tags": [
+        "artigo",
+        "competência",
+        "revisão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_285",
+      "number": "285",
+      "title": "Artigo 285",
+      "text": "Artigo 285.º (Iniciativa da revisão)",
+      "tags": [
+        "artigo",
+        "iniciativa",
+        "revisão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_286",
+      "number": "286",
+      "title": "Artigo 286",
+      "text": "Artigo 286.º (Aprovação e promulgação)",
+      "tags": [
+        "artigo",
+        "aprovação",
+        "promulgação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_287",
+      "number": "287",
+      "title": "Artigo 287",
+      "text": "Artigo 287.º (Novo texto da Constituição)",
+      "tags": [
+        "artigo",
+        "constituição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_288",
+      "number": "288",
+      "title": "Artigo 288",
+      "text": "Artigo 288.º (Limites materiais da revisão)",
+      "tags": [
+        "artigo",
+        "limites",
+        "materiais",
+        "revisão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_289",
+      "number": "289",
+      "title": "Artigo 289",
+      "text": "Artigo 289.º (Limites circunstanciais da revisão)",
+      "tags": [
+        "artigo",
+        "limites",
+        "circunstanciais",
+        "revisão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_290",
+      "number": "290",
+      "title": "Artigo 290",
+      "text": "Artigo 290.º (Direito anterior)",
+      "tags": [
+        "artigo",
+        "direito",
+        "anterior"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_291",
+      "number": "291",
+      "title": "Artigo 291",
+      "text": "Artigo 291.º (Distritos)",
+      "tags": [
+        "artigo",
+        "distritos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_292",
+      "number": "292",
+      "title": "Artigo 292",
+      "text": "Artigo 292.º (Incriminação e julgamento dos agentes e responsáveis da PIDE/DGS)",
+      "tags": [
+        "artigo",
+        "incriminação",
+        "julgamento",
+        "agentes",
+        "responsáveis"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_293",
+      "number": "293",
+      "title": "Artigo 293",
+      "text": "Artigo 293.º (Reprivatização de bens nacionalizados depois de 25 de Abril de l974)",
+      "tags": [
+        "artigo",
+        "reprivatização",
+        "nacionalizados",
+        "depois"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_294",
+      "number": "294",
+      "title": "Artigo 294",
+      "text": "Artigo 294.º (Regime aplicável aos órgãos das autarquias locais)",
+      "tags": [
+        "artigo",
+        "regime",
+        "aplicável",
+        "órgãos",
+        "autarquias"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_295",
+      "number": "295",
+      "title": "Artigo 295",
+      "text": "Artigo 295.º (Referendo sobre tratado europeu)",
+      "tags": [
+        "artigo",
+        "referendo",
+        "tratado",
+        "europeu"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cfpt_296",
+      "number": "296",
+      "title": "Artigo 296",
+      "text": "Artigo 296.º (Data e entrada em vigor da Constituição) Nº de artigos : 296 Páginas: 1 2 3 Seguinte > Ver índice sistemático do diploma Imprimir todo o diploma SUMÁRIO Aprova a Constituição da República Portuguesa _____________________ CONSTITUIÇÃO DA REPÚBLICA PORTUGUESA Preâmbulo A 25 de Abril de 1974, o Movimento das Forças Armadas, coroando a longa resistência do povo português e interpretando os seus sentimentos profundos, derrubou o regime fascista. Libertar Portugal da ditadura, da opressão e do colonialismo representou uma transformação revolucionária e o início de uma viragem histórica da sociedade portuguesa. A Revolução restituiu aos Portugueses os direitos e liberdades fundamentais. No exercício destes direitos e liberdades, os legítimos representantes do povo reúnem-se para elaborar uma Constituição que corresponde às aspirações do país. A Assembleia Constituinte afirma a decisão do povo português de defender a independência nacional, de garantir os direitos fundamentais dos cidadãos, de estabelecer os princípios basilares da democracia, de assegurar o primado do Estado de Direito democrático e de abrir caminho para uma sociedade socialista, no respeito da vontade do povo português, tendo em vista a construção de um país mais livre, mais justo e mais fraterno. A Assembleia Constituinte, reunida na sessão plenária de 2 de Abril de 1976, aprova e decreta a seguinte Constituição da República Portuguesa: Princípios fundamentais",
+      "tags": [
+        "constituição",
+        "portuguesa",
+        "república",
+        "português",
+        "direitos"
+      ],
+      "relatedArticles": []
+    }
+  ]
+}

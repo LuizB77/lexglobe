@@ -1,0 +1,4868 @@
+{
+  "country": "PT",
+  "code": "codigoPenalPT",
+  "displayName": "Código Penal",
+  "color": "#E53E3E",
+  "articles": [
+    {
+      "id": "cppt_1",
+      "number": "1",
+      "title": "Princípio da legalidade",
+      "text": "Artigo 1.º Princípio da legalidade",
+      "tags": [
+        "artigo",
+        "princípio",
+        "legalidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_2",
+      "number": "2",
+      "title": "Aplicação no tempo",
+      "text": "Artigo 2.º Aplicação no tempo",
+      "tags": [
+        "artigo",
+        "aplicação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_3",
+      "number": "3",
+      "title": "Momento da prática do facto",
+      "text": "Artigo 3.º Momento da prática do facto",
+      "tags": [
+        "artigo",
+        "momento",
+        "prática"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_4",
+      "number": "4",
+      "title": "Aplicação no espaço",
+      "text": "Artigo 4.º Aplicação no espaço: princípio geral",
+      "tags": [
+        "artigo",
+        "aplicação",
+        "espaço",
+        "princípio"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_5",
+      "number": "5",
+      "title": "Factos praticados fora do território português",
+      "text": "Artigo 5.º Factos praticados fora do território português",
+      "tags": [
+        "artigo",
+        "factos",
+        "praticados",
+        "território",
+        "português"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_6",
+      "number": "6",
+      "title": "Restrições à aplicação da lei portuguesa",
+      "text": "Artigo 6.º Restrições à aplicação da lei portuguesa",
+      "tags": [
+        "artigo",
+        "restrições",
+        "aplicação",
+        "portuguesa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_7",
+      "number": "7",
+      "title": "Lugar da prática do facto",
+      "text": "Artigo 7.º Lugar da prática do facto",
+      "tags": [
+        "artigo",
+        "prática"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_8",
+      "number": "8",
+      "title": "Aplicação subsidiária do Código Penal",
+      "text": "Artigo 8.º Aplicação subsidiária do Código Penal",
+      "tags": [
+        "artigo",
+        "aplicação",
+        "subsidiária",
+        "código"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_9",
+      "number": "9",
+      "title": "Disposições especiais para jovens",
+      "text": "Artigo 9.º Disposições especiais para jovens",
+      "tags": [
+        "artigo",
+        "disposições",
+        "especiais",
+        "jovens"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_10",
+      "number": "10",
+      "title": "Comissão por acção e por omissão",
+      "text": "Artigo 10.º Comissão por acção e por omissão",
+      "tags": [
+        "artigo",
+        "comissão",
+        "omissão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_11",
+      "number": "11",
+      "title": "Responsabilidade das pessoas singulares e colectivas",
+      "text": "Artigo 11.º Responsabilidade das pessoas singulares e colectivas",
+      "tags": [
+        "artigo",
+        "responsabilidade",
+        "pessoas",
+        "singulares",
+        "colectivas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_12",
+      "number": "12",
+      "title": "Actuação em nome de outrem",
+      "text": "Artigo 12.º Actuação em nome de outrem",
+      "tags": [
+        "artigo",
+        "actuação",
+        "outrem"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_13",
+      "number": "13",
+      "title": "Dolo e negligência",
+      "text": "Artigo 13.º Dolo e negligência",
+      "tags": [
+        "artigo",
+        "negligência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_14",
+      "number": "14",
+      "title": "Artigo 14",
+      "text": "Artigo 14.º Dolo",
+      "tags": [
+        "artigo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_15",
+      "number": "15",
+      "title": "Negligência",
+      "text": "Artigo 15.º Negligência",
+      "tags": [
+        "artigo",
+        "negligência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_16",
+      "number": "16",
+      "title": "Erro sobre as circunstâncias do facto",
+      "text": "Artigo 16.º Erro sobre as circunstâncias do facto",
+      "tags": [
+        "artigo",
+        "circunstâncias"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_17",
+      "number": "17",
+      "title": "Erro sobre a ilicitude",
+      "text": "Artigo 17.º Erro sobre a ilicitude",
+      "tags": [
+        "artigo",
+        "ilicitude"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_18",
+      "number": "18",
+      "title": "Agravação da pena pelo resultado",
+      "text": "Artigo 18.º Agravação da pena pelo resultado",
+      "tags": [
+        "artigo",
+        "agravação",
+        "resultado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_19",
+      "number": "19",
+      "title": "Inimputabilidade em razão da idade",
+      "text": "Artigo 19.º Inimputabilidade em razão da idade",
+      "tags": [
+        "artigo",
+        "inimputabilidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_20",
+      "number": "20",
+      "title": "Inimputabilidade em razão de anomalia psíquica",
+      "text": "Artigo 20.º Inimputabilidade em razão de anomalia psíquica",
+      "tags": [
+        "artigo",
+        "inimputabilidade",
+        "anomalia",
+        "psíquica"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_21",
+      "number": "21",
+      "title": "Actos preparatórios",
+      "text": "Artigo 21.º Actos preparatórios",
+      "tags": [
+        "artigo",
+        "preparatórios"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_22",
+      "number": "22",
+      "title": "Tentativa",
+      "text": "Artigo 22.º Tentativa",
+      "tags": [
+        "artigo",
+        "tentativa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_23",
+      "number": "23",
+      "title": "Punibilidade da tentativa",
+      "text": "Artigo 23.º Punibilidade da tentativa",
+      "tags": [
+        "artigo",
+        "punibilidade",
+        "tentativa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_24",
+      "number": "24",
+      "title": "Desistência",
+      "text": "Artigo 24.º Desistência",
+      "tags": [
+        "artigo",
+        "desistência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_25",
+      "number": "25",
+      "title": "Desistência em caso de comparticipação",
+      "text": "Artigo 25.º Desistência em caso de comparticipação",
+      "tags": [
+        "artigo",
+        "desistência",
+        "comparticipação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_26",
+      "number": "26",
+      "title": "Autoria",
+      "text": "Artigo 26.º Autoria",
+      "tags": [
+        "artigo",
+        "autoria"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_27",
+      "number": "27",
+      "title": "Cumplicidade",
+      "text": "Artigo 27.º Cumplicidade",
+      "tags": [
+        "artigo",
+        "cumplicidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_28",
+      "number": "28",
+      "title": "Ilicitude na comparticipação",
+      "text": "Artigo 28.º Ilicitude na comparticipação",
+      "tags": [
+        "artigo",
+        "ilicitude",
+        "comparticipação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_29",
+      "number": "29",
+      "title": "Culpa na comparticipação",
+      "text": "Artigo 29.º Culpa na comparticipação",
+      "tags": [
+        "artigo",
+        "comparticipação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_30",
+      "number": "30",
+      "title": "Concurso de crimes e crime continuado",
+      "text": "Artigo 30.º Concurso de crimes e crime continuado",
+      "tags": [
+        "artigo",
+        "concurso",
+        "crimes",
+        "continuado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_31",
+      "number": "31",
+      "title": "Exclusão da ilicitude",
+      "text": "Artigo 31.º Exclusão da ilicitude",
+      "tags": [
+        "artigo",
+        "exclusão",
+        "ilicitude"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_32",
+      "number": "32",
+      "title": "Legítima defesa",
+      "text": "Artigo 32.º Legítima defesa",
+      "tags": [
+        "artigo",
+        "legítima",
+        "defesa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_33",
+      "number": "33",
+      "title": "Excesso de legítima defesa",
+      "text": "Artigo 33.º Excesso de legítima defesa",
+      "tags": [
+        "artigo",
+        "excesso",
+        "legítima",
+        "defesa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_34",
+      "number": "34",
+      "title": "Direito de necessidade",
+      "text": "Artigo 34.º Direito de necessidade",
+      "tags": [
+        "artigo",
+        "direito",
+        "necessidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_35",
+      "number": "35",
+      "title": "Estado de necessidade desculpante",
+      "text": "Artigo 35.º Estado de necessidade desculpante",
+      "tags": [
+        "artigo",
+        "estado",
+        "necessidade",
+        "desculpante"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_36",
+      "number": "36",
+      "title": "Conflito de deveres",
+      "text": "Artigo 36.º Conflito de deveres",
+      "tags": [
+        "artigo",
+        "conflito",
+        "deveres"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_37",
+      "number": "37",
+      "title": "Obediência indevida desculpante",
+      "text": "Artigo 37.º Obediência indevida desculpante",
+      "tags": [
+        "artigo",
+        "obediência",
+        "indevida",
+        "desculpante"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_38",
+      "number": "38",
+      "title": "Consentimento",
+      "text": "Artigo 38.º Consentimento",
+      "tags": [
+        "artigo",
+        "consentimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_39",
+      "number": "39",
+      "title": "Consentimento presumido",
+      "text": "Artigo 39.º Consentimento presumido",
+      "tags": [
+        "artigo",
+        "consentimento",
+        "presumido"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_40",
+      "number": "40",
+      "title": "Finalidades das penas e das medidas de segurança",
+      "text": "Artigo 40.º Finalidades das penas e das medidas de segurança",
+      "tags": [
+        "artigo",
+        "finalidades",
+        "medidas",
+        "segurança"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_41",
+      "number": "41",
+      "title": "Duração e contagem dos prazos da pena de prisão",
+      "text": "Artigo 41.º Duração e contagem dos prazos da pena de prisão",
+      "tags": [
+        "artigo",
+        "duração",
+        "contagem",
+        "prazos",
+        "prisão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_42",
+      "number": "42",
+      "title": "Execução da pena de prisão",
+      "text": "Artigo 42.º Execução da pena de prisão",
+      "tags": [
+        "artigo",
+        "execução",
+        "prisão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_43",
+      "number": "43",
+      "title": "Regime de permanência na habitação",
+      "text": "Artigo 43.º Regime de permanência na habitação",
+      "tags": [
+        "artigo",
+        "regime",
+        "permanência",
+        "habitação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_44",
+      "number": "44",
+      "title": "Modificação das condições e revogação do regime de permanência na",
+      "text": "Artigo 44.º Modificação das condições e revogação do regime de permanência na habitação",
+      "tags": [
+        "artigo",
+        "modificação",
+        "condições",
+        "revogação",
+        "regime"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_45",
+      "number": "45",
+      "title": "Substituição da prisão por multa",
+      "text": "Artigo 45.º Substituição da prisão por multa",
+      "tags": [
+        "artigo",
+        "substituição",
+        "prisão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_46",
+      "number": "46",
+      "title": "Proibição do exercício de profissão, função ou actividade",
+      "text": "Artigo 46.º Proibição do exercício de profissão, função ou actividade",
+      "tags": [
+        "artigo",
+        "proibição",
+        "exercício",
+        "profissão",
+        "função"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_47",
+      "number": "47",
+      "title": "Pena de multa",
+      "text": "Artigo 47.º Pena de multa",
+      "tags": [
+        "artigo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_48",
+      "number": "48",
+      "title": "Substituição da multa por trabalho",
+      "text": "Artigo 48.º Substituição da multa por trabalho",
+      "tags": [
+        "artigo",
+        "substituição",
+        "trabalho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_49",
+      "number": "49",
+      "title": "Conversão da multa não paga em prisão subsidiária",
+      "text": "Artigo 49.º Conversão da multa não paga em prisão subsidiária",
+      "tags": [
+        "artigo",
+        "conversão",
+        "prisão",
+        "subsidiária"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_50",
+      "number": "50",
+      "title": "Pressupostos e duração",
+      "text": "Artigo 50.º Pressupostos e duração",
+      "tags": [
+        "artigo",
+        "pressupostos",
+        "duração"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_51",
+      "number": "51",
+      "title": "Deveres",
+      "text": "Artigo 51.º Deveres",
+      "tags": [
+        "artigo",
+        "deveres"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_52",
+      "number": "52",
+      "title": "Regras de conduta",
+      "text": "Artigo 52.º Regras de conduta",
+      "tags": [
+        "artigo",
+        "regras",
+        "conduta"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_53",
+      "number": "53",
+      "title": "Suspensão com regime de prova",
+      "text": "Artigo 53.º Suspensão com regime de prova",
+      "tags": [
+        "artigo",
+        "suspensão",
+        "regime"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_54",
+      "number": "54",
+      "title": "Plano de reinserção social",
+      "text": "Artigo 54.º Plano de reinserção social",
+      "tags": [
+        "artigo",
+        "reinserção",
+        "social"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_55",
+      "number": "55",
+      "title": "Falta de cumprimento das condições da suspensão",
+      "text": "Artigo 55.º Falta de cumprimento das condições da suspensão",
+      "tags": [
+        "artigo",
+        "cumprimento",
+        "condições",
+        "suspensão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_56",
+      "number": "56",
+      "title": "Revogação da suspensão",
+      "text": "Artigo 56.º Revogação da suspensão",
+      "tags": [
+        "artigo",
+        "revogação",
+        "suspensão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_57",
+      "number": "57",
+      "title": "Extinção da pena",
+      "text": "Artigo 57.º Extinção da pena",
+      "tags": [
+        "artigo",
+        "extinção"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_58",
+      "number": "58",
+      "title": "Prestação de trabalho a favor da comunidade",
+      "text": "Artigo 58.º Prestação de trabalho a favor da comunidade",
+      "tags": [
+        "artigo",
+        "prestação",
+        "trabalho",
+        "comunidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_59",
+      "number": "59",
+      "title": "Suspensão provisória, revogação, extinção e substituição",
+      "text": "Artigo 59.º Suspensão provisória, revogação, extinção e substituição",
+      "tags": [
+        "artigo",
+        "suspensão",
+        "provisória",
+        "revogação",
+        "extinção"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_60",
+      "number": "60",
+      "title": "Admoestação",
+      "text": "Artigo 60.º Admoestação",
+      "tags": [
+        "artigo",
+        "admoestação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_61",
+      "number": "61",
+      "title": "Pressupostos e duração",
+      "text": "Artigo 61.º Pressupostos e duração",
+      "tags": [
+        "artigo",
+        "pressupostos",
+        "duração"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_62",
+      "number": "62",
+      "title": "Adaptação à liberdade condicional",
+      "text": "Artigo 62.º Adaptação à liberdade condicional",
+      "tags": [
+        "artigo",
+        "adaptação",
+        "liberdade",
+        "condicional"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_63",
+      "number": "63",
+      "title": "Liberdade condicional em caso de execução sucessiva de várias pena",
+      "text": "Artigo 63.º Liberdade condicional em caso de execução sucessiva de várias penas",
+      "tags": [
+        "artigo",
+        "liberdade",
+        "condicional",
+        "execução",
+        "sucessiva"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_64",
+      "number": "64",
+      "title": "Regime da liberdade condicional",
+      "text": "Artigo 64.º Regime da liberdade condicional",
+      "tags": [
+        "artigo",
+        "regime",
+        "liberdade",
+        "condicional"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_65",
+      "number": "65",
+      "title": "Princípios gerais",
+      "text": "Artigo 65.º Princípios gerais",
+      "tags": [
+        "artigo",
+        "princípios",
+        "gerais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_66",
+      "number": "66",
+      "title": "Proibição do exercício de função",
+      "text": "Artigo 66.º Proibição do exercício de função",
+      "tags": [
+        "artigo",
+        "proibição",
+        "exercício",
+        "função"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_67",
+      "number": "67",
+      "title": "Suspensão do exercício de função",
+      "text": "Artigo 67.º Suspensão do exercício de função",
+      "tags": [
+        "artigo",
+        "suspensão",
+        "exercício",
+        "função"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_68",
+      "number": "68",
+      "title": "Efeitos da proibição e da suspensão do exercício de função",
+      "text": "Artigo 68.º Efeitos da proibição e da suspensão do exercício de função",
+      "tags": [
+        "artigo",
+        "efeitos",
+        "proibição",
+        "suspensão",
+        "exercício"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_69",
+      "number": "69",
+      "title": "Proibição de conduzir veículos com motor e de pilotar aeronaves co",
+      "text": "Artigo 69.º Proibição de conduzir veículos com motor e de pilotar aeronaves com ou sem motor",
+      "tags": [
+        "artigo",
+        "proibição",
+        "conduzir",
+        "veículos",
+        "pilotar"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_70",
+      "number": "70",
+      "title": "Critério de escolha da pena",
+      "text": "Artigo 70.º Critério de escolha da pena",
+      "tags": [
+        "artigo",
+        "critério",
+        "escolha"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_71",
+      "number": "71",
+      "title": "Determinação da medida da pena",
+      "text": "Artigo 71.º Determinação da medida da pena",
+      "tags": [
+        "artigo",
+        "determinação",
+        "medida"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_72",
+      "number": "72",
+      "title": "Atenuação especial da pena",
+      "text": "Artigo 72.º Atenuação especial da pena",
+      "tags": [
+        "artigo",
+        "atenuação",
+        "especial"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_73",
+      "number": "73",
+      "title": "Termos da atenuação especial",
+      "text": "Artigo 73.º Termos da atenuação especial",
+      "tags": [
+        "artigo",
+        "termos",
+        "atenuação",
+        "especial"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_74",
+      "number": "74",
+      "title": "Dispensa de pena",
+      "text": "Artigo 74.º Dispensa de pena",
+      "tags": [
+        "artigo",
+        "dispensa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_75",
+      "number": "75",
+      "title": "Pressupostos",
+      "text": "Artigo 75.º Pressupostos",
+      "tags": [
+        "artigo",
+        "pressupostos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_76",
+      "number": "76",
+      "title": "Efeitos",
+      "text": "Artigo 76.º Efeitos",
+      "tags": [
+        "artigo",
+        "efeitos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_77",
+      "number": "77",
+      "title": "Regras da punição do concurso",
+      "text": "Artigo 77.º Regras da punição do concurso",
+      "tags": [
+        "artigo",
+        "regras",
+        "punição",
+        "concurso"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_78",
+      "number": "78",
+      "title": "Conhecimento superveniente do concurso",
+      "text": "Artigo 78.º Conhecimento superveniente do concurso",
+      "tags": [
+        "artigo",
+        "conhecimento",
+        "superveniente",
+        "concurso"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_79",
+      "number": "79",
+      "title": "Punição do crime continuado",
+      "text": "Artigo 79.º Punição do crime continuado",
+      "tags": [
+        "artigo",
+        "punição",
+        "continuado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_80",
+      "number": "80",
+      "title": "Medidas processuais",
+      "text": "Artigo 80.º Medidas processuais",
+      "tags": [
+        "artigo",
+        "medidas",
+        "processuais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_81",
+      "number": "81",
+      "title": "Pena anterior",
+      "text": "Artigo 81.º Pena anterior",
+      "tags": [
+        "artigo",
+        "anterior"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_82",
+      "number": "82",
+      "title": "Medida processual ou pena sofridas no estrangeiro",
+      "text": "Artigo 82.º Medida processual ou pena sofridas no estrangeiro",
+      "tags": [
+        "artigo",
+        "medida",
+        "processual",
+        "sofridas",
+        "estrangeiro"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_83",
+      "number": "83",
+      "title": "Pressupostos e efeitos",
+      "text": "Artigo 83.º Pressupostos e efeitos",
+      "tags": [
+        "artigo",
+        "pressupostos",
+        "efeitos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_84",
+      "number": "84",
+      "title": "Outros casos de aplicação da pena",
+      "text": "Artigo 84.º Outros casos de aplicação da pena",
+      "tags": [
+        "artigo",
+        "outros",
+        "aplicação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_85",
+      "number": "85",
+      "title": "Restrições",
+      "text": "Artigo 85.º Restrições",
+      "tags": [
+        "artigo",
+        "restrições"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_86",
+      "number": "86",
+      "title": "Pressupostos e efeitos",
+      "text": "Artigo 86.º Pressupostos e efeitos",
+      "tags": [
+        "artigo",
+        "pressupostos",
+        "efeitos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_87",
+      "number": "87",
+      "title": "Sentido da execução da pena",
+      "text": "Artigo 87.º Sentido da execução da pena",
+      "tags": [
+        "artigo",
+        "sentido",
+        "execução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_88",
+      "number": "88",
+      "title": "Abuso de estupefacientes",
+      "text": "Artigo 88.º Abuso de estupefacientes",
+      "tags": [
+        "artigo",
+        "estupefacientes"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_89",
+      "number": "89",
+      "title": "Plano de readaptação",
+      "text": "Artigo 89.º Plano de readaptação",
+      "tags": [
+        "artigo",
+        "readaptação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_90",
+      "number": "90",
+      "title": "Liberdade condicional e liberdade para prova",
+      "text": "Artigo 90.º Liberdade condicional e liberdade para prova",
+      "tags": [
+        "liberdade",
+        "artigo",
+        "condicional"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_91",
+      "number": "91",
+      "title": "Pressupostos e duração mínima",
+      "text": "Artigo 91.º Pressupostos e duração mínima",
+      "tags": [
+        "artigo",
+        "pressupostos",
+        "duração",
+        "mínima"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_92",
+      "number": "92",
+      "title": "Cessação e prorrogação do internamento",
+      "text": "Artigo 92.º Cessação e prorrogação do internamento",
+      "tags": [
+        "artigo",
+        "cessação",
+        "prorrogação",
+        "internamento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_93",
+      "number": "93",
+      "title": "Revisão da situação do internado",
+      "text": "Artigo 93.º Revisão da situação do internado",
+      "tags": [
+        "artigo",
+        "revisão",
+        "situação",
+        "internado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_94",
+      "number": "94",
+      "title": "Liberdade para prova",
+      "text": "Artigo 94.º Liberdade para prova",
+      "tags": [
+        "artigo",
+        "liberdade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_95",
+      "number": "95",
+      "title": "Revogação da liberdade para prova",
+      "text": "Artigo 95.º Revogação da liberdade para prova",
+      "tags": [
+        "artigo",
+        "revogação",
+        "liberdade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_96",
+      "number": "96",
+      "title": "Reexame da medida de internamento",
+      "text": "Artigo 96.º Reexame da medida de internamento",
+      "tags": [
+        "artigo",
+        "reexame",
+        "medida",
+        "internamento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_97",
+      "number": "97",
+      "title": "Inimputáveis estrangeiros",
+      "text": "Artigo 97.º Inimputáveis estrangeiros",
+      "tags": [
+        "artigo",
+        "inimputáveis",
+        "estrangeiros"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_98",
+      "number": "98",
+      "title": "Pressupostos e regime",
+      "text": "Artigo 98.º Pressupostos e regime",
+      "tags": [
+        "artigo",
+        "pressupostos",
+        "regime"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_99",
+      "number": "99",
+      "title": "Regime",
+      "text": "Artigo 99.º Regime",
+      "tags": [
+        "artigo",
+        "regime"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_100",
+      "number": "100",
+      "title": "Interdição de actividades",
+      "text": "Artigo 100.º Interdição de actividades",
+      "tags": [
+        "artigo",
+        "interdição",
+        "actividades"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_101",
+      "number": "101",
+      "title": "Cassação do título ou da licença e interdição da concessão do títu",
+      "text": "Artigo 101.º Cassação do título ou da licença e interdição da concessão do título de condução de veículo com motor ou do título ou licença de pilotagem de aeronaves com ou sem motor",
+      "tags": [
+        "título",
+        "licença",
+        "artigo",
+        "cassação",
+        "interdição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_102",
+      "number": "102",
+      "title": "Aplicação de regras de conduta",
+      "text": "Artigo 102.º Aplicação de regras de conduta",
+      "tags": [
+        "artigo",
+        "aplicação",
+        "regras",
+        "conduta"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_103",
+      "number": "103",
+      "title": "Extinção das medidas",
+      "text": "Artigo 103.º Extinção das medidas",
+      "tags": [
+        "artigo",
+        "extinção",
+        "medidas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_104",
+      "number": "104",
+      "title": "Anomalia psíquica anterior",
+      "text": "Artigo 104.º Anomalia psíquica anterior",
+      "tags": [
+        "artigo",
+        "anomalia",
+        "psíquica",
+        "anterior"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_105",
+      "number": "105",
+      "title": "Anomalia psíquica posterior",
+      "text": "Artigo 105.º Anomalia psíquica posterior",
+      "tags": [
+        "artigo",
+        "anomalia",
+        "psíquica",
+        "posterior"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_106",
+      "number": "106",
+      "title": "Anomalia psíquica posterior sem perigosidade",
+      "text": "Artigo 106.º Anomalia psíquica posterior sem perigosidade",
+      "tags": [
+        "artigo",
+        "anomalia",
+        "psíquica",
+        "posterior",
+        "perigosidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_107",
+      "number": "107",
+      "title": "Revisão da situação",
+      "text": "Artigo 107.º Revisão da situação",
+      "tags": [
+        "artigo",
+        "revisão",
+        "situação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_108",
+      "number": "108",
+      "title": "Simulação de anomalia psíquica",
+      "text": "Artigo 108.º Simulação de anomalia psíquica",
+      "tags": [
+        "artigo",
+        "simulação",
+        "anomalia",
+        "psíquica"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_109",
+      "number": "109",
+      "title": "Perda de instrumentos",
+      "text": "Artigo 109.º Perda de instrumentos",
+      "tags": [
+        "artigo",
+        "instrumentos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_110",
+      "number": "110",
+      "title": "Perda de produtos e vantagens",
+      "text": "Artigo 110.º Perda de produtos e vantagens",
+      "tags": [
+        "artigo",
+        "produtos",
+        "vantagens"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_111",
+      "number": "111",
+      "title": "Instrumentos, produtos ou vantagens pertencentes a terceiro",
+      "text": "Artigo 111.º Instrumentos, produtos ou vantagens pertencentes a terceiro",
+      "tags": [
+        "artigo",
+        "instrumentos",
+        "produtos",
+        "vantagens",
+        "pertencentes"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_112",
+      "number": "112",
+      "title": "Pagamento diferido ou a prestações e atenuação",
+      "text": "Artigo 112.º Pagamento diferido ou a prestações e atenuação",
+      "tags": [
+        "artigo",
+        "pagamento",
+        "diferido",
+        "prestações",
+        "atenuação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_113",
+      "number": "113",
+      "title": "Titulares do direito de queixa",
+      "text": "Artigo 113.º Titulares do direito de queixa",
+      "tags": [
+        "artigo",
+        "titulares",
+        "direito",
+        "queixa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_114",
+      "number": "114",
+      "title": "Extensão dos efeitos da queixa",
+      "text": "Artigo 114.º Extensão dos efeitos da queixa",
+      "tags": [
+        "artigo",
+        "extensão",
+        "efeitos",
+        "queixa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_115",
+      "number": "115",
+      "title": "Extinção do direito de queixa",
+      "text": "Artigo 115.º Extinção do direito de queixa",
+      "tags": [
+        "artigo",
+        "extinção",
+        "direito",
+        "queixa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_116",
+      "number": "116",
+      "title": "Renúncia e desistência da queixa",
+      "text": "Artigo 116.º Renúncia e desistência da queixa",
+      "tags": [
+        "artigo",
+        "renúncia",
+        "desistência",
+        "queixa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_117",
+      "number": "117",
+      "title": "Acusação particular",
+      "text": "Artigo 117.º Acusação particular",
+      "tags": [
+        "artigo",
+        "acusação",
+        "particular"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_118",
+      "number": "118",
+      "title": "Prazos de prescrição",
+      "text": "Artigo 118.º Prazos de prescrição",
+      "tags": [
+        "artigo",
+        "prazos",
+        "prescrição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_119",
+      "number": "119",
+      "title": "Início do prazo",
+      "text": "Artigo 119.º Início do prazo",
+      "tags": [
+        "artigo",
+        "início"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_120",
+      "number": "120",
+      "title": "Suspensão da prescrição",
+      "text": "Artigo 120.º Suspensão da prescrição",
+      "tags": [
+        "artigo",
+        "suspensão",
+        "prescrição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_121",
+      "number": "121",
+      "title": "Interrupção da prescrição",
+      "text": "Artigo 121.º Interrupção da prescrição",
+      "tags": [
+        "artigo",
+        "interrupção",
+        "prescrição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_122",
+      "number": "122",
+      "title": "Prazos de prescrição das penas",
+      "text": "Artigo 122.º Prazos de prescrição das penas",
+      "tags": [
+        "artigo",
+        "prazos",
+        "prescrição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_123",
+      "number": "123",
+      "title": "Efeitos da prescrição da pena principal",
+      "text": "Artigo 123.º Efeitos da prescrição da pena principal",
+      "tags": [
+        "artigo",
+        "efeitos",
+        "prescrição",
+        "principal"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_124",
+      "number": "124",
+      "title": "Prazos de prescrição das medidas de segurança",
+      "text": "Artigo 124.º Prazos de prescrição das medidas de segurança",
+      "tags": [
+        "artigo",
+        "prazos",
+        "prescrição",
+        "medidas",
+        "segurança"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_125",
+      "number": "125",
+      "title": "Suspensão da prescrição",
+      "text": "Artigo 125.º Suspensão da prescrição",
+      "tags": [
+        "artigo",
+        "suspensão",
+        "prescrição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_126",
+      "number": "126",
+      "title": "Interrupção da prescrição",
+      "text": "Artigo 126.º Interrupção da prescrição",
+      "tags": [
+        "artigo",
+        "interrupção",
+        "prescrição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_127",
+      "number": "127",
+      "title": "Morte, amnistia, perdão genérico, indulto e extinção",
+      "text": "Artigo 127.º Morte, amnistia, perdão genérico, indulto e extinção",
+      "tags": [
+        "artigo",
+        "amnistia",
+        "perdão",
+        "genérico",
+        "indulto"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_128",
+      "number": "128",
+      "title": "Efeitos",
+      "text": "Artigo 128.º Efeitos",
+      "tags": [
+        "artigo",
+        "efeitos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_129",
+      "number": "129",
+      "title": "Responsabilidade civil emergente de crime",
+      "text": "Artigo 129.º Responsabilidade civil emergente de crime",
+      "tags": [
+        "artigo",
+        "responsabilidade",
+        "emergente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_130",
+      "number": "130",
+      "title": "Indemnização do lesado",
+      "text": "Artigo 130.º Indemnização do lesado",
+      "tags": [
+        "artigo",
+        "indemnização",
+        "lesado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_131",
+      "number": "131",
+      "title": "Homicídio",
+      "text": "Artigo 131.º Homicídio",
+      "tags": [
+        "artigo",
+        "homicídio"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_132",
+      "number": "132",
+      "title": "Homicídio qualificado",
+      "text": "Artigo 132.º Homicídio qualificado",
+      "tags": [
+        "artigo",
+        "homicídio",
+        "qualificado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_133",
+      "number": "133",
+      "title": "Homicídio privilegiado",
+      "text": "Artigo 133.º Homicídio privilegiado",
+      "tags": [
+        "artigo",
+        "homicídio",
+        "privilegiado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_134",
+      "number": "134",
+      "title": "Homicídio a pedido da vítima [A presente versão entra em vigor 30",
+      "text": "Artigo 134.º Homicídio a pedido da vítima [A presente versão entra em vigor 30 dias após a publicação da respetiva regulamentação, cfr. art.º 34.º da Lei 22/2023, de 25-5]",
+      "tags": [
+        "artigo",
+        "homicídio",
+        "pedido",
+        "vítima",
+        "presente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_135",
+      "number": "135",
+      "title": "Incitamento ou ajuda ao suicídio [A presente versão entra em vigor",
+      "text": "Artigo 135.º Incitamento ou ajuda ao suicídio [A presente versão entra em vigor 30 dias após a publicação da respetiva regulamentação, cfr. art.º 34.º da Lei 22/2023, de 25-5]",
+      "tags": [
+        "artigo",
+        "incitamento",
+        "suicídio",
+        "presente",
+        "versão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_136",
+      "number": "136",
+      "title": "Infanticídio",
+      "text": "Artigo 136.º Infanticídio",
+      "tags": [
+        "artigo",
+        "infanticídio"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_137",
+      "number": "137",
+      "title": "Homicídio por negligência",
+      "text": "Artigo 137.º Homicídio por negligência",
+      "tags": [
+        "artigo",
+        "homicídio",
+        "negligência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_138",
+      "number": "138",
+      "title": "Exposição ou abandono",
+      "text": "Artigo 138.º Exposição ou abandono",
+      "tags": [
+        "artigo",
+        "exposição",
+        "abandono"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_139",
+      "number": "139",
+      "title": "Propaganda do suicídio [A presente versão entra em vigor 30 dias a",
+      "text": "Artigo 139.º Propaganda do suicídio [A presente versão entra em vigor 30 dias após a publicação da respetiva regulamentação, cfr. art.º 34.º da Lei 22/2023, de 25-5]",
+      "tags": [
+        "artigo",
+        "propaganda",
+        "suicídio",
+        "presente",
+        "versão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_140",
+      "number": "140",
+      "title": "Aborto",
+      "text": "Artigo 140.º Aborto",
+      "tags": [
+        "artigo",
+        "aborto"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_141",
+      "number": "141",
+      "title": "Aborto agravado",
+      "text": "Artigo 141.º Aborto agravado",
+      "tags": [
+        "artigo",
+        "aborto",
+        "agravado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_142",
+      "number": "142",
+      "title": "Interrupção da gravidez não punível",
+      "text": "Artigo 142.º Interrupção da gravidez não punível",
+      "tags": [
+        "artigo",
+        "interrupção",
+        "gravidez",
+        "punível"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_143",
+      "number": "143",
+      "title": "Ofensa à integridade física simples",
+      "text": "Artigo 143.º Ofensa à integridade física simples",
+      "tags": [
+        "artigo",
+        "ofensa",
+        "integridade",
+        "física",
+        "simples"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_144",
+      "number": "144",
+      "title": "Ofensa à integridade física grave",
+      "text": "Artigo 144.º Ofensa à integridade física grave",
+      "tags": [
+        "artigo",
+        "ofensa",
+        "integridade",
+        "física"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_145",
+      "number": "145",
+      "title": "Ofensa à integridade física qualificada",
+      "text": "Artigo 145.º Ofensa à integridade física qualificada",
+      "tags": [
+        "artigo",
+        "ofensa",
+        "integridade",
+        "física",
+        "qualificada"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_146",
+      "number": "146",
+      "title": "Ofensa à integridade física privilegiada",
+      "text": "Artigo 146.º Ofensa à integridade física privilegiada",
+      "tags": [
+        "artigo",
+        "ofensa",
+        "integridade",
+        "física",
+        "privilegiada"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_147",
+      "number": "147",
+      "title": "Agravação pelo resultado",
+      "text": "Artigo 147.º Agravação pelo resultado",
+      "tags": [
+        "artigo",
+        "agravação",
+        "resultado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_148",
+      "number": "148",
+      "title": "Ofensa à integridade física por negligência",
+      "text": "Artigo 148.º Ofensa à integridade física por negligência",
+      "tags": [
+        "artigo",
+        "ofensa",
+        "integridade",
+        "física",
+        "negligência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_149",
+      "number": "149",
+      "title": "Consentimento",
+      "text": "Artigo 149.º Consentimento",
+      "tags": [
+        "artigo",
+        "consentimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_150",
+      "number": "150",
+      "title": "Intervenções e tratamentos médico-cirúrgicos",
+      "text": "Artigo 150.º Intervenções e tratamentos médico-cirúrgicos",
+      "tags": [
+        "artigo",
+        "intervenções",
+        "tratamentos",
+        "médico",
+        "cirúrgicos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_151",
+      "number": "151",
+      "title": "Participação em rixa",
+      "text": "Artigo 151.º Participação em rixa",
+      "tags": [
+        "artigo",
+        "participação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_152",
+      "number": "152",
+      "title": "Violência doméstica",
+      "text": "Artigo 152.º Violência doméstica",
+      "tags": [
+        "artigo",
+        "violência",
+        "doméstica"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_153",
+      "number": "153",
+      "title": "Ameaça",
+      "text": "Artigo 153.º Ameaça",
+      "tags": [
+        "artigo",
+        "ameaça"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_154",
+      "number": "154",
+      "title": "Coacção",
+      "text": "Artigo 154.º Coacção",
+      "tags": [
+        "artigo",
+        "coacção"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_155",
+      "number": "155",
+      "title": "Agravação",
+      "text": "Artigo 155.º Agravação",
+      "tags": [
+        "artigo",
+        "agravação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_156",
+      "number": "156",
+      "title": "Intervenções e tratamentos médico-cirúrgicos arbitrários",
+      "text": "Artigo 156.º Intervenções e tratamentos médico-cirúrgicos arbitrários",
+      "tags": [
+        "artigo",
+        "intervenções",
+        "tratamentos",
+        "médico",
+        "cirúrgicos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_157",
+      "number": "157",
+      "title": "Dever de esclarecimento",
+      "text": "Artigo 157.º Dever de esclarecimento",
+      "tags": [
+        "artigo",
+        "esclarecimento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_158",
+      "number": "158",
+      "title": "Sequestro",
+      "text": "Artigo 158.º Sequestro",
+      "tags": [
+        "artigo",
+        "sequestro"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_159",
+      "number": "159",
+      "title": "Escravidão",
+      "text": "Artigo 159.º Escravidão",
+      "tags": [
+        "artigo",
+        "escravidão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_160",
+      "number": "160",
+      "title": "Tráfico de pessoas",
+      "text": "Artigo 160.º Tráfico de pessoas",
+      "tags": [
+        "artigo",
+        "tráfico",
+        "pessoas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_161",
+      "number": "161",
+      "title": "Rapto",
+      "text": "Artigo 161.º Rapto",
+      "tags": [
+        "artigo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_162",
+      "number": "162",
+      "title": "Tomada de reféns",
+      "text": "Artigo 162.º Tomada de reféns",
+      "tags": [
+        "artigo",
+        "tomada",
+        "reféns"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_163",
+      "number": "163",
+      "title": "Coacção sexual",
+      "text": "Artigo 163.º Coacção sexual",
+      "tags": [
+        "artigo",
+        "coacção",
+        "sexual"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_164",
+      "number": "164",
+      "title": "Violação",
+      "text": "Artigo 164.º Violação",
+      "tags": [
+        "artigo",
+        "violação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_165",
+      "number": "165",
+      "title": "Abuso sexual de pessoa incapaz de resistência",
+      "text": "Artigo 165.º Abuso sexual de pessoa incapaz de resistência",
+      "tags": [
+        "artigo",
+        "sexual",
+        "pessoa",
+        "incapaz",
+        "resistência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_166",
+      "number": "166",
+      "title": "Abuso sexual de pessoa internada",
+      "text": "Artigo 166.º Abuso sexual de pessoa internada",
+      "tags": [
+        "artigo",
+        "sexual",
+        "pessoa",
+        "internada"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_167",
+      "number": "167",
+      "title": "Fraude sexual",
+      "text": "Artigo 167.º Fraude sexual",
+      "tags": [
+        "artigo",
+        "fraude",
+        "sexual"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_168",
+      "number": "168",
+      "title": "Procriação artificial não consentida",
+      "text": "Artigo 168.º Procriação artificial não consentida",
+      "tags": [
+        "artigo",
+        "procriação",
+        "artificial",
+        "consentida"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_169",
+      "number": "169",
+      "title": "Lenocínio",
+      "text": "Artigo 169.º Lenocínio",
+      "tags": [
+        "artigo",
+        "lenocínio"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_170",
+      "number": "170",
+      "title": "Importunação sexual",
+      "text": "Artigo 170.º Importunação sexual",
+      "tags": [
+        "artigo",
+        "importunação",
+        "sexual"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_171",
+      "number": "171",
+      "title": "Abuso sexual de crianças",
+      "text": "Artigo 171.º Abuso sexual de crianças",
+      "tags": [
+        "artigo",
+        "sexual",
+        "crianças"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_172",
+      "number": "172",
+      "title": "Abuso sexual de menores dependentes ou em situação particularmente",
+      "text": "Artigo 172.º Abuso sexual de menores dependentes ou em situação particularmente vulnerável",
+      "tags": [
+        "artigo",
+        "sexual",
+        "menores",
+        "dependentes",
+        "situação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_173",
+      "number": "173",
+      "title": "Actos sexuais com adolescentes",
+      "text": "Artigo 173.º Actos sexuais com adolescentes",
+      "tags": [
+        "artigo",
+        "sexuais",
+        "adolescentes"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_174",
+      "number": "174",
+      "title": "Recurso à prostituição de menores",
+      "text": "Artigo 174.º Recurso à prostituição de menores",
+      "tags": [
+        "artigo",
+        "recurso",
+        "prostituição",
+        "menores"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_175",
+      "number": "175",
+      "title": "Lenocínio de menores",
+      "text": "Artigo 175.º Lenocínio de menores",
+      "tags": [
+        "artigo",
+        "lenocínio",
+        "menores"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_176",
+      "number": "176",
+      "title": "Pornografia de menores",
+      "text": "Artigo 176.º Pornografia de menores",
+      "tags": [
+        "artigo",
+        "pornografia",
+        "menores"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_177",
+      "number": "177",
+      "title": "Agravação",
+      "text": "Artigo 177.º Agravação",
+      "tags": [
+        "artigo",
+        "agravação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_178",
+      "number": "178",
+      "title": "Queixa",
+      "text": "Artigo 178.º Queixa",
+      "tags": [
+        "artigo",
+        "queixa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_179",
+      "number": "179",
+      "title": "Inibição do poder paternal e proibição do exercício de funções",
+      "text": "Artigo 179.º Inibição do poder paternal e proibição do exercício de funções",
+      "tags": [
+        "artigo",
+        "inibição",
+        "paternal",
+        "proibição",
+        "exercício"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_180",
+      "number": "180",
+      "title": "Difamação",
+      "text": "Artigo 180.º Difamação",
+      "tags": [
+        "artigo",
+        "difamação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_181",
+      "number": "181",
+      "title": "Injúria",
+      "text": "Artigo 181.º Injúria",
+      "tags": [
+        "artigo",
+        "injúria"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_182",
+      "number": "182",
+      "title": "Equiparação",
+      "text": "Artigo 182.º Equiparação",
+      "tags": [
+        "artigo",
+        "equiparação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_183",
+      "number": "183",
+      "title": "Publicidade e calúnia",
+      "text": "Artigo 183.º Publicidade e calúnia",
+      "tags": [
+        "artigo",
+        "publicidade",
+        "calúnia"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_184",
+      "number": "184",
+      "title": "Agravação",
+      "text": "Artigo 184.º Agravação",
+      "tags": [
+        "artigo",
+        "agravação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_185",
+      "number": "185",
+      "title": "Ofensa à memória de pessoa falecida",
+      "text": "Artigo 185.º Ofensa à memória de pessoa falecida",
+      "tags": [
+        "artigo",
+        "ofensa",
+        "memória",
+        "pessoa",
+        "falecida"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_186",
+      "number": "186",
+      "title": "Dispensa de pena",
+      "text": "Artigo 186.º Dispensa de pena",
+      "tags": [
+        "artigo",
+        "dispensa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_187",
+      "number": "187",
+      "title": "Ofensa a organismo, serviço ou pessoa colectiva",
+      "text": "Artigo 187.º Ofensa a organismo, serviço ou pessoa colectiva",
+      "tags": [
+        "artigo",
+        "ofensa",
+        "organismo",
+        "serviço",
+        "pessoa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_188",
+      "number": "188",
+      "title": "Procedimento criminal",
+      "text": "Artigo 188.º Procedimento criminal",
+      "tags": [
+        "artigo",
+        "procedimento",
+        "criminal"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_189",
+      "number": "189",
+      "title": "Conhecimento público da sentença condenatória",
+      "text": "Artigo 189.º Conhecimento público da sentença condenatória",
+      "tags": [
+        "artigo",
+        "conhecimento",
+        "público",
+        "sentença",
+        "condenatória"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_190",
+      "number": "190",
+      "title": "Violação de domicílio ou perturbação da vida privada",
+      "text": "Artigo 190.º Violação de domicílio ou perturbação da vida privada",
+      "tags": [
+        "artigo",
+        "violação",
+        "domicílio",
+        "perturbação",
+        "privada"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_191",
+      "number": "191",
+      "title": "Introdução em lugar vedado ao público",
+      "text": "Artigo 191.º Introdução em lugar vedado ao público",
+      "tags": [
+        "artigo",
+        "introdução",
+        "vedado",
+        "público"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_192",
+      "number": "192",
+      "title": "Devassa da vida privada",
+      "text": "Artigo 192.º Devassa da vida privada",
+      "tags": [
+        "artigo",
+        "devassa",
+        "privada"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_193",
+      "number": "193",
+      "title": "Devassa através de meio de comunicação social, da Internet ou de o",
+      "text": "Artigo 193.º Devassa através de meio de comunicação social, da Internet ou de outros meios de difusão pública generalizada",
+      "tags": [
+        "artigo",
+        "devassa",
+        "através",
+        "comunicação",
+        "social"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_194",
+      "number": "194",
+      "title": "Violação de correspondência ou de telecomunicações",
+      "text": "Artigo 194.º Violação de correspondência ou de telecomunicações",
+      "tags": [
+        "artigo",
+        "violação",
+        "correspondência",
+        "telecomunicações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_195",
+      "number": "195",
+      "title": "Violação de segredo",
+      "text": "Artigo 195.º Violação de segredo",
+      "tags": [
+        "artigo",
+        "violação",
+        "segredo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_196",
+      "number": "196",
+      "title": "Aproveitamento indevido de segredo",
+      "text": "Artigo 196.º Aproveitamento indevido de segredo",
+      "tags": [
+        "artigo",
+        "aproveitamento",
+        "indevido",
+        "segredo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_197",
+      "number": "197",
+      "title": "Agravação",
+      "text": "Artigo 197.º Agravação",
+      "tags": [
+        "artigo",
+        "agravação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_198",
+      "number": "198",
+      "title": "Queixa",
+      "text": "Artigo 198.º Queixa",
+      "tags": [
+        "artigo",
+        "queixa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_199",
+      "number": "199",
+      "title": "Gravações e fotografias ilícitas",
+      "text": "Artigo 199.º Gravações e fotografias ilícitas",
+      "tags": [
+        "artigo",
+        "gravações",
+        "fotografias",
+        "ilícitas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_200",
+      "number": "200",
+      "title": "Omissão de auxílio",
+      "text": "Artigo 200.º Omissão de auxílio",
+      "tags": [
+        "artigo",
+        "omissão",
+        "auxílio"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_201",
+      "number": "201",
+      "title": "Subtracção às garantias do Estado de direito Português",
+      "text": "Artigo 201.º Subtracção às garantias do Estado de direito Português",
+      "tags": [
+        "artigo",
+        "subtracção",
+        "garantias",
+        "estado",
+        "direito"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_202",
+      "number": "202",
+      "title": "Definições legais",
+      "text": "Artigo 202.º Definições legais",
+      "tags": [
+        "artigo",
+        "definições",
+        "legais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_203",
+      "number": "203",
+      "title": "Furto",
+      "text": "Artigo 203.º Furto",
+      "tags": [
+        "artigo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_204",
+      "number": "204",
+      "title": "Furto qualificado",
+      "text": "Artigo 204.º Furto qualificado",
+      "tags": [
+        "artigo",
+        "qualificado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_205",
+      "number": "205",
+      "title": "Abuso de confiança",
+      "text": "Artigo 205.º Abuso de confiança",
+      "tags": [
+        "artigo",
+        "confiança"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_206",
+      "number": "206",
+      "title": "Restituição ou reparação",
+      "text": "Artigo 206.º Restituição ou reparação",
+      "tags": [
+        "artigo",
+        "restituição",
+        "reparação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_207",
+      "number": "207",
+      "title": "Acusação particular",
+      "text": "Artigo 207.º Acusação particular",
+      "tags": [
+        "artigo",
+        "acusação",
+        "particular"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_208",
+      "number": "208",
+      "title": "Furto de uso de veículo",
+      "text": "Artigo 208.º Furto de uso de veículo",
+      "tags": [
+        "artigo",
+        "veículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_209",
+      "number": "209",
+      "title": "Apropriação ilegítima em caso de acessão ou de coisa ou animal ach",
+      "text": "Artigo 209.º Apropriação ilegítima em caso de acessão ou de coisa ou animal achados",
+      "tags": [
+        "artigo",
+        "apropriação",
+        "ilegítima",
+        "acessão",
+        "animal"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_210",
+      "number": "210",
+      "title": "Roubo",
+      "text": "Artigo 210.º Roubo",
+      "tags": [
+        "artigo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_211",
+      "number": "211",
+      "title": "Violência depois da subtracção",
+      "text": "Artigo 211.º Violência depois da subtracção",
+      "tags": [
+        "artigo",
+        "violência",
+        "depois",
+        "subtracção"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_212",
+      "number": "212",
+      "title": "Artigo 212",
+      "text": "Artigo 212.º Dano",
+      "tags": [
+        "artigo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_213",
+      "number": "213",
+      "title": "Dano qualificado",
+      "text": "Artigo 213.º Dano qualificado",
+      "tags": [
+        "artigo",
+        "qualificado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_214",
+      "number": "214",
+      "title": "Dano com violência",
+      "text": "Artigo 214.º Dano com violência",
+      "tags": [
+        "artigo",
+        "violência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_215",
+      "number": "215",
+      "title": "Usurpação de coisa imóvel",
+      "text": "Artigo 215.º Usurpação de coisa imóvel",
+      "tags": [
+        "artigo",
+        "usurpação",
+        "imóvel"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_216",
+      "number": "216",
+      "title": "Alteração de marcos",
+      "text": "Artigo 216.º Alteração de marcos",
+      "tags": [
+        "artigo",
+        "alteração",
+        "marcos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_217",
+      "number": "217",
+      "title": "Burla",
+      "text": "Artigo 217.º Burla",
+      "tags": [
+        "artigo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_218",
+      "number": "218",
+      "title": "Burla qualificada",
+      "text": "Artigo 218.º Burla qualificada",
+      "tags": [
+        "artigo",
+        "qualificada"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_219",
+      "number": "219",
+      "title": "Burla relativa a seguros",
+      "text": "Artigo 219.º Burla relativa a seguros",
+      "tags": [
+        "artigo",
+        "relativa",
+        "seguros"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_220",
+      "number": "220",
+      "title": "Burla para obtenção de alimentos, bebidas ou serviços",
+      "text": "Artigo 220.º Burla para obtenção de alimentos, bebidas ou serviços",
+      "tags": [
+        "artigo",
+        "obtenção",
+        "alimentos",
+        "bebidas",
+        "serviços"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_221",
+      "number": "221",
+      "title": "Burla informática e nas comunicações",
+      "text": "Artigo 221.º Burla informática e nas comunicações",
+      "tags": [
+        "artigo",
+        "informática",
+        "comunicações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_222",
+      "number": "222",
+      "title": "Burla relativa a trabalho ou emprego",
+      "text": "Artigo 222.º Burla relativa a trabalho ou emprego",
+      "tags": [
+        "artigo",
+        "relativa",
+        "trabalho",
+        "emprego"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_223",
+      "number": "223",
+      "title": "Extorsão",
+      "text": "Artigo 223.º Extorsão",
+      "tags": [
+        "artigo",
+        "extorsão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_224",
+      "number": "224",
+      "title": "Infidelidade",
+      "text": "Artigo 224.º Infidelidade",
+      "tags": [
+        "artigo",
+        "infidelidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_225",
+      "number": "225",
+      "title": "Abuso de cartão de garantia ou de cartão, dispositivo ou dados de",
+      "text": "Artigo 225.º Abuso de cartão de garantia ou de cartão, dispositivo ou dados de pagamento",
+      "tags": [
+        "cartão",
+        "artigo",
+        "garantia",
+        "dispositivo",
+        "pagamento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_226",
+      "number": "226",
+      "title": "Usura",
+      "text": "Artigo 226.º Usura",
+      "tags": [
+        "artigo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_227",
+      "number": "227",
+      "title": "Insolvência dolosa",
+      "text": "Artigo 227.º Insolvência dolosa",
+      "tags": [
+        "artigo",
+        "insolvência",
+        "dolosa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_228",
+      "number": "228",
+      "title": "Insolvência negligente",
+      "text": "Artigo 228.º Insolvência negligente",
+      "tags": [
+        "artigo",
+        "insolvência",
+        "negligente"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_229",
+      "number": "229",
+      "title": "Favorecimento de credores",
+      "text": "Artigo 229.º Favorecimento de credores",
+      "tags": [
+        "artigo",
+        "favorecimento",
+        "credores"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_230",
+      "number": "230",
+      "title": "Perturbação de arrematações",
+      "text": "Artigo 230.º Perturbação de arrematações",
+      "tags": [
+        "artigo",
+        "perturbação",
+        "arrematações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_231",
+      "number": "231",
+      "title": "Receptação",
+      "text": "Artigo 231.º Receptação",
+      "tags": [
+        "artigo",
+        "receptação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_232",
+      "number": "232",
+      "title": "Auxílio material",
+      "text": "Artigo 232.º Auxílio material",
+      "tags": [
+        "artigo",
+        "auxílio",
+        "material"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_233",
+      "number": "233",
+      "title": "Âmbito do objecto da receptação",
+      "text": "Artigo 233.º Âmbito do objecto da receptação",
+      "tags": [
+        "artigo",
+        "âmbito",
+        "objecto",
+        "receptação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_234",
+      "number": "234",
+      "title": "Apropriação ilegítima",
+      "text": "Artigo 234.º Apropriação ilegítima",
+      "tags": [
+        "artigo",
+        "apropriação",
+        "ilegítima"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_235",
+      "number": "235",
+      "title": "Administração danosa",
+      "text": "Artigo 235.º Administração danosa",
+      "tags": [
+        "artigo",
+        "administração",
+        "danosa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_236",
+      "number": "236",
+      "title": "Incitamento à guerra",
+      "text": "Artigo 236.º Incitamento à guerra",
+      "tags": [
+        "artigo",
+        "incitamento",
+        "guerra"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_237",
+      "number": "237",
+      "title": "Aliciamento de forças armadas",
+      "text": "Artigo 237.º Aliciamento de forças armadas",
+      "tags": [
+        "artigo",
+        "aliciamento",
+        "forças",
+        "armadas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_238",
+      "number": "238",
+      "title": "Recrutamento de mercenários",
+      "text": "Artigo 238.º Recrutamento de mercenários",
+      "tags": [
+        "artigo",
+        "recrutamento",
+        "mercenários"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_239",
+      "number": "239",
+      "title": "Genocídio",
+      "text": "Artigo 239.º Genocídio",
+      "tags": [
+        "artigo",
+        "genocídio"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_240",
+      "number": "240",
+      "title": "Discriminação e incitamento ao ódio e à violência",
+      "text": "Artigo 240.º Discriminação e incitamento ao ódio e à violência",
+      "tags": [
+        "artigo",
+        "discriminação",
+        "incitamento",
+        "violência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_241",
+      "number": "241",
+      "title": "Crimes de guerra contra civis",
+      "text": "Artigo 241.º Crimes de guerra contra civis",
+      "tags": [
+        "artigo",
+        "crimes",
+        "guerra",
+        "contra"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_242",
+      "number": "242",
+      "title": "Destruição de monumentos",
+      "text": "Artigo 242.º Destruição de monumentos",
+      "tags": [
+        "artigo",
+        "destruição",
+        "monumentos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_243",
+      "number": "243",
+      "title": "Tortura e outros tratamentos cruéis, degradantes ou desumanos",
+      "text": "Artigo 243.º Tortura e outros tratamentos cruéis, degradantes ou desumanos",
+      "tags": [
+        "artigo",
+        "tortura",
+        "outros",
+        "tratamentos",
+        "cruéis"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_244",
+      "number": "244",
+      "title": "Tortura e outros tratamentos cruéis, degradantes ou desumanos grav",
+      "text": "Artigo 244.º Tortura e outros tratamentos cruéis, degradantes ou desumanos graves",
+      "tags": [
+        "artigo",
+        "tortura",
+        "outros",
+        "tratamentos",
+        "cruéis"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_245",
+      "number": "245",
+      "title": "Omissão de denúncia",
+      "text": "Artigo 245.º Omissão de denúncia",
+      "tags": [
+        "artigo",
+        "omissão",
+        "denúncia"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_246",
+      "number": "246",
+      "title": "Incapacidades",
+      "text": "Artigo 246.º Incapacidades",
+      "tags": [
+        "artigo",
+        "incapacidades"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_247",
+      "number": "247",
+      "title": "Bigamia",
+      "text": "Artigo 247.º Bigamia",
+      "tags": [
+        "artigo",
+        "bigamia"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_248",
+      "number": "248",
+      "title": "Falsificação de estado civil",
+      "text": "Artigo 248.º Falsificação de estado civil",
+      "tags": [
+        "artigo",
+        "falsificação",
+        "estado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_249",
+      "number": "249",
+      "title": "Subtracção de menor",
+      "text": "Artigo 249.º Subtracção de menor",
+      "tags": [
+        "artigo",
+        "subtracção"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_250",
+      "number": "250",
+      "title": "Violação da obrigação de alimentos",
+      "text": "Artigo 250.º Violação da obrigação de alimentos",
+      "tags": [
+        "artigo",
+        "violação",
+        "obrigação",
+        "alimentos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_251",
+      "number": "251",
+      "title": "Ultraje por motivo de crença religiosa",
+      "text": "Artigo 251.º Ultraje por motivo de crença religiosa",
+      "tags": [
+        "artigo",
+        "ultraje",
+        "motivo",
+        "crença",
+        "religiosa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_252",
+      "number": "252",
+      "title": "Impedimento, perturbação ou ultraje a acto de culto",
+      "text": "Artigo 252.º Impedimento, perturbação ou ultraje a acto de culto",
+      "tags": [
+        "artigo",
+        "impedimento",
+        "perturbação",
+        "ultraje"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_253",
+      "number": "253",
+      "title": "Impedimento ou perturbação de cerimónia fúnebre",
+      "text": "Artigo 253.º Impedimento ou perturbação de cerimónia fúnebre",
+      "tags": [
+        "artigo",
+        "impedimento",
+        "perturbação",
+        "cerimónia",
+        "fúnebre"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_254",
+      "number": "254",
+      "title": "Profanação de cadáver ou de lugar fúnebre",
+      "text": "Artigo 254.º Profanação de cadáver ou de lugar fúnebre",
+      "tags": [
+        "artigo",
+        "profanação",
+        "cadáver",
+        "fúnebre"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_255",
+      "number": "255",
+      "title": "Definições legais",
+      "text": "Artigo 255.º Definições legais",
+      "tags": [
+        "artigo",
+        "definições",
+        "legais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_256",
+      "number": "256",
+      "title": "Falsificação ou contrafacção de documento",
+      "text": "Artigo 256.º Falsificação ou contrafacção de documento",
+      "tags": [
+        "artigo",
+        "falsificação",
+        "contrafacção",
+        "documento"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_257",
+      "number": "257",
+      "title": "Falsificação praticada por funcionário",
+      "text": "Artigo 257.º Falsificação praticada por funcionário",
+      "tags": [
+        "artigo",
+        "falsificação",
+        "praticada",
+        "funcionário"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_258",
+      "number": "258",
+      "title": "Falsificação de notação técnica",
+      "text": "Artigo 258.º Falsificação de notação técnica",
+      "tags": [
+        "artigo",
+        "falsificação",
+        "notação",
+        "técnica"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_259",
+      "number": "259",
+      "title": "Danificação ou subtracção de documento e notação técnica",
+      "text": "Artigo 259.º Danificação ou subtracção de documento e notação técnica",
+      "tags": [
+        "artigo",
+        "danificação",
+        "subtracção",
+        "documento",
+        "notação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_260",
+      "number": "260",
+      "title": "Atestado falso",
+      "text": "Artigo 260.º Atestado falso",
+      "tags": [
+        "artigo",
+        "atestado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_261",
+      "number": "261",
+      "title": "Uso de documento de identificação ou de viagem alheio",
+      "text": "Artigo 261.º Uso de documento de identificação ou de viagem alheio",
+      "tags": [
+        "artigo",
+        "documento",
+        "identificação",
+        "viagem",
+        "alheio"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_262",
+      "number": "262",
+      "title": "Contrafacção de moeda",
+      "text": "Artigo 262.º Contrafacção de moeda",
+      "tags": [
+        "artigo",
+        "contrafacção"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_263",
+      "number": "263",
+      "title": "Depreciação do valor de moeda metálica",
+      "text": "Artigo 263.º Depreciação do valor de moeda metálica",
+      "tags": [
+        "artigo",
+        "depreciação",
+        "metálica"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_264",
+      "number": "264",
+      "title": "Passagem de moeda falsa de concerto com o falsificador",
+      "text": "Artigo 264.º Passagem de moeda falsa de concerto com o falsificador",
+      "tags": [
+        "artigo",
+        "passagem",
+        "concerto",
+        "falsificador"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_265",
+      "number": "265",
+      "title": "Passagem de moeda falsa",
+      "text": "Artigo 265.º Passagem de moeda falsa",
+      "tags": [
+        "artigo",
+        "passagem"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_266",
+      "number": "266",
+      "title": "Aquisição de moeda falsa para ser posta em circulação",
+      "text": "Artigo 266.º Aquisição de moeda falsa para ser posta em circulação",
+      "tags": [
+        "artigo",
+        "aquisição",
+        "circulação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_267",
+      "number": "267",
+      "title": "Títulos equiparados a moeda",
+      "text": "Artigo 267.º Títulos equiparados a moeda",
+      "tags": [
+        "artigo",
+        "títulos",
+        "equiparados"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_268",
+      "number": "268",
+      "title": "Contrafacção de valores selados",
+      "text": "Artigo 268.º Contrafacção de valores selados",
+      "tags": [
+        "artigo",
+        "contrafacção",
+        "valores",
+        "selados"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_269",
+      "number": "269",
+      "title": "Contrafacção de selos, cunhos, marcas ou chancelas",
+      "text": "Artigo 269.º Contrafacção de selos, cunhos, marcas ou chancelas",
+      "tags": [
+        "artigo",
+        "contrafacção",
+        "cunhos",
+        "marcas",
+        "chancelas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_270",
+      "number": "270",
+      "title": "Pesos e medidas falsos",
+      "text": "Artigo 270.º Pesos e medidas falsos",
+      "tags": [
+        "artigo",
+        "medidas",
+        "falsos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_271",
+      "number": "271",
+      "title": "Actos preparatórios",
+      "text": "Artigo 271.º Actos preparatórios",
+      "tags": [
+        "artigo",
+        "preparatórios"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_272",
+      "number": "272",
+      "title": "Incêndios, explosões e outras condutas especialmente perigosas",
+      "text": "Artigo 272.º Incêndios, explosões e outras condutas especialmente perigosas",
+      "tags": [
+        "artigo",
+        "incêndios",
+        "explosões",
+        "outras",
+        "condutas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_273",
+      "number": "273",
+      "title": "Energia nuclear",
+      "text": "Artigo 273.º Energia nuclear",
+      "tags": [
+        "artigo",
+        "energia",
+        "nuclear"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_274",
+      "number": "274",
+      "title": "Incêndio florestal",
+      "text": "Artigo 274.º Incêndio florestal",
+      "tags": [
+        "artigo",
+        "incêndio",
+        "florestal"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_275",
+      "number": "275",
+      "title": "Actos preparatórios",
+      "text": "Artigo 275.º Actos preparatórios",
+      "tags": [
+        "artigo",
+        "preparatórios"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_276",
+      "number": "276",
+      "title": "Instrumentos de escuta telefónica",
+      "text": "Artigo 276.º Instrumentos de escuta telefónica",
+      "tags": [
+        "artigo",
+        "instrumentos",
+        "escuta",
+        "telefónica"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_277",
+      "number": "277",
+      "title": "Infracção de regras de construção, dano em instalações e perturbaç",
+      "text": "Artigo 277.º Infracção de regras de construção, dano em instalações e perturbação de serviços",
+      "tags": [
+        "artigo",
+        "infracção",
+        "regras",
+        "construção",
+        "instalações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_278",
+      "number": "278",
+      "title": "Danos contra a natureza",
+      "text": "Artigo 278.º Danos contra a natureza",
+      "tags": [
+        "artigo",
+        "contra",
+        "natureza"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_279",
+      "number": "279",
+      "title": "Poluição",
+      "text": "Artigo 279.º Poluição",
+      "tags": [
+        "artigo",
+        "poluição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_280",
+      "number": "280",
+      "title": "Poluição com perigo comum",
+      "text": "Artigo 280.º Poluição com perigo comum",
+      "tags": [
+        "artigo",
+        "poluição",
+        "perigo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_281",
+      "number": "281",
+      "title": "Perigo relativo a animais ou vegetais",
+      "text": "Artigo 281.º Perigo relativo a animais ou vegetais",
+      "tags": [
+        "artigo",
+        "perigo",
+        "relativo",
+        "animais",
+        "vegetais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_282",
+      "number": "282",
+      "title": "Corrupção de substâncias alimentares ou medicinais",
+      "text": "Artigo 282.º Corrupção de substâncias alimentares ou medicinais",
+      "tags": [
+        "artigo",
+        "corrupção",
+        "substâncias",
+        "alimentares",
+        "medicinais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_283",
+      "number": "283",
+      "title": "Propagação de doença, alteração de análise ou de receituário",
+      "text": "Artigo 283.º Propagação de doença, alteração de análise ou de receituário",
+      "tags": [
+        "artigo",
+        "propagação",
+        "doença",
+        "alteração",
+        "análise"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_284",
+      "number": "284",
+      "title": "Recusa de médico",
+      "text": "Artigo 284.º Recusa de médico",
+      "tags": [
+        "artigo",
+        "recusa",
+        "médico"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_285",
+      "number": "285",
+      "title": "Agravação pelo resultado",
+      "text": "Artigo 285.º Agravação pelo resultado",
+      "tags": [
+        "artigo",
+        "agravação",
+        "resultado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_286",
+      "number": "286",
+      "title": "Atenuação especial e dispensa de pena",
+      "text": "Artigo 286.º Atenuação especial e dispensa de pena",
+      "tags": [
+        "artigo",
+        "atenuação",
+        "especial",
+        "dispensa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_287",
+      "number": "287",
+      "title": "Captura ou desvio de aeronave, navio, comboio ou veículo de transp",
+      "text": "Artigo 287.º Captura ou desvio de aeronave, navio, comboio ou veículo de transporte colectivo de passageiros",
+      "tags": [
+        "artigo",
+        "captura",
+        "desvio",
+        "aeronave",
+        "comboio"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_288",
+      "number": "288",
+      "title": "Atentado à segurança de transporte por ar, água ou caminho de ferr",
+      "text": "Artigo 288.º Atentado à segurança de transporte por ar, água ou caminho de ferro",
+      "tags": [
+        "artigo",
+        "atentado",
+        "segurança",
+        "transporte",
+        "caminho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_289",
+      "number": "289",
+      "title": "Condução perigosa de meio de transporte por ar, água ou caminho de",
+      "text": "Artigo 289.º Condução perigosa de meio de transporte por ar, água ou caminho de ferro",
+      "tags": [
+        "artigo",
+        "condução",
+        "perigosa",
+        "transporte",
+        "caminho"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_290",
+      "number": "290",
+      "title": "Atentado à segurança de transporte rodoviário",
+      "text": "Artigo 290.º Atentado à segurança de transporte rodoviário",
+      "tags": [
+        "artigo",
+        "atentado",
+        "segurança",
+        "transporte",
+        "rodoviário"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_291",
+      "number": "291",
+      "title": "Condução perigosa de veículo rodoviário",
+      "text": "Artigo 291.º Condução perigosa de veículo rodoviário",
+      "tags": [
+        "artigo",
+        "condução",
+        "perigosa",
+        "veículo",
+        "rodoviário"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_292",
+      "number": "292",
+      "title": "Condução de veículo em estado de embriaguez ou sob a influência de",
+      "text": "Artigo 292.º Condução de veículo em estado de embriaguez ou sob a influência de estupefacientes ou substâncias psicotrópicas",
+      "tags": [
+        "artigo",
+        "condução",
+        "veículo",
+        "estado",
+        "embriaguez"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_293",
+      "number": "293",
+      "title": "Lançamento de projéctil contra veículo",
+      "text": "Artigo 293.º Lançamento de projéctil contra veículo",
+      "tags": [
+        "artigo",
+        "lançamento",
+        "projéctil",
+        "contra",
+        "veículo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_294",
+      "number": "294",
+      "title": "Agravação, atenuação especial e dispensa de pena",
+      "text": "Artigo 294.º Agravação, atenuação especial e dispensa de pena",
+      "tags": [
+        "artigo",
+        "agravação",
+        "atenuação",
+        "especial",
+        "dispensa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_295",
+      "number": "295",
+      "title": "Embriaguez e intoxicação",
+      "text": "Artigo 295.º Embriaguez e intoxicação",
+      "tags": [
+        "artigo",
+        "embriaguez",
+        "intoxicação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_296",
+      "number": "296",
+      "title": "Utilização de menor na mendicidade",
+      "text": "Artigo 296.º Utilização de menor na mendicidade",
+      "tags": [
+        "artigo",
+        "utilização",
+        "mendicidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_297",
+      "number": "297",
+      "title": "Instigação pública a um crime",
+      "text": "Artigo 297.º Instigação pública a um crime",
+      "tags": [
+        "artigo",
+        "instigação",
+        "pública"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_298",
+      "number": "298",
+      "title": "Apologia pública de um crime",
+      "text": "Artigo 298.º Apologia pública de um crime",
+      "tags": [
+        "artigo",
+        "apologia",
+        "pública"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_299",
+      "number": "299",
+      "title": "Associação criminosa",
+      "text": "Artigo 299.º Associação criminosa",
+      "tags": [
+        "artigo",
+        "associação",
+        "criminosa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_300",
+      "number": "300",
+      "title": "Organizações terroristas",
+      "text": "Artigo 300.º Organizações terroristas",
+      "tags": [
+        "artigo",
+        "organizações",
+        "terroristas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_301",
+      "number": "301",
+      "title": "Terrorismo",
+      "text": "Artigo 301.º Terrorismo",
+      "tags": [
+        "artigo",
+        "terrorismo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_302",
+      "number": "302",
+      "title": "Participação em motim",
+      "text": "Artigo 302.º Participação em motim",
+      "tags": [
+        "artigo",
+        "participação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_303",
+      "number": "303",
+      "title": "Participação em motim armado",
+      "text": "Artigo 303.º Participação em motim armado",
+      "tags": [
+        "artigo",
+        "participação",
+        "armado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_304",
+      "number": "304",
+      "title": "Desobediência a ordem de dispersão de reunião pública",
+      "text": "Artigo 304.º Desobediência a ordem de dispersão de reunião pública",
+      "tags": [
+        "artigo",
+        "desobediência",
+        "dispersão",
+        "reunião",
+        "pública"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_305",
+      "number": "305",
+      "title": "Ameaça com prática de crime",
+      "text": "Artigo 305.º Ameaça com prática de crime",
+      "tags": [
+        "artigo",
+        "ameaça",
+        "prática"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_306",
+      "number": "306",
+      "title": "Abuso e simulação de sinais de perigo",
+      "text": "Artigo 306.º Abuso e simulação de sinais de perigo",
+      "tags": [
+        "artigo",
+        "simulação",
+        "sinais",
+        "perigo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_307",
+      "number": "307",
+      "title": "Abuso de designação, sinal ou uniforme",
+      "text": "Artigo 307.º Abuso de designação, sinal ou uniforme",
+      "tags": [
+        "artigo",
+        "designação",
+        "uniforme"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_308",
+      "number": "308",
+      "title": "Traição à pátria",
+      "text": "Artigo 308.º Traição à pátria",
+      "tags": [
+        "artigo",
+        "traição",
+        "pátria"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_309",
+      "number": "309",
+      "title": "Serviço militar em forças armadas inimigas",
+      "text": "Artigo 309.º Serviço militar em forças armadas inimigas",
+      "tags": [
+        "artigo",
+        "serviço",
+        "militar",
+        "forças",
+        "armadas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_310",
+      "number": "310",
+      "title": "Inteligências com o estrangeiro para provocar guerra",
+      "text": "Artigo 310.º Inteligências com o estrangeiro para provocar guerra",
+      "tags": [
+        "artigo",
+        "inteligências",
+        "estrangeiro",
+        "provocar",
+        "guerra"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_311",
+      "number": "311",
+      "title": "Prática de actos adequados a provocar guerra",
+      "text": "Artigo 311.º Prática de actos adequados a provocar guerra",
+      "tags": [
+        "artigo",
+        "prática",
+        "adequados",
+        "provocar",
+        "guerra"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_312",
+      "number": "312",
+      "title": "Inteligências com o estrangeiro para constranger o Estado Portuguê",
+      "text": "Artigo 312.º Inteligências com o estrangeiro para constranger o Estado Português",
+      "tags": [
+        "artigo",
+        "inteligências",
+        "estrangeiro",
+        "constranger",
+        "estado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_313",
+      "number": "313",
+      "title": "Ajuda a forças armadas inimigas",
+      "text": "Artigo 313.º Ajuda a forças armadas inimigas",
+      "tags": [
+        "artigo",
+        "forças",
+        "armadas",
+        "inimigas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_314",
+      "number": "314",
+      "title": "Campanha contra esforço de guerra",
+      "text": "Artigo 314.º Campanha contra esforço de guerra",
+      "tags": [
+        "artigo",
+        "campanha",
+        "contra",
+        "esforço",
+        "guerra"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_315",
+      "number": "315",
+      "title": "Sabotagem contra a defesa nacional",
+      "text": "Artigo 315.º Sabotagem contra a defesa nacional",
+      "tags": [
+        "artigo",
+        "sabotagem",
+        "contra",
+        "defesa",
+        "nacional"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_316",
+      "number": "316",
+      "title": "Violação do segredo de Estado",
+      "text": "Artigo 316.º Violação do segredo de Estado",
+      "tags": [
+        "artigo",
+        "violação",
+        "segredo",
+        "estado"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_317",
+      "number": "317",
+      "title": "Espionagem",
+      "text": "Artigo 317.º Espionagem",
+      "tags": [
+        "artigo",
+        "espionagem"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_318",
+      "number": "318",
+      "title": "Meios de prova de interesse nacional",
+      "text": "Artigo 318.º Meios de prova de interesse nacional",
+      "tags": [
+        "artigo",
+        "interesse",
+        "nacional"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_319",
+      "number": "319",
+      "title": "Infidelidade diplomática",
+      "text": "Artigo 319.º Infidelidade diplomática",
+      "tags": [
+        "artigo",
+        "infidelidade",
+        "diplomática"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_320",
+      "number": "320",
+      "title": "Usurpação de autoridade pública portuguesa",
+      "text": "Artigo 320.º Usurpação de autoridade pública portuguesa",
+      "tags": [
+        "artigo",
+        "usurpação",
+        "autoridade",
+        "pública",
+        "portuguesa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_321",
+      "number": "321",
+      "title": "Entrega ilícita de pessoa a entidade estrangeira",
+      "text": "Artigo 321.º Entrega ilícita de pessoa a entidade estrangeira",
+      "tags": [
+        "artigo",
+        "entrega",
+        "ilícita",
+        "pessoa",
+        "entidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_322",
+      "number": "322",
+      "title": "Crimes contra pessoa que goze de protecção internacional",
+      "text": "Artigo 322.º Crimes contra pessoa que goze de protecção internacional",
+      "tags": [
+        "artigo",
+        "crimes",
+        "contra",
+        "pessoa",
+        "protecção"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_323",
+      "number": "323",
+      "title": "Ultraje de símbolos estrangeiros",
+      "text": "Artigo 323.º Ultraje de símbolos estrangeiros",
+      "tags": [
+        "artigo",
+        "ultraje",
+        "símbolos",
+        "estrangeiros"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_324",
+      "number": "324",
+      "title": "Condições de punibilidade e de procedibilidade",
+      "text": "Artigo 324.º Condições de punibilidade e de procedibilidade",
+      "tags": [
+        "artigo",
+        "condições",
+        "punibilidade",
+        "procedibilidade"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_325",
+      "number": "325",
+      "title": "Alteração violenta do Estado de direito",
+      "text": "Artigo 325.º Alteração violenta do Estado de direito",
+      "tags": [
+        "artigo",
+        "alteração",
+        "violenta",
+        "estado",
+        "direito"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_326",
+      "number": "326",
+      "title": "Incitamento à guerra civil ou à alteração violenta do Estado de di",
+      "text": "Artigo 326.º Incitamento à guerra civil ou à alteração violenta do Estado de direito",
+      "tags": [
+        "artigo",
+        "incitamento",
+        "guerra",
+        "alteração",
+        "violenta"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_327",
+      "number": "327",
+      "title": "Atentado contra o Presidente da República",
+      "text": "Artigo 327.º Atentado contra o Presidente da República",
+      "tags": [
+        "artigo",
+        "atentado",
+        "contra",
+        "presidente",
+        "república"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_328",
+      "number": "328",
+      "title": "Ofensa à honra do Presidente da República",
+      "text": "Artigo 328.º Ofensa à honra do Presidente da República",
+      "tags": [
+        "artigo",
+        "ofensa",
+        "presidente",
+        "república"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_329",
+      "number": "329",
+      "title": "Sabotagem",
+      "text": "Artigo 329.º Sabotagem",
+      "tags": [
+        "artigo",
+        "sabotagem"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_330",
+      "number": "330",
+      "title": "Incitamento à desobediência colectiva",
+      "text": "Artigo 330.º Incitamento à desobediência colectiva",
+      "tags": [
+        "artigo",
+        "incitamento",
+        "desobediência",
+        "colectiva"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_331",
+      "number": "331",
+      "title": "Ligações com o estrangeiro",
+      "text": "Artigo 331.º Ligações com o estrangeiro",
+      "tags": [
+        "artigo",
+        "ligações",
+        "estrangeiro"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_332",
+      "number": "332",
+      "title": "Ultraje de símbolos nacionais e regionais",
+      "text": "Artigo 332.º Ultraje de símbolos nacionais e regionais",
+      "tags": [
+        "artigo",
+        "ultraje",
+        "símbolos",
+        "nacionais",
+        "regionais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_333",
+      "number": "333",
+      "title": "Coacção contra órgãos constitucionais",
+      "text": "Artigo 333.º Coacção contra órgãos constitucionais",
+      "tags": [
+        "artigo",
+        "coacção",
+        "contra",
+        "órgãos",
+        "constitucionais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_334",
+      "number": "334",
+      "title": "Perturbação do funcionamento de órgão constitucional",
+      "text": "Artigo 334.º Perturbação do funcionamento de órgão constitucional",
+      "tags": [
+        "artigo",
+        "perturbação",
+        "funcionamento",
+        "constitucional"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_335",
+      "number": "335",
+      "title": "Tráfico de influência",
+      "text": "Artigo 335.º Tráfico de influência",
+      "tags": [
+        "artigo",
+        "tráfico",
+        "influência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_336",
+      "number": "336",
+      "title": "Falsificação do recenseamento eleitoral",
+      "text": "Artigo 336.º Falsificação do recenseamento eleitoral",
+      "tags": [
+        "artigo",
+        "falsificação",
+        "recenseamento",
+        "eleitoral"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_337",
+      "number": "337",
+      "title": "Obstrução à inscrição de eleitor",
+      "text": "Artigo 337.º Obstrução à inscrição de eleitor",
+      "tags": [
+        "artigo",
+        "obstrução",
+        "inscrição",
+        "eleitor"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_338",
+      "number": "338",
+      "title": "Perturbação de assembleia eleitoral",
+      "text": "Artigo 338.º Perturbação de assembleia eleitoral",
+      "tags": [
+        "artigo",
+        "perturbação",
+        "assembleia",
+        "eleitoral"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_339",
+      "number": "339",
+      "title": "Fraude em eleição",
+      "text": "Artigo 339.º Fraude em eleição",
+      "tags": [
+        "artigo",
+        "fraude",
+        "eleição"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_340",
+      "number": "340",
+      "title": "Coacção de eleitor",
+      "text": "Artigo 340.º Coacção de eleitor",
+      "tags": [
+        "artigo",
+        "coacção",
+        "eleitor"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_341",
+      "number": "341",
+      "title": "Fraude e corrupção de eleitor",
+      "text": "Artigo 341.º Fraude e corrupção de eleitor",
+      "tags": [
+        "artigo",
+        "fraude",
+        "corrupção",
+        "eleitor"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_342",
+      "number": "342",
+      "title": "Violação do segredo de escrutínio",
+      "text": "Artigo 342.º Violação do segredo de escrutínio",
+      "tags": [
+        "artigo",
+        "violação",
+        "segredo",
+        "escrutínio"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_343",
+      "number": "343",
+      "title": "Agravação",
+      "text": "Artigo 343.º Agravação",
+      "tags": [
+        "artigo",
+        "agravação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_344",
+      "number": "344",
+      "title": "Actos preparatórios",
+      "text": "Artigo 344.º Actos preparatórios",
+      "tags": [
+        "artigo",
+        "preparatórios"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_345",
+      "number": "345",
+      "title": "Atenuação especial",
+      "text": "Artigo 345.º Atenuação especial",
+      "tags": [
+        "artigo",
+        "atenuação",
+        "especial"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_346",
+      "number": "346",
+      "title": "Penas acessórias",
+      "text": "Artigo 346.º Penas acessórias",
+      "tags": [
+        "artigo",
+        "acessórias"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_347",
+      "number": "347",
+      "title": "Resistência e coacção sobre funcionário",
+      "text": "Artigo 347.º Resistência e coacção sobre funcionário",
+      "tags": [
+        "artigo",
+        "resistência",
+        "coacção",
+        "funcionário"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_348",
+      "number": "348",
+      "title": "Desobediência",
+      "text": "Artigo 348.º Desobediência",
+      "tags": [
+        "artigo",
+        "desobediência"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_349",
+      "number": "349",
+      "title": "Tirada de presos",
+      "text": "Artigo 349.º Tirada de presos",
+      "tags": [
+        "artigo",
+        "tirada",
+        "presos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_350",
+      "number": "350",
+      "title": "Auxílio de funcionário à evasão",
+      "text": "Artigo 350.º Auxílio de funcionário à evasão",
+      "tags": [
+        "artigo",
+        "auxílio",
+        "funcionário",
+        "evasão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_351",
+      "number": "351",
+      "title": "Negligência na guarda",
+      "text": "Artigo 351.º Negligência na guarda",
+      "tags": [
+        "artigo",
+        "negligência",
+        "guarda"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_352",
+      "number": "352",
+      "title": "Evasão",
+      "text": "Artigo 352.º Evasão",
+      "tags": [
+        "artigo",
+        "evasão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_353",
+      "number": "353",
+      "title": "Violação de imposições, proibições ou interdições",
+      "text": "Artigo 353.º Violação de imposições, proibições ou interdições",
+      "tags": [
+        "artigo",
+        "violação",
+        "imposições",
+        "proibições",
+        "interdições"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_354",
+      "number": "354",
+      "title": "Motim de presos",
+      "text": "Artigo 354.º Motim de presos",
+      "tags": [
+        "artigo",
+        "presos"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_355",
+      "number": "355",
+      "title": "Descaminho ou destruição de objectos colocados sob o poder público",
+      "text": "Artigo 355.º Descaminho ou destruição de objectos colocados sob o poder público",
+      "tags": [
+        "artigo",
+        "descaminho",
+        "destruição",
+        "objectos",
+        "colocados"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_356",
+      "number": "356",
+      "title": "Quebra de marcas e de selos",
+      "text": "Artigo 356.º Quebra de marcas e de selos",
+      "tags": [
+        "artigo",
+        "quebra",
+        "marcas"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_357",
+      "number": "357",
+      "title": "Arrancamento, destruição ou alteração de editais",
+      "text": "Artigo 357.º Arrancamento, destruição ou alteração de editais",
+      "tags": [
+        "artigo",
+        "arrancamento",
+        "destruição",
+        "alteração",
+        "editais"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_358",
+      "number": "358",
+      "title": "Usurpação de funções",
+      "text": "Artigo 358.º Usurpação de funções",
+      "tags": [
+        "artigo",
+        "usurpação",
+        "funções"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_359",
+      "number": "359",
+      "title": "Falsidade de depoimento ou declaração",
+      "text": "Artigo 359.º Falsidade de depoimento ou declaração",
+      "tags": [
+        "artigo",
+        "falsidade",
+        "depoimento",
+        "declaração"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_360",
+      "number": "360",
+      "title": "Falsidade de testemunho, perícia, interpretação ou tradução",
+      "text": "Artigo 360.º Falsidade de testemunho, perícia, interpretação ou tradução",
+      "tags": [
+        "artigo",
+        "falsidade",
+        "testemunho",
+        "perícia",
+        "interpretação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_361",
+      "number": "361",
+      "title": "Agravação",
+      "text": "Artigo 361.º Agravação",
+      "tags": [
+        "artigo",
+        "agravação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_362",
+      "number": "362",
+      "title": "Retractação",
+      "text": "Artigo 362.º Retractação",
+      "tags": [
+        "artigo",
+        "retractação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_363",
+      "number": "363",
+      "title": "Suborno",
+      "text": "Artigo 363.º Suborno",
+      "tags": [
+        "artigo",
+        "suborno"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_364",
+      "number": "364",
+      "title": "Atenuação especial e dispensa da pena",
+      "text": "Artigo 364.º Atenuação especial e dispensa da pena",
+      "tags": [
+        "artigo",
+        "atenuação",
+        "especial",
+        "dispensa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_365",
+      "number": "365",
+      "title": "Denúncia caluniosa",
+      "text": "Artigo 365.º Denúncia caluniosa",
+      "tags": [
+        "artigo",
+        "denúncia",
+        "caluniosa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_366",
+      "number": "366",
+      "title": "Simulação de crime",
+      "text": "Artigo 366.º Simulação de crime",
+      "tags": [
+        "artigo",
+        "simulação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_367",
+      "number": "367",
+      "title": "Favorecimento pessoal",
+      "text": "Artigo 367.º Favorecimento pessoal",
+      "tags": [
+        "artigo",
+        "favorecimento",
+        "pessoal"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_368",
+      "number": "368",
+      "title": "Favorecimento pessoal praticado por funcionário",
+      "text": "Artigo 368.º Favorecimento pessoal praticado por funcionário",
+      "tags": [
+        "artigo",
+        "favorecimento",
+        "pessoal",
+        "praticado",
+        "funcionário"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_369",
+      "number": "369",
+      "title": "Denegação de justiça e prevaricação",
+      "text": "Artigo 369.º Denegação de justiça e prevaricação",
+      "tags": [
+        "artigo",
+        "denegação",
+        "justiça",
+        "prevaricação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_370",
+      "number": "370",
+      "title": "Prevaricação de advogado ou de solicitador",
+      "text": "Artigo 370.º Prevaricação de advogado ou de solicitador",
+      "tags": [
+        "artigo",
+        "prevaricação",
+        "advogado",
+        "solicitador"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_371",
+      "number": "371",
+      "title": "Violação de segredo de justiça",
+      "text": "Artigo 371.º Violação de segredo de justiça",
+      "tags": [
+        "artigo",
+        "violação",
+        "segredo",
+        "justiça"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_372",
+      "number": "372",
+      "title": "Recebimento ou oferta indevidos de vantagem",
+      "text": "Artigo 372.º Recebimento ou oferta indevidos de vantagem",
+      "tags": [
+        "artigo",
+        "recebimento",
+        "oferta",
+        "indevidos",
+        "vantagem"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_373",
+      "number": "373",
+      "title": "Corrupção passiva",
+      "text": "Artigo 373.º Corrupção passiva",
+      "tags": [
+        "artigo",
+        "corrupção",
+        "passiva"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_374",
+      "number": "374",
+      "title": "Corrupção activa",
+      "text": "Artigo 374.º Corrupção activa",
+      "tags": [
+        "artigo",
+        "corrupção",
+        "activa"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_375",
+      "number": "375",
+      "title": "Peculato",
+      "text": "Artigo 375.º Peculato",
+      "tags": [
+        "artigo",
+        "peculato"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_376",
+      "number": "376",
+      "title": "Peculato de uso",
+      "text": "Artigo 376.º Peculato de uso",
+      "tags": [
+        "artigo",
+        "peculato"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_377",
+      "number": "377",
+      "title": "Participação económica em negócio",
+      "text": "Artigo 377.º Participação económica em negócio",
+      "tags": [
+        "artigo",
+        "participação",
+        "económica",
+        "negócio"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_378",
+      "number": "378",
+      "title": "Violação de domicílio por funcionário",
+      "text": "Artigo 378.º Violação de domicílio por funcionário",
+      "tags": [
+        "artigo",
+        "violação",
+        "domicílio",
+        "funcionário"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_379",
+      "number": "379",
+      "title": "Concussão",
+      "text": "Artigo 379.º Concussão",
+      "tags": [
+        "artigo",
+        "concussão"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_380",
+      "number": "380",
+      "title": "Emprego de força pública contra a execução da lei ou de ordem legí",
+      "text": "Artigo 380.º Emprego de força pública contra a execução da lei ou de ordem legítima",
+      "tags": [
+        "artigo",
+        "emprego",
+        "pública",
+        "contra",
+        "execução"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_381",
+      "number": "381",
+      "title": "Recusa de cooperação",
+      "text": "Artigo 381.º Recusa de cooperação",
+      "tags": [
+        "artigo",
+        "recusa",
+        "cooperação"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_382",
+      "number": "382",
+      "title": "Abuso de poder",
+      "text": "Artigo 382.º Abuso de poder",
+      "tags": [
+        "artigo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_383",
+      "number": "383",
+      "title": "Violação de segredo por funcionário",
+      "text": "Artigo 383.º Violação de segredo por funcionário",
+      "tags": [
+        "artigo",
+        "violação",
+        "segredo",
+        "funcionário"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_384",
+      "number": "384",
+      "title": "Violação de segredo de correspondência ou de telecomunicações",
+      "text": "Artigo 384.º Violação de segredo de correspondência ou de telecomunicações",
+      "tags": [
+        "artigo",
+        "violação",
+        "segredo",
+        "correspondência",
+        "telecomunicações"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_385",
+      "number": "385",
+      "title": "Abandono de funções",
+      "text": "Artigo 385.º Abandono de funções",
+      "tags": [
+        "artigo",
+        "abandono",
+        "funções"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_386",
+      "number": "386",
+      "title": "Conceito de funcionário",
+      "text": "Artigo 386.º Conceito de funcionário",
+      "tags": [
+        "artigo",
+        "conceito",
+        "funcionário"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_387",
+      "number": "387",
+      "title": "Morte e maus tratos de animal de companhia",
+      "text": "Artigo 387.º Morte e maus tratos de animal de companhia",
+      "tags": [
+        "artigo",
+        "tratos",
+        "animal",
+        "companhia"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_388",
+      "number": "388",
+      "title": "Abandono de animais de companhia",
+      "text": "Artigo 388.º Abandono de animais de companhia.",
+      "tags": [
+        "artigo",
+        "abandono",
+        "animais",
+        "companhia"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_389",
+      "number": "389",
+      "title": "Conceito de animal de companhia Nº de artigos",
+      "text": "Artigo 389.º Conceito de animal de companhia Nº de artigos : 429 Páginas: 1 2 3 4 5 Seguinte > Ver índice sistemático do diploma Imprimir todo o diploma SUMÁRIO Aprova o Código Penal [NOTA de edição - As alterações introduzidas, pelo art.º 28.º da Lei n.º 22/2023, de 25-05, nos artigos 134.º , 135.º e 139.º do Código Penal, só entram em vigor 30 dias após a publicação da respectiva regulamentação, cfr. art.º 34.º do mesmo diploma. Assim, a 1.ª versão dos artigos alterados é a que se encontra em vigor. ] _____________________ 1. A tendência cada vez mais universalizante para a afirmação dos direitos do homem como princípio basilar das sociedades modernas, bem como o reforço da dimensão ética do Estado, imprimem à justiça o estatuto de primeiro garante da consolidação dos valores fundamentais reconhecidos pela comunidade, com especial destaque para a dignidade da pessoa humana. Ciente de que ao Estado cumpre construir os mecanismos que garantam a liberdade dos cidadãos, o programa do Governo para a justiça, no capítulo do combate à criminalidade, elegeu como objectivos fundamentais a segurança dos cidadãos, a prevenção e repressão do crime e a recuperação do delinquente como forma de defesa social. Um sistema penal moderno e integrado não se esgota naturalmente na legislação penal. Num primeiro plano há que destacar a importância da prevenção criminal nas suas múltiplas vertentes: a operacionalidade e articulação das forças de segurança e, sobretudo, a eliminação de factores de...",
+      "tags": [
+        "artigos",
+        "diploma",
+        "código",
+        "estado",
+        "justiça"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_723",
+      "number": "723",
+      "title": "Artigo 723",
+      "text": "artigo 723.º do Código de Processo Penal) autorizou o tribunal a decidir desde logo a sujeição do réu ao regime de semiliberdade nos casos de infracção punível com curtas penas de prisão. E idêntico caminho segue o Código ao estabelecer um regime de semidetenção que permita ao delinquente prosseguir a sua formação ou actividade profissional normal ou os seus estudos. É no quadro desta política de combate ao carácter criminógeno das penas detentivas que se deve ainda compreender o regime previsto nos artigos 61.º e seguintes para a liberdade condicional. Definitivamente ultrapassada a sua compreensão como medida de clemência ou de recompensa por boa conduta, a libertação condicional serve, na política do Código, um objectivo bem definido: o de criar um período de transição entre a prisão e a liberdade, durante o qual o delinquente possa equilibradamente recobrar o sentido de orientação social fatalmente enfraquecido por efeito da reclusão. Com tal medida - que pode ser normalmente decretada logo que cumprida metade da pena (",
+      "tags": [
+        "código",
+        "regime",
+        "prisão",
+        "delinquente",
+        "política"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_2034",
+      "number": "2034",
+      "title": "Artigo 2034",
+      "text": "artigo 2034.º e no",
+      "tags": [
+        "artigo"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_2036",
+      "number": "2036",
+      "title": "Artigo 2036",
+      "text": "artigo 2036.º do mesmo Código. Aditado pelo seguinte diploma: Lei n.º 82/2014, de 30 de Dezembro",
+      "tags": [
+        "artigo",
+        "código",
+        "aditado",
+        "seguinte",
+        "diploma"
+      ],
+      "relatedArticles": []
+    },
+    {
+      "id": "cppt_2037",
+      "number": "2037",
+      "title": "Artigo 2037",
+      "text": "artigo 2037.º do Código Civil, sem prejuízo do disposto no",
+      "tags": [
+        "artigo",
+        "código",
+        "prejuízo",
+        "disposto"
+      ],
+      "relatedArticles": []
+    }
+  ]
+}

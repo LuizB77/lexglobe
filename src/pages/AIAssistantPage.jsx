@@ -4,17 +4,29 @@ import { search, loadCode } from '../utils/searchEngine'
 import countries from '../data/countries.json'
 
 const CODE_META = {
-  constituicao: { label: 'Constituição Federal', spine: '#FFD700', color: '#B8860B' },
-  codigoPenal:  { label: 'Código Penal',          spine: '#E53E3E', color: '#9B1C1C' },
-  codigoCivil:  { label: 'Código Civil',           spine: '#7F77DD', color: '#4C3494' },
-  clt:          { label: 'CLT',                    spine: '#1D9E75', color: '#145A3A' },
-  eca:          { label: 'ECA',                    spine: '#F6AD55', color: '#923B05' },
-  cdc:          { label: 'CDC',                    spine: '#63B3ED', color: '#1a4a7a' },
+  constituicao:    { label: 'Constituição Federal',      spine: '#FFD700', color: '#B8860B' },
+  codigoPenal:     { label: 'Código Penal',              spine: '#E53E3E', color: '#9B1C1C' },
+  codigoCivil:     { label: 'Código Civil',              spine: '#7F77DD', color: '#4C3494' },
+  clt:             { label: 'CLT',                       spine: '#1D9E75', color: '#145A3A' },
+  eca:             { label: 'ECA',                       spine: '#F6AD55', color: '#923B05' },
+  cdc:             { label: 'CDC',                       spine: '#63B3ED', color: '#1a4a7a' },
+  constituicaoPT:  { label: 'Constituição da República', spine: '#FFD700', color: '#B8860B' },
+  codigoPenalPT:   { label: 'Código Penal (PT)',         spine: '#E53E3E', color: '#9B1C1C' },
+  codigoCivilPT:   { label: 'Código Civil (PT)',         spine: '#7F77DD', color: '#4C3494' },
+  codigoTrabalho:  { label: 'Código do Trabalho',        spine: '#1D9E75', color: '#145A3A' },
 }
 
 const PREFIX_TO_CODE = {
-  cf: 'constituicao', cp: 'codigoPenal', cc: 'codigoCivil',
-  clt: 'clt', eca: 'eca', cdc: 'cdc',
+  cf:   'constituicao',
+  cp:   'codigoPenal',
+  cc:   'codigoCivil',
+  clt:  'clt',
+  eca:  'eca',
+  cdc:  'cdc',
+  cfpt: 'constituicaoPT',
+  cppt: 'codigoPenalPT',
+  ccpt: 'codigoCivilPT',
+  ctpt: 'codigoTrabalho',
 }
 
 function getCodeKeyFromId(id) {

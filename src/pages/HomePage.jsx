@@ -47,6 +47,47 @@ function BrazilPanel({ visible, onEnter }) {
   )
 }
 
+function PortugalPanel({ visible, onEnter }) {
+  return (
+    <div
+      className="absolute bottom-6 right-6 z-20 transition-all duration-300"
+      style={{
+        opacity: visible ? 1 : 0,
+        transform: visible ? 'translateY(0)' : 'translateY(12px)',
+        pointerEvents: visible ? 'auto' : 'none',
+      }}
+    >
+      <div className="rounded-2xl overflow-hidden shadow-2xl"
+        style={{ width: '260px', border: '1px solid rgba(255,255,255,0.6)' }}>
+        <div className="flex items-center justify-center py-8 text-6xl"
+          style={{ background: 'linear-gradient(135deg, #006600 0%, #FF0000 100%)' }}>
+          🇵🇹
+        </div>
+        <div className="bg-white/95 backdrop-blur px-4 py-3">
+          <div className="flex items-center gap-2 mb-2.5">
+            <span className="text-xl">🇵🇹</span>
+            <span className="font-bold text-gray-900 text-sm">Portugal</span>
+            <span className="ml-auto text-xs px-2 py-0.5 rounded-full
+              bg-green-50 text-green-700 border border-green-200">
+              Available
+            </span>
+          </div>
+          <p className="text-xs text-gray-500 mb-3">
+            4 legal codes · Constitution, Penal, Civil, Labor
+          </p>
+          <button
+            onClick={onEnter}
+            className="w-full py-2 rounded-xl text-white text-xs font-semibold"
+            style={{ backgroundColor: '#B8860B' }}
+          >
+            Enter Law Library →
+          </button>
+        </div>
+      </div>
+    </div>
+  )
+}
+
 export default function HomePage() {
   const navigate = useNavigate()
   const globeRef = useRef()
@@ -54,6 +95,7 @@ export default function HomePage() {
   const [comingSoonCountry, setComingSoonCountry] = useState(null)
   const [transitioning, setTransitioning] = useState(false)
   const [brazilHovered, setBrazilHovered] = useState(false)
+  const [portugalHovered, setPortugalHovered] = useState(false)
 
   function handleCountryClick(country, globeInstance) {
     if (country.active) {
@@ -81,8 +123,8 @@ export default function HomePage() {
       <GlobeView
         onCountryClick={handleCountryClick}
         onCountryHover={(country) => {
-          const isB = country?.code === 'BR'
-          setBrazilHovered(isB)
+          setBrazilHovered(country?.code === 'BR')
+          setPortugalHovered(country?.code === 'PT')
         }}
         globeRef={globeRef}
       />
@@ -93,6 +135,16 @@ export default function HomePage() {
           { code: 'BR', name: 'Brazil', nameLocal: 'Brasil',
             flag: '🇧🇷', active: true,
             codes: ['constituicao','codigoPenal','codigoCivil','clt','eca','cdc'] },
+          globeRef.current
+        )}
+      />
+
+      <PortugalPanel
+        visible={portugalHovered}
+        onEnter={() => handleCountryClick(
+          { code: 'PT', name: 'Portugal', nameLocal: 'Portugal',
+            flag: '🇵🇹', active: true,
+            codes: ['constituicaoPT','codigoPenalPT','codigoCivilPT','codigoTrabalho'] },
           globeRef.current
         )}
       />
