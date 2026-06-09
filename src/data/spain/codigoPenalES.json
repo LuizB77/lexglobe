@@ -371,6 +371,40 @@
       "relatedArticles": []
     },
     {
+      "id": "cpes_138",
+      "number": "138",
+      "title": "Homicidio",
+      "text": "El que matare a otro será castigado, como reo de homicidio, con la pena de prisión de diez a quince años. Si la víctima del delito previsto en el apartado anterior fuera menor de dieciséis años de edad o se trate de una persona especialmente vulnerable por razón de su edad, enfermedad o discapacidad, la pena será de prisión de quince a veinticinco años.",
+      "tags": [
+        "homicidio",
+        "matar",
+        "prisión",
+        "delito",
+        "penal"
+      ],
+      "relatedArticles": [
+        "cpes_139",
+        "cpes_140"
+      ]
+    },
+    {
+      "id": "cpes_139",
+      "number": "139",
+      "title": "Asesinato",
+      "text": "Será castigado con la pena de prisión de quince a veinticinco años, como reo de asesinato, el que matare a otro concurriendo alguna de las circunstancias siguientes: 1ª Con alevosía. 2ª Por precio, recompensa o promesa. 3ª Con ensañamiento, aumentando deliberada e inhumanamente el dolor del ofendido. 4ª Para facilitar la comisión de otro delito o para evitar que se descubra.",
+      "tags": [
+        "asesinato",
+        "alevosía",
+        "premeditación",
+        "precio",
+        "agravante"
+      ],
+      "relatedArticles": [
+        "cpes_138",
+        "cpes_140"
+      ]
+    },
+    {
       "id": "cpes_140bis",
       "number": "140bis",
       "title": "Artículo 140bis",
@@ -722,6 +756,23 @@
       "relatedArticles": []
     },
     {
+      "id": "cpes_234",
+      "number": "234",
+      "title": "Hurto",
+      "text": "El que, con ánimo de lucro, tomare las cosas muebles ajenas sin la voluntad de su dueño será castigado, como reo de hurto, con la pena de prisión de seis a dieciocho meses si la cuantía de lo sustraído excediese de 400 euros. Se impondrá una pena de multa de uno a tres meses si la cuantía de lo sustraído no excediese de 400 euros, salvo si concurriese alguna de las circunstancias del artículo 235.",
+      "tags": [
+        "hurto",
+        "robo",
+        "sustracción",
+        "ánimo de lucro",
+        "400 euros"
+      ],
+      "relatedArticles": [
+        "cpes_237",
+        "cpes_242"
+      ]
+    },
+    {
       "id": "cpes_236",
       "number": "236",
       "title": "CAPÍTULO II",
@@ -731,6 +782,23 @@
         "capítulo"
       ],
       "relatedArticles": []
+    },
+    {
+      "id": "cpes_237",
+      "number": "237",
+      "title": "Robo",
+      "text": "Son reos del delito de robo los que, con ánimo de lucro, se apoderaren de las cosas muebles ajenas empleando fuerza en las cosas para acceder al lugar donde éstas se encuentran o para abandonarlo, o violencia o intimidación en las personas.",
+      "tags": [
+        "robo",
+        "violencia",
+        "intimidación",
+        "fuerza",
+        "delito"
+      ],
+      "relatedArticles": [
+        "cpes_234",
+        "cpes_242"
+      ]
     },
     {
       "id": "cpes_242",
@@ -776,6 +844,23 @@
         "sección"
       ],
       "relatedArticles": []
+    },
+    {
+      "id": "cpes_248",
+      "number": "248",
+      "title": "Estafa",
+      "text": "Cometen estafa los que, con ánimo de lucro, utilizaren engaño bastante para producir error en otro, induciéndolo a realizar un acto de disposición en perjuicio propio o ajeno. Los reos de estafa serán castigados con la pena de prisión de seis meses a tres años. Para la fijación de la pena se tendrá en cuenta el importe de lo defraudado, el quebranto económico causado al perjudicado, las relaciones entre éste y el defraudador, los medios empleados por éste y cuantas otras circunstancias sirvan para valorar la gravedad de la infracción.",
+      "tags": [
+        "estafa",
+        "fraude",
+        "engaño",
+        "ánimo de lucro",
+        "perjuicio"
+      ],
+      "relatedArticles": [
+        "cpes_234",
+        "cpes_249"
+      ]
     },
     {
       "id": "cpes_251bis",

@@ -378,6 +378,40 @@
       "relatedArticles": []
     },
     {
+      "id": "t42_1983",
+      "number": "1983",
+      "title": "Civil Action for Deprivation of Rights",
+      "text": "Every person who, under color of any statute, ordinance, regulation, custom, or usage, of any State or Territory or the District of Columbia, subjects, or causes to be subjected, any citizen of the United States or other person within the jurisdiction thereof to the deprivation of any rights, privileges, or immunities secured by the Constitution and laws, shall be liable to the party injured in an action at law, suit in equity, or other proper proceeding for redress.",
+      "tags": [
+        "civil rights",
+        "deprivation",
+        "state action",
+        "constitutional rights",
+        "lawsuit"
+      ],
+      "relatedArticles": [
+        "t42_1981",
+        "t42_1985"
+      ]
+    },
+    {
+      "id": "t42_2000e",
+      "number": "2000e",
+      "title": "Title VII — Employment Discrimination",
+      "text": "It shall be an unlawful employment practice for an employer to fail or refuse to hire or to discharge any individual, or otherwise to discriminate against any individual with respect to his compensation, terms, conditions, or privileges of employment, because of such individual's race, color, religion, sex, or national origin.",
+      "tags": [
+        "employment discrimination",
+        "race",
+        "sex",
+        "religion",
+        "title VII",
+        "hiring"
+      ],
+      "relatedArticles": [
+        "t42_12101"
+      ]
+    },
+    {
       "id": "t42_2001",
       "number": "2001",
       "title": "Section 2001",
@@ -1753,6 +1787,22 @@
         "families"
       ],
       "relatedArticles": []
+    },
+    {
+      "id": "t42_12112",
+      "number": "12112",
+      "title": "ADA — Prohibition on Discrimination",
+      "text": "No covered entity shall discriminate against a qualified individual on the basis of disability in regard to job application procedures, the hiring, advancement, or discharge of employees, employee compensation, job training, and other terms, conditions, and privileges of employment.",
+      "tags": [
+        "ADA",
+        "disability discrimination",
+        "employment",
+        "accommodation",
+        "qualified individual"
+      ],
+      "relatedArticles": [
+        "t42_12101"
+      ]
     },
     {
       "id": "t42_12301",

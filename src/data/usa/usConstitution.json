@@ -131,6 +131,123 @@
         "article"
       ],
       "relatedArticles": []
+    },
+    {
+      "id": "usc_am1",
+      "number": "Amendment I",
+      "title": "Freedom of Speech, Religion, Press",
+      "text": "Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.",
+      "tags": [
+        "freedom",
+        "speech",
+        "religion",
+        "press",
+        "assembly"
+      ],
+      "relatedArticles": [
+        "usc_am4",
+        "usc_am14"
+      ]
+    },
+    {
+      "id": "usc_am2",
+      "number": "Amendment II",
+      "title": "Right to Bear Arms",
+      "text": "A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed.",
+      "tags": [
+        "guns",
+        "arms",
+        "militia",
+        "second amendment",
+        "weapons"
+      ],
+      "relatedArticles": [
+        "usc_am1"
+      ]
+    },
+    {
+      "id": "usc_am4",
+      "number": "Amendment IV",
+      "title": "Search and Seizure",
+      "text": "The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized.",
+      "tags": [
+        "search",
+        "seizure",
+        "warrant",
+        "privacy",
+        "fourth amendment"
+      ],
+      "relatedArticles": [
+        "usc_am5",
+        "usc_am6"
+      ]
+    },
+    {
+      "id": "usc_am5",
+      "number": "Amendment V",
+      "title": "Due Process, Self-Incrimination",
+      "text": "No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a Grand Jury; nor shall any person be subject for the same offence to be twice put in jeopardy of life or limb; nor shall be compelled in any criminal case to be a witness against himself, nor be deprived of life, liberty, or property, without due process of law; nor shall private property be taken for public use, without just compensation.",
+      "tags": [
+        "due process",
+        "self-incrimination",
+        "double jeopardy",
+        "grand jury",
+        "fifth amendment"
+      ],
+      "relatedArticles": [
+        "usc_am4",
+        "usc_am6"
+      ]
+    },
+    {
+      "id": "usc_am6",
+      "number": "Amendment VI",
+      "title": "Right to Fair Trial",
+      "text": "In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury of the State and district wherein the crime shall have been committed; and to be informed of the nature and cause of the accusation; to be confronted with the witnesses against him; to have compulsory process for obtaining witnesses in his favor, and to have the Assistance of Counsel for his defence.",
+      "tags": [
+        "fair trial",
+        "jury",
+        "speedy trial",
+        "counsel",
+        "sixth amendment"
+      ],
+      "relatedArticles": [
+        "usc_am5",
+        "usc_am8"
+      ]
+    },
+    {
+      "id": "usc_am8",
+      "number": "Amendment VIII",
+      "title": "Cruel and Unusual Punishment",
+      "text": "Excessive bail shall not be required, nor excessive fines imposed, nor cruel and unusual punishments inflicted.",
+      "tags": [
+        "cruel punishment",
+        "bail",
+        "fines",
+        "eighth amendment",
+        "punishment"
+      ],
+      "relatedArticles": [
+        "usc_am6"
+      ]
+    },
+    {
+      "id": "usc_am14",
+      "number": "Amendment XIV",
+      "title": "Equal Protection and Due Process",
+      "text": "All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside. No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws.",
+      "tags": [
+        "equal protection",
+        "citizenship",
+        "due process",
+        "fourteenth amendment",
+        "civil rights"
+      ],
+      "relatedArticles": [
+        "usc_am1",
+        "usc_am5"
+      ]
     }
   ]
 }

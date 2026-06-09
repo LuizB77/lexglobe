@@ -79,6 +79,69 @@
       "relatedArticles": []
     },
     {
+      "id": "t8_1182",
+      "number": "1182",
+      "title": "Inadmissible Aliens",
+      "text": "The following classes of aliens shall be ineligible to receive visas and shall be excluded from admission into the United States: aliens who are inadmissible on health-related grounds; aliens convicted of, or who admit having committed, a crime involving moral turpitude; aliens who have been convicted of two or more offenses for which the aggregate sentences to confinement were five years or more; aliens who the consular officer or the Attorney General knows or has reason to believe seek to enter the United States to engage in espionage.",
+      "tags": [
+        "inadmissible",
+        "visa denial",
+        "deportation",
+        "grounds of inadmissibility",
+        "exclusion"
+      ],
+      "relatedArticles": [
+        "t8_1227"
+      ]
+    },
+    {
+      "id": "t8_1227",
+      "number": "1227",
+      "title": "Deportable Aliens",
+      "text": "Any alien in the United States shall, upon the order of the Attorney General, be removed if the alien is within one or more of the following classes of deportable aliens: Any alien who was inadmissible at the time of entry or adjustment of status; any alien who is convicted of a crime involving moral turpitude committed within five years after the date of admission; any alien who at any time after admission is convicted of two or more crimes involving moral turpitude.",
+      "tags": [
+        "deportation",
+        "removal",
+        "deportable",
+        "criminal alien",
+        "moral turpitude"
+      ],
+      "relatedArticles": [
+        "t8_1182",
+        "t8_1229"
+      ]
+    },
+    {
+      "id": "t8_1325",
+      "number": "1325",
+      "title": "Improper Entry by Alien",
+      "text": "Any alien who enters or attempts to enter the United States at any time or place other than as designated by immigration officers, or eludes examination or inspection by immigration officers, or attempts to enter or obtains entry to the United States by a willfully false or misleading representation or the willful concealment of a material fact, shall, for the first commission of any such offense, be fined under title 18 or imprisoned not more than 6 months, or both.",
+      "tags": [
+        "illegal entry",
+        "border crossing",
+        "unauthorized entry",
+        "immigration violation"
+      ],
+      "relatedArticles": [
+        "t8_1326"
+      ]
+    },
+    {
+      "id": "t8_1326",
+      "number": "1326",
+      "title": "Reentry of Removed Aliens",
+      "text": "Any alien who has been denied admission, excluded, deported, or removed or has departed the United States while an order of exclusion, deportation, or removal is outstanding, and thereafter enters, attempts to enter, or is at any time found in the United States, unless the Attorney General has expressly consented to such alien's reentry shall be fined under title 18, or imprisoned not more than 2 years, or both.",
+      "tags": [
+        "reentry",
+        "deported alien",
+        "illegal reentry",
+        "removal order"
+      ],
+      "relatedArticles": [
+        "t8_1325"
+      ]
+    },
+    {
       "id": "t8_1551",
       "number": "1551",
       "title": "Section 1551",

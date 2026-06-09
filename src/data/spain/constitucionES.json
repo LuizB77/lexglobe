@@ -51,6 +51,125 @@
       "relatedArticles": []
     },
     {
+      "id": "ces_15",
+      "number": "15",
+      "title": "Derecho a la Vida",
+      "text": "Todos tienen derecho a la vida y a la integridad física y moral, sin que, en ningún caso, puedan ser sometidos a tortura ni a penas o tratos inhumanos o degradantes. Queda abolida la pena de muerte, salvo lo que puedan disponer las leyes penales militares para tiempos de guerra.",
+      "tags": [
+        "vida",
+        "integridad",
+        "tortura",
+        "pena de muerte",
+        "derechos fundamentales"
+      ],
+      "relatedArticles": [
+        "ces_14",
+        "ces_17"
+      ]
+    },
+    {
+      "id": "ces_17",
+      "number": "17",
+      "title": "Derecho a la Libertad",
+      "text": "Toda persona tiene derecho a la libertad y a la seguridad. Nadie puede ser privado de su libertad, sino con la observancia de lo establecido en este artículo y en los casos y en la forma previstos en la ley. La detención preventiva no podrá durar más del tiempo estrictamente necesario para la realización de las averiguaciones tendentes al esclarecimiento de los hechos, y, en todo caso, en el plazo máximo de setenta y dos horas, el detenido deberá ser puesto en libertad o a disposición de la autoridad judicial.",
+      "tags": [
+        "libertad",
+        "detención",
+        "seguridad",
+        "72 horas",
+        "derechos"
+      ],
+      "relatedArticles": [
+        "ces_15",
+        "ces_18"
+      ]
+    },
+    {
+      "id": "ces_18",
+      "number": "18",
+      "title": "Derecho al Honor e Intimidad",
+      "text": "Se garantiza el derecho al honor, a la intimidad personal y familiar y a la propia imagen. El domicilio es inviolable. Ninguna entrada o registro podrá hacerse en él sin consentimiento del titular o resolución judicial, salvo en caso de flagrante delito. Se garantiza el secreto de las comunicaciones y, en especial, de las postales, telegráficas y telefónicas, salvo resolución judicial.",
+      "tags": [
+        "honor",
+        "intimidad",
+        "domicilio",
+        "inviolable",
+        "comunicaciones"
+      ],
+      "relatedArticles": [
+        "ces_17",
+        "ces_20"
+      ]
+    },
+    {
+      "id": "ces_19",
+      "number": "19",
+      "title": "Libertad de Residencia y Circulación",
+      "text": "Los españoles tienen derecho a elegir libremente su residencia y a circular por el territorio nacional. Asimismo, tienen derecho a entrar y salir libremente de España en los términos que la ley establezca. Este derecho no podrá ser limitado por motivos políticos o ideológicos.",
+      "tags": [
+        "residencia",
+        "circulación",
+        "libertad",
+        "movimiento",
+        "territorio"
+      ],
+      "relatedArticles": [
+        "ces_17",
+        "ces_18"
+      ]
+    },
+    {
+      "id": "ces_20",
+      "number": "20",
+      "title": "Libertad de Expresión",
+      "text": "Se reconocen y protegen los derechos: a expresar y difundir libremente los pensamientos, ideas y opiniones mediante la palabra, el escrito o cualquier otro medio de reproducción; a la producción y creación literaria, artística, científica y técnica; a la libertad de cátedra; y a comunicar o recibir libremente información veraz por cualesquiera medios de difusión.",
+      "tags": [
+        "libertad de expresión",
+        "prensa",
+        "información",
+        "censura",
+        "medios"
+      ],
+      "relatedArticles": [
+        "ces_18",
+        "ces_14"
+      ]
+    },
+    {
+      "id": "ces_24",
+      "number": "24",
+      "title": "Derecho a la Tutela Judicial",
+      "text": "Todas las personas tienen derecho a obtener la tutela efectiva de los jueces y tribunales en el ejercicio de sus derechos e intereses legítimos, sin que, en ningún caso, pueda producirse indefensión. Asimismo, todos tienen derecho al Juez ordinario predeterminado por la ley, a la defensa y a la asistencia de letrado, a ser informados de la acusación formulada contra ellos, a un proceso público sin dilaciones indebidas y con todas las garantías.",
+      "tags": [
+        "tutela judicial",
+        "juicio justo",
+        "defensa",
+        "abogado",
+        "proceso"
+      ],
+      "relatedArticles": [
+        "ces_17",
+        "ces_25"
+      ]
+    },
+    {
+      "id": "ces_25",
+      "number": "25",
+      "title": "Principio de Legalidad Penal",
+      "text": "Nadie puede ser condenado o sancionado por acciones u omisiones que en el momento de producirse no constituyan delito, falta o infracción administrativa, según la legislación vigente en aquel momento. Las penas privativas de libertad y las medidas de seguridad estarán orientadas hacia la reeducación y reinserción social y no podrán consistir en trabajos forzados.",
+      "tags": [
+        "legalidad",
+        "delito",
+        "pena",
+        "reinserción",
+        "nulla poena"
+      ],
+      "relatedArticles": [
+        "ces_24",
+        "ces_17"
+      ]
+    },
+    {
       "id": "ces_29",
       "number": "29",
       "title": "SECCIÓN 2",

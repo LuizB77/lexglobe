@@ -16,6 +16,38 @@
       "relatedArticles": []
     },
     {
+      "id": "t18_2",
+      "number": "2",
+      "title": "Principals — Aiding and Abetting",
+      "text": "Whoever commits an offense against the United States or aids, abets, counsels, commands, induces or procures its commission, is punishable as a principal. Whoever willfully causes an act to be done which if directly performed by him or another would be an offense against the United States, is punishable as a principal.",
+      "tags": [
+        "aiding",
+        "abetting",
+        "principal",
+        "accomplice",
+        "conspiracy"
+      ],
+      "relatedArticles": [
+        "t18_3",
+        "t18_4"
+      ]
+    },
+    {
+      "id": "t18_4",
+      "number": "4",
+      "title": "Misprision of Felony",
+      "text": "Whoever, having knowledge of the actual commission of a felony cognizable by a court of the United States, conceals and does not as soon as possible make known the same to some judge or other person in civil or military authority under the United States, shall be fined under this title or imprisoned not more than three years, or both.",
+      "tags": [
+        "felony",
+        "concealment",
+        "misprision",
+        "reporting"
+      ],
+      "relatedArticles": [
+        "t18_2"
+      ]
+    },
+    {
       "id": "t18_7",
       "number": "7",
       "title": "Section 7",
@@ -40,12 +72,42 @@
       "relatedArticles": []
     },
     {
+      "id": "t18_111",
+      "number": "111",
+      "title": "Assaulting Federal Officers",
+      "text": "Whoever forcibly assaults, resists, opposes, impedes, intimidates, or interferes with any person designated in section 1114 of this title while engaged in or on account of the performance of official duties shall be fined under this title or imprisoned not more than 8 years, or both.",
+      "tags": [
+        "assault",
+        "federal officer",
+        "resistance",
+        "intimidation"
+      ],
+      "relatedArticles": [
+        "t18_1114"
+      ]
+    },
+    {
       "id": "t18_112",
       "number": "112",
       "title": "Section 112",
       "text": "§ 112 420a to 420e–1 1951 420f–420h 1821 421, 422 1585 423 1584 424 1582 425 1585 426 1587 427 1586 428 1588 429–442 T. 46 §§ 1351–1364 (See Rev. T. 46 Table) 443 1583 444, 445 1581 446 1584 451 7 452 1111 453 1112 454 1111, 1112 455 113 456 1113 457 2031 458 2032 459 2198 460 2198, 3286, 3614 461 1115 462 114 463 2111 464 81, 1363 465 81, 1363 466 661 467 662, 3435 467a 1025 468 13 469–474 2199 481 1651 482 2191 483 2192 484 2193 485 1655 486 2195 487 2271 488 1658 489 1659 490 2276 491 2272 492 2273 493 1661 494 1654 495 1652 496 1653 497 1656 498 1657 499, 500 969 501 9 502 5, 2275 503, 504 2277 505 1081 506 1082 507 1083 508, 511–518 Rep. 518a 1384 519–521 Rep. 522 1991 523 244 532–535 Rep. 536 T. 50",
       "tags": [],
       "relatedArticles": []
+    },
+    {
+      "id": "t18_113",
+      "number": "113",
+      "title": "Assault Within Maritime and Territorial Jurisdiction",
+      "text": "Assault in the special maritime and territorial jurisdiction of the United States is punishable as follows: Assault with intent to commit murder or a felony, by imprisonment for not more than twenty years. Assault with intent to commit any felony, by imprisonment for not more than ten years. Assault with a dangerous weapon, with intent to do bodily harm, by imprisonment for not more than ten years.",
+      "tags": [
+        "assault",
+        "maritime",
+        "territory",
+        "dangerous weapon"
+      ],
+      "relatedArticles": [
+        "t18_111"
+      ]
     },
     {
       "id": "t18_118i",
@@ -96,12 +158,44 @@
       "relatedArticles": []
     },
     {
+      "id": "t18_201",
+      "number": "201",
+      "title": "Bribery of Public Officials",
+      "text": "Whoever corruptly gives, offers or promises anything of value to any public official or person who has been selected to be a public official, with intent to influence any official act shall be fined under this title or not more than three times the monetary equivalent of the thing of value, whichever is greater, or imprisoned for not more than fifteen years, or both.",
+      "tags": [
+        "bribery",
+        "corruption",
+        "public official",
+        "federal crime"
+      ],
+      "relatedArticles": [
+        "t18_203",
+        "t18_666"
+      ]
+    },
+    {
       "id": "t18_202",
       "number": "202",
       "title": "Section 202",
       "text": "§ 202 116 1362 117 2074 118 111 119 496 120 551 121 2231, 2232, 2233 122 T. 19",
       "tags": [],
       "relatedArticles": []
+    },
+    {
+      "id": "t18_371",
+      "number": "371",
+      "title": "Conspiracy to Commit Federal Offense",
+      "text": "If two or more persons conspire either to commit any offense against the United States, or to defraud the United States, or any agency thereof in any manner or for any purpose, and one or more of such persons do any act to effect the object of the conspiracy, each shall be fined under this title or imprisoned not more than five years, or both.",
+      "tags": [
+        "conspiracy",
+        "federal offense",
+        "fraud",
+        "five years"
+      ],
+      "relatedArticles": [
+        "t18_2",
+        "t18_1349"
+      ]
     },
     {
       "id": "t18_464",
@@ -150,6 +244,38 @@
       "relatedArticles": []
     },
     {
+      "id": "t18_1001",
+      "number": "1001",
+      "title": "False Statements to Federal Government",
+      "text": "Whoever, in any matter within the jurisdiction of the executive, legislative, or judicial branch of the Government of the United States, knowingly and willfully falsifies, conceals, or covers up by any trick, scheme, or device a material fact; makes any materially false, fictitious, or fraudulent statement or representation; or makes or uses any false writing or document knowing the same to contain any materially false, fictitious, or fraudulent statement or entry; shall be fined under this title, imprisoned not more than 5 years.",
+      "tags": [
+        "false statements",
+        "lying",
+        "federal government",
+        "fraud",
+        "five years"
+      ],
+      "relatedArticles": [
+        "t18_1621"
+      ]
+    },
+    {
+      "id": "t18_1030",
+      "number": "1030",
+      "title": "Computer Fraud and Abuse",
+      "text": "Whoever knowingly accesses a computer without authorization or exceeds authorized access, and thereby obtains information contained in a financial record of a financial institution; information from any department or agency of the United States; or information from any protected computer shall be punished. This section covers unauthorized computer access, computer fraud, and damage to protected computers.",
+      "tags": [
+        "computer fraud",
+        "hacking",
+        "cybercrime",
+        "unauthorized access",
+        "internet"
+      ],
+      "relatedArticles": [
+        "t18_1029"
+      ]
+    },
+    {
       "id": "t18_1167",
       "number": "1167",
       "title": "Section 1167",
@@ -158,12 +284,106 @@
       "relatedArticles": []
     },
     {
+      "id": "t18_1341",
+      "number": "1341",
+      "title": "Mail Fraud",
+      "text": "Whoever, having devised or intending to devise any scheme or artifice to defraud, or for obtaining money or property by means of false or fraudulent pretenses, representations, or promises, for the purpose of executing such scheme or artifice or attempting so to do, places in any post office or authorized depository for mail matter, any matter or thing whatever to be sent or delivered by the Postal Service shall be fined under this title or imprisoned not more than 20 years, or both.",
+      "tags": [
+        "mail fraud",
+        "scheme",
+        "fraud",
+        "postal service",
+        "twenty years"
+      ],
+      "relatedArticles": [
+        "t18_1343"
+      ]
+    },
+    {
+      "id": "t18_1343",
+      "number": "1343",
+      "title": "Wire Fraud",
+      "text": "Whoever, having devised or intending to devise any scheme or artifice to defraud, or for obtaining money or property by means of false or fraudulent pretenses, transmits or causes to be transmitted by means of wire, radio, or television communication in interstate or foreign commerce, any writings, signs, signals, pictures, or sounds for the purpose of executing such scheme or artifice, shall be fined under this title or imprisoned not more than 20 years, or both.",
+      "tags": [
+        "wire fraud",
+        "internet fraud",
+        "scheme",
+        "telecommunications",
+        "twenty years"
+      ],
+      "relatedArticles": [
+        "t18_1341"
+      ]
+    },
+    {
+      "id": "t18_1349",
+      "number": "1349",
+      "title": "Conspiracy to Commit Wire or Mail Fraud",
+      "text": "Any person who attempts or conspires to commit any offense under this chapter shall be subject to the same penalties as those prescribed for the offense, the commission of which was the object of the attempt or conspiracy.",
+      "tags": [
+        "conspiracy",
+        "wire fraud",
+        "mail fraud",
+        "attempt"
+      ],
+      "relatedArticles": [
+        "t18_1341",
+        "t18_1343"
+      ]
+    },
+    {
+      "id": "t18_1503",
+      "number": "1503",
+      "title": "Obstruction of Justice",
+      "text": "Whoever corruptly, or by threats or force, or by any threatening letter or communication, endeavors to influence, intimidate, or impede any grand or petit juror, or officer in or of any court of the United States, in the discharge of his duty, or injures any such grand or petit juror in his person or property on account of any verdict or indictment assented to by him, shall be fined under this title or imprisoned not more than 10 years, or both.",
+      "tags": [
+        "obstruction",
+        "justice",
+        "jury tampering",
+        "court",
+        "ten years"
+      ],
+      "relatedArticles": [
+        "t18_1512"
+      ]
+    },
+    {
+      "id": "t18_1512",
+      "number": "1512",
+      "title": "Witness Tampering",
+      "text": "Whoever knowingly uses intimidation, threatens, or corruptly persuades another person, or attempts to do so, or engages in misleading conduct toward another person, with intent to influence, delay, or prevent the testimony of any person in an official proceeding; cause or induce any person to withhold testimony, or withhold a record, document, or other object, from an official proceeding shall be fined under this title or imprisoned not more than 20 years, or both.",
+      "tags": [
+        "witness tampering",
+        "intimidation",
+        "official proceeding",
+        "testimony"
+      ],
+      "relatedArticles": [
+        "t18_1503"
+      ]
+    },
+    {
       "id": "t18_1557",
       "number": "1557",
       "title": "Section 1557",
       "text": "§ 1557 402(2), (3) 2424 403 Rep. 404 2421 405–407 Rep. 407a 1231 408 10, 2311, 2312, 2313 408a 1201 408b 10 408c 1201 408c–1 1202 408d 875, 3239 408e 1073 409 659, 660, 2117 410, 411 659 412 660 412a 1992 413 Rep. 414(a) 10 414(b), (c) 2311 415 2314 416 2315 417 2311 418, 418a, 419 Rep. 419a(a) 2311 419a(b) 10 419b 2316 419c 2317 419d Rep. 420 T. 4",
       "tags": [],
       "relatedArticles": []
+    },
+    {
+      "id": "t18_1621",
+      "number": "1621",
+      "title": "Perjury",
+      "text": "Whoever having taken an oath before a competent tribunal, officer, or person, in any case in which a law of the United States authorizes an oath to be administered, that he will testify, declare, depose, or certify truly, willfully and contrary to such oath states or subscribes any material matter which he does not believe to be true is guilty of perjury and shall, except as otherwise expressly provided by law, be fined under this title or imprisoned not more than five years, or both.",
+      "tags": [
+        "perjury",
+        "lying under oath",
+        "testimony",
+        "false statement"
+      ],
+      "relatedArticles": [
+        "t18_1001"
+      ]
     },
     {
       "id": "t18_1822",
