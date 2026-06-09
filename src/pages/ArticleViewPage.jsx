@@ -35,6 +35,9 @@ export default function ArticleViewPage() {
   const [relatedArticles, setRelatedArticles] = useState([])
   const [copied, setCopied] = useState(false)
   const [entered, setEntered] = useState(false)
+  const [explanation, setExplanation] = useState(null)
+  const [loadingExplanation, setLoadingExplanation] = useState(false)
+  const [explanationLang, setExplanationLang] = useState('pt')
 
   const codeKey = getCodeKeyFromId(articleId)
   const meta = CODE_META[codeKey] || { label: 'Legal Code', color: '#666', spine: '#999', bg: '#f9f9f9' }
@@ -64,6 +67,56 @@ export default function ArticleViewPage() {
     navigator.clipboard.writeText(window.location.href)
     setCopied(true)
     setTimeout(() => setCopied(false), 2000)
+  }
+
+  async function handleExplain(lang) {
+    if (loadingExplanation) return
+    setExplanationLang(lang)
+    setLoadingExplanation(true)
+    setExplanation(null)
+
+    const cacheKey = `lexglobe_explain_${articleId}_${lang}`
+    const cached = localStorage.getItem(cacheKey)
+    if (cached) {
+      setExplanation(cached)
+      setLoadingExplanation(false)
+      return
+    }
+
+    try {
+      const prompt = lang === 'pt'
+        ? `Explique o Art. ${article.number} (${article.title}) do direito brasileiro de forma clara e simples, como se estivesse explicando para alguém sem formação jurídica. Use linguagem do dia a dia, dê um exemplo prático se possível. Máximo 3 parágrafos curtos.\n\nTexto do artigo: ${article.text.slice(0, 800)}`
+        : `Explain Art. ${article.number} (${article.title}) of Brazilian law in plain English, as if explaining to someone with no legal background. Use everyday language and give a practical example if possible. Maximum 3 short paragraphs.\n\nArticle text: ${article.text.slice(0, 800)}`
+
+      const response = await fetch('https://api.anthropic.com/v1/messages', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'x-api-key': import.meta.env.VITE_CLAUDE_API_KEY,
+          'anthropic-version': '2023-06-01',
+          'anthropic-dangerous-direct-browser-access': 'true',
+        },
+        body: JSON.stringify({
+          model: 'claude-sonnet-4-6',
+          max_tokens: 400,
+          messages: [{ role: 'user', content: prompt }],
+        }),
+      })
+
+      const data = await response.json()
+      const text = data?.content?.[0]?.text?.trim()
+      if (text) {
+        setExplanation(text)
+        localStorage.setItem(cacheKey, text)
+      } else {
+        setExplanation('Não foi possível gerar uma explicação. Verifique sua chave de API.')
+      }
+    } catch (err) {
+      console.error('Explain error:', err)
+      setExplanation('Erro ao conectar com o assistente. Tente novamente.')
+    }
+
+    setLoadingExplanation(false)
   }
 
   if (!article) {
@@ -156,29 +209,120 @@ export default function ArticleViewPage() {
           </div>
         )}
 
-        {/* Ask AI button */}
-        <Link
-          to={`/assistant/${countryCode}?article=${articleId}`}
-          className="flex items-center gap-3 p-4 rounded-2xl mb-8 transition-all
-            hover:shadow-md group"
-          style={{ background: meta.bg, border: `1px solid ${meta.spine}44` }}
+        {/* Explain this law section */}
+        <div
+          className="rounded-2xl mb-8 overflow-hidden"
+          style={{ border: `1px solid ${meta.spine}33` }}
         >
+          {/* Header */}
           <div
-            className="w-10 h-10 rounded-xl flex items-center justify-center text-lg flex-shrink-0"
-            style={{ backgroundColor: meta.spine + '33' }}
+            className="flex items-center justify-between px-5 py-4"
+            style={{ background: meta.bg }}
           >
-            ✦
+            <div className="flex items-center gap-3">
+              <div
+                className="w-9 h-9 rounded-xl flex items-center justify-center text-base flex-shrink-0"
+                style={{ backgroundColor: meta.spine + '33' }}
+              >
+                ✦
+              </div>
+              <div>
+                <p className="font-semibold text-sm" style={{ color: meta.color }}>
+                  Explain this law
+                </p>
+                <p className="text-xs text-gray-500 mt-0.5">
+                  Plain language, no legal jargon
+                </p>
+              </div>
+            </div>
+            {!explanation && !loadingExplanation && (
+              <div className="flex gap-2">
+                <button
+                  onClick={() => handleExplain('pt')}
+                  className="px-3 py-1.5 rounded-lg text-xs font-semibold text-white transition-colors"
+                  style={{ backgroundColor: meta.spine }}
+                >
+                  🇧🇷 Português
+                </button>
+                <button
+                  onClick={() => handleExplain('en')}
+                  className="px-3 py-1.5 rounded-lg text-xs font-semibold border transition-colors"
+                  style={{ borderColor: meta.spine + '66', color: meta.color }}
+                >
+                  🇺🇸 English
+                </button>
+              </div>
+            )}
+            {explanation && (
+              <div className="flex gap-2">
+                <button
+                  onClick={() => handleExplain('pt')}
+                  className="px-2.5 py-1 rounded-lg text-xs font-medium transition-colors"
+                  style={{
+                    backgroundColor: explanationLang === 'pt' ? meta.spine : 'transparent',
+                    color: explanationLang === 'pt' ? 'white' : meta.color,
+                    border: `1px solid ${meta.spine}66`,
+                  }}
+                >
+                  PT
+                </button>
+                <button
+                  onClick={() => handleExplain('en')}
+                  className="px-2.5 py-1 rounded-lg text-xs font-medium transition-colors"
+                  style={{
+                    backgroundColor: explanationLang === 'en' ? meta.spine : 'transparent',
+                    color: explanationLang === 'en' ? 'white' : meta.color,
+                    border: `1px solid ${meta.spine}66`,
+                  }}
+                >
+                  EN
+                </button>
+                <button
+                  onClick={() => { setExplanation(null) }}
+                  className="px-2.5 py-1 rounded-lg text-xs text-gray-400 hover:text-gray-600 transition-colors"
+                >
+                  ✕
+                </button>
+              </div>
+            )}
           </div>
-          <div>
-            <p className="font-semibold text-sm" style={{ color: meta.color }}>
-              Ask AI about this article
-            </p>
-            <p className="text-xs text-gray-500 mt-0.5">
-              Get a plain-language explanation in Portuguese or English
-            </p>
-          </div>
-          <span className="ml-auto text-gray-400 group-hover:translate-x-1 transition-transform">→</span>
-        </Link>
+
+          {/* Loading state */}
+          {loadingExplanation && (
+            <div className="px-5 py-5 bg-white flex items-center gap-3">
+              <div className="flex gap-1">
+                <div className="w-1.5 h-1.5 rounded-full animate-bounce bg-gray-300"
+                  style={{ animationDelay: '0ms' }} />
+                <div className="w-1.5 h-1.5 rounded-full animate-bounce bg-gray-300"
+                  style={{ animationDelay: '150ms' }} />
+                <div className="w-1.5 h-1.5 rounded-full animate-bounce bg-gray-300"
+                  style={{ animationDelay: '300ms' }} />
+              </div>
+              <span className="text-xs text-gray-400">Generating explanation...</span>
+            </div>
+          )}
+
+          {/* Explanation text */}
+          {explanation && !loadingExplanation && (
+            <div className="px-5 py-5 bg-white">
+              <p className="text-sm text-gray-700 leading-relaxed whitespace-pre-line">
+                {explanation}
+              </p>
+              <div className="mt-4 pt-3 border-t border-gray-100 flex items-center justify-between">
+                <p className="text-xs text-gray-400">
+                  AI-generated · For educational purposes only
+                </p>
+                <Link
+                  to={`/assistant/${countryCode}?article=${articleId}`}
+                  className="text-xs font-medium transition-colors"
+                  style={{ color: meta.color }}
+                >
+                  Ask follow-up →
+                </Link>
+              </div>
+            </div>
+          )}
+        </div>
 
         {/* Related articles */}
         {relatedArticles.length > 0 && (
