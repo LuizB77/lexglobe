@@ -21,6 +21,17 @@ export default function CodeIllustration({ codeKey }) {
     codigoPenalES:        '/illustrations/codigoPenalES.png',
     codigoCivilES:        '/illustrations/codigoCivilES.png',
     estatutoTrabajadores: '/illustrations/estatutoTrabajadores.png',
+    // USA
+    usConstitution:        '/illustrations/usConstitution.png',
+    title18Criminal:       '/illustrations/title18Criminal.png',
+    title42CivilRights:    '/illustrations/title42CivilRights.png',
+    title29Labor:          '/illustrations/title29Labor.png',
+    title26Tax:            '/illustrations/title26Tax.png',
+    title15Commerce:       '/illustrations/title15Commerce.png',
+    title8Immigration:     '/illustrations/title8Immigration.png',
+    title20Education:      '/illustrations/title20Education.png',
+    title31Finance:        '/illustrations/title31Finance.png',
+    title49Transportation: '/illustrations/title49Transportation.png',
   }
 
   const src = images[codeKey]
