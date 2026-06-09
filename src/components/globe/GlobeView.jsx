@@ -60,12 +60,93 @@ function getDayColor(feat, isHovered, isActive) {
   return 'rgba(105, 128, 78, 0.8)'
 }
 
-function solidColorImageUrl(hex) {
+function createOceanTexture(nightMode) {
   const canvas = document.createElement('canvas')
-  canvas.width = 2; canvas.height = 2
+  canvas.width = 512
+  canvas.height = 256
   const ctx = canvas.getContext('2d')
-  ctx.fillStyle = hex
-  ctx.fillRect(0, 0, 2, 2)
+
+  if (nightMode) {
+    const gradient = ctx.createLinearGradient(0, 0, 512, 256)
+    gradient.addColorStop(0, '#050d1f')
+    gradient.addColorStop(0.3, '#071528')
+    gradient.addColorStop(0.6, '#060e20')
+    gradient.addColorStop(1, '#040c1a')
+    ctx.fillStyle = gradient
+    ctx.fillRect(0, 0, 512, 256)
+
+    for (let i = 0; i < 200; i++) {
+      const x = Math.random() * 512
+      const y = Math.random() * 256
+      const r = Math.random() * 1.5
+      ctx.beginPath()
+      ctx.arc(x, y, r, 0, Math.PI * 2)
+      ctx.fillStyle = `rgba(30, 80, 160, ${Math.random() * 0.15})`
+      ctx.fill()
+    }
+
+    for (let i = 0; i < 30; i++) {
+      const x = Math.random() * 512
+      const y = Math.random() * 256
+      ctx.beginPath()
+      ctx.moveTo(x, y)
+      ctx.lineTo(x + (Math.random() - 0.5) * 20, y + Math.random() * 8)
+      ctx.strokeStyle = `rgba(100, 150, 255, ${Math.random() * 0.08})`
+      ctx.lineWidth = Math.random() * 1.5
+      ctx.stroke()
+    }
+  } else {
+    const gradient = ctx.createLinearGradient(0, 0, 0, 256)
+    gradient.addColorStop(0, '#2171b5')
+    gradient.addColorStop(0.2, '#3182bd')
+    gradient.addColorStop(0.5, '#4292c6')
+    gradient.addColorStop(0.8, '#5ba3d0')
+    gradient.addColorStop(1, '#74b9e0')
+    ctx.fillStyle = gradient
+    ctx.fillRect(0, 0, 512, 256)
+
+    for (let y = 0; y < 256; y += 3) {
+      ctx.beginPath()
+      for (let x = 0; x < 512; x += 4) {
+        const wave = Math.sin((x + y * 2) * 0.05) * 1.5
+        if (x === 0) ctx.moveTo(x, y + wave)
+        else ctx.lineTo(x, y + wave)
+      }
+      ctx.strokeStyle = `rgba(255, 255, 255, ${0.02 + Math.random() * 0.02})`
+      ctx.lineWidth = 0.5
+      ctx.stroke()
+    }
+
+    for (let i = 0; i < 40; i++) {
+      const x = Math.random() * 512
+      const y = Math.random() * 256
+      const rx = 20 + Math.random() * 60
+      const ry = 10 + Math.random() * 30
+      const grad = ctx.createRadialGradient(x, y, 0, x, y, rx)
+      grad.addColorStop(0, `rgba(10, 60, 120, ${Math.random() * 0.15})`)
+      grad.addColorStop(1, 'rgba(0,0,0,0)')
+      ctx.fillStyle = grad
+      ctx.beginPath()
+      ctx.ellipse(x, y, rx, ry, Math.random() * Math.PI, 0, Math.PI * 2)
+      ctx.fill()
+    }
+
+    for (let i = 0; i < 80; i++) {
+      const x = Math.random() * 512
+      const y = Math.random() * 256
+      ctx.beginPath()
+      ctx.arc(x, y, Math.random() * 1.5, 0, Math.PI * 2)
+      ctx.fillStyle = `rgba(255, 255, 255, ${Math.random() * 0.12})`
+      ctx.fill()
+    }
+
+    const coastGrad = ctx.createRadialGradient(256, 128, 80, 256, 128, 200)
+    coastGrad.addColorStop(0, 'rgba(0,0,0,0)')
+    coastGrad.addColorStop(1, 'rgba(100, 200, 220, 0.08)')
+    ctx.fillStyle = coastGrad
+    ctx.fillRect(0, 0, 512, 256)
+  }
+
   return canvas.toDataURL()
 }
 
@@ -202,7 +283,7 @@ export default function GlobeView({ onCountryClick, onCountryHover, globeRef: ex
     }
   }, [getCountryData, onCountryClick, onMobileCountryTap, isMobile])
 
-  const oceanColor = nightMode ? '#0a1628' : '#4a90c4'
+  const oceanTexture = createOceanTexture(nightMode)
   const bgColor = nightMode ? '#050d1a' : '#f5f5f0'
   const atmosphereColor = nightMode ? '#1a3a6a' : '#c8d8e8'
 
@@ -214,7 +295,7 @@ export default function GlobeView({ onCountryClick, onCountryHover, globeRef: ex
         width={dimensions.width}
         height={dimensions.height}
         backgroundColor="rgba(0,0,0,0)"
-        globeImageUrl={solidColorImageUrl(oceanColor)}
+        globeImageUrl={oceanTexture}
         showGraticules={false}
         showAtmosphere={true}
         atmosphereColor={atmosphereColor}
