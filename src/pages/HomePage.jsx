@@ -5,6 +5,7 @@ import ComingSoonPanel from '../components/panels/ComingSoonPanel'
 import DailyLawBanner from '../components/ui/DailyLawBanner'
 import UserMenu from '../components/ui/UserMenu'
 import AuthModal from '../components/ui/AuthModal'
+import HeroOverlay from '../components/ui/HeroOverlay'
 import { useAuth } from '../context/AuthContext'
 
 function BrazilPanel({ visible, onEnter }) {
@@ -107,6 +108,17 @@ export default function HomePage() {
   const [brazilHovered, setBrazilHovered] = useState(false)
   const [portugalHovered, setPortugalHovered] = useState(false)
   const [authModal, setAuthModal] = useState(null) // { country, globeInstance }
+  const [showHero, setShowHero] = useState(() => {
+    const lastVisit = localStorage.getItem('lexglobe_last_visit')
+    if (!lastVisit) return true
+    const hoursSince = (Date.now() - parseInt(lastVisit)) / (1000 * 60 * 60)
+    return hoursSince > 24
+  })
+
+  function handleHeroDismiss() {
+    localStorage.setItem('lexglobe_last_visit', Date.now().toString())
+    setShowHero(false)
+  }
   const isMobile = window.innerWidth < 768
 
   function enterCountry(country, globeInstance) {
@@ -199,6 +211,10 @@ export default function HomePage() {
         className="absolute inset-0 pointer-events-none z-40 transition-opacity duration-500"
         style={{ backgroundColor: 'white', opacity: transitioning ? 1 : 0 }}
       />
+
+      {showHero && (
+        <HeroOverlay onDismiss={handleHeroDismiss} />
+      )}
 
       <BrazilPanel
         visible={brazilHovered && !authModal}
