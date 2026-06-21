@@ -232,9 +232,15 @@ export default function GlobeView({ onCountryClick, onCountryHover, globeRef: ex
 
   const polygonAltitude = useCallback((feat) => {
     const code = getCountryCode(feat)
-    if (code && ACTIVE_CODES.has(code) && feat.id === hoveredId) return 0.025
-    if (code && ACTIVE_CODES.has(code)) return 0.01
-    return 0.001
+    const isActive = code ? ACTIVE_CODES.has(code) : false
+    const isHovered = feat.id === hoveredId
+    // Keep altitude minimal and uniform — large flat polygons
+    // crossing the shader's day/night boundary distort badly
+    // at higher altitudes. Use stroke width/color for emphasis
+    // instead of elevation.
+    if (isActive && isHovered) return 0.012
+    if (isActive) return 0.004
+    return 0.0005
   }, [hoveredId, getCountryCode])
 
   const handleHover = useCallback((feat) => {
@@ -292,6 +298,8 @@ export default function GlobeView({ onCountryClick, onCountryHover, globeRef: ex
         polygonSideColor={() => 'rgba(0,0,0,0)'}
         polygonStrokeColor={polygonStroke}
         polygonAltitude={polygonAltitude}
+        polygonsTransitionDuration={300}
+        polygonCapCurvatureResolution={5}
         onPolygonHover={handleHover}
         onPolygonClick={handleClick}
         onZoom={handleZoom}
