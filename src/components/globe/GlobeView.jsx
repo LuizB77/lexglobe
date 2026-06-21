@@ -235,19 +235,11 @@ export default function GlobeView({ onCountryClick, onCountryHover, globeRef: ex
   }, [getCountryCode, hoveredId])
 
   const polygonAltitude = useCallback((feat) => {
-    const code = getCountryCode(feat)
-    const isActive = code ? ACTIVE_CODES.has(code) : false
     const isHovered = feat.id === hoveredId
-    // Keep altitude minimal and uniform — large flat polygons
-    // crossing the shader's day/night boundary distort badly
-    // at higher altitudes. Use stroke width/color for emphasis
-    // instead of elevation.
-    if (isActive && isHovered) return 0.012
-    if (isActive) return 0.004
-    // Inactive countries: zero altitude — perfectly flat against
-    // the sphere surface, eliminates geometry-based shader seams
-    return 0
-  }, [hoveredId, getCountryCode])
+    // ALL countries share the same base altitude now.
+    // Only hover state changes altitude, and by a small amount.
+    return isHovered ? 0.01 : 0.004
+  }, [hoveredId])
 
   const handleHover = useCallback((feat) => {
     const globe = globeRef.current
