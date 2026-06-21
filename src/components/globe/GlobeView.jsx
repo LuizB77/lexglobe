@@ -214,20 +214,24 @@ export default function GlobeView({ onCountryClick, onCountryHover, globeRef: ex
     const isHovered = feat.id === hoveredId
     const isActive = code ? ACTIVE_CODES.has(code) : false
     if (isHovered && isActive) return 'rgba(180, 230, 200, 0.35)'
-    if (isHovered) return 'rgba(255, 255, 255, 0.15)'
-    // Active countries get NO fill — just a border outline so the real photo texture underneath stays clean
+    if (isHovered && !isActive) return 'rgba(255, 255, 255, 0.12)'
+    // Fully transparent for inactive, non-hovered — combined
+    // with 0 altitude this means no geometry distortion at all
     return 'rgba(0, 0, 0, 0)'
   }, [hoveredId, getCountryCode])
 
   const polygonStroke = useCallback((feat) => {
     const code = getCountryCode(feat)
     const isHovered = feat.id === hoveredId
-    if (code && ACTIVE_CODES.has(code)) {
+    const isActive = code ? ACTIVE_CODES.has(code) : false
+    if (isActive) {
       return isHovered
         ? 'rgba(180, 230, 200, 0.9)'
         : 'rgba(150, 200, 255, 0.75)'
     }
-    return 'rgba(255,255,255,0.08)'
+    // Inactive countries: very faint border, only slightly
+    // brighter on hover, no altitude change accompanying it
+    return isHovered ? 'rgba(255,255,255,0.3)' : 'rgba(255,255,255,0.06)'
   }, [getCountryCode, hoveredId])
 
   const polygonAltitude = useCallback((feat) => {
@@ -240,7 +244,9 @@ export default function GlobeView({ onCountryClick, onCountryHover, globeRef: ex
     // instead of elevation.
     if (isActive && isHovered) return 0.012
     if (isActive) return 0.004
-    return 0.0005
+    // Inactive countries: zero altitude — perfectly flat against
+    // the sphere surface, eliminates geometry-based shader seams
+    return 0
   }, [hoveredId, getCountryCode])
 
   const handleHover = useCallback((feat) => {
