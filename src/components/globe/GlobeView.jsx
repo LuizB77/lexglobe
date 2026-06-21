@@ -12,7 +12,7 @@ const EARTH_DAY_TEXTURE = 'https://cdn.jsdelivr.net/npm/three-globe/example/img/
 const EARTH_NIGHT_TEXTURE = 'https://cdn.jsdelivr.net/npm/three-globe/example/img/earth-night.jpg'
 const EARTH_BUMP_TEXTURE = 'https://cdn.jsdelivr.net/npm/three-globe/example/img/earth-topology.png'
 
-const VELOCITY = 1 // minutes per frame — controls real-time sun movement speed
+const VELOCITY = 0 // 0 = use real current time only, no fast-forward
 
 const dayNightShader = {
   vertexShader: `
@@ -91,13 +91,13 @@ export default function GlobeView({ onCountryClick, onCountryHover, globeRef: ex
 
   // Advance simulated time for sun movement (real-time-ish day/night drift)
   useEffect(() => {
-    let frame
-    function iterateTime() {
-      setDt(prev => prev + VELOCITY * 60 * 1000)
-      frame = requestAnimationFrame(iterateTime)
-    }
-    iterateTime()
-    return () => cancelAnimationFrame(frame)
+    // Update to real current time every 60 seconds —
+    // sun position changes very slowly in reality, no need
+    // to recompute every frame
+    const interval = setInterval(() => {
+      setDt(+new Date())
+    }, 60000)
+    return () => clearInterval(interval)
   }, [])
 
   // Load day/night textures and build shader material once
@@ -213,24 +213,27 @@ export default function GlobeView({ onCountryClick, onCountryHover, globeRef: ex
     const code = getCountryCode(feat)
     const isHovered = feat.id === hoveredId
     const isActive = code ? ACTIVE_CODES.has(code) : false
-    if (isHovered && isActive) return 'rgba(180, 230, 200, 0.55)'
-    if (isHovered) return 'rgba(255, 255, 255, 0.25)'
-    if (isActive) return 'rgba(127, 119, 221, 0.18)'
+    if (isHovered && isActive) return 'rgba(180, 230, 200, 0.35)'
+    if (isHovered) return 'rgba(255, 255, 255, 0.15)'
+    // Active countries get NO fill — just a border outline so the real photo texture underneath stays clean
     return 'rgba(0, 0, 0, 0)'
   }, [hoveredId, getCountryCode])
 
   const polygonStroke = useCallback((feat) => {
     const code = getCountryCode(feat)
+    const isHovered = feat.id === hoveredId
     if (code && ACTIVE_CODES.has(code)) {
-      return 'rgba(150, 200, 255, 0.6)'
+      return isHovered
+        ? 'rgba(180, 230, 200, 0.9)'
+        : 'rgba(150, 200, 255, 0.75)'
     }
-    return 'rgba(255,255,255,0.1)'
-  }, [getCountryCode])
+    return 'rgba(255,255,255,0.08)'
+  }, [getCountryCode, hoveredId])
 
   const polygonAltitude = useCallback((feat) => {
     const code = getCountryCode(feat)
-    if (code && ACTIVE_CODES.has(code) && feat.id === hoveredId) return 0.02
-    if (code && ACTIVE_CODES.has(code)) return 0.008
+    if (code && ACTIVE_CODES.has(code) && feat.id === hoveredId) return 0.025
+    if (code && ACTIVE_CODES.has(code)) return 0.01
     return 0.001
   }, [hoveredId, getCountryCode])
 
