@@ -2,9 +2,9 @@ import { useState, useEffect } from 'react'
 import { useAuth } from '../../context/AuthContext'
 
 const TAGLINES = [
-  { lang: 'en', text: 'Explore the Law of the World' },
-  { lang: 'pt', text: 'Explore o Direito do Mundo' },
-  { lang: 'es', text: 'Explora el Derecho del Mundo' },
+  { lang: 'en', text: "Moving countries shouldn't mean losing track of your rights" },
+  { lang: 'pt', text: 'Mudar de país não deveria significar perder seus direitos' },
+  { lang: 'es', text: 'Cambiar de país no debería significar perder tus derechos' },
 ]
 
 export default function HeroOverlay({ onDismiss }) {
@@ -53,9 +53,13 @@ export default function HeroOverlay({ onDismiss }) {
       >
         {/* Logo */}
         <div className="text-5xl mb-4">🌐</div>
-        <h1 className="text-3xl sm:text-4xl font-black text-gray-900 mb-3 tracking-tight">
+        <h1 className="text-3xl sm:text-4xl font-black text-gray-900 mb-2 tracking-tight">
           LexGlobe
         </h1>
+        <p className="text-sm text-gray-500 mb-4 max-w-sm">
+          Legal answers across Brazil, Portugal, Spain & the US —
+          explained in plain language, in your language.
+        </p>
 
         {/* Cycling tagline */}
         <p
@@ -90,9 +94,7 @@ export default function HeroOverlay({ onDismiss }) {
             '🇵🇹 Portugal',
             '🇪🇸 Spain',
             '🇺🇸 USA',
-            '📰 35,000+ articles',
-            '✦ AI Assistant',
-            '📅 Daily Law',
+            '✦ Plain-Language AI',
           ].map(badge => (
             <span
               key={badge}
