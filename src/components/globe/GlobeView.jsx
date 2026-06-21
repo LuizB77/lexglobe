@@ -6,162 +6,15 @@ const ACTIVE_CODES = new Set(
   countries.filter(c => c.active).map(c => c.code)
 )
 
-let cachedDayTexture = null
-let cachedNightTexture = null
-
-function getOceanTexture(nightMode) {
-  if (nightMode) {
-    if (!cachedNightTexture) cachedNightTexture = createOceanTexture(true)
-    return cachedNightTexture
-  } else {
-    if (!cachedDayTexture) cachedDayTexture = createOceanTexture(false)
-    return cachedDayTexture
-  }
-}
+const EARTH_DAY_TEXTURE = '//cdn.jsdelivr.net/npm/three-globe/example/img/earth-blue-marble.jpg'
+const EARTH_NIGHT_TEXTURE = '//cdn.jsdelivr.net/npm/three-globe/example/img/earth-night.jpg'
+const EARTH_BUMP_TEXTURE = '//cdn.jsdelivr.net/npm/three-globe/example/img/earth-topology.png'
 
 function isNightTime() {
   const hour = new Date().getHours()
   return hour >= 19 || hour < 6
 }
 
-function getNightColor(feat, isHovered, isActive) {
-  if (isHovered && isActive) return 'rgba(180, 230, 200, 0.95)'
-  if (isHovered) return 'rgba(80, 100, 140, 0.9)'
-  const id = Number(feat?.id || 0)
-  if (isActive) return 'rgba(60, 80, 120, 0.85)'
-  if ([76, 840, 156, 356, 276, 250, 643, 36, 124, 826].includes(id))
-    return 'rgba(25, 35, 55, 0.9)'
-  return 'rgba(20, 28, 45, 0.85)'
-}
-
-function getDayColor(feat, isHovered, isActive) {
-  if (isHovered && isActive) return 'rgba(180, 230, 200, 0.95)'
-  if (isHovered) return 'rgba(200, 235, 215, 0.85)'
-  const id = Number(feat?.id || 0)
-
-  if ([304, 10].includes(id)) return 'rgba(230, 240, 255, 0.9)'
-
-  if ([76, 170, 218, 604, 862, 858, 600, 192, 332].includes(id))
-    return 'rgba(74, 122, 74, 0.85)'
-  if ([356, 144, 50, 104, 116, 418, 408, 704, 764, 360, 458].includes(id))
-    return 'rgba(82, 130, 70, 0.85)'
-  if ([566, 288, 384, 430, 694, 624, 466].includes(id))
-    return 'rgba(88, 138, 60, 0.8)'
-  if ([710, 508, 834, 800, 646, 450].includes(id))
-    return 'rgba(96, 130, 60, 0.8)'
-  if ([404, 231, 706, 686, 226, 120].includes(id))
-    return 'rgba(100, 124, 56, 0.8)'
-
-  if ([12, 434, 788, 818, 729, 706, 887, 682, 400, 368, 364, 784].includes(id))
-    return 'rgba(180, 150, 100, 0.85)'
-  if ([4, 586, 860].includes(id))
-    return 'rgba(170, 145, 100, 0.8)'
-
-  if ([840, 124, 484, 32, 152, 68, 600, 858, 320, 340, 222, 558, 214, 188].includes(id))
-    return 'rgba(130, 145, 85, 0.85)'
-  if ([276, 250, 380, 724, 620, 528, 56, 756, 40, 203, 703, 616, 348].includes(id))
-    return 'rgba(110, 140, 90, 0.85)'
-
-  if ([643, 398, 860, 762, 795, 496, 417].includes(id))
-    return 'rgba(148, 138, 100, 0.8)'
-
-  if ([156].includes(id)) return 'rgba(120, 145, 80, 0.85)'
-  if ([392].includes(id)) return 'rgba(100, 138, 90, 0.85)'
-  if ([36, 554].includes(id)) return 'rgba(90, 148, 80, 0.85)'
-  if ([826].includes(id)) return 'rgba(100, 140, 88, 0.85)'
-
-  return 'rgba(105, 128, 78, 0.8)'
-}
-
-function createOceanTexture(nightMode) {
-  const canvas = document.createElement('canvas')
-  canvas.width = 512
-  canvas.height = 256
-  const ctx = canvas.getContext('2d')
-
-  if (nightMode) {
-    const gradient = ctx.createLinearGradient(0, 0, 512, 256)
-    gradient.addColorStop(0, '#050d1f')
-    gradient.addColorStop(0.3, '#071528')
-    gradient.addColorStop(0.6, '#060e20')
-    gradient.addColorStop(1, '#040c1a')
-    ctx.fillStyle = gradient
-    ctx.fillRect(0, 0, 512, 256)
-
-    for (let i = 0; i < 200; i++) {
-      const x = Math.random() * 512
-      const y = Math.random() * 256
-      const r = Math.random() * 1.5
-      ctx.beginPath()
-      ctx.arc(x, y, r, 0, Math.PI * 2)
-      ctx.fillStyle = `rgba(30, 80, 160, ${Math.random() * 0.15})`
-      ctx.fill()
-    }
-
-    for (let i = 0; i < 30; i++) {
-      const x = Math.random() * 512
-      const y = Math.random() * 256
-      ctx.beginPath()
-      ctx.moveTo(x, y)
-      ctx.lineTo(x + (Math.random() - 0.5) * 20, y + Math.random() * 8)
-      ctx.strokeStyle = `rgba(100, 150, 255, ${Math.random() * 0.08})`
-      ctx.lineWidth = Math.random() * 1.5
-      ctx.stroke()
-    }
-  } else {
-    const gradient = ctx.createLinearGradient(0, 0, 0, 256)
-    gradient.addColorStop(0, '#2171b5')
-    gradient.addColorStop(0.2, '#3182bd')
-    gradient.addColorStop(0.5, '#4292c6')
-    gradient.addColorStop(0.8, '#5ba3d0')
-    gradient.addColorStop(1, '#74b9e0')
-    ctx.fillStyle = gradient
-    ctx.fillRect(0, 0, 512, 256)
-
-    for (let y = 0; y < 256; y += 3) {
-      ctx.beginPath()
-      for (let x = 0; x < 512; x += 4) {
-        const wave = Math.sin((x + y * 2) * 0.05) * 1.5
-        if (x === 0) ctx.moveTo(x, y + wave)
-        else ctx.lineTo(x, y + wave)
-      }
-      ctx.strokeStyle = `rgba(255, 255, 255, ${0.02 + Math.random() * 0.02})`
-      ctx.lineWidth = 0.5
-      ctx.stroke()
-    }
-
-    for (let i = 0; i < 40; i++) {
-      const x = Math.random() * 512
-      const y = Math.random() * 256
-      const rx = 20 + Math.random() * 60
-      const ry = 10 + Math.random() * 30
-      const grad = ctx.createRadialGradient(x, y, 0, x, y, rx)
-      grad.addColorStop(0, `rgba(10, 60, 120, ${Math.random() * 0.15})`)
-      grad.addColorStop(1, 'rgba(0,0,0,0)')
-      ctx.fillStyle = grad
-      ctx.beginPath()
-      ctx.ellipse(x, y, rx, ry, Math.random() * Math.PI, 0, Math.PI * 2)
-      ctx.fill()
-    }
-
-    for (let i = 0; i < 80; i++) {
-      const x = Math.random() * 512
-      const y = Math.random() * 256
-      ctx.beginPath()
-      ctx.arc(x, y, Math.random() * 1.5, 0, Math.PI * 2)
-      ctx.fillStyle = `rgba(255, 255, 255, ${Math.random() * 0.12})`
-      ctx.fill()
-    }
-
-    const coastGrad = ctx.createRadialGradient(256, 128, 80, 256, 128, 200)
-    coastGrad.addColorStop(0, 'rgba(0,0,0,0)')
-    coastGrad.addColorStop(1, 'rgba(100, 200, 220, 0.08)')
-    ctx.fillStyle = coastGrad
-    ctx.fillRect(0, 0, 512, 256)
-  }
-
-  return canvas.toDataURL()
-}
 
 export default function GlobeView({ onCountryClick, onCountryHover, globeRef: externalRef, onMobileCountryTap }) {
   const internalRef = useRef()
@@ -247,26 +100,26 @@ export default function GlobeView({ onCountryClick, onCountryHover, globeRef: ex
     const code = getCountryCode(feat)
     const isHovered = feat.id === hoveredId
     const isActive = code ? ACTIVE_CODES.has(code) : false
-    return nightMode
-      ? getNightColor(feat, isHovered, isActive)
-      : getDayColor(feat, isHovered, isActive)
-  }, [hoveredId, getCountryCode, nightMode])
+
+    if (isHovered && isActive) return 'rgba(180, 230, 200, 0.55)'
+    if (isHovered) return 'rgba(255, 255, 255, 0.25)'
+    if (isActive) return 'rgba(127, 119, 221, 0.18)'
+    return 'rgba(0, 0, 0, 0)'
+  }, [hoveredId, getCountryCode])
 
   const polygonAltitude = useCallback((feat) => {
     const code = getCountryCode(feat)
-    if (code && ACTIVE_CODES.has(code) && feat.id === hoveredId) return 0.06
-    if (code && ACTIVE_CODES.has(code)) return 0.018
-    return 0.006
+    if (code && ACTIVE_CODES.has(code) && feat.id === hoveredId) return 0.02
+    if (code && ACTIVE_CODES.has(code)) return 0.008
+    return 0.001
   }, [hoveredId, getCountryCode])
 
   const polygonStroke = useCallback((feat) => {
     const code = getCountryCode(feat)
-    if (nightMode) {
-      if (code && ACTIVE_CODES.has(code)) return 'rgba(120, 180, 255, 0.5)'
-      return 'rgba(255,255,255,0.04)'
+    if (code && ACTIVE_CODES.has(code)) {
+      return nightMode ? 'rgba(150, 200, 255, 0.6)' : 'rgba(127, 119, 221, 0.6)'
     }
-    if (code && ACTIVE_CODES.has(code)) return 'rgba(120, 200, 160, 0.7)'
-    return 'rgba(255,255,255,0.06)'
+    return 'rgba(255,255,255,0.1)'
   }, [getCountryCode, nightMode])
 
   const handleHover = useCallback((feat) => {
@@ -296,29 +149,26 @@ export default function GlobeView({ onCountryClick, onCountryHover, globeRef: ex
     }
   }, [getCountryData, onCountryClick, onMobileCountryTap, isMobile])
 
-  const oceanTexture = getOceanTexture(nightMode)
-  const bgColor = nightMode ? '#050d1a' : '#f5f5f0'
-  const atmosphereColor = nightMode ? '#1a3a6a' : '#c8d8e8'
-
   return (
-    <div className="absolute inset-0"
-      style={{ background: bgColor, transition: 'background 2s ease' }}>
+    <div className="absolute inset-0" style={{
+      background: nightMode ? '#000005' : '#f5f5f0',
+      transition: 'background 2s ease'
+    }}>
       <Globe
         ref={globeRef}
         width={dimensions.width}
         height={dimensions.height}
         backgroundColor="rgba(0,0,0,0)"
-        globeImageUrl={oceanTexture}
+        globeImageUrl={nightMode ? EARTH_NIGHT_TEXTURE : EARTH_DAY_TEXTURE}
+        bumpImageUrl={EARTH_BUMP_TEXTURE}
         showGraticules={false}
         showAtmosphere={true}
-        atmosphereColor={atmosphereColor}
-        atmosphereAltitude={0.12}
+        atmosphereColor={nightMode ? '#3a6ea5' : '#8ec5e8'}
+        atmosphereAltitude={0.15}
         polygonsData={globeData}
         polygonGeoJsonGeometry={feat => feat.geometry}
         polygonCapColor={polygonCapColor}
-        polygonSideColor={() => nightMode
-          ? 'rgba(20,40,80,0.4)'
-          : 'rgba(0,0,0,0.2)'}
+        polygonSideColor={() => 'rgba(0,0,0,0)'}
         polygonStrokeColor={polygonStroke}
         polygonAltitude={polygonAltitude}
         onPolygonHover={handleHover}
