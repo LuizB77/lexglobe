@@ -4,10 +4,10 @@ import { motion } from 'framer-motion'
 import { useAuth } from '../../context/AuthContext'
 
 const NAV_ITEMS = [
-  { label: 'Globe', path: '/' },
-  { label: 'Daily Law', path: '/daily' },
-  { label: 'Search', path: '/search' },
-  { label: 'Saved', path: '/bookmarks' },
+  { label: 'Globe', shortLabel: 'Globe', path: '/' },
+  { label: 'Daily Law', shortLabel: 'Daily', path: '/daily' },
+  { label: 'Search', shortLabel: 'Search', path: '/search' },
+  { label: 'Saved', shortLabel: 'Saved', path: '/bookmarks' },
 ]
 
 function Tab({ children, setPosition, onClick, isActive, isGlobe }) {
@@ -21,8 +21,9 @@ function Tab({ children, setPosition, onClick, isActive, isGlobe }) {
         const { width } = ref.current.getBoundingClientRect()
         setPosition({ width, opacity: 1, left: ref.current.offsetLeft })
       }}
-      className="relative z-10 block cursor-pointer px-4 py-2 text-xs
-        font-semibold uppercase tracking-wide select-none"
+      className="relative z-10 block cursor-pointer px-2.5 py-1.5
+        sm:px-4 sm:py-2 text-xs font-semibold uppercase tracking-wide
+        select-none whitespace-nowrap"
       style={{
         color: isGlobe ? 'white' : 'black',
         mixBlendMode: 'difference',
@@ -68,7 +69,7 @@ export default function NavBar() {
       >
         <span className="text-lg">🌐</span>
         <span
-          className="font-black text-sm tracking-tight hidden sm:block"
+          className="font-black text-sm tracking-tight hidden md:block"
           style={{ color: isGlobe ? 'rgba(255,255,255,0.9)' : '#1a1a1a' }}
         >
           LexGlobe
@@ -94,7 +95,8 @@ export default function NavBar() {
               (item.path !== '/' && location.pathname.startsWith(item.path))}
             isGlobe={isGlobe}
           >
-            {item.label}
+            <span className="sm:hidden">{item.shortLabel}</span>
+            <span className="hidden sm:inline">{item.label}</span>
           </Tab>
         ))}
         <SlidingCursor position={position} />
@@ -128,8 +130,9 @@ export default function NavBar() {
       ) : (
         <button
           onClick={() => navigate('/auth')}
-          className="px-4 py-2 rounded-full text-xs font-semibold
-            uppercase tracking-wide transition-colors border-2 flex-shrink-0"
+          className="px-3 py-2 rounded-full text-xs font-semibold
+            uppercase tracking-wide transition-colors border-2
+            flex-shrink-0 whitespace-nowrap"
           style={{
             backgroundColor: isGlobe ? 'rgba(0,0,0,0.35)' : 'white',
             borderColor: isGlobe ? 'rgba(255,255,255,0.25)' : 'black',
