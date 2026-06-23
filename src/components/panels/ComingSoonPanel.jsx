@@ -6,7 +6,12 @@ export default function ComingSoonPanel({ country, onClose }) {
 
   function handleSubmit() {
     if (!email.includes('@')) return
-    const existing = JSON.parse(localStorage.getItem('lexglobe_waitlist') || '[]')
+    let existing = []
+    try {
+      existing = JSON.parse(localStorage.getItem('lexglobe_waitlist') || '[]')
+    } catch {
+      existing = []
+    }
     localStorage.setItem('lexglobe_waitlist', JSON.stringify([...existing, { email, country: country.code }]))
     setSubmitted(true)
   }

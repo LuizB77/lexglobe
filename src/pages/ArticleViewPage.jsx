@@ -103,9 +103,9 @@ export default function ArticleViewPage() {
         })
         Promise.all(related).then(results => {
           setRelatedArticles(results.filter(Boolean))
-        })
+        }).catch(err => console.error('Related articles failed:', err))
       }
-    })
+    }).catch(err => console.error('loadCode failed:', err))
     const t = setTimeout(() => setEntered(true), 50)
     return () => clearTimeout(t)
   }, [articleId, codeKey])
@@ -221,6 +221,13 @@ export default function ArticleViewPage() {
     }
 
     try {
+      const apiKey = import.meta.env.VITE_CLAUDE_API_KEY
+      if (!apiKey || apiKey === 'your_key_here') {
+        setExplanation('🔐 Add your API key to enable AI explanations.')
+        setLoadingExplanation(false)
+        return
+      }
+
       const prompt = lang === 'pt'
         ? `Explique o Art. ${article.number} (${article.title}) do direito brasileiro de forma clara e simples, como se estivesse explicando para alguém sem formação jurídica. Use linguagem do dia a dia, dê um exemplo prático se possível. Máximo 3 parágrafos curtos.\n\nTexto do artigo: ${article.text.slice(0, 800)}`
         : `Explain Art. ${article.number} (${article.title}) of Brazilian law in plain English, as if explaining to someone with no legal background. Use everyday language and give a practical example if possible. Maximum 3 short paragraphs.\n\nArticle text: ${article.text.slice(0, 800)}`
@@ -229,7 +236,7 @@ export default function ArticleViewPage() {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
-          'x-api-key': import.meta.env.VITE_CLAUDE_API_KEY,
+          'x-api-key': apiKey,
           'anthropic-version': '2023-06-01',
           'anthropic-dangerous-direct-browser-access': 'true',
         },
@@ -240,6 +247,7 @@ export default function ArticleViewPage() {
         }),
       })
 
+      if (!response.ok) throw new Error(`API error: ${response.status}`)
       const data = await response.json()
       const text = data?.content?.[0]?.text?.trim()
       if (text) {

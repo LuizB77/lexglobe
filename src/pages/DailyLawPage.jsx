@@ -41,11 +41,18 @@ export default function DailyLawPage() {
       // Generate explanation via Claude
       setLoadingExplanation(true)
       try {
+        const apiKey = import.meta.env.VITE_CLAUDE_API_KEY
+        if (!apiKey || apiKey === 'your_key_here') {
+          setExplanation(null)
+          setLoadingExplanation(false)
+          return
+        }
+
         const response = await fetch('https://api.anthropic.com/v1/messages', {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json',
-            'x-api-key': import.meta.env.VITE_CLAUDE_API_KEY,
+            'x-api-key': apiKey,
             'anthropic-version': '2023-06-01',
             'anthropic-dangerous-direct-browser-access': 'true',
           },
@@ -63,6 +70,7 @@ Texto: ${law.text}`,
             }],
           }),
         })
+        if (!response.ok) throw new Error(`API error: ${response.status}`)
         const data = await response.json()
         const text = data?.content?.[0]?.text || ''
 

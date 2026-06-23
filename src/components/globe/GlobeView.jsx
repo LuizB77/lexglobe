@@ -135,11 +135,15 @@ export default function GlobeView({ onCountryClick, onCountryHover, globeRef: ex
     script.src = 'https://unpkg.com/topojson-client@3/dist/topojson-client.min.js'
     script.onload = () => {
       fetch('https://unpkg.com/world-atlas@2/countries-110m.json')
-        .then(r => r.json())
+        .then(r => {
+          if (!r.ok) throw new Error(`HTTP ${r.status}`)
+          return r.json()
+        })
         .then(world => {
           const features = window.topojson.feature(world, world.objects.countries).features
           setGlobeData(features)
         })
+        .catch(err => console.error('Globe data failed to load:', err))
     }
     document.head.appendChild(script)
     return () => { if (document.head.contains(script)) document.head.removeChild(script) }

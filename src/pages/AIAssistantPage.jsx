@@ -131,6 +131,16 @@ export default function AIAssistantPage() {
     setMessages(prev => [...prev, userMsg])
 
     try {
+      const apiKey = import.meta.env.VITE_CLAUDE_API_KEY
+      if (!apiKey || apiKey === 'your_key_here') {
+        setMessages(prev => [...prev, {
+          role: 'assistant',
+          content: '🔐 API key not configured. Please add your Claude API key to enable the AI assistant.',
+        }])
+        setLoading(false)
+        return
+      }
+
       // 1. Fuse.js search for relevant articles
       const relevant = await search(q, countryCode)
       const topArticles = relevant.slice(0, 8)
@@ -155,7 +165,7 @@ export default function AIAssistantPage() {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
-          'x-api-key': import.meta.env.VITE_CLAUDE_API_KEY,
+          'x-api-key': apiKey,
           'anthropic-version': '2023-06-01',
           'anthropic-dangerous-direct-browser-access': 'true',
         },
@@ -173,6 +183,7 @@ export default function AIAssistantPage() {
         }),
       })
 
+      if (!response.ok) throw new Error(`API error: ${response.status}`)
       const data = await response.json()
       const reply = data?.content?.[0]?.text || 'Não foi possível gerar uma resposta. Tente novamente.'
 

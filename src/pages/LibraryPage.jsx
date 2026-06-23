@@ -379,6 +379,9 @@ function ArticleList({ codeKey, countryCode, onBack }) {
     loadCode(codeKey).then(data => {
       setCodeData(data)
       setLoading(false)
+    }).catch(err => {
+      console.error('loadCode failed:', err)
+      setLoading(false)
     })
   }, [codeKey])
 
