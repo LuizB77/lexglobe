@@ -82,6 +82,9 @@ export default function ArticleViewPage() {
   const [explanation, setExplanation] = useState(null)
   const [loadingExplanation, setLoadingExplanation] = useState(false)
   const [explanationLang, setExplanationLang] = useState('pt')
+  const [translatedText, setTranslatedText] = useState(null)
+  const [translating, setTranslating] = useState(false)
+  const [selectedLang, setSelectedLang] = useState('original')
 
   const codeKey = getCodeKeyFromId(articleId)
   const meta = CODE_META[codeKey] || { label: 'Legal Code', color: '#666', spine: '#999', bg: '#f9f9f9' }
@@ -107,10 +110,78 @@ export default function ArticleViewPage() {
     return () => clearTimeout(t)
   }, [articleId, codeKey])
 
+  useEffect(() => {
+    setTranslatedText(null)
+    setSelectedLang('original')
+    setTranslating(false)
+  }, [articleId])
+
   function handleShare() {
     navigator.clipboard.writeText(window.location.href)
     setCopied(true)
     setTimeout(() => setCopied(false), 2000)
+  }
+
+  const LANG_LABELS = {
+    original: 'Original',
+    en: 'English',
+    pt: 'Português',
+    es: 'Español',
+  }
+
+  async function handleTranslate(lang) {
+    if (lang === 'original') {
+      setSelectedLang('original')
+      setTranslatedText(null)
+      return
+    }
+
+    setSelectedLang(lang)
+
+    const cacheKey = `lexglobe_translation_${articleId}_${lang}`
+    const cached = localStorage.getItem(cacheKey)
+    if (cached) {
+      setTranslatedText(cached)
+      return
+    }
+
+    setTranslating(true)
+    try {
+      const langNames = { en: 'English', pt: 'Brazilian Portuguese', es: 'Spanish' }
+      const response = await fetch('https://api.anthropic.com/v1/messages', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'x-api-key': import.meta.env.VITE_CLAUDE_API_KEY,
+          'anthropic-version': '2023-06-01',
+          'anthropic-dangerous-direct-browser-access': 'true',
+        },
+        body: JSON.stringify({
+          model: 'claude-sonnet-4-6',
+          max_tokens: 1500,
+          messages: [{
+            role: 'user',
+            content: `Translate the following legal article text to ${langNames[lang]}. Keep the legal terminology accurate. Keep article numbers, roman numerals, and section references exactly as they appear. Only return the translated text, nothing else — no preamble, no explanation.\n\nArticle: ${article.text}`,
+          }],
+        }),
+      })
+
+      const data = await response.json()
+      const translated = data?.content?.[0]?.text?.trim()
+
+      if (translated) {
+        setTranslatedText(translated)
+        localStorage.setItem(cacheKey, translated)
+      } else {
+        setTranslatedText(null)
+        setSelectedLang('original')
+      }
+    } catch (err) {
+      console.error('Translation error:', err)
+      setTranslatedText(null)
+      setSelectedLang('original')
+    }
+    setTranslating(false)
   }
 
   async function handleExplain(lang) {
@@ -228,6 +299,35 @@ export default function ArticleViewPage() {
             className="h-1 w-16 rounded-full"
             style={{ backgroundColor: meta.spine }}
           />
+
+          {/* Translation toggle */}
+          <div className="flex items-center gap-1.5 mt-4 flex-wrap">
+            <span className="text-xs text-gray-400 mr-1">🌐 View in:</span>
+            {['original', 'en', 'pt', 'es'].map(lang => (
+              <button
+                key={lang}
+                onClick={() => handleTranslate(lang)}
+                disabled={translating && selectedLang === lang}
+                className="px-3 py-1.5 rounded-full text-xs font-medium
+                  transition-all duration-200 border"
+                style={{
+                  backgroundColor: selectedLang === lang ? meta.spine : 'white',
+                  color: selectedLang === lang ? 'white' : '#6b7280',
+                  borderColor: selectedLang === lang ? meta.spine : '#e5e7eb',
+                }}
+              >
+                {lang === 'original' ? '📄 Original' :
+                 lang === 'en' ? '🇺🇸 EN' :
+                 lang === 'pt' ? '🇧🇷 PT' :
+                 '🇪🇸 ES'}
+              </button>
+            ))}
+            {translating && (
+              <span className="text-xs text-gray-400 flex items-center gap-1">
+                <span className="animate-spin">⟳</span> Translating...
+              </span>
+            )}
+          </div>
         </div>
 
         {/* Article text */}
@@ -235,7 +335,36 @@ export default function ArticleViewPage() {
           className="rounded-2xl p-6 mb-6 leading-relaxed text-gray-800"
           style={{ background: meta.bg, borderLeft: `4px solid ${meta.spine}` }}
         >
-          <p className="text-base leading-loose whitespace-pre-line">{article.text}</p>
+          {translating ? (
+            <div className="flex items-center gap-3 py-4">
+              <div className="flex gap-1">
+                <div className="w-1.5 h-1.5 rounded-full animate-bounce bg-gray-400"
+                  style={{ animationDelay: '0ms' }} />
+                <div className="w-1.5 h-1.5 rounded-full animate-bounce bg-gray-400"
+                  style={{ animationDelay: '150ms' }} />
+                <div className="w-1.5 h-1.5 rounded-full animate-bounce bg-gray-400"
+                  style={{ animationDelay: '300ms' }} />
+              </div>
+              <span className="text-sm text-gray-400">Translating article...</span>
+            </div>
+          ) : (
+            <>
+              <p className="text-base leading-loose whitespace-pre-line">
+                {translatedText || article.text}
+              </p>
+              {translatedText && (
+                <p className="text-xs text-gray-400 mt-3 pt-3 border-t border-gray-200">
+                  ✦ Translated by LexGlobe AI ·
+                  <button
+                    onClick={() => handleTranslate('original')}
+                    className="ml-1 underline hover:text-gray-600"
+                  >
+                    View original
+                  </button>
+                </p>
+              )}
+            </>
+          )}
         </div>
 
         {/* Tags */}
