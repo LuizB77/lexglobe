@@ -2,7 +2,6 @@ import { useState, useRef } from 'react'
 import { useNavigate } from 'react-router-dom'
 import GlobeView from '../components/globe/GlobeView'
 import ComingSoonPanel from '../components/panels/ComingSoonPanel'
-import DailyLawBanner from '../components/ui/DailyLawBanner'
 import AuthModal from '../components/ui/AuthModal'
 import HeroOverlay from '../components/ui/HeroOverlay'
 import { useAuth } from '../context/AuthContext'
@@ -273,8 +272,6 @@ export default function HomePage() {
   return (
     <div className="relative w-screen h-screen overflow-hidden"
       style={{ background: '#f5f5f0' }}>
-
-      <DailyLawBanner />
 
       <GlobeView
         onCountryClick={handleCountryClick}
