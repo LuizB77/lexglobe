@@ -26,7 +26,7 @@ function Tab({ children, setPosition, onClick, isActive, isGlobe }) {
         select-none whitespace-nowrap"
       style={{
         color: isGlobe ? 'white' : 'black',
-        mixBlendMode: 'difference',
+        mixBlendMode: isGlobe ? 'difference' : 'normal',
       }}
     >
       {children}
