@@ -25,8 +25,8 @@ function Tab({ children, setPosition, onClick, isActive, isGlobe }) {
         sm:px-4 sm:py-2 text-xs font-semibold uppercase tracking-wide
         select-none whitespace-nowrap"
       style={{
-        color: isGlobe ? 'white' : 'black',
-        mixBlendMode: isGlobe ? 'difference' : 'normal',
+        color: isGlobe ? 'rgba(255,255,255,0.85)' : '#374151',
+        transition: 'color 0.2s',
       }}
     >
       {children}
@@ -34,12 +34,16 @@ function Tab({ children, setPosition, onClick, isActive, isGlobe }) {
   )
 }
 
-function SlidingCursor({ position }) {
+function SlidingCursor({ position, isGlobe }) {
   return (
     <motion.li
       animate={position}
       className="absolute z-0 h-8 rounded-full"
-      style={{ backgroundColor: 'black', top: '50%', translateY: '-50%' }}
+      style={{
+        backgroundColor: isGlobe ? 'white' : '#7F77DD',
+        top: '50%',
+        translateY: '-50%',
+      }}
     />
   )
 }
@@ -99,7 +103,7 @@ export default function NavBar() {
             <span className="hidden sm:inline">{item.label}</span>
           </Tab>
         ))}
-        <SlidingCursor position={position} />
+        <SlidingCursor position={position} isGlobe={isGlobe} />
       </ul>
 
       {/* Right — profile or sign in */}
