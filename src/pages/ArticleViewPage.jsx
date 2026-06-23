@@ -138,10 +138,24 @@ export default function ArticleViewPage() {
 
     setSelectedLang(lang)
 
+    // Check localStorage cache first
     const cacheKey = `lexglobe_translation_${articleId}_${lang}`
     const cached = localStorage.getItem(cacheKey)
     if (cached) {
       setTranslatedText(cached)
+      return
+    }
+
+    // Check if API key is available
+    const apiKey = import.meta.env.VITE_CLAUDE_API_KEY
+    if (!apiKey || apiKey === 'your_key_here') {
+      setTranslatedText(
+        lang === 'pt'
+          ? '🔐 Tradução em breve — esta funcionalidade requer uma conta ativa. Crie uma conta gratuita para acessar traduções automáticas.'
+          : lang === 'es'
+          ? '🔐 Traducción próximamente — esta función requiere una cuenta activa. Crea una cuenta gratuita para acceder a traducciones automáticas.'
+          : '🔐 Translation coming soon — this feature requires an active account. Sign up for free to access automatic translations.'
+      )
       return
     }
 
@@ -152,7 +166,7 @@ export default function ArticleViewPage() {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
-          'x-api-key': import.meta.env.VITE_CLAUDE_API_KEY,
+          'x-api-key': apiKey,
           'anthropic-version': '2023-06-01',
           'anthropic-dangerous-direct-browser-access': 'true',
         },
@@ -161,10 +175,14 @@ export default function ArticleViewPage() {
           max_tokens: 1500,
           messages: [{
             role: 'user',
-            content: `Translate the following legal article text to ${langNames[lang]}. Keep the legal terminology accurate. Keep article numbers, roman numerals, and section references exactly as they appear. Only return the translated text, nothing else — no preamble, no explanation.\n\nArticle: ${article.text}`,
+            content: `Translate the following legal article text to ${langNames[lang]}. Keep legal terminology accurate. Keep article numbers and section references exactly as they appear. Return only the translated text, nothing else.\n\nArticle: ${article.text}`,
           }],
         }),
       })
+
+      if (!response.ok) {
+        throw new Error(`API error: ${response.status}`)
+      }
 
       const data = await response.json()
       const translated = data?.content?.[0]?.text?.trim()
@@ -173,13 +191,17 @@ export default function ArticleViewPage() {
         setTranslatedText(translated)
         localStorage.setItem(cacheKey, translated)
       } else {
-        setTranslatedText(null)
-        setSelectedLang('original')
+        throw new Error('No translation returned')
       }
     } catch (err) {
       console.error('Translation error:', err)
-      setTranslatedText(null)
-      setSelectedLang('original')
+      setTranslatedText(
+        lang === 'pt'
+          ? '⚠️ Não foi possível traduzir agora. Tente novamente mais tarde.'
+          : lang === 'es'
+          ? '⚠️ No se pudo traducir ahora. Inténtalo de nuevo más tarde.'
+          : '⚠️ Translation unavailable right now. Please try again later.'
+      )
     }
     setTranslating(false)
   }
@@ -301,8 +323,11 @@ export default function ArticleViewPage() {
           />
 
           {/* Translation toggle */}
-          <div className="flex items-center gap-1.5 mt-4 flex-wrap">
-            <span className="text-xs text-gray-400 mr-1">🌐 View in:</span>
+          <div className="flex items-center gap-2 mt-5 mb-1 flex-wrap
+            p-3 rounded-xl bg-gray-50 border border-gray-100">
+            <span className="text-xs font-medium text-gray-500 mr-1">
+              🌐 Translate:
+            </span>
             {['original', 'en', 'pt', 'es'].map(lang => (
               <button
                 key={lang}

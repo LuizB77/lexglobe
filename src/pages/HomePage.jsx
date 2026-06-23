@@ -56,7 +56,7 @@ function BrazilPanel({ visible, onEnter }) {
 function PortugalPanel({ visible, onEnter }) {
   return (
     <div
-      className="absolute bottom-6 right-4 z-20 transition-all duration-300"
+      className="absolute bottom-6 left-4 z-20 transition-all duration-300"
       style={{
         opacity: visible ? 1 : 0,
         transform: visible ? 'translateY(0)' : 'translateY(12px)',
@@ -102,13 +102,11 @@ function PortugalPanel({ visible, onEnter }) {
 function SpainPanel({ visible, onEnter }) {
   return (
     <div
-      className="absolute bottom-6 left-1/2 -translate-x-1/2 z-20
+      className="absolute bottom-6 left-4 z-20
         transition-all duration-300"
       style={{
         opacity: visible ? 1 : 0,
-        transform: visible
-          ? 'translateX(-50%) translateY(0)'
-          : 'translateX(-50%) translateY(12px)',
+        transform: visible ? 'translateY(0)' : 'translateY(12px)',
         pointerEvents: visible ? 'auto' : 'none',
         width: 'min(260px, calc(100vw - 32px))',
       }}
@@ -151,13 +149,11 @@ function SpainPanel({ visible, onEnter }) {
 function USAPanel({ visible, onEnter }) {
   return (
     <div
-      className="absolute top-1/2 right-4 -translate-y-1/2 z-20
+      className="absolute bottom-6 left-4 z-20
         transition-all duration-300"
       style={{
         opacity: visible ? 1 : 0,
-        transform: visible
-          ? 'translateY(-50%) translateX(0)'
-          : 'translateY(-50%) translateX(12px)',
+        transform: visible ? 'translateY(0)' : 'translateY(12px)',
         pointerEvents: visible ? 'auto' : 'none',
         width: 'min(260px, calc(100vw - 32px))',
       }}
