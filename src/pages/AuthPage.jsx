@@ -44,7 +44,7 @@ export default function AuthPage() {
   }
 
   return (
-    <div className="min-h-screen flex items-center justify-center px-4"
+    <div className="min-h-screen pt-14 flex items-center justify-center px-4"
       style={{ background: 'linear-gradient(135deg, #f0ede8 0%, #f8f7f4 100%)' }}>
 
       <div className="w-full max-w-sm">

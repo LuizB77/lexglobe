@@ -216,7 +216,7 @@ export default function AIAssistantPage() {
   ]
 
   return (
-    <div className="flex flex-col" style={{ background: '#0f0f1a', height: '100dvh' }}>
+    <div className="flex flex-col pt-14 min-h-screen" style={{ background: '#0f0f1a' }}>
       {/* Header */}
       <div className="bg-black/40 border-b border-white/10 backdrop-blur px-4 py-3
         flex items-center gap-3 flex-shrink-0">

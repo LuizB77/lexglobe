@@ -4,7 +4,6 @@ import { loadCode } from '../utils/searchEngine'
 import { search } from '../utils/searchEngine'
 import countries from '../data/countries.json'
 import CodeIllustration from '../components/ui/CodeIllustration'
-import UserMenu from '../components/ui/UserMenu'
 import { useAuth } from '../context/AuthContext'
 
 const CODE_ORDER_BY_COUNTRY = {
@@ -397,7 +396,7 @@ function ArticleList({ codeKey, countryCode, onBack }) {
   const displayArticles = searchResults ?? (codeData?.articles || [])
 
   return (
-    <div className="min-h-screen" style={{ background: '#f8f7f4' }}>
+    <div className="min-h-screen pt-14" style={{ background: '#f8f7f4' }}>
       {/* Article list header */}
       <div className="sticky top-0 z-10 bg-white border-b border-gray-200 shadow-sm">
         <div className="max-w-3xl mx-auto px-4 py-4">
@@ -526,7 +525,7 @@ export default function LibraryPage() {
 
   return (
     <div
-      className="min-h-screen transition-all duration-700"
+      className="min-h-screen pt-14 transition-all duration-700"
       style={{
         background: 'linear-gradient(180deg, #f0ede8 0%, #f8f7f4 40%)',
         opacity: entered ? 1 : 0,
@@ -536,12 +535,6 @@ export default function LibraryPage() {
       {/* Library header */}
       <div className="bg-white border-b border-gray-200 shadow-sm">
         <div className="max-w-5xl mx-auto px-4 py-4 flex items-center gap-4">
-          <button
-            onClick={() => navigate('/')}
-            className="text-sm text-gray-500 hover:text-gray-800 transition-colors"
-          >
-            ← Globe
-          </button>
           <div className="flex items-center gap-3">
             <span className="text-3xl">{country.flag}</span>
             <div>
@@ -555,7 +548,6 @@ export default function LibraryPage() {
             className="text-sm text-gray-500 hover:text-gray-700 transition-colors px-2">
             ☆
           </Link>
-          <UserMenu />
           <button
             onClick={() => navigate(`/assistant/${countryCode}`)}
             className="ml-auto px-4 py-2 rounded-xl text-sm font-medium text-white transition-colors"

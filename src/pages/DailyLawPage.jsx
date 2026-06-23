@@ -111,33 +111,13 @@ Texto: ${law.text}`,
 
   return (
     <div
-      className="min-h-screen transition-all duration-500"
+      className="min-h-screen pt-14 transition-all duration-500"
       style={{
         background: 'linear-gradient(180deg, #f0ede8 0%, #f8f7f4 40%)',
         opacity: entered ? 1 : 0,
         transform: entered ? 'none' : 'translateY(12px)',
       }}
     >
-      {/* Top bar */}
-      <div className="bg-white border-b border-gray-200 shadow-sm sticky top-0 z-10">
-        <div className="max-w-2xl mx-auto px-4 py-3 flex items-center gap-3">
-          <button onClick={() => navigate('/')}
-            className="text-sm text-gray-500 hover:text-gray-800 transition-colors">
-            ← Globe
-          </button>
-          <span className="text-sm font-semibold text-gray-700">Daily Law</span>
-          <div className="ml-auto flex items-center gap-2">
-            <button
-              onClick={handleShare}
-              className="px-3 py-1.5 rounded-lg border border-gray-200 text-gray-500
-                hover:border-gray-400 text-xs font-medium transition-colors"
-            >
-              {copied ? '✓ Copied' : 'Share'}
-            </button>
-          </div>
-        </div>
-      </div>
-
       <div className="max-w-2xl mx-auto px-4 py-10">
         {/* Date badge */}
         <p className="text-xs text-gray-400 uppercase tracking-widest mb-6 capitalize">

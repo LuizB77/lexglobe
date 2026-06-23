@@ -115,19 +115,8 @@ export default function ProfilePage() {
   if (!user) return null
 
   return (
-    <div className="min-h-screen"
+    <div className="min-h-screen pt-14"
       style={{ background: 'linear-gradient(180deg, #f0ede8 0%, #f8f7f4 40%)' }}>
-
-      {/* Header */}
-      <div className="bg-white border-b border-gray-200 shadow-sm sticky top-0 z-10">
-        <div className="max-w-2xl mx-auto px-4 py-3 flex items-center gap-3">
-          <button onClick={() => navigate('/')}
-            className="text-sm text-gray-500 hover:text-gray-800 transition-colors">
-            ← Globe
-          </button>
-          <span className="text-sm font-semibold text-gray-700">Profile</span>
-        </div>
-      </div>
 
       <div className="max-w-2xl mx-auto px-4 py-8 flex flex-col gap-6">
 

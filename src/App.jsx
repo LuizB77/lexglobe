@@ -1,6 +1,7 @@
 import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom'
 import { useEffect } from 'react'
 import { AuthProvider } from './context/AuthContext'
+import NavBar from './components/ui/NavBar'
 import HomePage from './pages/HomePage'
 import AuthPage from './pages/AuthPage'
 import LibraryPage from './pages/LibraryPage'
@@ -9,6 +10,7 @@ import AIAssistantPage from './pages/AIAssistantPage'
 import DailyLawPage from './pages/DailyLawPage'
 import BookmarksPage from './pages/BookmarksPage'
 import ProfilePage from './pages/ProfilePage'
+import SearchPage from './pages/SearchPage'
 
 const PAGE_TITLES = {
   '/': 'LexGlobe — Explore Brazilian Law on a 3D Globe',
@@ -37,6 +39,7 @@ export default function App() {
     <AuthProvider>
       <BrowserRouter>
         <TitleUpdater />
+        <NavBar />
         <Routes>
           <Route path="/" element={<HomePage />} />
           <Route path="/auth" element={<AuthPage />} />
@@ -46,6 +49,7 @@ export default function App() {
           <Route path="/daily" element={<DailyLawPage />} />
           <Route path="/bookmarks" element={<BookmarksPage />} />
           <Route path="/profile" element={<ProfilePage />} />
+          <Route path="/search" element={<SearchPage />} />
         </Routes>
       </BrowserRouter>
     </AuthProvider>

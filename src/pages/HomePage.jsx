@@ -3,7 +3,6 @@ import { useNavigate } from 'react-router-dom'
 import GlobeView from '../components/globe/GlobeView'
 import ComingSoonPanel from '../components/panels/ComingSoonPanel'
 import DailyLawBanner from '../components/ui/DailyLawBanner'
-import UserMenu from '../components/ui/UserMenu'
 import AuthModal from '../components/ui/AuthModal'
 import HeroOverlay from '../components/ui/HeroOverlay'
 import { useAuth } from '../context/AuthContext'
@@ -276,11 +275,6 @@ export default function HomePage() {
       style={{ background: '#f5f5f0' }}>
 
       <DailyLawBanner />
-
-      {/* User menu top right */}
-      <div className="absolute top-4 right-4 z-20">
-        <UserMenu />
-      </div>
 
       <GlobeView
         onCountryClick={handleCountryClick}
