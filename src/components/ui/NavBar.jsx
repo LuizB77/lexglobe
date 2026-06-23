@@ -25,8 +25,9 @@ function Tab({ children, setPosition, onClick, isActive, isGlobe }) {
         sm:px-4 sm:py-2 text-xs font-semibold uppercase tracking-wide
         select-none whitespace-nowrap"
       style={{
-        color: isGlobe ? 'rgba(255,255,255,0.85)' : '#374151',
+        color: isGlobe ? 'rgba(255,255,255,0.9)' : '#374151',
         transition: 'color 0.2s',
+        fontWeight: 600,
       }}
     >
       {children}
@@ -38,9 +39,12 @@ function SlidingCursor({ position, isGlobe }) {
   return (
     <motion.li
       animate={position}
+      initial={{ opacity: 0 }}
       className="absolute z-0 h-8 rounded-full"
       style={{
-        backgroundColor: isGlobe ? 'white' : '#7F77DD',
+        backgroundColor: isGlobe
+          ? 'rgba(255,255,255,0.2)'
+          : 'rgba(0,0,0,0.08)',
         top: '50%',
         translateY: '-50%',
       }}
