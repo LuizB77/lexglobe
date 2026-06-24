@@ -26,7 +26,7 @@ function Tab({ children, setPosition, onClick, isActive, isGlobe }) {
         sm:px-4 sm:py-2 text-xs font-semibold uppercase tracking-wide
         select-none whitespace-nowrap"
       style={{
-        color: isGlobe ? 'rgba(255,255,255,0.9)' : '#374151',
+        color: 'rgba(255,255,255,0.80)',
         transition: 'color 0.2s',
         fontWeight: 600,
       }}
@@ -43,9 +43,7 @@ function SlidingCursor({ position, isGlobe }) {
       initial={{ opacity: 0 }}
       className="absolute z-0 h-8 rounded-full"
       style={{
-        backgroundColor: isGlobe
-          ? 'rgba(255,255,255,0.2)'
-          : 'rgba(0,0,0,0.08)',
+        backgroundColor: 'rgba(255,255,255,0.18)',
         top: '50%',
         translateY: '-50%',
       }}
@@ -66,9 +64,9 @@ export default function NavBar() {
       className="fixed top-0 left-0 right-0 z-50 flex items-center
         justify-between px-4 py-2"
       style={{
-        background: isGlobe ? 'transparent' : 'rgba(255,255,255,0.92)',
-        backdropFilter: isGlobe ? 'none' : 'blur(20px)',
-        borderBottom: isGlobe ? 'none' : '1px solid rgba(0,0,0,0.06)',
+        background: 'rgba(5,10,20,0.55)',
+        backdropFilter: 'blur(20px)',
+        borderBottom: '1px solid rgba(255,255,255,0.08)',
       }}
     >
       {/* Logo */}
@@ -79,7 +77,7 @@ export default function NavBar() {
         <span className="text-lg">🌐</span>
         <span
           className="font-black text-sm tracking-tight hidden md:block"
-          style={{ color: isGlobe ? 'rgba(255,255,255,0.9)' : '#1a1a1a' }}
+          style={{ color: 'rgba(255,255,255,0.9)' }}
         >
           LexGlobe
         </span>
@@ -89,8 +87,8 @@ export default function NavBar() {
       <ul
         className="relative flex w-fit rounded-full p-1 border-2"
         style={{
-          backgroundColor: isGlobe ? 'rgba(0,0,0,0.35)' : 'white',
-          borderColor: isGlobe ? 'rgba(255,255,255,0.25)' : 'black',
+          backgroundColor: 'rgba(255,255,255,0.08)',
+          borderColor: 'rgba(255,255,255,0.20)',
           backdropFilter: 'blur(16px)',
         }}
         onMouseLeave={() => setPosition(pv => ({ ...pv, opacity: 0 }))}
@@ -118,8 +116,8 @@ export default function NavBar() {
           className="flex items-center gap-2 px-2.5 py-1.5 rounded-full
             transition-colors flex-shrink-0 border-2"
           style={{
-            borderColor: isGlobe ? 'rgba(255,255,255,0.25)' : 'black',
-            backgroundColor: isGlobe ? 'rgba(0,0,0,0.35)' : 'white',
+            borderColor: 'rgba(255,255,255,0.25)',
+            backgroundColor: 'rgba(255,255,255,0.08)',
             backdropFilter: 'blur(16px)',
           }}
         >
@@ -131,7 +129,7 @@ export default function NavBar() {
           <span
             className="text-xs font-semibold hidden sm:block max-w-[70px]
               truncate uppercase tracking-wide"
-            style={{ color: isGlobe ? 'white' : 'black' }}
+            style={{ color: 'rgba(255,255,255,0.9)' }}
           >
             {user.name.split(' ')[0]}
           </span>
@@ -143,9 +141,9 @@ export default function NavBar() {
             uppercase tracking-wide transition-colors border-2
             flex-shrink-0 whitespace-nowrap"
           style={{
-            backgroundColor: isGlobe ? 'rgba(0,0,0,0.35)' : 'white',
-            borderColor: isGlobe ? 'rgba(255,255,255,0.25)' : 'black',
-            color: isGlobe ? 'white' : 'black',
+            backgroundColor: 'rgba(255,255,255,0.08)',
+            borderColor: 'rgba(255,255,255,0.30)',
+            color: 'white',
             backdropFilter: 'blur(16px)',
           }}
         >
