@@ -3,7 +3,6 @@ import { useParams, useNavigate, Link } from 'react-router-dom'
 import { loadCode } from '../utils/searchEngine'
 import { search } from '../utils/searchEngine'
 import countries from '../data/countries.json'
-import CodeIllustration from '../components/ui/CodeIllustration'
 import { useAuth } from '../context/AuthContext'
 import PageBackground from '../components/ui/PageBackground'
 
@@ -23,340 +22,411 @@ const CODE_ORDER_BY_COUNTRY = {
   ],
 }
 
+const SPINE_COLORS = [
+  'linear-gradient(to bottom, #1a3a5c, #0d2137)',
+  'linear-gradient(to bottom, #5c1a1a, #3a0d0d)',
+  'linear-gradient(to bottom, #1a4a2a, #0d2d18)',
+  'linear-gradient(to bottom, #3a2a5c, #1f1637)',
+  'linear-gradient(to bottom, #5c3a1a, #3a2010)',
+  'linear-gradient(to bottom, #1a4a4a, #0d2d2d)',
+]
+
 const CODE_META = {
   constituicao: {
     label: 'Constituição Federal',
     shortLabel: 'Constituição',
     year: '1988',
     color: '#B8860B',
-    bg: '#fffbe6',
     spine: '#FFD700',
     icon: '⚖️',
     desc: 'Lei maior da República Federativa do Brasil',
+    spineGradient: SPINE_COLORS[0],
   },
   codigoPenal: {
     label: 'Código Penal',
     shortLabel: 'Código Penal',
     year: '1940',
     color: '#9B1C1C',
-    bg: '#fff0f0',
     spine: '#E53E3E',
     icon: '🔒',
     desc: 'Crimes e penalidades no direito brasileiro',
+    spineGradient: SPINE_COLORS[1],
   },
   codigoCivil: {
     label: 'Código Civil',
     shortLabel: 'Código Civil',
     year: '2002',
     color: '#4C3494',
-    bg: '#f3f0ff',
     spine: '#7F77DD',
     icon: '📜',
     desc: 'Relações civis, contratos, família e propriedade',
+    spineGradient: SPINE_COLORS[2],
   },
   clt: {
     label: 'CLT',
     shortLabel: 'CLT',
     year: '1943',
     color: '#145A3A',
-    bg: '#f0fff8',
     spine: '#1D9E75',
     icon: '👷',
     desc: 'Consolidação das Leis do Trabalho',
+    spineGradient: SPINE_COLORS[3],
   },
   eca: {
     label: 'ECA',
     shortLabel: 'ECA',
     year: '1990',
     color: '#923B05',
-    bg: '#fff7ed',
     spine: '#F6AD55',
     icon: '🧒',
     desc: 'Estatuto da Criança e do Adolescente',
+    spineGradient: SPINE_COLORS[4],
   },
   cdc: {
     label: 'CDC',
     shortLabel: 'CDC',
     year: '1990',
     color: '#1a4a7a',
-    bg: '#eff8ff',
     spine: '#63B3ED',
     icon: '🛒',
     desc: 'Código de Defesa do Consumidor',
+    spineGradient: SPINE_COLORS[5],
   },
   constituicaoPT: {
     label: 'Constituição da República',
     shortLabel: 'Constituição',
     year: '1976',
     color: '#B8860B',
-    bg: '#fffbe6',
     spine: '#FFD700',
     icon: '⚖️',
     desc: 'Lei fundamental da República Portuguesa',
+    spineGradient: SPINE_COLORS[0],
   },
   codigoPenalPT: {
     label: 'Código Penal',
     shortLabel: 'Código Penal',
     year: '1982',
     color: '#9B1C1C',
-    bg: '#fff0f0',
     spine: '#E53E3E',
     icon: '🔒',
     desc: 'Crimes e penalidades no direito português',
+    spineGradient: SPINE_COLORS[1],
   },
   codigoCivilPT: {
     label: 'Código Civil',
     shortLabel: 'Código Civil',
     year: '1966',
     color: '#4C3494',
-    bg: '#f3f0ff',
     spine: '#7F77DD',
     icon: '📜',
     desc: 'Relações civis, contratos e família',
+    spineGradient: SPINE_COLORS[2],
   },
   codigoTrabalho: {
     label: 'Código do Trabalho',
     shortLabel: 'Cód. Trabalho',
     year: '2003',
     color: '#145A3A',
-    bg: '#f0fff8',
     spine: '#1D9E75',
     icon: '👷',
     desc: 'Lei laboral portuguesa',
+    spineGradient: SPINE_COLORS[3],
   },
   codigoProcessoPenal: {
     label: 'Código de Processo Penal',
     shortLabel: 'Proc. Penal',
     year: '1987',
     color: '#9B1C1C',
-    bg: '#fff5f5',
     spine: '#C53030',
     icon: '⚖️',
     desc: 'Procedimento criminal português',
+    spineGradient: SPINE_COLORS[4],
   },
   codigoProcessoCivil: {
     label: 'Código de Processo Civil',
     shortLabel: 'Proc. Civil',
     year: '2013',
     color: '#1a365d',
-    bg: '#ebf8ff',
     spine: '#2B6CB0',
     icon: '📋',
     desc: 'Procedimento civil português',
+    spineGradient: SPINE_COLORS[5],
   },
   codigoComercial: {
     label: 'Código Comercial',
     shortLabel: 'Cód. Comercial',
     year: '1888',
     color: '#744210',
-    bg: '#fffaf0',
     spine: '#D69E2E',
     icon: '⚓',
     desc: 'Direito comercial e mercantil',
+    spineGradient: SPINE_COLORS[0],
   },
   codigoEstrada: {
     label: 'Código da Estrada',
     shortLabel: 'Cód. Estrada',
     year: '1994',
     color: '#7B341E',
-    bg: '#fff8f0',
     spine: '#C05621',
     icon: '🚗',
     desc: 'Regulação do trânsito e condução',
+    spineGradient: SPINE_COLORS[1],
   },
   constitucionES: {
     label: 'Constitución Española',
     shortLabel: 'Constitución',
     year: '1978',
     color: '#8B6914',
-    bg: '#fffdf0',
     spine: '#C8A000',
     icon: '⚖️',
     desc: 'Ley fundamental del Reino de España',
+    spineGradient: SPINE_COLORS[0],
   },
   codigoPenalES: {
     label: 'Código Penal',
     shortLabel: 'Código Penal',
     year: '1995',
     color: '#9B1C1C',
-    bg: '#fff5f5',
     spine: '#C53030',
     icon: '🔒',
     desc: 'Delitos y penas en el derecho español',
+    spineGradient: SPINE_COLORS[1],
   },
   codigoCivilES: {
     label: 'Código Civil',
     shortLabel: 'Código Civil',
     year: '1889',
     color: '#44337A',
-    bg: '#faf5ff',
     spine: '#553C9A',
     icon: '📜',
     desc: 'Relaciones civiles, contratos y familia',
+    spineGradient: SPINE_COLORS[2],
   },
   estatutoTrabajadores: {
     label: 'Estatuto de los Trabajadores',
     shortLabel: 'Estatuto',
     year: '2015',
     color: '#1C4532',
-    bg: '#f0fff4',
     spine: '#276749',
     icon: '👷',
     desc: 'Derechos y deberes laborales en España',
+    spineGradient: SPINE_COLORS[3],
   },
   usConstitution: {
     label: 'U.S. Constitution',
     shortLabel: 'Constitution',
     year: '1788',
     color: '#8B6914',
-    bg: '#fffdf0',
     spine: '#B7791F',
     icon: '🦅',
     desc: 'The supreme law of the United States',
+    spineGradient: SPINE_COLORS[0],
   },
   title18Criminal: {
     label: 'Title 18 — Crimes',
     shortLabel: 'Criminal',
     year: '1948',
     color: '#9B1C1C',
-    bg: '#fff5f5',
     spine: '#C53030',
     icon: '🔒',
     desc: 'Federal crimes and criminal procedure',
+    spineGradient: SPINE_COLORS[1],
   },
   title42CivilRights: {
     label: 'Title 42 — Civil Rights',
     shortLabel: 'Civil Rights',
     year: '1964',
     color: '#1a365d',
-    bg: '#ebf8ff',
     spine: '#2B6CB0',
     icon: '⚖️',
     desc: 'Civil rights, public health and welfare',
+    spineGradient: SPINE_COLORS[2],
   },
   title29Labor: {
     label: 'Title 29 — Labor',
     shortLabel: 'Labor',
     year: '1938',
     color: '#1C4532',
-    bg: '#f0fff4',
     spine: '#276749',
     icon: '👷',
     desc: 'Labor standards, unions and workplace rights',
+    spineGradient: SPINE_COLORS[3],
   },
   title26Tax: {
-    label: 'Title 26 — Internal Revenue Code',
+    label: 'Title 26 — Tax Code',
     shortLabel: 'Tax Code',
     year: '1986',
     color: '#744210',
-    bg: '#fffaf0',
     spine: '#D69E2E',
     icon: '💰',
     desc: 'Internal Revenue Code and federal taxation',
+    spineGradient: SPINE_COLORS[4],
   },
   title15Commerce: {
     label: 'Title 15 — Commerce',
     shortLabel: 'Commerce',
     year: '1890',
     color: '#44337A',
-    bg: '#faf5ff',
     spine: '#553C9A',
     icon: '🏛️',
     desc: 'Commerce, trade and consumer protection',
+    spineGradient: SPINE_COLORS[5],
   },
   title8Immigration: {
     label: 'Title 8 — Immigration',
     shortLabel: 'Immigration',
     year: '1952',
     color: '#1D4044',
-    bg: '#e6fffa',
     spine: '#2C7A7B',
     icon: '✈️',
     desc: 'Immigration and nationality law',
+    spineGradient: SPINE_COLORS[0],
   },
   title20Education: {
     label: 'Title 20 — Education',
     shortLabel: 'Education',
     year: '1965',
     color: '#7B341E',
-    bg: '#fff8f0',
     spine: '#C05621',
     icon: '🎓',
     desc: 'Federal education law and student rights',
+    spineGradient: SPINE_COLORS[1],
   },
   title31Finance: {
     label: 'Title 31 — Finance',
     shortLabel: 'Finance',
     year: '1982',
     color: '#1A365D',
-    bg: '#ebf8ff',
     spine: '#2B6CB0',
     icon: '🏦',
     desc: 'Money, banking and federal finance',
+    spineGradient: SPINE_COLORS[2],
   },
   title49Transportation: {
     label: 'Title 49 — Transportation',
     shortLabel: 'Transportation',
     year: '1994',
     color: '#2D3748',
-    bg: '#f7fafc',
     spine: '#4A5568',
     icon: '🚗',
     desc: 'Federal transportation law and safety',
+    spineGradient: SPINE_COLORS[3],
   },
 }
 
-function BookCard({ codeKey, meta, onClick, articleCount }) {
+function BookSpine({ codeKey, meta, articleCount, onClick }) {
   return (
-    <button
+    <div
+      className="group relative flex items-end cursor-pointer"
+      style={{ width: '72px', flexShrink: 0 }}
       onClick={onClick}
-      className="group relative flex flex-col rounded-2xl overflow-hidden text-left
-        transition-all duration-300 ease-out focus:outline-none
-        hover:-translate-y-3 hover:rotate-1 hover:shadow-2xl hover:border-white/20"
-      style={{
-        background: 'rgba(255,255,255,0.05)',
-        border: '1px solid rgba(255,255,255,0.10)',
-      }}
     >
-      {/* Illustration */}
-      <div className="relative">
-        <CodeIllustration codeKey={codeKey} />
-        <span
-          className="absolute top-2 right-2 text-xs font-mono px-2 py-0.5 rounded-full"
-          style={{ backgroundColor: 'rgba(0,0,0,0.60)', backdropFilter: 'blur(4px)', color: 'rgba(255,255,255,0.80)' }}
-        >
-          {meta.year}
-        </span>
+      {/* Tooltip */}
+      <div
+        className="absolute bottom-full mb-3 left-1/2 -translate-x-1/2
+          opacity-0 group-hover:opacity-100 transition-opacity duration-200
+          pointer-events-none z-50"
+        style={{
+          background: 'rgba(0,0,0,0.90)',
+          backdropFilter: 'blur(8px)',
+          border: '1px solid rgba(255,255,255,0.10)',
+          borderRadius: '12px',
+          padding: '12px',
+          width: '176px',
+        }}
+      >
+        <p className="text-white text-xs font-semibold leading-tight">{meta.label}</p>
+        <p className="text-white/60 mt-1 leading-relaxed" style={{ fontSize: '10px' }}>{meta.desc}</p>
+        {articleCount > 0 && (
+          <p className="mt-1 font-medium" style={{ fontSize: '10px', color: '#B8860B' }}>
+            {articleCount} articles
+          </p>
+        )}
       </div>
 
-      {/* Spine accent */}
-      <div className="h-1 w-full" style={{ backgroundColor: meta.spine }} />
-
       {/* Book body */}
-      <div className="flex-1 p-4 flex flex-col gap-2" style={{ background: 'rgba(255,255,255,0.05)' }}>
-        <h3 className="font-semibold text-sm leading-tight text-white">
-          {meta.label}
-        </h3>
-        <p className="text-xs leading-relaxed text-white/60">
-          {meta.desc}
-        </p>
-        <div className="mt-auto pt-2" style={{ borderTop: '1px solid rgba(255,255,255,0.08)' }}>
-          <span className="text-xs text-white/40">
-            {articleCount} article{articleCount !== 1 ? 's' : ''}
+      <div
+        className="relative rounded-t-sm transition-all duration-300 ease-out
+          group-hover:-translate-y-5 group-hover:shadow-xl group-hover:brightness-125"
+        style={{
+          width: '72px',
+          height: '200px',
+          background: meta.spineGradient,
+          border: '1px solid rgba(255,255,255,0.08)',
+          borderLeft: '2px solid rgba(255,255,255,0.10)',
+          boxShadow: '2px 0 8px rgba(0,0,0,0.4)',
+        }}
+      >
+        {/* Gold label strip */}
+        <div
+          className="absolute left-0 top-0 bottom-0 w-1"
+          style={{ background: 'linear-gradient(to bottom, rgba(184,134,11,0.60), rgba(184,134,11,0.20))' }}
+        />
+
+        {/* Rotated title */}
+        <div
+          className="absolute inset-0 flex flex-col items-center justify-center gap-3"
+          style={{ transform: 'rotate(-90deg)' }}
+        >
+          <span
+            className="text-white/90 font-semibold tracking-wide text-center leading-tight"
+            style={{
+              fontSize: '11px',
+              maxWidth: '160px',
+              overflow: 'hidden',
+              display: '-webkit-box',
+              WebkitLineClamp: 2,
+              WebkitBoxOrient: 'vertical',
+            }}
+          >
+            {meta.label}
+          </span>
+        </div>
+
+        {/* Year at bottom of spine (rotated) */}
+        <div
+          className="absolute bottom-3 left-0 right-0 flex justify-center"
+        >
+          <span
+            className="text-white/40 font-mono"
+            style={{ fontSize: '10px', transform: 'rotate(-90deg)', display: 'block' }}
+          >
+            {meta.year}
           </span>
         </div>
       </div>
+    </div>
+  )
+}
 
-      {/* Hover CTA overlay */}
-      <div
-        className="absolute bottom-0 left-0 right-0 py-3 text-center
-          text-white/90 text-sm font-medium
-          opacity-0 group-hover:opacity-100 transition-opacity duration-300"
-        style={{ background: 'linear-gradient(to top, rgba(0,0,0,0.80), transparent)' }}
-      >
-        Open Book →
+function Shelf({ codes, countryCode, articleCounts, onCodeClick }) {
+  return (
+    <div className="flex flex-col">
+      {/* Books row */}
+      <div className="flex items-end gap-1.5 px-2 overflow-visible">
+        {codes.map(code => {
+          const meta = CODE_META[code]
+          if (!meta) return null
+          return (
+            <BookSpine
+              key={code}
+              codeKey={code}
+              meta={meta}
+              articleCount={articleCounts[code] || 0}
+              onClick={() => onCodeClick(code)}
+            />
+          )
+        })}
       </div>
-    </button>
+      {/* Shelf plank */}
+      <div
+        className="w-full h-3 rounded-sm mt-1 mb-8 shadow-lg"
+        style={{
+          background: 'linear-gradient(to right, #3a2a1a, #5c3d2e, #4a3020, #5c3d2e, #3a2a1a)',
+          boxShadow: '0 4px 12px rgba(0,0,0,0.6)',
+        }}
+      />
+    </div>
   )
 }
 
@@ -390,74 +460,92 @@ function ArticleList({ codeKey, countryCode, onBack }) {
   const displayArticles = searchResults ?? (codeData?.articles || [])
 
   return (
-    <div className="min-h-screen pt-14" style={{ background: '#f8f7f4' }}>
-      {/* Article list header */}
-      <div className="sticky top-0 z-10 bg-white border-b border-gray-200 shadow-sm">
-        <div className="max-w-3xl mx-auto px-4 py-4">
-          <div className="flex items-center gap-3 mb-3">
-            <button
-              onClick={onBack}
-              className="text-sm text-gray-500 hover:text-gray-800 transition-colors flex items-center gap-1"
-            >
-              ← All Codes
-            </button>
-            <div className="flex items-center gap-2 ml-2">
-              <div className="w-3 h-3 rounded-full" style={{ backgroundColor: meta.spine }} />
-              <span className="font-bold text-gray-800">{meta.label}</span>
-              <span className="text-xs text-gray-400">{meta.year}</span>
+    <PageBackground>
+      <div className="min-h-screen pt-14 text-white">
+        {/* Article list header */}
+        <div
+          className="sticky top-14 z-10"
+          style={{
+            background: 'rgba(5,10,20,0.85)',
+            backdropFilter: 'blur(20px)',
+            borderBottom: '1px solid rgba(255,255,255,0.08)',
+          }}
+        >
+          <div className="max-w-3xl mx-auto px-4 py-4">
+            <div className="flex items-center gap-3 mb-3">
+              <button
+                onClick={onBack}
+                className="text-sm text-white/50 hover:text-white transition-colors flex items-center gap-1"
+              >
+                ← All Codes
+              </button>
+              <div className="flex items-center gap-2 ml-2">
+                <div className="w-3 h-3 rounded-full" style={{ backgroundColor: meta.spine }} />
+                <span className="font-bold text-white">{meta.label}</span>
+                <span className="text-xs text-white/40">{meta.year}</span>
+              </div>
             </div>
+            <input
+              type="text"
+              value={query}
+              onChange={e => setQuery(e.target.value)}
+              placeholder={`Search ${meta.shortLabel}...`}
+              className="w-full px-4 py-2.5 rounded-xl text-sm focus:outline-none"
+              style={{
+                background: 'rgba(255,255,255,0.08)',
+                border: '1px solid rgba(255,255,255,0.12)',
+                color: 'white',
+              }}
+            />
           </div>
-          <input
-            type="text"
-            value={query}
-            onChange={e => setQuery(e.target.value)}
-            placeholder={`Search ${meta.shortLabel}...`}
-            className="w-full px-4 py-2.5 rounded-xl bg-gray-50 border border-gray-200
-              text-gray-800 placeholder-gray-400 text-sm focus:outline-none focus:border-gray-400"
-          />
+        </div>
+
+        {/* Articles */}
+        <div className="max-w-3xl mx-auto px-4 py-6">
+          {loading ? (
+            <div className="flex justify-center py-20 text-white/40">Loading...</div>
+          ) : (
+            <div className="flex flex-col gap-2">
+              {searchResults && (
+                <p className="text-xs text-white/40 mb-2">
+                  {searchResults.length} result{searchResults.length !== 1 ? 's' : ''} for "{query}"
+                </p>
+              )}
+              {displayArticles.map(article => (
+                <button
+                  key={article.id}
+                  onClick={() => navigate(`/article/${countryCode}/${article.id}`)}
+                  className="text-left px-5 py-4 rounded-xl flex gap-4 transition-all duration-150"
+                  style={{
+                    background: 'rgba(255,255,255,0.05)',
+                    border: '1px solid rgba(255,255,255,0.08)',
+                    borderLeft: `4px solid ${meta.spine}`,
+                  }}
+                  onMouseEnter={e => e.currentTarget.style.background = 'rgba(255,255,255,0.08)'}
+                  onMouseLeave={e => e.currentTarget.style.background = 'rgba(255,255,255,0.05)'}
+                >
+                  <span className="text-xs font-mono font-bold whitespace-nowrap mt-0.5"
+                    style={{ color: meta.spine }}>
+                    Art. {article.number}
+                  </span>
+                  <div>
+                    <p className="font-semibold text-sm text-white">{article.title}</p>
+                    <p className="text-xs text-white/40 mt-1 leading-relaxed line-clamp-2">
+                      {article.text.slice(0, 130)}...
+                    </p>
+                  </div>
+                </button>
+              ))}
+              {displayArticles.length === 0 && (
+                <div className="text-center py-20 text-white/40 text-sm">
+                  {query ? `No results for "${query}"` : 'No articles yet.'}
+                </div>
+              )}
+            </div>
+          )}
         </div>
       </div>
-
-      {/* Articles */}
-      <div className="max-w-3xl mx-auto px-4 py-6">
-        {loading ? (
-          <div className="flex justify-center py-20 text-gray-400">Loading...</div>
-        ) : (
-          <div className="flex flex-col gap-2">
-            {searchResults && (
-              <p className="text-xs text-gray-400 mb-2">
-                {searchResults.length} result{searchResults.length !== 1 ? 's' : ''} for "{query}"
-              </p>
-            )}
-            {displayArticles.map(article => (
-              <button
-                key={article.id}
-                onClick={() => navigate(`/article/${countryCode}/${article.id}`)}
-                className="text-left px-5 py-4 rounded-xl bg-white border border-gray-100
-                  hover:border-gray-300 hover:shadow-sm transition-all duration-150 flex gap-4"
-                style={{ borderLeft: `4px solid ${meta.spine}` }}
-              >
-                <span className="text-xs font-mono font-bold whitespace-nowrap mt-0.5"
-                  style={{ color: meta.color }}>
-                  Art. {article.number}
-                </span>
-                <div>
-                  <p className="font-semibold text-sm text-gray-800">{article.title}</p>
-                  <p className="text-xs text-gray-400 mt-1 leading-relaxed line-clamp-2">
-                    {article.text.slice(0, 130)}...
-                  </p>
-                </div>
-              </button>
-            ))}
-            {displayArticles.length === 0 && (
-              <div className="text-center py-20 text-gray-400 text-sm">
-                {query ? `No results for "${query}"` : 'No articles yet.'}
-              </div>
-            )}
-          </div>
-        )}
-      </div>
-    </div>
+    </PageBackground>
   )
 }
 
@@ -468,9 +556,6 @@ export default function LibraryPage() {
   const country = countries.find(c => c.code === countryCode)
   const CODE_ORDER = CODE_ORDER_BY_COUNTRY[countryCode] || CODE_ORDER_BY_COUNTRY['BR']
 
-  // Allow guest browsing — no redirect needed
-  // Users just can't save bookmarks without an account
-
   const [openCode, setOpenCode] = useState(null)
   const [articleCounts, setArticleCounts] = useState({})
   const [entered, setEntered] = useState(false)
@@ -478,13 +563,11 @@ export default function LibraryPage() {
   const [libraryResults, setLibraryResults] = useState([])
   const [searchOpen, setSearchOpen] = useState(false)
 
-  // Animate entry
   useEffect(() => {
     const t = setTimeout(() => setEntered(true), 50)
     return () => clearTimeout(t)
   }, [])
 
-  // Load article counts for all codes
   useEffect(() => {
     setArticleCounts({})
     Promise.all(
@@ -517,6 +600,12 @@ export default function LibraryPage() {
     )
   }
 
+  // Split codes into rows of 3
+  const rows = []
+  for (let i = 0; i < CODE_ORDER.length; i += 3) {
+    rows.push(CODE_ORDER.slice(i, i + 3))
+  }
+
   return (
     <PageBackground>
       <div
@@ -526,7 +615,7 @@ export default function LibraryPage() {
           transform: entered ? 'none' : 'scale(0.97)',
         }}
       >
-        {/* Library header */}
+        {/* Header */}
         <div className="pt-16 pb-4 px-4 max-w-5xl mx-auto">
           <div className="flex items-center gap-4 flex-wrap">
             <div className="flex items-center gap-3">
@@ -556,11 +645,11 @@ export default function LibraryPage() {
           </div>
         </div>
 
-        {/* Shelf label + search */}
-        <div className="max-w-5xl mx-auto px-3 sm:px-6 pb-4">
-          <div className="flex flex-col sm:flex-row sm:items-center gap-3 mb-2">
+        {/* Search */}
+        <div className="max-w-5xl mx-auto px-4 pb-6">
+          <div className="flex flex-col sm:flex-row sm:items-center gap-3">
             <p className="text-xs uppercase tracking-widest text-white/40 font-medium">
-              Select a legal code to browse
+              Hover a book to preview · Click to open
             </p>
             <div className="sm:ml-auto relative w-full sm:w-72">
               <input
@@ -568,8 +657,7 @@ export default function LibraryPage() {
                 value={libraryQuery}
                 onChange={e => setLibraryQuery(e.target.value)}
                 placeholder="Search all codes..."
-                className="w-full pl-8 pr-3 py-2 rounded-xl text-sm
-                  focus:outline-none"
+                className="w-full pl-8 pr-3 py-2 rounded-xl text-sm focus:outline-none"
                 style={{
                   background: 'rgba(255,255,255,0.10)',
                   border: '1px solid rgba(255,255,255,0.15)',
@@ -578,9 +666,14 @@ export default function LibraryPage() {
               />
               <span className="absolute left-2.5 top-1/2 -translate-y-1/2 text-white/40 text-xs">🔍</span>
               {libraryQuery && searchOpen && (
-                <div className="absolute top-full mt-1 left-0 right-0 rounded-xl
-                  overflow-hidden z-20 shadow-2xl"
-                  style={{ background: 'rgba(10,15,30,0.95)', backdropFilter: 'blur(20px)', border: '1px solid rgba(255,255,255,0.12)' }}>
+                <div
+                  className="absolute top-full mt-1 left-0 right-0 rounded-xl overflow-hidden z-20 shadow-2xl"
+                  style={{
+                    background: 'rgba(10,15,30,0.95)',
+                    backdropFilter: 'blur(20px)',
+                    border: '1px solid rgba(255,255,255,0.12)',
+                  }}
+                >
                   {libraryResults.map(r => (
                     <button
                       key={r.id}
@@ -604,19 +697,17 @@ export default function LibraryPage() {
           </div>
         </div>
 
-        {/* Book grid */}
-        <div className="max-w-5xl mx-auto px-3 sm:px-6 pb-12">
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-            {CODE_ORDER.map(code => (
-              <BookCard
-                key={code}
-                codeKey={code}
-                meta={CODE_META[code]}
-                articleCount={articleCounts[code] || 0}
-                onClick={() => setOpenCode(code)}
-              />
-            ))}
-          </div>
+        {/* Bookshelf */}
+        <div className="max-w-3xl mx-auto px-8 pt-6 pb-16">
+          {rows.map((rowCodes, i) => (
+            <Shelf
+              key={i}
+              codes={rowCodes}
+              countryCode={countryCode}
+              articleCounts={articleCounts}
+              onCodeClick={setOpenCode}
+            />
+          ))}
         </div>
       </div>
     </PageBackground>
