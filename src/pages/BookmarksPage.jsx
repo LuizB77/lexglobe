@@ -2,19 +2,38 @@ import { useState, useEffect } from 'react'
 import { useNavigate, Link } from 'react-router-dom'
 import { useBookmarks } from '../hooks/useBookmarks'
 import { loadCode } from '../utils/searchEngine'
+import PageBackground from '../components/ui/PageBackground'
+import GlassCard from '../components/ui/GlassCard'
 
 const CODE_META = {
-  constituicao: { label: 'Constituição Federal', spine: '#FFD700', color: '#B8860B' },
-  codigoPenal:  { label: 'Código Penal',          spine: '#E53E3E', color: '#9B1C1C' },
-  codigoCivil:  { label: 'Código Civil',           spine: '#7F77DD', color: '#4C3494' },
-  clt:          { label: 'CLT',                    spine: '#1D9E75', color: '#145A3A' },
-  eca:          { label: 'ECA',                    spine: '#F6AD55', color: '#923B05' },
-  cdc:          { label: 'CDC',                    spine: '#63B3ED', color: '#1a4a7a' },
+  constituicao: { label: 'Constituição Federal', spine: '#FFD700', color: '#FFD700' },
+  codigoPenal:  { label: 'Código Penal', spine: '#E53E3E', color: '#ff6b6b' },
+  codigoCivil:  { label: 'Código Civil', spine: '#7F77DD', color: '#a89fe8' },
+  clt:          { label: 'CLT', spine: '#1D9E75', color: '#4ecba4' },
+  eca:          { label: 'ECA', spine: '#F6AD55', color: '#f6ad55' },
+  cdc:          { label: 'CDC', spine: '#63B3ED', color: '#63b3ed' },
+  constituicaoPT: { label: 'Constituição PT', spine: '#FFD700', color: '#FFD700' },
+  codigoPenalPT:  { label: 'Código Penal PT', spine: '#E53E3E', color: '#ff6b6b' },
+  codigoCivilPT:  { label: 'Código Civil PT', spine: '#7F77DD', color: '#a89fe8' },
+  codigoTrabalho: { label: 'Código do Trabalho', spine: '#1D9E75', color: '#4ecba4' },
+  constitucionES: { label: 'Constitución Española', spine: '#C8A000', color: '#f0c420' },
+  codigoPenalES:  { label: 'Código Penal ES', spine: '#C53030', color: '#ff6b6b' },
+  codigoCivilES:  { label: 'Código Civil ES', spine: '#553C9A', color: '#a89fe8' },
+  estatutoTrabajadores: { label: 'Estatuto Trabajadores', spine: '#276749', color: '#4ecba4' },
+  usConstitution: { label: 'U.S. Constitution', spine: '#B7791F', color: '#f0c420' },
+  title18Criminal: { label: 'Title 18 — Crimes', spine: '#C53030', color: '#ff6b6b' },
+  title42CivilRights: { label: 'Civil Rights', spine: '#2B6CB0', color: '#63b3ed' },
+  title29Labor:   { label: 'Title 29 — Labor', spine: '#276749', color: '#4ecba4' },
 }
 
 const PREFIX_TO_CODE = {
   cf: 'constituicao', cp: 'codigoPenal', cc: 'codigoCivil',
   clt: 'clt', eca: 'eca', cdc: 'cdc',
+  cfpt: 'constituicaoPT', cppt: 'codigoPenalPT', ccpt: 'codigoCivilPT',
+  ctpt: 'codigoTrabalho', ces: 'constitucionES', cpes: 'codigoPenalES',
+  cces: 'codigoCivilES', etes: 'estatutoTrabajadores',
+  usc: 'usConstitution', t18: 'title18Criminal',
+  t42: 'title42CivilRights', t29: 'title29Labor',
 }
 
 function getCodeKeyFromId(id) {
@@ -26,7 +45,6 @@ export default function BookmarksPage() {
   const { getAll, toggle } = useBookmarks()
   const [resolvedArticles, setResolvedArticles] = useState([])
   const [loading, setLoading] = useState(true)
-  const [entered, setEntered] = useState(false)
 
   useEffect(() => {
     async function loadBookmarks() {
@@ -45,12 +63,10 @@ export default function BookmarksPage() {
       }
       setResolvedArticles(articles)
       setLoading(false)
-      setTimeout(() => setEntered(true), 50)
     }
     loadBookmarks()
   }, [])
 
-  // Group by code
   const grouped = resolvedArticles.reduce((acc, a) => {
     if (!acc[a.codeKey]) acc[a.codeKey] = []
     acc[a.codeKey].push(a)
@@ -58,87 +74,83 @@ export default function BookmarksPage() {
   }, {})
 
   return (
-    <div
-      className="min-h-screen pt-14 transition-all duration-500"
-      style={{
-        background: 'linear-gradient(180deg, #f0ede8 0%, #f8f7f4 40%)',
-        opacity: entered ? 1 : 0,
-        transform: entered ? 'none' : 'translateY(12px)',
-      }}
-    >
-      <div className="max-w-2xl mx-auto px-4 py-8">
+    <PageBackground>
+      <div className="max-w-2xl mx-auto px-4 pt-20 pb-12">
+        <div className="flex items-center justify-between mb-6">
+          <h1 className="text-xl font-bold text-white">Saved Articles</h1>
+          <span className="text-white/40 text-sm">{resolvedArticles.length} saved</span>
+        </div>
+
         {loading ? (
-          <div className="flex justify-center py-20 text-gray-400 text-sm">
-            Loading bookmarks...
+          <div className="flex justify-center py-20 text-white/40 text-sm">
+            Loading...
           </div>
         ) : resolvedArticles.length === 0 ? (
-          // Empty state
-          <div className="flex flex-col items-center justify-center py-24 gap-4 text-center">
-            <div className="text-5xl">☆</div>
-            <div>
-              <h2 className="text-lg font-bold text-gray-800 mb-1">No saved articles yet</h2>
-              <p className="text-sm text-gray-500 max-w-xs">
-                Browse the law library and tap the star icon on any article to save it here.
-              </p>
-            </div>
-            <Link
-              to="/library/BR"
-              className="mt-2 px-5 py-2.5 rounded-xl text-sm font-semibold text-white"
+          <GlassCard className="p-12 text-center">
+            <div className="text-5xl mb-4">☆</div>
+            <h2 className="text-lg font-bold text-white mb-2">No saved articles yet</h2>
+            <p className="text-sm text-white/50 mb-6 max-w-xs mx-auto">
+              Browse the law library and tap the star icon on any article to save it here.
+            </p>
+            <button
+              onClick={() => navigate('/')}
+              className="px-5 py-2.5 rounded-xl text-white text-sm font-semibold"
               style={{ backgroundColor: '#7F77DD' }}
             >
               Browse Library →
-            </Link>
-          </div>
+            </button>
+          </GlassCard>
         ) : (
-          // Grouped by code
-          <div className="flex flex-col gap-8">
+          <div className="flex flex-col gap-6">
             {Object.entries(grouped).map(([codeKey, articles]) => {
-              const meta = CODE_META[codeKey]
+              const meta = CODE_META[codeKey] || { label: codeKey, spine: '#7F77DD', color: '#a89fe8' }
               return (
                 <div key={codeKey}>
                   <div className="flex items-center gap-2 mb-3">
-                    <div className="w-2.5 h-2.5 rounded-full" style={{ backgroundColor: meta.spine }} />
-                    <h3 className="text-xs uppercase tracking-widest text-gray-500 font-medium">
+                    <div className="w-2.5 h-2.5 rounded-full"
+                      style={{ backgroundColor: meta.spine }} />
+                    <h3 className="text-xs uppercase tracking-widest text-white/50 font-medium">
                       {meta.label}
                     </h3>
-                    <span className="text-xs text-gray-400">· {articles.length}</span>
+                    <span className="text-white/30 text-xs">· {articles.length}</span>
                   </div>
                   <div className="flex flex-col gap-2">
-                    {articles.map(article => (
-                      <div
-                        key={article.id}
-                        className="bg-white rounded-xl border border-gray-100
-                          hover:border-gray-300 transition-all flex gap-0 overflow-hidden"
-                        style={{ borderLeft: `4px solid ${meta.spine}` }}
-                      >
-                        <Link
-                          to={`/article/${article.countryCode}/${article.id}`}
-                          className="flex-1 px-4 py-3"
-                        >
-                          <div className="flex items-center gap-2 mb-1">
-                            <span className="text-xs font-mono font-bold"
-                              style={{ color: meta.color }}>
-                              Art. {article.number}
-                            </span>
-                          </div>
-                          <p className="text-sm font-semibold text-gray-800">{article.title}</p>
-                          <p className="text-xs text-gray-400 mt-1 line-clamp-1">
-                            {article.text.slice(0, 90)}...
-                          </p>
-                        </Link>
-                        <button
-                          onClick={() => {
-                            toggle(article.countryCode, article.id)
-                            setResolvedArticles(prev => prev.filter(a => a.id !== article.id))
-                          }}
-                          className="px-4 text-amber-400 hover:text-gray-400 transition-colors
-                            border-l border-gray-100 flex-shrink-0"
-                          title="Remove bookmark"
-                        >
-                          ★
-                        </button>
-                      </div>
-                    ))}
+                    {articles.map(article => {
+                      const m = CODE_META[article.codeKey] || meta
+                      return (
+                        <GlassCard key={article.id} className="flex overflow-hidden">
+                          <Link
+                            to={`/article/${article.countryCode}/${article.id}`}
+                            className="flex-1 px-4 py-3"
+                          >
+                            <div className="flex items-center gap-2 mb-1">
+                              <span className="text-xs font-mono font-bold"
+                                style={{ color: m.color }}>
+                                Art. {article.number}
+                              </span>
+                            </div>
+                            <p className="text-sm font-semibold text-white">
+                              {article.title}
+                            </p>
+                            <p className="text-xs text-white/40 mt-1 line-clamp-1">
+                              {article.text.slice(0, 90)}...
+                            </p>
+                          </Link>
+                          <button
+                            onClick={() => {
+                              toggle(article.countryCode, article.id)
+                              setResolvedArticles(prev =>
+                                prev.filter(a => a.id !== article.id))
+                            }}
+                            className="px-4 text-amber-400 hover:text-white/40
+                              transition-colors border-l flex-shrink-0"
+                            style={{ borderColor: 'rgba(255,255,255,0.08)' }}
+                          >
+                            ★
+                          </button>
+                        </GlassCard>
+                      )
+                    })}
                   </div>
                 </div>
               )
@@ -146,6 +158,6 @@ export default function BookmarksPage() {
           </div>
         )}
       </div>
-    </div>
+    </PageBackground>
   )
 }
