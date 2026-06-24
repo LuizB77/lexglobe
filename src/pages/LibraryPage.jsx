@@ -314,11 +314,17 @@ const CODE_META = {
   },
 }
 
+const SPINE_WIDTHS = {
+  constituicao: 68, codigoPenal: 58, codigoCivil: 80, clt: 75, eca: 55, cdc: 52,
+}
+function getSpineWidth(codeKey) { return SPINE_WIDTHS[codeKey] || 65 }
+
 function BookSpine({ codeKey, meta, articleCount, onClick }) {
+  const width = getSpineWidth(codeKey)
   return (
     <div
-      className="group relative flex items-end cursor-pointer"
-      style={{ width: '72px', flexShrink: 0 }}
+      className="group relative flex flex-col items-center cursor-pointer"
+      style={{ width: `${width}px`, flexShrink: 0, filter: 'drop-shadow(3px 0 6px rgba(0,0,0,0.5)) drop-shadow(-1px 0 2px rgba(0,0,0,0.3))' }}
       onClick={onClick}
     >
       {/* Tooltip */}
@@ -346,35 +352,44 @@ function BookSpine({ codeKey, meta, articleCount, onClick }) {
 
       {/* Book body */}
       <div
-        className="relative rounded-t-sm transition-all duration-300 ease-out
-          group-hover:-translate-y-5 group-hover:shadow-xl group-hover:brightness-125"
+        className="relative transition-all duration-300 ease-out
+          group-hover:-translate-y-5 group-hover:brightness-125"
         style={{
-          width: '72px',
-          height: '200px',
+          width: `${width}px`,
+          height: '220px',
           background: meta.spineGradient,
           border: '1px solid rgba(255,255,255,0.08)',
-          borderLeft: '2px solid rgba(255,255,255,0.10)',
           boxShadow: '2px 0 8px rgba(0,0,0,0.4)',
+          borderRadius: '2px 2px 0 0',
         }}
       >
+        {/* Page edge — top of book */}
+        <div className="absolute top-0 left-0 right-0 h-3 pointer-events-none" style={{
+          background: 'repeating-linear-gradient(90deg, #f5f0e8 0px, #f5f0e8 1px, #e8e0d0 1px, #e8e0d0 2px)',
+          opacity: 0.9,
+          borderRadius: '2px 2px 0 0',
+        }} />
+        {/* Left board edge (thick spine border) */}
+        <div className="absolute left-0 top-0 bottom-0 w-2 pointer-events-none" style={{
+          background: 'linear-gradient(to right, rgba(0,0,0,0.4), rgba(0,0,0,0.1), transparent)',
+        }} />
         {/* Gold label strip */}
-        <div
-          className="absolute left-0 top-0 bottom-0 w-1"
-          style={{ background: 'linear-gradient(to bottom, rgba(184,134,11,0.60), rgba(184,134,11,0.20))' }}
-        />
-        {/* Leather texture overlay */}
-        <div className="absolute inset-0 rounded-t-sm pointer-events-none" style={{
-          backgroundImage: `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='4' height='4' filter='url(%23noise)' opacity='0.15'/%3E%3C/svg%3E")`,
-          opacity: 0.4,
-          mixBlendMode: 'overlay',
+        <div className="absolute left-0 top-3 bottom-0 w-1 pointer-events-none" style={{
+          background: 'linear-gradient(to bottom, rgba(184,134,11,0.60), rgba(184,134,11,0.20))',
+        }} />
+        {/* Cloth weave texture */}
+        <div className="absolute inset-0 pointer-events-none" style={{
+          backgroundImage: 'repeating-linear-gradient(0deg, transparent 0px, transparent 3px, rgba(0,0,0,0.08) 3px, rgba(0,0,0,0.08) 4px), repeating-linear-gradient(90deg, transparent 0px, transparent 3px, rgba(0,0,0,0.05) 3px, rgba(0,0,0,0.05) 4px)',
+          mixBlendMode: 'multiply',
+        }} />
+        {/* Worn center highlight */}
+        <div className="absolute inset-0 pointer-events-none" style={{
+          background: 'radial-gradient(ellipse 60% 80% at 50% 40%, rgba(255,255,255,0.12) 0%, transparent 70%)',
+          mixBlendMode: 'screen',
         }} />
         {/* Right edge highlight */}
         <div className="absolute top-0 right-0 bottom-0 w-px pointer-events-none" style={{
           background: 'linear-gradient(to bottom, rgba(255,255,255,0.2), rgba(255,255,255,0.05), transparent)',
-        }} />
-        {/* Worn top edge */}
-        <div className="absolute top-0 left-0 right-0 h-px pointer-events-none" style={{
-          background: 'linear-gradient(to right, transparent, rgba(255,255,255,0.3), transparent)',
         }} />
 
         {/* Rotated title */}
@@ -386,7 +401,7 @@ function BookSpine({ codeKey, meta, articleCount, onClick }) {
             className="text-white/90 font-semibold tracking-wide text-center leading-tight"
             style={{
               fontSize: '11px',
-              maxWidth: '160px',
+              maxWidth: '180px',
               overflow: 'hidden',
               display: '-webkit-box',
               WebkitLineClamp: 2,
@@ -397,18 +412,19 @@ function BookSpine({ codeKey, meta, articleCount, onClick }) {
           </span>
         </div>
 
-        {/* Year at bottom of spine (rotated) */}
-        <div
-          className="absolute bottom-3 left-0 right-0 flex justify-center"
-        >
-          <span
-            className="text-white/40 font-mono"
-            style={{ fontSize: '10px', transform: 'rotate(-90deg)', display: 'block' }}
-          >
+        {/* Year at bottom */}
+        <div className="absolute bottom-3 left-0 right-0 flex justify-center">
+          <span className="text-white/40 font-mono"
+            style={{ fontSize: '10px', transform: 'rotate(-90deg)', display: 'block' }}>
             {meta.year}
           </span>
         </div>
       </div>
+
+      {/* Book shadow on shelf */}
+      <div className="w-full h-2 mb-1" style={{
+        background: 'radial-gradient(ellipse 80% 100% at 50% 0%, rgba(0,0,0,0.6) 0%, transparent 100%)',
+      }} />
     </div>
   )
 }
@@ -417,7 +433,7 @@ function Shelf({ codes, countryCode, articleCounts, onCodeClick }) {
   return (
     <div className="flex flex-col">
       {/* Books row */}
-      <div className="flex items-end justify-between gap-1.5 px-4 overflow-visible">
+      <div className="flex items-end justify-between gap-3 px-4 overflow-visible">
         {codes.map(code => {
           const meta = CODE_META[code]
           if (!meta) return null
@@ -434,16 +450,15 @@ function Shelf({ codes, countryCode, articleCounts, onCodeClick }) {
       </div>
       {/* Shelf plank */}
       <div
-        className="w-full h-4 rounded-sm mt-1 mb-8 relative overflow-hidden"
+        className="w-full h-6 rounded-sm mt-0 mb-8 relative overflow-hidden"
         style={{
-          background: 'linear-gradient(180deg, #6b4423 0%, #8B5e3c 30%, #5c3316 60%, #3a1f0d 100%)',
-          boxShadow: '0 4px 12px rgba(0,0,0,0.6), 0 2px 4px rgba(0,0,0,0.8), inset 0 1px 0 rgba(255,255,255,0.1)',
+          background: 'linear-gradient(180deg, #c4832a 0%, #a06020 15%, #7a4a18 40%, #5c3610 70%, #3a200a 100%)',
+          boxShadow: '0 6px 20px rgba(0,0,0,0.8), 0 2px 6px rgba(0,0,0,0.9), inset 0 1px 0 rgba(255,220,120,0.2), inset 0 -1px 0 rgba(0,0,0,0.5)',
         }}
       >
         {/* Wood grain lines */}
         <div className="absolute inset-0" style={{
-          opacity: 0.20,
-          backgroundImage: 'repeating-linear-gradient(90deg, transparent 0px, transparent 8px, rgba(0,0,0,0.3) 8px, rgba(0,0,0,0.3) 9px, transparent 9px, transparent 18px, rgba(255,255,255,0.05) 18px, rgba(255,255,255,0.05) 19px)',
+          backgroundImage: 'repeating-linear-gradient(90deg, transparent 0px, transparent 12px, rgba(0,0,0,0.15) 12px, rgba(0,0,0,0.15) 13px, transparent 13px, transparent 28px, rgba(255,255,255,0.04) 28px, rgba(255,255,255,0.04) 29px, transparent 29px, transparent 45px, rgba(0,0,0,0.1) 45px, rgba(0,0,0,0.1) 46px)',
         }} />
         {/* Light reflection on top edge */}
         <div className="absolute inset-x-0 top-0 h-1" style={{
