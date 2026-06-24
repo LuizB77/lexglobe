@@ -362,6 +362,20 @@ function BookSpine({ codeKey, meta, articleCount, onClick }) {
           className="absolute left-0 top-0 bottom-0 w-1"
           style={{ background: 'linear-gradient(to bottom, rgba(184,134,11,0.60), rgba(184,134,11,0.20))' }}
         />
+        {/* Leather texture overlay */}
+        <div className="absolute inset-0 rounded-t-sm pointer-events-none" style={{
+          backgroundImage: `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='4' height='4' filter='url(%23noise)' opacity='0.15'/%3E%3C/svg%3E")`,
+          opacity: 0.4,
+          mixBlendMode: 'overlay',
+        }} />
+        {/* Right edge highlight */}
+        <div className="absolute top-0 right-0 bottom-0 w-px pointer-events-none" style={{
+          background: 'linear-gradient(to bottom, rgba(255,255,255,0.2), rgba(255,255,255,0.05), transparent)',
+        }} />
+        {/* Worn top edge */}
+        <div className="absolute top-0 left-0 right-0 h-px pointer-events-none" style={{
+          background: 'linear-gradient(to right, transparent, rgba(255,255,255,0.3), transparent)',
+        }} />
 
         {/* Rotated title */}
         <div
@@ -403,7 +417,7 @@ function Shelf({ codes, countryCode, articleCounts, onCodeClick }) {
   return (
     <div className="flex flex-col">
       {/* Books row */}
-      <div className="flex items-end gap-1.5 px-2 overflow-visible">
+      <div className="flex items-end justify-between gap-1.5 px-4 overflow-visible">
         {codes.map(code => {
           const meta = CODE_META[code]
           if (!meta) return null
@@ -420,12 +434,22 @@ function Shelf({ codes, countryCode, articleCounts, onCodeClick }) {
       </div>
       {/* Shelf plank */}
       <div
-        className="w-full h-3 rounded-sm mt-1 mb-8 shadow-lg"
+        className="w-full h-4 rounded-sm mt-1 mb-8 relative overflow-hidden"
         style={{
-          background: 'linear-gradient(to right, #3a2a1a, #5c3d2e, #4a3020, #5c3d2e, #3a2a1a)',
-          boxShadow: '0 4px 12px rgba(0,0,0,0.6)',
+          background: 'linear-gradient(180deg, #6b4423 0%, #8B5e3c 30%, #5c3316 60%, #3a1f0d 100%)',
+          boxShadow: '0 4px 12px rgba(0,0,0,0.6), 0 2px 4px rgba(0,0,0,0.8), inset 0 1px 0 rgba(255,255,255,0.1)',
         }}
-      />
+      >
+        {/* Wood grain lines */}
+        <div className="absolute inset-0" style={{
+          opacity: 0.20,
+          backgroundImage: 'repeating-linear-gradient(90deg, transparent 0px, transparent 8px, rgba(0,0,0,0.3) 8px, rgba(0,0,0,0.3) 9px, transparent 9px, transparent 18px, rgba(255,255,255,0.05) 18px, rgba(255,255,255,0.05) 19px)',
+        }} />
+        {/* Light reflection on top edge */}
+        <div className="absolute inset-x-0 top-0 h-1" style={{
+          background: 'linear-gradient(90deg, transparent, rgba(255,255,255,0.15), transparent)',
+        }} />
+      </div>
     </div>
   )
 }
