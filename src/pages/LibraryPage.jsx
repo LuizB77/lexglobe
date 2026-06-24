@@ -5,6 +5,7 @@ import { search } from '../utils/searchEngine'
 import countries from '../data/countries.json'
 import CodeIllustration from '../components/ui/CodeIllustration'
 import { useAuth } from '../context/AuthContext'
+import PageBackground from '../components/ui/PageBackground'
 
 const CODE_ORDER_BY_COUNTRY = {
   BR: ['constituicao', 'codigoPenal', 'codigoCivil', 'clt', 'eca', 'cdc'],
@@ -306,21 +307,15 @@ const CODE_META = {
 }
 
 function BookCard({ codeKey, meta, onClick, articleCount }) {
-  const [hovered, setHovered] = useState(false)
-
   return (
     <button
       onClick={onClick}
-      onMouseEnter={() => setHovered(true)}
-      onMouseLeave={() => setHovered(false)}
-      className="relative flex flex-col rounded-2xl overflow-hidden text-left
-        transition-all duration-300 focus:outline-none bg-white"
+      className="group relative flex flex-col rounded-2xl overflow-hidden text-left
+        transition-all duration-300 ease-out focus:outline-none
+        hover:-translate-y-3 hover:rotate-1 hover:shadow-2xl hover:border-white/20"
       style={{
-        boxShadow: hovered
-          ? `0 20px 60px rgba(0,0,0,0.18), 0 4px 20px ${meta.spine}44`
-          : '0 4px 20px rgba(0,0,0,0.08)',
-        transform: hovered ? 'translateY(-8px) scale(1.02)' : 'translateY(0) scale(1)',
-        border: `1px solid ${meta.spine}33`,
+        background: 'rgba(255,255,255,0.05)',
+        border: '1px solid rgba(255,255,255,0.10)',
       }}
     >
       {/* Illustration */}
@@ -328,7 +323,7 @@ function BookCard({ codeKey, meta, onClick, articleCount }) {
         <CodeIllustration codeKey={codeKey} />
         <span
           className="absolute top-2 right-2 text-xs font-mono px-2 py-0.5 rounded-full"
-          style={{ backgroundColor: 'rgba(0,0,0,0.45)', color: 'white' }}
+          style={{ backgroundColor: 'rgba(0,0,0,0.60)', backdropFilter: 'blur(4px)', color: 'rgba(255,255,255,0.80)' }}
         >
           {meta.year}
         </span>
@@ -338,30 +333,29 @@ function BookCard({ codeKey, meta, onClick, articleCount }) {
       <div className="h-1 w-full" style={{ backgroundColor: meta.spine }} />
 
       {/* Book body */}
-      <div className="flex-1 p-4 flex flex-col gap-2" style={{ background: meta.bg }}>
-        <h3 className="font-bold text-sm leading-tight" style={{ color: meta.color }}>
+      <div className="flex-1 p-4 flex flex-col gap-2" style={{ background: 'rgba(255,255,255,0.05)' }}>
+        <h3 className="font-semibold text-sm leading-tight text-white">
           {meta.label}
         </h3>
-        <p className="text-xs leading-relaxed" style={{ color: meta.color + 'aa' }}>
+        <p className="text-xs leading-relaxed text-white/60">
           {meta.desc}
         </p>
-        <div className="mt-auto pt-2 border-t" style={{ borderColor: meta.spine + '33' }}>
-          <span className="text-xs font-medium" style={{ color: meta.color + '88' }}>
+        <div className="mt-auto pt-2" style={{ borderTop: '1px solid rgba(255,255,255,0.08)' }}>
+          <span className="text-xs text-white/40">
             {articleCount} article{articleCount !== 1 ? 's' : ''}
           </span>
         </div>
       </div>
 
-      {/* Hover CTA */}
-      {hovered && (
-        <div
-          className="absolute bottom-0 left-0 right-0 py-2.5 text-center
-            text-sm font-semibold text-white"
-          style={{ backgroundColor: meta.spine }}
-        >
-          Open Book →
-        </div>
-      )}
+      {/* Hover CTA overlay */}
+      <div
+        className="absolute bottom-0 left-0 right-0 py-3 text-center
+          text-white/90 text-sm font-medium
+          opacity-0 group-hover:opacity-100 transition-opacity duration-300"
+        style={{ background: 'linear-gradient(to top, rgba(0,0,0,0.80), transparent)' }}
+      >
+        Open Book →
+      </div>
     </button>
   )
 }
@@ -524,95 +518,107 @@ export default function LibraryPage() {
   }
 
   return (
-    <div
-      className="min-h-screen pt-14 transition-all duration-700"
-      style={{
-        background: 'linear-gradient(180deg, #f0ede8 0%, #f8f7f4 40%)',
-        opacity: entered ? 1 : 0,
-        transform: entered ? 'none' : 'scale(0.97)',
-      }}
-    >
-      {/* Library header */}
-      <div className="bg-white border-b border-gray-200 shadow-sm">
-        <div className="max-w-5xl mx-auto px-4 py-4 flex items-center gap-4">
-          <div className="flex items-center gap-3">
-            <span className="text-3xl">{country.flag}</span>
-            <div>
-              <h1 className="text-xl font-bold text-gray-900">
-                {country.nameLocal || country.name} Law Library
-              </h1>
-              <p className="text-xs text-gray-400">{CODE_ORDER.length} legal codes available</p>
+    <PageBackground>
+      <div
+        className="min-h-screen text-white relative transition-all duration-700"
+        style={{
+          opacity: entered ? 1 : 0,
+          transform: entered ? 'none' : 'scale(0.97)',
+        }}
+      >
+        {/* Library header */}
+        <div className="pt-16 pb-4 px-4 max-w-5xl mx-auto">
+          <div className="flex items-center gap-4 flex-wrap">
+            <div className="flex items-center gap-3">
+              <span className="text-3xl">{country.flag}</span>
+              <div>
+                <h1 className="text-xl font-bold text-white">
+                  {country.nameLocal || country.name} Law Library
+                </h1>
+                <p className="text-xs text-white/60">{CODE_ORDER.length} legal codes available</p>
+              </div>
+            </div>
+            <Link to="/bookmarks"
+              className="text-white/60 hover:text-white transition-colors px-2 text-lg">
+              ☆
+            </Link>
+            <button
+              onClick={() => navigate(`/assistant/${countryCode}`)}
+              className="ml-auto px-4 py-2 rounded-full text-sm font-medium text-white
+                transition-colors backdrop-blur-sm"
+              style={{
+                border: '1px solid rgba(255,255,255,0.20)',
+                background: 'rgba(255,255,255,0.10)',
+              }}
+            >
+              AI Assistant
+            </button>
+          </div>
+        </div>
+
+        {/* Shelf label + search */}
+        <div className="max-w-5xl mx-auto px-3 sm:px-6 pb-4">
+          <div className="flex flex-col sm:flex-row sm:items-center gap-3 mb-2">
+            <p className="text-xs uppercase tracking-widest text-white/40 font-medium">
+              Select a legal code to browse
+            </p>
+            <div className="sm:ml-auto relative w-full sm:w-72">
+              <input
+                type="text"
+                value={libraryQuery}
+                onChange={e => setLibraryQuery(e.target.value)}
+                placeholder="Search all codes..."
+                className="w-full pl-8 pr-3 py-2 rounded-xl text-sm
+                  focus:outline-none"
+                style={{
+                  background: 'rgba(255,255,255,0.10)',
+                  border: '1px solid rgba(255,255,255,0.15)',
+                  color: 'white',
+                }}
+              />
+              <span className="absolute left-2.5 top-1/2 -translate-y-1/2 text-white/40 text-xs">🔍</span>
+              {libraryQuery && searchOpen && (
+                <div className="absolute top-full mt-1 left-0 right-0 rounded-xl
+                  overflow-hidden z-20 shadow-2xl"
+                  style={{ background: 'rgba(10,15,30,0.95)', backdropFilter: 'blur(20px)', border: '1px solid rgba(255,255,255,0.12)' }}>
+                  {libraryResults.map(r => (
+                    <button
+                      key={r.id}
+                      onClick={() => navigate(`/article/${countryCode}/${r.id}`)}
+                      className="w-full text-left px-4 py-3 transition-colors"
+                      style={{ borderBottom: '1px solid rgba(255,255,255,0.06)' }}
+                      onMouseEnter={e => e.currentTarget.style.background = 'rgba(255,255,255,0.05)'}
+                      onMouseLeave={e => e.currentTarget.style.background = 'transparent'}
+                    >
+                      <div className="flex items-center gap-2">
+                        <span className="text-xs font-mono font-bold"
+                          style={{ color: r.codeColor }}>Art. {r.number}</span>
+                        <span className="text-xs text-white/40">{r.codeName}</span>
+                      </div>
+                      <p className="text-sm text-white/80 font-medium mt-0.5">{r.title}</p>
+                    </button>
+                  ))}
+                </div>
+              )}
             </div>
           </div>
-          <Link to="/bookmarks"
-            className="text-sm text-gray-500 hover:text-gray-700 transition-colors px-2">
-            ☆
-          </Link>
-          <button
-            onClick={() => navigate(`/assistant/${countryCode}`)}
-            className="ml-auto px-4 py-2 rounded-xl text-sm font-medium text-white transition-colors"
-            style={{ backgroundColor: '#7F77DD' }}
-          >
-            AI Assistant
-          </button>
         </div>
-      </div>
 
-      {/* Shelf label */}
-      <div className="max-w-5xl mx-auto px-3 sm:px-6 pt-6 pb-4">
-        <div className="flex flex-col sm:flex-row sm:items-center gap-3 mb-2">
-          <p className="text-xs uppercase tracking-widest text-gray-400 font-medium">
-            Select a legal code to browse
-          </p>
-          <div className="sm:ml-auto relative w-full sm:w-72">
-            <input
-              type="text"
-              value={libraryQuery}
-              onChange={e => setLibraryQuery(e.target.value)}
-              placeholder="Search all codes — article number or words..."
-              className="w-full pl-8 pr-3 py-2 rounded-xl bg-white border border-gray-200
-                text-sm text-gray-800 placeholder-gray-400
-                focus:outline-none focus:border-gray-400 shadow-sm"
-            />
-            <span className="absolute left-2.5 top-1/2 -translate-y-1/2 text-gray-400 text-xs">🔍</span>
-            {libraryQuery && searchOpen && (
-              <div className="absolute top-full mt-1 left-0 right-0 rounded-xl
-                bg-white shadow-2xl border border-gray-200 overflow-hidden z-20">
-                {libraryResults.map(r => (
-                  <button
-                    key={r.id}
-                    onClick={() => navigate(`/article/${countryCode}/${r.id}`)}
-                    className="w-full text-left px-4 py-3 hover:bg-gray-50
-                      border-b border-gray-100 last:border-0 transition-colors"
-                  >
-                    <div className="flex items-center gap-2">
-                      <span className="text-xs font-mono font-bold"
-                        style={{ color: r.codeColor }}>Art. {r.number}</span>
-                      <span className="text-xs text-gray-400">{r.codeName}</span>
-                    </div>
-                    <p className="text-sm text-gray-700 font-medium mt-0.5">{r.title}</p>
-                  </button>
-                ))}
-              </div>
-            )}
+        {/* Book grid */}
+        <div className="max-w-5xl mx-auto px-3 sm:px-6 pb-12">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+            {CODE_ORDER.map(code => (
+              <BookCard
+                key={code}
+                codeKey={code}
+                meta={CODE_META[code]}
+                articleCount={articleCounts[code] || 0}
+                onClick={() => setOpenCode(code)}
+              />
+            ))}
           </div>
         </div>
       </div>
-
-      {/* Book grid */}
-      <div className="max-w-5xl mx-auto px-3 sm:px-6 pb-12">
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-          {CODE_ORDER.map(code => (
-            <BookCard
-              key={code}
-              codeKey={code}
-              meta={CODE_META[code]}
-              articleCount={articleCounts[code] || 0}
-              onClick={() => setOpenCode(code)}
-            />
-          ))}
-        </div>
-      </div>
-    </div>
+    </PageBackground>
   )
 }

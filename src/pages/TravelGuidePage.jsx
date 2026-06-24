@@ -36,8 +36,7 @@ function TopicCard({ topic }) {
   )
 }
 
-function QAItem({ item }) {
-  const [open, setOpen] = useState(false)
+function QAItem({ item, open, onToggle }) {
   return (
     <div
       className="rounded-xl overflow-hidden backdrop-blur-sm cursor-pointer"
@@ -45,11 +44,11 @@ function QAItem({ item }) {
         background: 'rgba(255,255,255,0.05)',
         border: '1px solid rgba(255,255,255,0.10)',
       }}
-      onClick={() => setOpen(o => !o)}
+      onClick={onToggle}
     >
       <div className="px-5 py-4 flex items-center justify-between gap-3">
         <p className="text-white/90 text-sm font-medium">{item.q}</p>
-        <span className="text-white/40 flex-shrink-0 text-lg leading-none">
+        <span className="text-white/40 flex-shrink-0 text-lg leading-none select-none">
           {open ? '−' : '+'}
         </span>
       </div>
@@ -73,7 +72,13 @@ export default function TravelGuidePage() {
   )?.code || 'BR'
 
   const [selected, setSelected] = useState(matchedCode)
+  const [openIndex, setOpenIndex] = useState(null)
   const guide = TRAVEL_GUIDE[selected]
+
+  function handleCountryChange(code) {
+    setSelected(code)
+    setOpenIndex(null)
+  }
 
   return (
     <PageBackground>
@@ -92,7 +97,7 @@ export default function TravelGuidePage() {
             return (
               <button
                 key={c.code}
-                onClick={() => setSelected(c.code)}
+                onClick={() => handleCountryChange(c.code)}
                 className="flex items-center gap-1.5 px-4 py-2 rounded-full text-sm
                   font-semibold transition-all backdrop-blur-sm"
                 style={{
@@ -122,10 +127,21 @@ export default function TravelGuidePage() {
           </h2>
           <div className="flex flex-col gap-3">
             {guide.qa.map((item, i) => (
-              <QAItem key={i} item={item} />
+              <QAItem
+                key={i}
+                item={item}
+                open={openIndex === i}
+                onToggle={() => setOpenIndex(openIndex === i ? null : i)}
+              />
             ))}
           </div>
         </GlassCard>
+
+        <p className="text-white/30 text-xs text-center mt-8 pb-8 max-w-2xl mx-auto">
+          Information sourced from official government portals: gov.br, portalconsular.mre.gov.br,
+          administracion.gob.es, travel.state.gov, and europa.eu. Last reviewed June 2026.
+          LexGlobe is a legal reference tool, not legal advice. Always verify with official sources before travel.
+        </p>
       </div>
     </PageBackground>
   )
