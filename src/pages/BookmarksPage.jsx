@@ -94,8 +94,9 @@ export default function BookmarksPage() {
             </p>
             <button
               onClick={() => navigate('/')}
-              className="px-5 py-2.5 rounded-xl text-white text-sm font-semibold"
-              style={{ backgroundColor: '#7F77DD' }}
+              className="px-6 py-3 rounded-full border border-white/20 bg-white/10
+                text-white hover:bg-white/15 transition-all backdrop-blur-sm font-medium
+                text-sm"
             >
               Browse Library →
             </button>

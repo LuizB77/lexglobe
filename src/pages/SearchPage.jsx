@@ -15,8 +15,9 @@ export default function SearchPage() {
           </p>
           <button
             onClick={() => navigate('/')}
-            className="w-full py-3 rounded-xl text-white text-sm font-semibold"
-            style={{ backgroundColor: '#7F77DD' }}
+            className="px-6 py-3 rounded-full border border-white/20 bg-white/10
+              text-white hover:bg-white/15 transition-all backdrop-blur-sm font-medium
+              text-sm w-full"
           >
             Browse the Globe →
           </button>
