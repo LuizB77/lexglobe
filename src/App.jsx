@@ -11,6 +11,7 @@ import DailyLawPage from './pages/DailyLawPage'
 import BookmarksPage from './pages/BookmarksPage'
 import ProfilePage from './pages/ProfilePage'
 import SearchPage from './pages/SearchPage'
+import TravelGuidePage from './pages/TravelGuidePage'
 
 const PAGE_TITLES = {
   '/': 'LexGlobe — Explore Brazilian Law on a 3D Globe',
@@ -50,6 +51,7 @@ export default function App() {
           <Route path="/bookmarks" element={<BookmarksPage />} />
           <Route path="/profile" element={<ProfilePage />} />
           <Route path="/search" element={<SearchPage />} />
+          <Route path="/travel" element={<TravelGuidePage />} />
         </Routes>
       </BrowserRouter>
     </AuthProvider>

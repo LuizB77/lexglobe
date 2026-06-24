@@ -89,6 +89,19 @@ export default function CountryPanel({ country, onClose }) {
         >
           Ask AI Assistant
         </button>
+        <button
+          onClick={() => navigate(`/travel?country=${country.code}`)}
+          className="w-full py-3 rounded-xl border text-sm font-medium transition-colors"
+          style={{
+            border: '1px solid rgba(255,255,255,0.20)',
+            background: 'rgba(255,255,255,0.05)',
+            color: 'rgba(255,255,255,0.80)',
+          }}
+          onMouseEnter={e => e.currentTarget.style.background = 'rgba(255,255,255,0.10)'}
+          onMouseLeave={e => e.currentTarget.style.background = 'rgba(255,255,255,0.05)'}
+        >
+          Travel Guide →
+        </button>
       </div>
     </div>
   )

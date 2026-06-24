@@ -7,6 +7,7 @@ const NAV_ITEMS = [
   { label: 'Globe', shortLabel: 'Globe', path: '/' },
   { label: 'Daily Law', shortLabel: 'Daily', path: '/daily' },
   { label: 'Search', shortLabel: 'Search', path: '/search' },
+  { label: 'Travel', shortLabel: 'Travel', path: '/travel' },
   { label: 'Saved', shortLabel: 'Saved', path: '/bookmarks' },
 ]
 
