@@ -56,6 +56,20 @@ export function AuthProvider({ children }) {
     return googleUser
   }
 
+  function signInWithGitHub() {
+    const githubUser = {
+      uid: `github_${Date.now()}`,
+      email: 'demo@github.com',
+      name: 'Demo User',
+      avatar: 'https://api.dicebear.com/7.x/initials/svg?seed=GitHub',
+      createdAt: new Date().toISOString(),
+      provider: 'github',
+    }
+    localStorage.setItem('lexglobe_user', JSON.stringify(githubUser))
+    setUser(githubUser)
+    return githubUser
+  }
+
   function signInWithApple() {
     const appleUser = {
       uid: `apple_${Date.now()}`,
@@ -118,7 +132,7 @@ export function AuthProvider({ children }) {
   return (
     <AuthContext.Provider value={{
       user, loading,
-      signUp, signIn, signInWithGoogle, signInWithApple,
+      signUp, signIn, signInWithGoogle, signInWithApple, signInWithGitHub,
       signOut, updateStreak, getStreak,
     }}>
       {children}

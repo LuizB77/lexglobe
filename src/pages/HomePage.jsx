@@ -358,6 +358,7 @@ export default function HomePage() {
       {authModal && (
         <AuthModal
           countryName={authModal.country?.nameLocal || authModal.country?.name}
+          countryCode={authModal.country?.code}
           onSuccess={() => handleAuthSuccess(authModal.country, authModal.globeInstance)}
           onClose={() => {
             // Guest mode — close modal and enter country anyway
