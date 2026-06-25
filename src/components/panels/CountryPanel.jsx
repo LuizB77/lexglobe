@@ -24,10 +24,13 @@ export default function CountryPanel({ country, onClose }) {
   return (
     <div
       className="absolute right-0 top-0 h-full w-full sm:w-96 z-30
-        bg-space/95 backdrop-blur-md border-l border-brand/20
-        flex flex-col shadow-2xl
-        animate-[slideInRight_0.3s_ease-out]"
-      style={{ animation: 'slideInRight 0.3s ease-out' }}
+        flex flex-col shadow-2xl"
+      style={{
+        background: 'rgba(255,255,255,0.10)',
+        backdropFilter: 'blur(24px)',
+        borderLeft: '1px solid rgba(255,255,255,0.15)',
+        animation: 'slideInRight 0.3s ease-out',
+      }}
     >
       <style>{`
         @keyframes slideInRight {
@@ -56,12 +59,28 @@ export default function CountryPanel({ country, onClose }) {
 
       {/* Legal codes */}
       <div className="flex-1 overflow-y-auto p-6">
-        <p className="text-xs text-white/40 uppercase tracking-widest mb-4">Available Legal Codes</p>
+        <div className="flex items-center gap-2 mb-4">
+          <p className="text-xs text-white/40 uppercase tracking-widest">Available Legal Codes</p>
+          <span
+            className="text-xs px-3 py-1 rounded-full font-medium"
+            style={{
+              background: 'rgba(184,134,11,0.20)',
+              border: '1px solid rgba(184,134,11,0.40)',
+              color: '#B8860B',
+            }}
+          >
+            Available
+          </span>
+        </div>
         <div className="flex flex-col gap-2">
           {country.codes?.map(code => (
             <div
               key={code}
-              className="flex items-center gap-3 p-3 rounded-lg bg-white/5 border border-white/5"
+              className="flex items-center gap-3 p-3 rounded-lg"
+              style={{
+                background: 'rgba(255,255,255,0.05)',
+                border: '1px solid rgba(255,255,255,0.08)',
+              }}
             >
               <div
                 className="w-2 h-8 rounded-full flex-shrink-0"
@@ -77,28 +96,40 @@ export default function CountryPanel({ country, onClose }) {
       <div className="p-6 border-t border-white/10 flex flex-col gap-3">
         <button
           onClick={() => navigate(`/library/${country.code}`)}
-          className="w-full py-3 rounded-xl bg-brand text-white font-semibold
-            hover:bg-brand/80 transition-colors"
+          className="w-full py-3 rounded-xl font-semibold text-sm transition-all backdrop-blur-sm"
+          style={{
+            border: '1px solid rgba(184,134,11,0.60)',
+            background: 'rgba(184,134,11,0.15)',
+            color: '#B8860B',
+          }}
+          onMouseEnter={e => e.currentTarget.style.background = 'rgba(184,134,11,0.25)'}
+          onMouseLeave={e => e.currentTarget.style.background = 'rgba(184,134,11,0.15)'}
         >
-          Enter Library →
+          Enter Law Library →
         </button>
         <button
           onClick={() => navigate(`/assistant/${country.code}`)}
-          className="w-full py-3 rounded-xl border border-brand/40 text-brand
-            font-semibold hover:bg-brand/10 transition-colors text-sm"
+          className="w-full py-3 rounded-xl text-sm font-medium transition-all"
+          style={{
+            background: 'rgba(255,255,255,0.10)',
+            border: '1px solid rgba(255,255,255,0.20)',
+            color: 'rgba(255,255,255,0.80)',
+          }}
+          onMouseEnter={e => e.currentTarget.style.background = 'rgba(255,255,255,0.15)'}
+          onMouseLeave={e => e.currentTarget.style.background = 'rgba(255,255,255,0.10)'}
         >
           Ask AI Assistant
         </button>
         <button
           onClick={() => navigate(`/travel?country=${country.code}`)}
-          className="w-full py-3 rounded-xl border text-sm font-medium transition-colors"
+          className="w-full py-3 rounded-xl text-sm font-medium transition-all"
           style={{
+            background: 'rgba(255,255,255,0.10)',
             border: '1px solid rgba(255,255,255,0.20)',
-            background: 'rgba(255,255,255,0.05)',
             color: 'rgba(255,255,255,0.80)',
           }}
-          onMouseEnter={e => e.currentTarget.style.background = 'rgba(255,255,255,0.10)'}
-          onMouseLeave={e => e.currentTarget.style.background = 'rgba(255,255,255,0.05)'}
+          onMouseEnter={e => e.currentTarget.style.background = 'rgba(255,255,255,0.15)'}
+          onMouseLeave={e => e.currentTarget.style.background = 'rgba(255,255,255,0.10)'}
         >
           Travel Guide →
         </button>

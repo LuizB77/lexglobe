@@ -1,4 +1,4 @@
-import { useState, useRef } from 'react'
+import { useState, useRef, useEffect } from 'react'
 import { useNavigate } from 'react-router-dom'
 import GlobeView from '../components/globe/GlobeView'
 import ComingSoonPanel from '../components/panels/ComingSoonPanel'
@@ -6,7 +6,16 @@ import AuthModal from '../components/ui/AuthModal'
 import HeroOverlay from '../components/ui/HeroOverlay'
 import { useAuth } from '../context/AuthContext'
 
-function BrazilPanel({ visible, onEnter }) {
+const COUNTRY_PANEL_DATA = {
+  BR: { flag: '🇧🇷', name: 'Brasil', subtitle: '6 legal codes · 4,281 articles', img: '/illustrations/brazil-hover.png', cta: 'Enter Law Library →' },
+  PT: { flag: '🇵🇹', name: 'Portugal', subtitle: '8 legal codes · 5,993 articles', img: '/illustrations/portugal-hover.png', cta: 'Enter Law Library →' },
+  ES: { flag: '🇪🇸', name: 'España', subtitle: '4 legal codes · Constitution, Penal, Civil, Labor', img: '/illustrations/spain-hover.png', cta: 'Explorar Biblioteca →' },
+  US: { flag: '🇺🇸', name: 'United States', subtitle: '10 legal codes · Constitution, Criminal, Civil Rights +', img: '/illustrations/usa-hover.png', cta: 'Explore US Law →' },
+}
+
+function CountryHoverPanel({ visible, countryCode, onEnter }) {
+  const data = COUNTRY_PANEL_DATA[countryCode]
+  if (!data) return null
   return (
     <div
       className="absolute bottom-6 left-4 z-20 transition-all duration-300"
@@ -17,33 +26,56 @@ function BrazilPanel({ visible, onEnter }) {
         width: 'min(260px, calc(100vw - 32px))',
       }}
     >
-      <div className="rounded-2xl overflow-hidden shadow-2xl"
-        style={{ border: '1px solid rgba(255,255,255,0.6)' }}>
-        <img
-          src="/illustrations/brazil-hover.png"
-          alt="Brazil"
-          className="w-full object-cover"
-          style={{ height: '120px', objectPosition: 'center' }}
-        />
-        <div className="bg-white/95 backdrop-blur px-4 py-3">
-          <div className="flex items-center gap-2 mb-2">
-            <span className="text-xl">🇧🇷</span>
-            <span className="font-bold text-gray-900 text-sm">Brasil</span>
-            <span className="ml-auto text-xs px-2 py-0.5 rounded-full
-              bg-green-50 text-green-700 border border-green-200">
+      <div
+        className="rounded-2xl overflow-hidden shadow-2xl"
+        style={{
+          background: 'rgba(5,10,20,0.70)',
+          backdropFilter: 'blur(20px)',
+          border: '1px solid rgba(255,255,255,0.15)',
+        }}
+      >
+        {/* Illustration with gradient overlay */}
+        <div className="relative">
+          <img
+            src={data.img}
+            alt={data.name}
+            className="w-full object-cover"
+            style={{ height: '110px', objectPosition: 'center' }}
+            onError={e => { e.target.style.display = 'none' }}
+          />
+          <div className="absolute inset-0" style={{
+            background: 'linear-gradient(to bottom, transparent, rgba(0,0,0,0.20), rgba(5,10,20,0.60))',
+          }} />
+        </div>
+
+        <div className="px-4 py-3">
+          <div className="flex items-center gap-2 mb-1.5">
+            <span className="text-xl">{data.flag}</span>
+            <span className="font-bold text-white text-sm">{data.name}</span>
+            <span
+              className="ml-auto text-xs px-2.5 py-0.5 rounded-full font-medium"
+              style={{
+                background: 'rgba(184,134,11,0.20)',
+                border: '1px solid rgba(184,134,11,0.40)',
+                color: '#B8860B',
+              }}
+            >
               Available
             </span>
           </div>
-          <p className="text-xs text-gray-500 mb-3">
-            6 legal codes · 4,281 articles
-          </p>
+          <p className="text-xs text-white/50 mb-3">{data.subtitle}</p>
           <button
             onClick={onEnter}
-            className="w-full py-2.5 rounded-xl text-white text-sm font-semibold
-              min-h-[44px]"
-            style={{ backgroundColor: '#B8860B' }}
+            className="w-full py-2.5 rounded-xl text-sm font-semibold transition-all min-h-[44px]"
+            style={{
+              border: '1px solid rgba(184,134,11,0.60)',
+              background: 'rgba(184,134,11,0.15)',
+              color: '#B8860B',
+            }}
+            onMouseEnter={e => e.currentTarget.style.background = 'rgba(184,134,11,0.25)'}
+            onMouseLeave={e => e.currentTarget.style.background = 'rgba(184,134,11,0.15)'}
           >
-            Enter Law Library →
+            {data.cta}
           </button>
         </div>
       </div>
@@ -51,141 +83,33 @@ function BrazilPanel({ visible, onEnter }) {
   )
 }
 
-function PortugalPanel({ visible, onEnter }) {
-  return (
-    <div
-      className="absolute bottom-6 left-4 z-20 transition-all duration-300"
-      style={{
-        opacity: visible ? 1 : 0,
-        transform: visible ? 'translateY(0)' : 'translateY(12px)',
-        pointerEvents: visible ? 'auto' : 'none',
-        width: 'min(260px, calc(100vw - 32px))',
-      }}
-    >
-      <div className="rounded-2xl overflow-hidden shadow-2xl"
-        style={{ border: '1px solid rgba(255,255,255,0.6)' }}>
-        <img
-          src="/illustrations/portugal-hover.png"
-          alt="Portugal"
-          className="w-full object-cover"
-          style={{ height: '120px', objectPosition: 'center' }}
-          onError={e => { e.target.style.display = 'none' }}
-        />
-        <div className="bg-white/95 backdrop-blur px-4 py-3">
-          <div className="flex items-center gap-2 mb-2">
-            <span className="text-xl">🇵🇹</span>
-            <span className="font-bold text-gray-900 text-sm">Portugal</span>
-            <span className="ml-auto text-xs px-2 py-0.5 rounded-full
-              bg-green-50 text-green-700 border border-green-200">
-              Available
-            </span>
-          </div>
-          <p className="text-xs text-gray-500 mb-3">
-            8 legal codes · 5,993 articles
-          </p>
-          <button
-            onClick={onEnter}
-            className="w-full py-2.5 rounded-xl text-white text-sm font-semibold
-              min-h-[44px]"
-            style={{ backgroundColor: '#B8860B' }}
-          >
-            Enter Law Library →
-          </button>
-        </div>
-      </div>
-    </div>
-  )
-}
+function TapHint() {
+  const [opacity, setOpacity] = useState(1)
+  const [show, setShow] = useState(() => !localStorage.getItem('lexglobe_hint_shown'))
 
-function SpainPanel({ visible, onEnter }) {
-  return (
-    <div
-      className="absolute bottom-6 left-4 z-20
-        transition-all duration-300"
-      style={{
-        opacity: visible ? 1 : 0,
-        transform: visible ? 'translateY(0)' : 'translateY(12px)',
-        pointerEvents: visible ? 'auto' : 'none',
-        width: 'min(260px, calc(100vw - 32px))',
-      }}
-    >
-      <div className="rounded-2xl overflow-hidden shadow-2xl"
-        style={{ border: '1px solid rgba(255,255,255,0.6)' }}>
-        <img
-          src="/illustrations/spain-hover.png"
-          alt="Spain"
-          className="w-full object-cover"
-          style={{ height: '120px', objectPosition: 'center' }}
-          onError={e => { e.target.style.display = 'none' }}
-        />
-        <div className="bg-white/95 backdrop-blur px-4 py-3">
-          <div className="flex items-center gap-2 mb-2">
-            <span className="text-xl">🇪🇸</span>
-            <span className="font-bold text-gray-900 text-sm">España</span>
-            <span className="ml-auto text-xs px-2 py-0.5 rounded-full
-              bg-green-50 text-green-700 border border-green-200">
-              Available
-            </span>
-          </div>
-          <p className="text-xs text-gray-500 mb-3">
-            4 legal codes · Constitution, Penal, Civil, Labor
-          </p>
-          <button
-            onClick={onEnter}
-            className="w-full py-2.5 rounded-xl text-white text-sm font-semibold
-              min-h-[44px]"
-            style={{ backgroundColor: '#C8A000' }}
-          >
-            Explorar Biblioteca →
-          </button>
-        </div>
-      </div>
-    </div>
-  )
-}
+  useEffect(() => {
+    if (!show) return
+    localStorage.setItem('lexglobe_hint_shown', '1')
+    const fadeTimer = setTimeout(() => setOpacity(0), 3000)
+    const hideTimer = setTimeout(() => setShow(false), 3800)
+    return () => { clearTimeout(fadeTimer); clearTimeout(hideTimer) }
+  }, [show])
 
-function USAPanel({ visible, onEnter }) {
+  if (!show) return null
   return (
     <div
-      className="absolute bottom-6 left-4 z-20
-        transition-all duration-300"
-      style={{
-        opacity: visible ? 1 : 0,
-        transform: visible ? 'translateY(0)' : 'translateY(12px)',
-        pointerEvents: visible ? 'auto' : 'none',
-        width: 'min(260px, calc(100vw - 32px))',
-      }}
+      className="fixed bottom-24 left-0 right-0 flex justify-center pointer-events-none z-10"
+      style={{ transition: 'opacity 0.8s ease', opacity }}
     >
-      <div className="rounded-2xl overflow-hidden shadow-2xl"
-        style={{ border: '1px solid rgba(255,255,255,0.6)' }}>
-        <img
-          src="/illustrations/usa-hover.png"
-          alt="USA"
-          className="w-full object-cover"
-          style={{ height: '120px', objectPosition: 'center' }}
-          onError={e => { e.target.style.display = 'none' }}
-        />
-        <div className="bg-white/95 backdrop-blur px-4 py-3">
-          <div className="flex items-center gap-2 mb-2">
-            <span className="text-xl">🇺🇸</span>
-            <span className="font-bold text-gray-900 text-sm">United States</span>
-            <span className="ml-auto text-xs px-2 py-0.5 rounded-full
-              bg-green-50 text-green-700 border border-green-200">
-              Available
-            </span>
-          </div>
-          <p className="text-xs text-gray-500 mb-3">
-            10 legal codes · Constitution, Criminal, Civil Rights + more
-          </p>
-          <button
-            onClick={onEnter}
-            className="w-full py-2.5 rounded-xl text-white text-sm font-semibold
-              min-h-[44px]"
-            style={{ backgroundColor: '#B7791F' }}
-          >
-            Explore US Law →
-          </button>
-        </div>
+      <div
+        className="flex items-center gap-2 px-4 py-2 rounded-full"
+        style={{
+          background: 'rgba(255,255,255,0.10)',
+          backdropFilter: 'blur(8px)',
+          border: '1px solid rgba(255,255,255,0.15)',
+        }}
+      >
+        <span className="text-white/60 text-xs">✦ Tap a country to explore</span>
       </div>
     </div>
   )
@@ -322,27 +246,28 @@ export default function HomePage() {
         <HeroOverlay onDismiss={handleHeroDismiss} />
       )}
 
-      <BrazilPanel
+      <CountryHoverPanel
         visible={brazilHovered && !authModal}
+        countryCode="BR"
         onEnter={() => handleCountryClick(brazilCountry, globeRef.current)}
       />
-
-      <PortugalPanel
+      <CountryHoverPanel
         visible={portugalHovered && !authModal}
+        countryCode="PT"
         onEnter={() => handleCountryClick(portugalCountry, globeRef.current)}
       />
-
-      <SpainPanel
+      <CountryHoverPanel
         visible={spainHovered && !authModal}
+        countryCode="ES"
         onEnter={() => handleCountryClick(
           { code: 'ES', name: 'Spain', nameLocal: 'España', flag: '🇪🇸', active: true,
             codes: ['constitucionES', 'codigoPenalES', 'codigoCivilES', 'estatutoTrabajadores'] },
           globeRef.current
         )}
       />
-
-      <USAPanel
+      <CountryHoverPanel
         visible={usaHovered && !authModal}
+        countryCode="US"
         onEnter={() => handleCountryClick(
           { code: 'US', name: 'United States', nameLocal: 'United States',
             flag: '🇺🇸', active: true,
@@ -353,6 +278,8 @@ export default function HomePage() {
           globeRef.current
         )}
       />
+
+      <TapHint />
 
       {/* Auth modal — globe stays visible behind */}
       {authModal && (

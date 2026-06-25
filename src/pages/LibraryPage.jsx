@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useCallback } from 'react'
 import { useParams, useNavigate, Link } from 'react-router-dom'
 import { loadCode } from '../utils/searchEngine'
 import { search } from '../utils/searchEngine'
@@ -206,8 +206,20 @@ const CODE_META = {
   },
 }
 
+function useIsMobile() {
+  const [mobile, setMobile] = useState(() => window.innerWidth < 640)
+  useEffect(() => {
+    const handler = () => setMobile(window.innerWidth < 640)
+    window.addEventListener('resize', handler)
+    return () => window.removeEventListener('resize', handler)
+  }, [])
+  return mobile
+}
+
 function BookSpine({ codeKey, meta, articleCount, onClick }) {
-  const width = meta.width || 65
+  const isMobile = useIsMobile()
+  const width = isMobile ? 52 : (meta.width || 65)
+  const height = isMobile ? 160 : 220
   const leanDeg = meta.leanDeg || 0
   return (
     <div
@@ -251,7 +263,7 @@ function BookSpine({ codeKey, meta, articleCount, onClick }) {
           group-hover:-translate-y-5 group-hover:brightness-125"
         style={{
           width: `${width}px`,
-          height: '220px',
+          height: `${height}px`,
           background: meta.spineGradient,
           border: '1px solid rgba(255,255,255,0.08)',
           boxShadow: '2px 0 8px rgba(0,0,0,0.4)',
@@ -325,10 +337,11 @@ function BookSpine({ codeKey, meta, articleCount, onClick }) {
 }
 
 function Shelf({ codes, countryCode, articleCounts, onCodeClick }) {
+  const isMobile = useIsMobile()
   return (
     <div className="flex flex-col">
       {/* Books row */}
-      <div className="flex items-end justify-between gap-3 px-4 overflow-visible">
+      <div className={`flex items-end justify-between px-4 overflow-visible ${isMobile ? 'gap-2' : 'gap-3'}`}>
         {codes.map(code => {
           const meta = CODE_META[code]
           if (!meta) return null
@@ -345,7 +358,7 @@ function Shelf({ codes, countryCode, articleCounts, onCodeClick }) {
       </div>
       {/* Shelf plank */}
       <div
-        className="w-full h-6 rounded-sm mt-0 mb-8 relative overflow-hidden"
+        className={`w-full rounded-sm mt-0 mb-8 relative overflow-hidden ${isMobile ? 'h-3' : 'h-6'}`}
         style={{
           background: 'linear-gradient(180deg, #c4832a 0%, #a06020 15%, #7a4a18 40%, #5c3610 70%, #3a200a 100%)',
           boxShadow: '0 6px 20px rgba(0,0,0,0.8), 0 2px 6px rgba(0,0,0,0.9), inset 0 1px 0 rgba(255,220,120,0.2), inset 0 -1px 0 rgba(0,0,0,0.5)',
