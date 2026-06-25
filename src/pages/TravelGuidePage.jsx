@@ -128,7 +128,7 @@ export default function TravelGuidePage() {
           <div className="flex flex-col gap-3">
             {guide.qa.map((item, i) => (
               <QAItem
-                key={i}
+                key={`${selected}-${i}`}
                 item={item}
                 open={openIndex === i}
                 onToggle={() => setOpenIndex(openIndex === i ? null : i)}
