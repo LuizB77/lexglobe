@@ -13,7 +13,6 @@ export default function HeroOverlay({ onDismiss }) {
   const [fading, setFading] = useState(false)
   const [dismissed, setDismissed] = useState(false)
 
-  // Cycle through taglines every 2.5 seconds
   useEffect(() => {
     const interval = setInterval(() => {
       setFading(true)
@@ -32,74 +31,72 @@ export default function HeroOverlay({ onDismiss }) {
 
   return (
     <div
-      className="absolute inset-0 z-30 flex flex-col items-center
-        justify-center pointer-events-none"
+      className="absolute inset-0 z-20 flex items-center justify-center
+        pointer-events-none"
       style={{
-        background: 'radial-gradient(ellipse at center, rgba(245,245,240,0.15) 0%, rgba(245,245,240,0.5) 60%, rgba(245,245,240,0.85) 100%)',
         opacity: dismissed ? 0 : 1,
         transition: 'opacity 0.6s ease',
       }}
     >
-      {/* Content card */}
+      {/* Card */}
       <div
-        className="pointer-events-auto flex flex-col items-center text-center
-          px-8 py-10 rounded-3xl max-w-lg mx-4"
+        className="relative pointer-events-auto flex flex-col items-center text-center
+          p-8 rounded-3xl max-w-md w-full mx-4"
         style={{
-          background: 'rgba(255,255,255,0.85)',
-          backdropFilter: 'blur(20px)',
-          border: '1px solid rgba(255,255,255,0.9)',
-          boxShadow: '0 20px 60px rgba(0,0,0,0.12)',
+          background: 'rgba(255,255,255,0.08)',
+          backdropFilter: 'blur(24px)',
+          border: '1px solid rgba(255,255,255,0.12)',
+          boxShadow: '0 25px 60px rgba(0,0,0,0.40), inset 0 1px 0 rgba(255,255,255,0.10)',
         }}
       >
-        {/* Logo */}
-        <div className="text-5xl mb-4">🌐</div>
-        <h1 className="text-3xl sm:text-4xl font-black text-gray-900 mb-2 tracking-tight">
+        {/* Title */}
+        <h1 className="text-4xl font-bold text-white tracking-tight mb-2">
           LexGlobe
         </h1>
-        <p className="text-sm text-gray-500 mb-4 max-w-sm">
+
+        {/* Subtitle */}
+        <p className="text-sm text-white/60 mb-5 max-w-xs leading-relaxed">
           Legal answers across Brazil, Portugal, Spain & the US —
           explained in plain language, in your language.
         </p>
 
         {/* Cycling tagline */}
         <p
-          className="text-lg sm:text-xl font-medium mb-2 transition-opacity duration-400"
+          className="text-lg font-medium mb-2 px-2 leading-snug"
           style={{
-            color: '#7F77DD',
+            color: '#B8860B',
             opacity: fading ? 0 : 1,
-            minHeight: '2rem',
+            transition: 'opacity 0.4s ease',
+            minHeight: '3rem',
           }}
         >
           {TAGLINES[taglineIndex].text}
         </p>
 
-        {/* Language indicator dots */}
+        {/* Language dots */}
         <div className="flex gap-2 mb-6">
           {TAGLINES.map((t, i) => (
             <div
               key={t.lang}
               className="w-1.5 h-1.5 rounded-full transition-all duration-300"
               style={{
-                backgroundColor: i === taglineIndex ? '#7F77DD' : '#d1d5db',
+                backgroundColor: i === taglineIndex ? '#B8860B' : 'rgba(255,255,255,0.25)',
                 transform: i === taglineIndex ? 'scale(1.4)' : 'scale(1)',
               }}
             />
           ))}
         </div>
 
-        {/* Feature badges */}
+        {/* Country + feature pills */}
         <div className="flex flex-wrap gap-2 justify-center mb-8">
-          {[
-            '🇧🇷 Brazil',
-            '🇵🇹 Portugal',
-            '🇪🇸 Spain',
-            '🇺🇸 USA',
-            '✦ Plain-Language AI',
-          ].map(badge => (
+          {['🇧🇷 Brazil', '🇵🇹 Portugal', '🇪🇸 Spain', '🇺🇸 USA', '✦ Plain-Language AI'].map(badge => (
             <span
               key={badge}
-              className="px-3 py-1 rounded-full text-xs font-medium
-                bg-gray-100 text-gray-600"
+              className="px-3 py-1 rounded-full text-xs text-white/80"
+              style={{
+                background: 'rgba(255,255,255,0.10)',
+                border: '1px solid rgba(255,255,255,0.15)',
+              }}
             >
               {badge}
             </span>
@@ -109,26 +106,32 @@ export default function HeroOverlay({ onDismiss }) {
         {/* CTA */}
         <button
           onClick={handleDismiss}
-          className="w-full py-4 rounded-2xl text-white font-bold text-base
-            transition-all hover:scale-105 active:scale-95 shadow-lg mb-3"
-          style={{
-            background: 'linear-gradient(135deg, #7F77DD 0%, #5a52b8 100%)',
-            boxShadow: '0 8px 24px rgba(127,119,221,0.4)',
-          }}
+          className="w-full py-3 rounded-xl border border-[#B8860B]/60 bg-[#B8860B]/15
+            text-[#B8860B] font-semibold hover:bg-[#B8860B]/25 hover:border-[#B8860B]/80
+            transition-all backdrop-blur-sm mb-3"
         >
           Explore the Globe →
         </button>
 
-        {!user && (
-          <p className="text-xs text-gray-400">
+        {/* Bottom text */}
+        {user ? (
+          <p className="text-xs text-white/30">
+            Welcome back, {user.name.split(' ')[0]} 👋
+          </p>
+        ) : (
+          <p className="text-xs text-white/30">
             Free to explore · Sign in to save articles
           </p>
         )}
-        {user && (
-          <p className="text-xs text-gray-400">
-            Welcome back, {user.name.split(' ')[0]} 👋
-          </p>
-        )}
+
+        {/* Dismiss X */}
+        <button
+          onClick={handleDismiss}
+          className="absolute top-4 right-4 w-7 h-7 flex items-center justify-center
+            rounded-full text-white/40 hover:text-white/70 hover:bg-white/10 transition-all text-sm"
+        >
+          ✕
+        </button>
       </div>
     </div>
   )
