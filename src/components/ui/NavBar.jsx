@@ -109,30 +109,28 @@ export default function NavBar() {
         <SlidingCursor position={position} isGlobe={isGlobe} />
       </ul>
 
-      {/* Right — profile or sign in */}
+      {/* Right — initials avatar or sign in */}
       {user ? (
         <button
           onClick={() => navigate('/profile')}
-          className="flex items-center gap-2 px-2.5 py-1.5 rounded-full
-            transition-colors flex-shrink-0 border-2"
+          className="w-9 h-9 rounded-full flex items-center justify-center
+            flex-shrink-0 font-bold text-sm transition-all"
           style={{
-            borderColor: 'rgba(255,255,255,0.25)',
-            backgroundColor: 'rgba(255,255,255,0.08)',
-            backdropFilter: 'blur(16px)',
+            background: 'rgba(184,134,11,0.20)',
+            border: '1px solid rgba(184,134,11,0.40)',
+            color: '#B8860B',
           }}
+          onMouseEnter={e => e.currentTarget.style.background = 'rgba(184,134,11,0.30)'}
+          onMouseLeave={e => e.currentTarget.style.background = 'rgba(184,134,11,0.20)'}
+          title={user.name}
         >
-          <img
-            src={user.avatar}
-            alt={user.name}
-            className="w-5 h-5 rounded-full"
-          />
-          <span
-            className="text-xs font-semibold hidden sm:block max-w-[70px]
-              truncate uppercase tracking-wide"
-            style={{ color: 'rgba(255,255,255,0.9)' }}
-          >
-            {user.name.split(' ')[0]}
-          </span>
+          {(() => {
+            const name = user.name || user.email || '?'
+            const parts = name.trim().split(' ')
+            return parts.length >= 2
+              ? (parts[0][0] + parts[parts.length - 1][0]).toUpperCase()
+              : name[0].toUpperCase()
+          })()}
         </button>
       ) : (
         <button

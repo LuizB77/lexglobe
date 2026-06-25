@@ -45,29 +45,24 @@ export default function ProfilePage() {
   const [preferences, setPreferences] = useState(null)
 
   useEffect(() => {
-    // redirect guests
-    if (!user) { navigate('/'); return }
-
+    if (!user) return
     setArticlesRead(
       parseInt(localStorage.getItem('lexglobe_articles_read') || '0', 10)
     )
-
     const bookmarks = JSON.parse(localStorage.getItem('lexglobe_bookmarks') || '{}')
     const total = Object.values(bookmarks).reduce((sum, arr) => sum + arr.length, 0)
     setBookmarkCount(total)
-
     const streakData = JSON.parse(localStorage.getItem('lexglobe_streak') || '{"count":1}')
     setStreak(streakData.count ?? 1)
-
     const prefs = localStorage.getItem('lexglobe_preferences')
     if (prefs) {
       try { setPreferences(JSON.parse(prefs)) } catch {}
     }
-  }, [user, navigate])
+  }, [user])
 
-  if (!user) return null
-
-  const memberSince = user.createdAt
+  const displayName = user?.name || 'Guest User'
+  const displayEmail = user?.email || 'Not signed in'
+  const memberSince = user?.createdAt
     ? new Date(user.createdAt).toLocaleDateString('en', { month: 'long', year: 'numeric' })
     : new Date().toLocaleDateString('en', { month: 'long', year: 'numeric' })
 
@@ -100,15 +95,13 @@ export default function ProfilePage() {
                   color: '#B8860B',
                 }}
               >
-                {initials(user.name, user.email)}
+                {initials(displayName, displayEmail)}
               </div>
 
               {/* Info */}
               <div>
-                <p className="text-white font-semibold text-lg leading-tight">
-                  {user.name || 'Guest'}
-                </p>
-                <p className="text-white/50 text-sm">{user.email}</p>
+                <p className="text-white font-semibold text-lg leading-tight">{displayName}</p>
+                <p className="text-white/50 text-sm">{displayEmail}</p>
                 <p className="text-white/30 text-xs mt-0.5">Member since {memberSince}</p>
               </div>
             </div>
@@ -221,27 +214,43 @@ export default function ProfilePage() {
             ))}
           </div>
 
-          {/* ── SECTION 5: SIGN OUT ── */}
+          {/* ── SECTION 5: SIGN OUT / SIGN IN ── */}
           <div className="text-center pt-2 pb-8">
-            <button
-              onClick={handleSignOut}
-              className="px-6 py-2 rounded-xl text-sm transition-all"
-              style={{
-                background: 'rgba(255,255,255,0.05)',
-                border: '1px solid rgba(255,255,255,0.10)',
-                color: 'rgba(255,255,255,0.50)',
-              }}
-              onMouseEnter={e => {
-                e.currentTarget.style.background = 'rgba(255,255,255,0.10)'
-                e.currentTarget.style.color = 'rgba(255,255,255,0.80)'
-              }}
-              onMouseLeave={e => {
-                e.currentTarget.style.background = 'rgba(255,255,255,0.05)'
-                e.currentTarget.style.color = 'rgba(255,255,255,0.50)'
-              }}
-            >
-              Sign Out
-            </button>
+            {user ? (
+              <button
+                onClick={handleSignOut}
+                className="px-6 py-2 rounded-xl text-sm transition-all"
+                style={{
+                  background: 'rgba(255,255,255,0.05)',
+                  border: '1px solid rgba(255,255,255,0.10)',
+                  color: 'rgba(255,255,255,0.50)',
+                }}
+                onMouseEnter={e => {
+                  e.currentTarget.style.background = 'rgba(255,255,255,0.10)'
+                  e.currentTarget.style.color = 'rgba(255,255,255,0.80)'
+                }}
+                onMouseLeave={e => {
+                  e.currentTarget.style.background = 'rgba(255,255,255,0.05)'
+                  e.currentTarget.style.color = 'rgba(255,255,255,0.50)'
+                }}
+              >
+                Sign Out
+              </button>
+            ) : (
+              <button
+                onClick={() => navigate('/auth')}
+                className="px-6 py-2 rounded-xl text-sm font-semibold transition-all"
+                style={{
+                  border: '1px solid rgba(184,134,11,0.60)',
+                  background: 'rgba(184,134,11,0.15)',
+                  color: '#B8860B',
+                }}
+                onMouseEnter={e => e.currentTarget.style.background = 'rgba(184,134,11,0.25)'}
+                onMouseLeave={e => e.currentTarget.style.background = 'rgba(184,134,11,0.15)'}
+              >
+                Sign In →
+              </button>
+            )}
             <p className="text-white/20 text-xs mt-3">
               LexGlobe v1.0 · lexglobe-eight.vercel.app
             </p>
