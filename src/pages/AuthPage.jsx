@@ -226,11 +226,9 @@ export default function AuthPage() {
                 <button
                   onClick={handleSubmit}
                   disabled={loading}
-                  className="w-full py-3 rounded-xl text-white font-semibold text-sm
-                    transition-all mt-1"
-                  style={{ background: loading ? '#a07508' : '#B8860B' }}
-                  onMouseEnter={e => !loading && (e.currentTarget.style.background = '#a07508')}
-                  onMouseLeave={e => !loading && (e.currentTarget.style.background = '#B8860B')}
+                  className="w-full py-3 rounded-xl border border-[#B8860B]/60 bg-[#B8860B]/15
+                    text-[#B8860B] font-semibold hover:bg-[#B8860B]/25 hover:border-[#B8860B]/80
+                    transition-all backdrop-blur-sm mt-1 text-sm"
                 >
                   {loading ? '…' : authMode === 'signin' ? 'Sign In' : 'Continue →'}
                 </button>
@@ -320,11 +318,9 @@ export default function AuthPage() {
 
               <button
                 onClick={handleFinish}
-                className="w-full py-3 rounded-xl text-white font-semibold text-sm
-                  transition-all mb-3"
-                style={{ background: '#B8860B' }}
-                onMouseEnter={e => e.currentTarget.style.background = '#a07508'}
-                onMouseLeave={e => e.currentTarget.style.background = '#B8860B'}
+                className="w-full py-3 rounded-xl border border-[#B8860B]/60 bg-[#B8860B]/15
+                  text-[#B8860B] font-semibold hover:bg-[#B8860B]/25 hover:border-[#B8860B]/80
+                  transition-all backdrop-blur-sm text-sm mb-3"
               >
                 Finish →
               </button>
