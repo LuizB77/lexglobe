@@ -11,7 +11,6 @@ import DailyLawPage from './pages/DailyLawPage'
 import BookmarksPage from './pages/BookmarksPage'
 import ProfilePage from './pages/ProfilePage'
 import SearchPage from './pages/SearchPage'
-import TravelGuidePage from './pages/TravelGuidePage'
 import TravelPage from './pages/TravelPage'
 
 const PAGE_TITLES = {
