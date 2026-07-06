@@ -2,6 +2,7 @@ import { useState } from 'react'
 import { useNavigate, useParams } from 'react-router-dom'
 import PageBackground from '../components/ui/PageBackground'
 import GlassCard from '../components/ui/GlassCard'
+import { travelPackets } from '../data/travelPackets'
 
 const COUNTRIES = [
   { code: 'BR', label: 'Brazil 🇧🇷' },
@@ -16,6 +17,20 @@ const BUTTON_STYLE = {
   color: '#B8860B',
 }
 
+function BackButton({ navigate }) {
+  return (
+    <button
+      className="inline-flex items-center gap-1.5 text-sm font-semibold mb-6 transition-colors"
+      style={{ color: 'rgba(255,255,255,0.45)' }}
+      onMouseEnter={e => (e.currentTarget.style.color = '#B8860B')}
+      onMouseLeave={e => (e.currentTarget.style.color = 'rgba(255,255,255,0.45)')}
+      onClick={() => navigate('/travel')}
+    >
+      ← Back to Travel
+    </button>
+  )
+}
+
 export default function TravelPage() {
   const navigate = useNavigate()
   const { origin, destination } = useParams()
@@ -24,26 +39,84 @@ export default function TravelPage() {
   const [destVal, setDestVal] = useState('US')
 
   if (origin && destination) {
+    const key = `${origin.toUpperCase()}-${destination.toUpperCase()}`
+    const packet = travelPackets[key]
+
+    if (!packet) {
+      return (
+        <PageBackground>
+          <div className="max-w-2xl mx-auto px-4 pt-20 pb-16">
+            <BackButton navigate={navigate} />
+            <GlassCard className="p-10 text-center">
+              <p className="text-white/50 text-sm mb-6">
+                Packet not available yet for this route
+              </p>
+              <button
+                className="px-5 py-2.5 rounded-full text-sm font-semibold uppercase tracking-wide transition-all"
+                style={BUTTON_STYLE}
+                onMouseEnter={e => (e.currentTarget.style.background = 'rgba(184,134,11,0.25)')}
+                onMouseLeave={e => (e.currentTarget.style.background = 'rgba(184,134,11,0.15)')}
+                onClick={() => navigate('/travel')}
+              >
+                ← Back to Travel
+              </button>
+            </GlassCard>
+          </div>
+        </PageBackground>
+      )
+    }
+
     return (
       <PageBackground>
-        <div className="max-w-2xl mx-auto px-4 pt-20 pb-16 flex flex-col items-center justify-center min-h-screen">
-          <GlassCard className="p-10 text-center w-full">
+        <div className="max-w-3xl mx-auto px-4 pt-20 pb-16">
+          <BackButton navigate={navigate} />
+
+          {/* Header */}
+          <div className="mb-8">
+            <p className="text-2xl mb-2">{packet.flagFrom} → {packet.flagTo}</p>
             <h1
-              className="text-2xl font-black mb-6"
+              className="text-3xl font-black"
               style={{ color: '#f5f5f0' }}
             >
-              Packet: {origin} → {destination}
+              {packet.title}
             </h1>
+          </div>
+
+          {/* Section grid */}
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
+            {packet.sections.map(section => (
+              <GlassCard key={section.label} className="p-5">
+                <div className="flex items-start gap-3 mb-2">
+                  <span className="text-2xl flex-shrink-0">{section.icon}</span>
+                  <span
+                    className="font-bold text-sm uppercase tracking-wide pt-1"
+                    style={{ color: '#B8860B' }}
+                  >
+                    {section.label}
+                  </span>
+                </div>
+                <p
+                  className="text-sm leading-relaxed"
+                  style={{ color: 'rgba(245,245,240,0.80)' }}
+                >
+                  {section.body}
+                </p>
+              </GlassCard>
+            ))}
+          </div>
+
+          {/* Plan this trip CTA */}
+          <div className="flex justify-center">
             <button
-              className="px-5 py-2.5 rounded-full text-sm font-semibold uppercase tracking-wide transition-all"
+              className="px-8 py-3 rounded-full text-sm font-semibold uppercase tracking-wide transition-all"
               style={BUTTON_STYLE}
-              onMouseEnter={e => e.currentTarget.style.background = 'rgba(184,134,11,0.25)'}
-              onMouseLeave={e => e.currentTarget.style.background = 'rgba(184,134,11,0.15)'}
-              onClick={() => navigate('/travel')}
+              onMouseEnter={e => (e.currentTarget.style.background = 'rgba(184,134,11,0.25)')}
+              onMouseLeave={e => (e.currentTarget.style.background = 'rgba(184,134,11,0.15)')}
+              onClick={() => navigate(`/travel?plan=${destination.toUpperCase()}`)}
             >
-              ← Back to Travel
+              + Plan This Trip
             </button>
-          </GlassCard>
+          </div>
         </div>
       </PageBackground>
     )
@@ -112,8 +185,8 @@ export default function TravelPage() {
             <button
               className="w-full py-2.5 rounded-full text-sm font-semibold uppercase tracking-wide transition-all"
               style={BUTTON_STYLE}
-              onMouseEnter={e => e.currentTarget.style.background = 'rgba(184,134,11,0.25)'}
-              onMouseLeave={e => e.currentTarget.style.background = 'rgba(184,134,11,0.15)'}
+              onMouseEnter={e => (e.currentTarget.style.background = 'rgba(184,134,11,0.25)')}
+              onMouseLeave={e => (e.currentTarget.style.background = 'rgba(184,134,11,0.15)')}
               onClick={() => navigate(`/travel/${originVal}/${destVal}`)}
             >
               Get Packet
@@ -127,8 +200,8 @@ export default function TravelPage() {
             <button
               className="w-full py-2.5 rounded-full text-sm font-semibold uppercase tracking-wide transition-all mt-6"
               style={BUTTON_STYLE}
-              onMouseEnter={e => e.currentTarget.style.background = 'rgba(184,134,11,0.25)'}
-              onMouseLeave={e => e.currentTarget.style.background = 'rgba(184,134,11,0.15)'}
+              onMouseEnter={e => (e.currentTarget.style.background = 'rgba(184,134,11,0.25)')}
+              onMouseLeave={e => (e.currentTarget.style.background = 'rgba(184,134,11,0.15)')}
             >
               + Plan a Trip
             </button>
