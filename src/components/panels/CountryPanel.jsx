@@ -121,7 +121,7 @@ export default function CountryPanel({ country, onClose }) {
           Ask AI Assistant
         </button>
         <button
-          onClick={() => navigate(`/travel?country=${country.code}`)}
+          onClick={() => navigate('/travel', { state: { openPlanner: true, destination: country.code } })}
           className="w-full py-3 rounded-xl text-sm font-medium transition-all"
           style={{
             background: 'rgba(255,255,255,0.10)',
@@ -131,7 +131,7 @@ export default function CountryPanel({ country, onClose }) {
           onMouseEnter={e => e.currentTarget.style.background = 'rgba(255,255,255,0.15)'}
           onMouseLeave={e => e.currentTarget.style.background = 'rgba(255,255,255,0.10)'}
         >
-          Travel Guide →
+          Plan a Trip ✈
         </button>
       </div>
     </div>
