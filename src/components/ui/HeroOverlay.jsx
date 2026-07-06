@@ -80,7 +80,7 @@ export default function HeroOverlay({ onDismiss }) {
               key={t.lang}
               className="w-1.5 h-1.5 rounded-full transition-all duration-300"
               style={{
-                backgroundColor: i === taglineIndex ? '#B8860B' : 'rgba(255,255,255,0.25)',
+                backgroundColor: i === taglineIndex ? 'rgba(184,134,11,0.70)' : 'rgba(255,255,255,0.25)',
                 transform: i === taglineIndex ? 'scale(1.4)' : 'scale(1)',
               }}
             />

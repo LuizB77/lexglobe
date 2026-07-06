@@ -148,7 +148,7 @@ export default function ProfilePage() {
                           className="flex items-center gap-1.5 px-4 py-1.5 rounded-full text-sm font-medium"
                           style={{
                             background: 'rgba(184,134,11,0.20)',
-                            border: '1px solid #B8860B',
+                            border: '1px solid rgba(184,134,11,0.50)',
                             color: '#B8860B',
                           }}
                         >
