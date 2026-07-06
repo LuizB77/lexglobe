@@ -1,8 +1,11 @@
-import { useState } from 'react'
-import { useNavigate, useParams } from 'react-router-dom'
+import { useState, useEffect } from 'react'
+import { useNavigate, useParams, useLocation } from 'react-router-dom'
 import PageBackground from '../components/ui/PageBackground'
 import GlassCard from '../components/ui/GlassCard'
+import TripPlannerModal from '../components/travel/TripPlannerModal'
+import TripCard from '../components/travel/TripCard'
 import { travelPackets } from '../data/travelPackets'
+import { getTrips, deleteTrip, updateTrip } from '../utils/tripStorage'
 
 const COUNTRIES = [
   { code: 'BR', label: 'Brazil 🇧🇷' },
@@ -33,11 +36,50 @@ function BackButton({ navigate }) {
 
 export default function TravelPage() {
   const navigate = useNavigate()
+  const location = useLocation()
   const { origin, destination } = useParams()
 
   const [originVal, setOriginVal] = useState('BR')
   const [destVal, setDestVal] = useState('US')
+  const [trips, setTrips] = useState(() => getTrips())
+  const [isModalOpen, setIsModalOpen] = useState(false)
+  const [modalDefaultDestination, setModalDefaultDestination] = useState(null)
 
+  // Handle navigation state from packet "Plan This Trip" button
+  useEffect(() => {
+    if (location.state?.openPlanner) {
+      setModalDefaultDestination(location.state.destination || null)
+      setIsModalOpen(true)
+      // Clear state so re-renders don't re-open
+      navigate('/travel', { replace: true, state: {} })
+    }
+  }, [location.state, navigate])
+
+  function refreshTrips() {
+    setTrips(getTrips())
+  }
+
+  function handleDeleteTrip(id) {
+    deleteTrip(id)
+    refreshTrips()
+  }
+
+  function handleToggleChecklistItem(tripId, itemId) {
+    const trip = trips.find(t => t.id === tripId)
+    if (!trip) return
+    const checklist = trip.checklist.map(item =>
+      item.id === itemId ? { ...item, done: !item.done } : item
+    )
+    updateTrip(tripId, { checklist })
+    refreshTrips()
+  }
+
+  function openPlanner(defaultDest = null) {
+    setModalDefaultDestination(defaultDest)
+    setIsModalOpen(true)
+  }
+
+  // ── Packet view ───────────────────────────────────────────────────────────
   if (origin && destination) {
     const key = `${origin.toUpperCase()}-${destination.toUpperCase()}`
     const packet = travelPackets[key]
@@ -71,18 +113,13 @@ export default function TravelPage() {
         <div className="max-w-3xl mx-auto px-4 pt-20 pb-16">
           <BackButton navigate={navigate} />
 
-          {/* Header */}
           <div className="mb-8">
             <p className="text-2xl mb-2">{packet.flagFrom} → {packet.flagTo}</p>
-            <h1
-              className="text-3xl font-black"
-              style={{ color: '#f5f5f0' }}
-            >
+            <h1 className="text-3xl font-black" style={{ color: '#f5f5f0' }}>
               {packet.title}
             </h1>
           </div>
 
-          {/* Section grid */}
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
             {packet.sections.map(section => (
               <GlassCard key={section.label} className="p-5">
@@ -95,24 +132,24 @@ export default function TravelPage() {
                     {section.label}
                   </span>
                 </div>
-                <p
-                  className="text-sm leading-relaxed"
-                  style={{ color: 'rgba(245,245,240,0.80)' }}
-                >
+                <p className="text-sm leading-relaxed" style={{ color: 'rgba(245,245,240,0.80)' }}>
                   {section.body}
                 </p>
               </GlassCard>
             ))}
           </div>
 
-          {/* Plan this trip CTA */}
           <div className="flex justify-center">
             <button
               className="px-8 py-3 rounded-full text-sm font-semibold uppercase tracking-wide transition-all"
               style={BUTTON_STYLE}
               onMouseEnter={e => (e.currentTarget.style.background = 'rgba(184,134,11,0.25)')}
               onMouseLeave={e => (e.currentTarget.style.background = 'rgba(184,134,11,0.15)')}
-              onClick={() => navigate(`/travel?plan=${destination.toUpperCase()}`)}
+              onClick={() =>
+                navigate('/travel', {
+                  state: { openPlanner: true, destination: destination.toUpperCase() },
+                })
+              }
             >
               + Plan This Trip
             </button>
@@ -122,14 +159,12 @@ export default function TravelPage() {
     )
   }
 
+  // ── Landing view ──────────────────────────────────────────────────────────
   return (
     <PageBackground>
       <div className="max-w-3xl mx-auto px-4 pt-20 pb-16">
         <div className="mb-8">
-          <h1
-            className="text-3xl font-black mb-2"
-            style={{ color: '#f5f5f0' }}
-          >
+          <h1 className="text-3xl font-black mb-2" style={{ color: '#f5f5f0' }}>
             Travel
           </h1>
           <p className="text-white/60 text-sm">
@@ -137,7 +172,7 @@ export default function TravelPage() {
           </p>
         </div>
 
-        <div className="flex flex-col md:flex-row gap-6">
+        <div className="flex flex-col md:flex-row gap-6 items-start">
           {/* Card 1 — Legal Arrival Packet */}
           <GlassCard className="p-6 flex-1">
             <h2 className="font-bold text-white text-base mb-4">Legal Arrival Packet</h2>
@@ -196,18 +231,41 @@ export default function TravelPage() {
           {/* Card 2 — My Trips */}
           <GlassCard className="p-6 flex-1 flex flex-col">
             <h2 className="font-bold text-white text-base mb-4">My Trips</h2>
-            <p className="text-white/40 text-sm flex-1">No trips saved yet</p>
+
+            {trips.length === 0 ? (
+              <p className="text-white/40 text-sm flex-1 mb-6">No trips saved yet</p>
+            ) : (
+              <div className="flex flex-col gap-4 mb-6">
+                {trips.map(trip => (
+                  <TripCard
+                    key={trip.id}
+                    trip={trip}
+                    onDelete={handleDeleteTrip}
+                    onToggleChecklistItem={handleToggleChecklistItem}
+                  />
+                ))}
+              </div>
+            )}
+
             <button
-              className="w-full py-2.5 rounded-full text-sm font-semibold uppercase tracking-wide transition-all mt-6"
+              className="w-full py-2.5 rounded-full text-sm font-semibold uppercase tracking-wide transition-all"
               style={BUTTON_STYLE}
               onMouseEnter={e => (e.currentTarget.style.background = 'rgba(184,134,11,0.25)')}
               onMouseLeave={e => (e.currentTarget.style.background = 'rgba(184,134,11,0.15)')}
+              onClick={() => openPlanner(null)}
             >
               + Plan a Trip
             </button>
           </GlassCard>
         </div>
       </div>
+
+      <TripPlannerModal
+        isOpen={isModalOpen}
+        onClose={() => setIsModalOpen(false)}
+        defaultDestination={modalDefaultDestination}
+        onSave={refreshTrips}
+      />
     </PageBackground>
   )
 }
