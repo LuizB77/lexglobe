@@ -18,7 +18,7 @@ const CODE_LABELS = {
   cdc: 'CDC',
 }
 
-export default function CountryPanel({ country, onClose }) {
+export default function CountryPanel({ country, onClose, onEnterLibrary }) {
   const navigate = useNavigate()
 
   return (
@@ -95,7 +95,7 @@ export default function CountryPanel({ country, onClose }) {
       {/* Actions */}
       <div className="p-6 border-t border-white/10 flex flex-col gap-3">
         <button
-          onClick={() => navigate(`/library/${country.code}`)}
+          onClick={() => onEnterLibrary ? onEnterLibrary(country.code, country.lat, country.lng) : navigate(`/library/${country.code}`)}
           className="w-full py-3 rounded-xl font-semibold text-sm transition-all backdrop-blur-sm"
           style={{
             border: '1px solid rgba(184,134,11,0.60)',

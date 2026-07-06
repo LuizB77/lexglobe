@@ -1,5 +1,6 @@
 import { useState, useRef, useEffect } from 'react'
 import { useNavigate } from 'react-router-dom'
+import { motion, AnimatePresence } from 'framer-motion'
 import GlobeView from '../components/globe/GlobeView'
 import ComingSoonPanel from '../components/panels/ComingSoonPanel'
 import AuthModal from '../components/ui/AuthModal'
@@ -121,6 +122,7 @@ export default function HomePage() {
   const globeRef = useRef()
   const [comingSoonCountry, setComingSoonCountry] = useState(null)
   const [transitioning, setTransitioning] = useState(false)
+  const [isZooming, setIsZooming] = useState(false)
   const [brazilHovered, setBrazilHovered] = useState(false)
   const [portugalHovered, setPortugalHovered] = useState(false)
   const [spainHovered, setSpainHovered] = useState(false)
@@ -140,25 +142,27 @@ export default function HomePage() {
   const isMobile = window.innerWidth < 768
 
   function enterCountry(country, globeInstance) {
+    const latMap = {
+      BR: -14.2, PT: 39.5, US: 38, MX: 23.6, AR: -38,
+      DE: 51, FR: 46, JP: 36, IN: 20, CN: 35,
+      GB: 54, CA: 56, AU: -25, IT: 42, ES: 40
+    }
+    const lngMap = {
+      BR: -51.9, PT: -8, US: -97, MX: -102, AR: -63,
+      DE: 10, FR: 2, JP: 138, IN: 78, CN: 105,
+      GB: -2, CA: -96, AU: 133, IT: 12, ES: -3
+    }
     if (globeInstance) {
-      const latMap = {
-        BR: -14.2, PT: 39.5, US: 38, MX: 23.6, AR: -38,
-        DE: 51, FR: 46, JP: 36, IN: 20, CN: 35,
-        GB: 54, CA: 56, AU: -25, IT: 42, ES: 40
-      }
-      const lngMap = {
-        BR: -51.9, PT: -8, US: -97, MX: -102, AR: -63,
-        DE: 10, FR: 2, JP: 138, IN: 78, CN: 105,
-        GB: -2, CA: -96, AU: 133, IT: 12, ES: -3
-      }
       globeInstance.pointOfView({
         lat: latMap[country.code] || 0,
         lng: lngMap[country.code] || 0,
-        altitude: 0.4
-      }, 900)
+        altitude: 0.5,
+      }, 1800)
     }
-    setTransitioning(true)
-    setTimeout(() => navigate(`/library/${country.code}`), 1100)
+    setIsZooming(true)
+    // Fade-to-black begins at 1400ms so camera move is fully visible first
+    setTimeout(() => setTransitioning(true), 1400)
+    setTimeout(() => navigate(`/library/${country.code}`), 1800)
   }
 
   function handleCountryClick(country, globeInstance) {
@@ -236,11 +240,18 @@ export default function HomePage() {
         }}
       />
 
-      {/* White flash transition */}
-      <div
-        className="absolute inset-0 pointer-events-none z-40 transition-opacity duration-500"
-        style={{ backgroundColor: 'white', opacity: transitioning ? 1 : 0 }}
-      />
+      {/* Fade-to-black transition overlay — mounts at 1400ms into the fly-to, gone when unused */}
+      <AnimatePresence>
+        {transitioning && (
+          <motion.div
+            className="absolute inset-0 z-40 pointer-events-none"
+            style={{ backgroundColor: 'black' }}
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            transition={{ duration: 0.4, ease: 'easeIn' }}
+          />
+        )}
+      </AnimatePresence>
 
       {showHero && (
         <HeroOverlay onDismiss={handleHeroDismiss} />
