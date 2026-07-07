@@ -7,6 +7,41 @@ import countries from '../data/countries.json'
 import { useAuth } from '../context/AuthContext'
 import PageBackground from '../components/ui/PageBackground'
 
+const CODE_ILLUSTRATIONS = {
+  // Brazil
+  constituicao:        '/illustrations/constituicao.png',
+  codigoPenal:         '/illustrations/codigoPenal.png',
+  codigoCivil:         '/illustrations/codigoCivil.png',
+  clt:                 '/illustrations/clt.png',
+  eca:                 '/illustrations/eca.png',
+  cdc:                 '/illustrations/cdc.png',
+  // Portugal
+  constituicaoPT:      '/illustrations/constituicaoPT.png',
+  codigoPenalPT:       '/illustrations/codigoPenalPT.png',
+  codigoCivilPT:       '/illustrations/codigoCivilPT.png',
+  codigoTrabalho:      '/illustrations/codigoTrabalhoPT.png',
+  codigoProcessoPenal: '/illustrations/codigoProcessoPenal.png',
+  codigoProcessoCivil: '/illustrations/codigoProcessoCivil.png',
+  codigoComercial:     '/illustrations/codigoComercial.png',
+  codigoEstrada:       '/illustrations/codigoEstrada.png',
+  // Spain
+  constitucionES:       '/illustrations/constitucionES.png',
+  codigoPenalES:        '/illustrations/codigoPenalES.png',
+  codigoCivilES:        '/illustrations/codigoCivilES.png',
+  estatutoTrabajadores: '/illustrations/estatutoTrabajadores.png',
+  // USA
+  usConstitution:        '/illustrations/usConstitution.png',
+  title18Criminal:       '/illustrations/title18Criminal.png',
+  title42CivilRights:    '/illustrations/title42CivilRights.png',
+  title29Labor:          '/illustrations/title29Labor.png',
+  title26Tax:            '/illustrations/title26Tax.png',
+  title15Commerce:       '/illustrations/title15Commerce.png',
+  title8Immigration:     '/illustrations/title8Immigration.png',
+  title20Education:      '/illustrations/title20Education.png',
+  title31Finance:        '/illustrations/title31Finance.png',
+  title49Transportation: '/illustrations/title49Transportation.png',
+}
+
 const CODE_ORDER_BY_COUNTRY = {
   BR: ['constituicao', 'codigoPenal', 'codigoCivil', 'clt', 'eca', 'cdc'],
   PT: [
@@ -222,6 +257,7 @@ function BookSpine({ codeKey, meta, articleCount, onClick }) {
   const width = isMobile ? 52 : (meta.width || 65)
   const height = isMobile ? 160 : 220
   const leanDeg = meta.leanDeg || 0
+  const illustrationSrc = CODE_ILLUSTRATIONS[codeKey] || null
   return (
     <div
       className="group relative flex flex-col items-center cursor-pointer"
@@ -271,6 +307,23 @@ function BookSpine({ codeKey, meta, articleCount, onClick }) {
           borderRadius: '2px 2px 0 0',
         }}
       >
+        {/* Illustration layer — sits beneath all overlays */}
+        {illustrationSrc && (
+          <img
+            src={illustrationSrc}
+            alt=""
+            aria-hidden="true"
+            className="absolute inset-0 w-full h-full object-cover pointer-events-none"
+            style={{ objectPosition: 'center top' }}
+          />
+        )}
+        {/* Darkening scrim so title text stays legible over illustration */}
+        {illustrationSrc && (
+          <div className="absolute inset-0 pointer-events-none" style={{
+            background: 'linear-gradient(to bottom, rgba(0,0,0,0.30) 0%, rgba(0,0,0,0.15) 50%, rgba(0,0,0,0.45) 100%)',
+          }} />
+        )}
+
         {/* Page edge — top of book */}
         <div className="absolute top-0 left-0 right-0 h-3 pointer-events-none" style={{
           background: 'repeating-linear-gradient(90deg, #f5f0e8 0px, #f5f0e8 1px, #e8e0d0 1px, #e8e0d0 2px)',
