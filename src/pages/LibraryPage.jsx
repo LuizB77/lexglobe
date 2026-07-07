@@ -264,14 +264,14 @@ function BookCard({ codeKey, meta, articleCount, onClick }) {
       {/* Card body */}
       <div
         className="relative overflow-hidden transition-all duration-200 ease-out
-          group-hover:-translate-y-1 group-hover:shadow-[0_16px_40px_rgba(0,0,0,0.55)]"
+          group-hover:-translate-y-1 group-hover:shadow-[0_20px_48px_rgba(0,0,0,0.60)]"
         style={{
-          aspectRatio: '3 / 4',
+          aspectRatio: '4 / 3',
           borderRadius: '12px',
           background: meta.fallbackGradient || '#1a2a4a',
         }}
       >
-        {/* Illustration */}
+        {/* Full-bleed illustration */}
         {illustrationSrc && (
           <img
             src={illustrationSrc}
@@ -281,25 +281,20 @@ function BookCard({ codeKey, meta, articleCount, onClick }) {
           />
         )}
 
-        {/* Frosted footer strip */}
+        {/* Gradient scrim — transparent top, dark bottom for text legibility */}
         <div
-          className="absolute inset-x-0 bottom-0 flex flex-col justify-end"
+          className="absolute inset-0 pointer-events-none"
           style={{
-            height: '40%',
-            background: 'linear-gradient(to top, rgba(5,10,22,0.96) 0%, rgba(5,10,22,0.88) 55%, transparent 100%)',
-            padding: '0 10px 12px',
+            background: 'linear-gradient(to bottom, rgba(0,0,0,0.05) 0%, rgba(0,0,0,0.15) 40%, rgba(0,0,0,0.80) 100%)',
           }}
-        >
-          <p
-            className="text-white font-semibold leading-tight"
-            style={{ fontSize: '11px' }}
-          >
+        />
+
+        {/* Title + year overlay at bottom */}
+        <div className="absolute inset-x-0 bottom-0 px-4 pb-4">
+          <p className="text-white font-display font-semibold leading-tight text-lg">
             {meta.label}
           </p>
-          <p
-            className="text-white/45 font-mono mt-0.5"
-            style={{ fontSize: '10px' }}
-          >
+          <p className="text-white/50 text-xs font-mono mt-1">
             {meta.year}
           </p>
         </div>
@@ -572,13 +567,13 @@ export default function LibraryPage() {
           </div>
         </div>
 
-        {/* Code grid */}
+        {/* Code grid — max-w-5xl keeps 3 cols at desktop (3×280 + 2×28 = 896 < 976px avail) */}
         <div className="max-w-5xl mx-auto px-6 pt-2 pb-16">
           <div
             style={{
               display: 'grid',
-              gridTemplateColumns: 'repeat(auto-fit, minmax(160px, 1fr))',
-              gap: '24px',
+              gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))',
+              gap: '28px',
             }}
           >
             {CODE_ORDER.map(code => {
