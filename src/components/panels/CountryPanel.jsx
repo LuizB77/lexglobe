@@ -64,9 +64,9 @@ export default function CountryPanel({ country, onClose, onEnterLibrary }) {
           <span
             className="text-xs px-3 py-1 rounded-full font-medium"
             style={{
-              background: 'rgba(184,134,11,0.20)',
-              border: '1px solid rgba(184,134,11,0.40)',
-              color: '#B8860B',
+              background: 'rgba(107,140,174,0.20)',
+              border: '1px solid rgba(107,140,174,0.40)',
+              color: '#6B8CAE',
             }}
           >
             Available
@@ -98,12 +98,12 @@ export default function CountryPanel({ country, onClose, onEnterLibrary }) {
           onClick={() => onEnterLibrary ? onEnterLibrary(country.code, country.lat, country.lng) : navigate(`/library/${country.code}`)}
           className="w-full py-3 rounded-xl font-semibold text-sm transition-all backdrop-blur-sm"
           style={{
-            border: '1px solid rgba(184,134,11,0.60)',
-            background: 'rgba(184,134,11,0.15)',
-            color: '#B8860B',
+            border: '1px solid rgba(107,140,174,0.60)',
+            background: 'rgba(107,140,174,0.15)',
+            color: '#6B8CAE',
           }}
-          onMouseEnter={e => e.currentTarget.style.background = 'rgba(184,134,11,0.25)'}
-          onMouseLeave={e => e.currentTarget.style.background = 'rgba(184,134,11,0.15)'}
+          onMouseEnter={e => e.currentTarget.style.background = 'rgba(107,140,174,0.25)'}
+          onMouseLeave={e => e.currentTarget.style.background = 'rgba(107,140,174,0.15)'}
         >
           Enter Law Library →
         </button>

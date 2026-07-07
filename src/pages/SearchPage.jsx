@@ -5,7 +5,7 @@ import PageBackground from '../components/ui/PageBackground'
 import GlassCard from '../components/ui/GlassCard'
 
 const COUNTRIES = [
-  { code: 'BR', label: 'Brazil', flag: '🇧🇷', color: '#B8860B' },
+  { code: 'BR', label: 'Brazil', flag: '🇧🇷', color: '#6B8CAE' },
   { code: 'PT', label: 'Portugal', flag: '🇵🇹', color: '#1a3a5c' },
   { code: 'ES', label: 'Spain', flag: '🇪🇸', color: '#5c2a1a' },
   { code: 'US', label: 'USA', flag: '🇺🇸', color: '#1a2a4a' },
@@ -54,7 +54,7 @@ function ResultCard({ article, countryCode, onClick }) {
     >
       <div className="px-4 py-3">
         <div className="flex items-center justify-between gap-3 mb-1">
-          <span className="text-xs font-bold" style={{ color: '#B8860B' }}>
+          <span className="text-xs font-bold" style={{ color: '#6B8CAE' }}>
             {article.number}
           </span>
           <span
@@ -194,9 +194,9 @@ export default function SearchPage() {
             onClick={() => handleFilterChange('ALL')}
             className="px-4 py-1.5 rounded-full text-xs font-semibold transition-all backdrop-blur-sm"
             style={{
-              border: `1px solid ${countryFilter === 'ALL' ? '#B8860B' : 'rgba(255,255,255,0.18)'}`,
-              color: countryFilter === 'ALL' ? '#B8860B' : 'rgba(255,255,255,0.55)',
-              background: countryFilter === 'ALL' ? 'rgba(184,134,11,0.10)' : 'transparent',
+              border: `1px solid ${countryFilter === 'ALL' ? '#6B8CAE' : 'rgba(255,255,255,0.18)'}`,
+              color: countryFilter === 'ALL' ? '#6B8CAE' : 'rgba(255,255,255,0.55)',
+              background: countryFilter === 'ALL' ? 'rgba(107,140,174,0.10)' : 'transparent',
             }}
           >
             All
@@ -207,9 +207,9 @@ export default function SearchPage() {
               onClick={() => handleFilterChange(c.code)}
               className="flex items-center gap-1 px-4 py-1.5 rounded-full text-xs font-semibold transition-all backdrop-blur-sm"
               style={{
-                border: `1px solid ${countryFilter === c.code ? '#B8860B' : 'rgba(255,255,255,0.18)'}`,
-                color: countryFilter === c.code ? '#B8860B' : 'rgba(255,255,255,0.55)',
-                background: countryFilter === c.code ? 'rgba(184,134,11,0.10)' : 'transparent',
+                border: `1px solid ${countryFilter === c.code ? '#6B8CAE' : 'rgba(255,255,255,0.18)'}`,
+                color: countryFilter === c.code ? '#6B8CAE' : 'rgba(255,255,255,0.55)',
+                background: countryFilter === c.code ? 'rgba(107,140,174,0.10)' : 'transparent',
               }}
             >
               <span>{c.flag}</span>

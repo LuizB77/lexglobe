@@ -56,9 +56,9 @@ function CountryHoverPanel({ visible, countryCode, onEnter }) {
             <span
               className="ml-auto text-xs px-2.5 py-0.5 rounded-full font-medium"
               style={{
-                background: 'rgba(184,134,11,0.20)',
-                border: '1px solid rgba(184,134,11,0.40)',
-                color: '#B8860B',
+                background: 'rgba(107,140,174,0.20)',
+                border: '1px solid rgba(107,140,174,0.40)',
+                color: '#6B8CAE',
               }}
             >
               Available
@@ -69,12 +69,12 @@ function CountryHoverPanel({ visible, countryCode, onEnter }) {
             onClick={onEnter}
             className="w-full py-2.5 rounded-xl text-sm font-semibold transition-all min-h-[44px]"
             style={{
-              border: '1px solid rgba(184,134,11,0.60)',
-              background: 'rgba(184,134,11,0.15)',
-              color: '#B8860B',
+              border: '1px solid rgba(107,140,174,0.60)',
+              background: 'rgba(107,140,174,0.15)',
+              color: '#6B8CAE',
             }}
-            onMouseEnter={e => e.currentTarget.style.background = 'rgba(184,134,11,0.25)'}
-            onMouseLeave={e => e.currentTarget.style.background = 'rgba(184,134,11,0.15)'}
+            onMouseEnter={e => e.currentTarget.style.background = 'rgba(107,140,174,0.25)'}
+            onMouseLeave={e => e.currentTarget.style.background = 'rgba(107,140,174,0.15)'}
           >
             {data.cta}
           </button>

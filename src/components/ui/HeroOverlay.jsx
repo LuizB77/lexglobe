@@ -64,7 +64,7 @@ export default function HeroOverlay({ onDismiss }) {
         <p
           className="text-lg font-medium mb-2 px-2 leading-snug"
           style={{
-            color: '#B8860B',
+            color: '#6B8CAE',
             opacity: fading ? 0 : 1,
             transition: 'opacity 0.4s ease',
             minHeight: '3rem',
@@ -80,7 +80,7 @@ export default function HeroOverlay({ onDismiss }) {
               key={t.lang}
               className="w-1.5 h-1.5 rounded-full transition-all duration-300"
               style={{
-                backgroundColor: i === taglineIndex ? 'rgba(184,134,11,0.70)' : 'rgba(255,255,255,0.25)',
+                backgroundColor: i === taglineIndex ? 'rgba(107,140,174,0.70)' : 'rgba(255,255,255,0.25)',
                 transform: i === taglineIndex ? 'scale(1.4)' : 'scale(1)',
               }}
             />
@@ -106,8 +106,8 @@ export default function HeroOverlay({ onDismiss }) {
         {/* CTA */}
         <button
           onClick={handleDismiss}
-          className="w-full py-3 rounded-xl border border-[#B8860B]/60 bg-[#B8860B]/15
-            text-[#B8860B] font-semibold hover:bg-[#B8860B]/25 hover:border-[#B8860B]/80
+          className="w-full py-3 rounded-xl border border-[#6B8CAE]/60 bg-[#6B8CAE]/15
+            text-[#6B8CAE] font-semibold hover:bg-[#6B8CAE]/25 hover:border-[#6B8CAE]/80
             transition-all backdrop-blur-sm mb-3"
         >
           Explore the Globe →

@@ -262,8 +262,8 @@ export default function AuthModal({ onSuccess, onClose, countryName, countryCode
               <button
                 onClick={handleSubmit}
                 disabled={loading}
-                className="w-full py-3 rounded-xl border border-[#B8860B]/60 bg-[#B8860B]/15
-                  text-[#B8860B] font-semibold hover:bg-[#B8860B]/25 hover:border-[#B8860B]/80
+                className="w-full py-3 rounded-xl border border-[#6B8CAE]/60 bg-[#6B8CAE]/15
+                  text-[#6B8CAE] font-semibold hover:bg-[#6B8CAE]/25 hover:border-[#6B8CAE]/80
                   transition-all backdrop-blur-sm mt-1 text-sm"
               >
                 {loading ? '…' : authMode === 'signin' ? 'Sign In' : 'Continue →'}
@@ -276,7 +276,7 @@ export default function AuthModal({ onSuccess, onClose, countryName, countryCode
               <button
                 onClick={() => switchMode(authMode === 'signin' ? 'signup' : 'signin')}
                 className="font-semibold"
-                style={{ color: '#B8860B' }}
+                style={{ color: '#6B8CAE' }}
               >
                 {authMode === 'signin' ? 'Sign up' : 'Sign in'}
               </button>
@@ -315,9 +315,9 @@ export default function AuthModal({ onSuccess, onClose, countryName, countryCode
                       className="flex items-center gap-1.5 px-4 py-2 rounded-full text-sm
                         font-medium transition-all"
                       style={{
-                        background: sel ? 'rgba(184,134,11,0.20)' : 'rgba(255,255,255,0.10)',
-                        border: `1px solid ${sel ? '#B8860B' : 'rgba(255,255,255,0.15)'}`,
-                        color: sel ? '#B8860B' : 'rgba(255,255,255,0.70)',
+                        background: sel ? 'rgba(107,140,174,0.20)' : 'rgba(255,255,255,0.10)',
+                        border: `1px solid ${sel ? '#6B8CAE' : 'rgba(255,255,255,0.15)'}`,
+                        color: sel ? '#6B8CAE' : 'rgba(255,255,255,0.70)',
                       }}
                     >
                       <span>{c.flag}</span>
@@ -340,8 +340,8 @@ export default function AuthModal({ onSuccess, onClose, countryName, countryCode
                       onClick={() => setSelectedReason(sel ? '' : r.id)}
                       className="flex flex-col items-center p-4 rounded-2xl transition-all"
                       style={{
-                        background: sel ? 'rgba(184,134,11,0.15)' : 'rgba(255,255,255,0.05)',
-                        border: `1px solid ${sel ? 'rgba(184,134,11,0.60)' : 'rgba(255,255,255,0.10)'}`,
+                        background: sel ? 'rgba(107,140,174,0.15)' : 'rgba(255,255,255,0.05)',
+                        border: `1px solid ${sel ? 'rgba(107,140,174,0.60)' : 'rgba(255,255,255,0.10)'}`,
                       }}
                     >
                       <span className="text-3xl">{r.emoji}</span>
@@ -356,8 +356,8 @@ export default function AuthModal({ onSuccess, onClose, countryName, countryCode
 
             <button
               onClick={handleFinish}
-              className="w-full py-3 rounded-xl border border-[#B8860B]/60 bg-[#B8860B]/15
-                text-[#B8860B] font-semibold hover:bg-[#B8860B]/25 hover:border-[#B8860B]/80
+              className="w-full py-3 rounded-xl border border-[#6B8CAE]/60 bg-[#6B8CAE]/15
+                text-[#6B8CAE] font-semibold hover:bg-[#6B8CAE]/25 hover:border-[#6B8CAE]/80
                 transition-all backdrop-blur-sm text-sm mb-3"
             >
               Finish →

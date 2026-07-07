@@ -116,12 +116,12 @@ export default function NavBar() {
           className="w-9 h-9 rounded-full flex items-center justify-center
             flex-shrink-0 font-bold text-sm transition-all"
           style={{
-            background: 'rgba(184,134,11,0.20)',
-            border: '1px solid rgba(184,134,11,0.40)',
-            color: '#B8860B',
+            background: 'rgba(107,140,174,0.20)',
+            border: '1px solid rgba(107,140,174,0.40)',
+            color: '#6B8CAE',
           }}
-          onMouseEnter={e => e.currentTarget.style.background = 'rgba(184,134,11,0.30)'}
-          onMouseLeave={e => e.currentTarget.style.background = 'rgba(184,134,11,0.20)'}
+          onMouseEnter={e => e.currentTarget.style.background = 'rgba(107,140,174,0.30)'}
+          onMouseLeave={e => e.currentTarget.style.background = 'rgba(107,140,174,0.20)'}
           title={user.name}
         >
           {(() => {

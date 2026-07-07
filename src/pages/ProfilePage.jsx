@@ -90,9 +90,9 @@ export default function ProfilePage() {
                 className="w-14 h-14 rounded-full flex items-center justify-center
                   font-bold text-xl flex-shrink-0"
                 style={{
-                  background: 'rgba(184,134,11,0.20)',
-                  border: '1px solid rgba(184,134,11,0.40)',
-                  color: '#B8860B',
+                  background: 'rgba(107,140,174,0.20)',
+                  border: '1px solid rgba(107,140,174,0.40)',
+                  color: '#6B8CAE',
                 }}
               >
                 {initials(displayName, displayEmail)}
@@ -123,7 +123,7 @@ export default function ProfilePage() {
               },
             ].map(({ value, label }) => (
               <div key={label} className="p-4 text-center" style={cardStyle()}>
-                <p className="text-2xl font-bold leading-none" style={{ color: '#B8860B' }}>
+                <p className="text-2xl font-bold leading-none" style={{ color: '#6B8CAE' }}>
                   {value}
                 </p>
                 <p className="text-white/50 text-xs mt-1">{label}</p>
@@ -147,9 +147,9 @@ export default function ProfilePage() {
                           key={code}
                           className="flex items-center gap-1.5 px-4 py-1.5 rounded-full text-sm font-medium"
                           style={{
-                            background: 'rgba(184,134,11,0.20)',
-                            border: '1px solid rgba(184,134,11,0.50)',
-                            color: '#B8860B',
+                            background: 'rgba(107,140,174,0.20)',
+                            border: '1px solid rgba(107,140,174,0.50)',
+                            color: '#6B8CAE',
                           }}
                         >
                           {c.flag} {c.label}
@@ -179,9 +179,9 @@ export default function ProfilePage() {
                   onClick={() => navigate('/auth')}
                   className="text-sm px-4 py-1.5 rounded-full transition-all"
                   style={{
-                    border: '1px solid rgba(184,134,11,0.50)',
-                    background: 'rgba(184,134,11,0.10)',
-                    color: '#B8860B',
+                    border: '1px solid rgba(107,140,174,0.50)',
+                    background: 'rgba(107,140,174,0.10)',
+                    color: '#6B8CAE',
                   }}
                 >
                   Set preferences
@@ -241,12 +241,12 @@ export default function ProfilePage() {
                 onClick={() => navigate('/auth')}
                 className="px-6 py-2 rounded-xl text-sm font-semibold transition-all"
                 style={{
-                  border: '1px solid rgba(184,134,11,0.60)',
-                  background: 'rgba(184,134,11,0.15)',
-                  color: '#B8860B',
+                  border: '1px solid rgba(107,140,174,0.60)',
+                  background: 'rgba(107,140,174,0.15)',
+                  color: '#6B8CAE',
                 }}
-                onMouseEnter={e => e.currentTarget.style.background = 'rgba(184,134,11,0.25)'}
-                onMouseLeave={e => e.currentTarget.style.background = 'rgba(184,134,11,0.15)'}
+                onMouseEnter={e => e.currentTarget.style.background = 'rgba(107,140,174,0.25)'}
+                onMouseLeave={e => e.currentTarget.style.background = 'rgba(107,140,174,0.15)'}
               >
                 Sign In →
               </button>

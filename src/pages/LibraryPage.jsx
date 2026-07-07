@@ -36,7 +36,7 @@ const CODE_META = {
   // ── BRAZIL ──
   constituicao: {
     label: 'Constituição Federal', shortLabel: 'Constituição', year: '1988',
-    color: '#B8860B', spine: '#FFD700', icon: '⚖️',
+    color: '#6B8CAE', spine: '#FFD700', icon: '⚖️',
     desc: 'Lei maior da República Federativa do Brasil',
     spineGradient: SPINE_COLORS[0], width: 68, leanDeg: 0,
   },
@@ -73,7 +73,7 @@ const CODE_META = {
   // ── PORTUGAL ──
   constituicaoPT: {
     label: 'Constituição da República', shortLabel: 'Constituição', year: '1976',
-    color: '#B8860B', spine: '#FFD700', icon: '⚖️',
+    color: '#6B8CAE', spine: '#FFD700', icon: '⚖️',
     desc: 'Lei fundamental da República Portuguesa',
     spineGradient: 'linear-gradient(to bottom, #1a3a5c, #0d2137)', width: 62, leanDeg: 0,
   },
@@ -252,7 +252,7 @@ function BookSpine({ codeKey, meta, articleCount, onClick }) {
         <p className="text-white text-xs font-semibold leading-tight">{meta.label}</p>
         <p className="text-white/60 mt-1 leading-relaxed" style={{ fontSize: '10px' }}>{meta.desc}</p>
         {articleCount > 0 && (
-          <p className="mt-1 font-medium" style={{ fontSize: '10px', color: '#B8860B' }}>
+          <p className="mt-1 font-medium" style={{ fontSize: '10px', color: '#6B8CAE' }}>
             {articleCount} articles
           </p>
         )}
@@ -283,7 +283,7 @@ function BookSpine({ codeKey, meta, articleCount, onClick }) {
         }} />
         {/* Gold label strip */}
         <div className="absolute left-0 top-3 bottom-0 w-1 pointer-events-none" style={{
-          background: 'linear-gradient(to bottom, rgba(184,134,11,0.60), rgba(184,134,11,0.20))',
+          background: 'linear-gradient(to bottom, rgba(107,140,174,0.60), rgba(107,140,174,0.20))',
         }} />
         {/* Cloth weave texture */}
         <div className="absolute inset-0 pointer-events-none" style={{

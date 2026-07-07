@@ -190,12 +190,12 @@ export default function TripPlannerModal({ isOpen, onClose, defaultDestination, 
             onClick={handleSave}
             className="flex-1 py-2.5 rounded-full text-sm font-semibold transition-all"
             style={{
-              background: 'rgba(184,134,11,0.15)',
-              border: '1px solid rgba(184,134,11,0.50)',
-              color: '#B8860B',
+              background: 'rgba(107,140,174,0.15)',
+              border: '1px solid rgba(107,140,174,0.50)',
+              color: '#6B8CAE',
             }}
-            onMouseEnter={e => (e.currentTarget.style.background = 'rgba(184,134,11,0.25)')}
-            onMouseLeave={e => (e.currentTarget.style.background = 'rgba(184,134,11,0.15)')}
+            onMouseEnter={e => (e.currentTarget.style.background = 'rgba(107,140,174,0.25)')}
+            onMouseLeave={e => (e.currentTarget.style.background = 'rgba(107,140,174,0.15)')}
           >
             Save Trip
           </button>

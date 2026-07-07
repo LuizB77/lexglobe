@@ -7,13 +7,13 @@ import PageBackground from '../components/ui/PageBackground'
 import GlassCard from '../components/ui/GlassCard'
 
 const CODE_META = {
-  constituicao:    { label: 'Constituição Federal',          color: '#B8860B', spine: '#FFD700' },
+  constituicao:    { label: 'Constituição Federal',          color: '#6B8CAE', spine: '#FFD700' },
   codigoPenal:     { label: 'Código Penal',                  color: '#9B1C1C', spine: '#E53E3E' },
   codigoCivil:     { label: 'Código Civil',                  color: '#4C3494', spine: '#7F77DD' },
   clt:             { label: 'CLT',                           color: '#145A3A', spine: '#1D9E75' },
   eca:             { label: 'ECA',                           color: '#923B05', spine: '#F6AD55' },
   cdc:             { label: 'CDC',                           color: '#1a4a7a', spine: '#63B3ED' },
-  constituicaoPT:      { label: 'Constituição da República',     color: '#B8860B', spine: '#FFD700' },
+  constituicaoPT:      { label: 'Constituição da República',     color: '#6B8CAE', spine: '#FFD700' },
   codigoPenalPT:       { label: 'Código Penal (PT)',             color: '#9B1C1C', spine: '#E53E3E' },
   codigoCivilPT:       { label: 'Código Civil (PT)',             color: '#4C3494', spine: '#7F77DD' },
   codigoTrabalho:      { label: 'Código do Trabalho',            color: '#145A3A', spine: '#1D9E75' },
@@ -88,7 +88,7 @@ export default function ArticleViewPage() {
   const [selectedLang, setSelectedLang] = useState('original')
 
   const codeKey = getCodeKeyFromId(articleId)
-  const meta = CODE_META[codeKey] || { label: 'Legal Code', color: '#B8860B', spine: '#FFD700' }
+  const meta = CODE_META[codeKey] || { label: 'Legal Code', color: '#6B8CAE', spine: '#FFD700' }
 
   useEffect(() => {
     if (!codeKey) return
@@ -301,7 +301,7 @@ export default function ArticleViewPage() {
           <GlassCard className="p-6 mb-4">
             <div
               className="text-4xl font-display font-bold mb-1"
-              style={{ color: '#B8860B' }}
+              style={{ color: '#6B8CAE' }}
             >
               Art. {article.number}
             </div>
@@ -475,7 +475,7 @@ export default function ArticleViewPage() {
                   <Link
                     to={`/assistant/${countryCode}?article=${articleId}`}
                     className="text-xs font-medium transition-colors hover:text-white/80"
-                    style={{ color: '#B8860B' }}
+                    style={{ color: '#6B8CAE' }}
                   >
                     Ask follow-up →
                   </Link>

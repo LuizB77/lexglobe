@@ -49,9 +49,9 @@ export default function TripCard({ trip, onDelete, onToggleChecklistItem }) {
             <span
               className="text-xs font-semibold px-2 py-0.5 rounded-full"
               style={{
-                background: 'rgba(184,134,11,0.15)',
-                border: '1px solid rgba(184,134,11,0.35)',
-                color: '#B8860B',
+                background: 'rgba(107,140,174,0.15)',
+                border: '1px solid rgba(107,140,174,0.35)',
+                color: '#6B8CAE',
               }}
             >
               {TRIP_TYPE_LABELS[trip.tripType] || trip.tripType}
@@ -101,20 +101,20 @@ export default function TripCard({ trip, onDelete, onToggleChecklistItem }) {
               <div
                 className="flex-shrink-0 w-4 h-4 mt-0.5 rounded flex items-center justify-center transition-all"
                 style={{
-                  background: item.done ? 'rgba(184,134,11,0.25)' : 'rgba(255,255,255,0.07)',
-                  border: `1px solid ${item.done ? 'rgba(184,134,11,0.60)' : 'rgba(255,255,255,0.20)'}`,
+                  background: item.done ? 'rgba(107,140,174,0.25)' : 'rgba(255,255,255,0.07)',
+                  border: `1px solid ${item.done ? 'rgba(107,140,174,0.60)' : 'rgba(255,255,255,0.20)'}`,
                 }}
               >
                 {item.done && (
                   <svg width="9" height="7" viewBox="0 0 9 7" fill="none">
-                    <path d="M1 3.5L3.5 6L8 1" stroke="#B8860B" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
+                    <path d="M1 3.5L3.5 6L8 1" stroke="#6B8CAE" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
                   </svg>
                 )}
               </div>
               <span
                 className="text-xs leading-relaxed transition-all"
                 style={{
-                  color: item.done ? '#B8860B' : 'rgba(245,245,240,0.75)',
+                  color: item.done ? '#6B8CAE' : 'rgba(245,245,240,0.75)',
                   textDecoration: item.done ? 'line-through' : 'none',
                   opacity: item.done ? 0.65 : 1,
                 }}
