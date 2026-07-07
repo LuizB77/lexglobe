@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react'
 import { useParams, useNavigate, Link } from 'react-router-dom'
+import { motion } from 'framer-motion'
 import { loadCode } from '../utils/searchEngine'
 import BookmarkButton from '../components/ui/BookmarkButton'
 import PageBackground from '../components/ui/PageBackground'
@@ -296,14 +297,15 @@ export default function ArticleViewPage() {
         <div className="max-w-3xl mx-auto px-4 py-8">
 
           {/* Article header card */}
+          <motion.div initial={{ opacity: 0, y: 12 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.3 }}>
           <GlassCard className="p-6 mb-4">
             <div
-              className="text-3xl font-bold mb-1"
+              className="text-4xl font-display font-bold mb-1"
               style={{ color: '#B8860B' }}
             >
               Art. {article.number}
             </div>
-            <h1 className="text-white font-semibold text-lg mt-1 mb-3">{article.title}</h1>
+            <h1 className="text-white font-display font-bold text-xl mt-1 mb-3">{article.title}</h1>
             <span
               className="px-3 py-1 rounded-full text-xs"
               style={{ background: 'rgba(255,255,255,0.10)', color: 'rgba(255,255,255,0.70)' }}
@@ -311,8 +313,10 @@ export default function ArticleViewPage() {
               {meta.label}
             </span>
           </GlassCard>
+          </motion.div>
 
           {/* Translation toggle */}
+          <motion.div initial={{ opacity: 0, y: 12 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.3, delay: 0.08 }}>
           <GlassCard className="p-4 mb-4">
             <div className="flex items-center gap-2 flex-wrap">
               <span className="text-xs font-medium text-white/50 mr-1">🌐 Translate:</span>
@@ -340,8 +344,10 @@ export default function ArticleViewPage() {
               )}
             </div>
           </GlassCard>
+          </motion.div>
 
           {/* Article body */}
+          <motion.div initial={{ opacity: 0, y: 12 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.3, delay: 0.16 }}>
           <GlassCard className="p-6 mb-4">
             {translating ? (
               <div className="flex items-center gap-3 py-4">
@@ -369,6 +375,8 @@ export default function ArticleViewPage() {
             )}
           </GlassCard>
 
+          </motion.div>
+
           {/* Tags */}
           {article.tags?.length > 0 && (
             <div className="flex flex-wrap gap-2 mb-4">
@@ -385,6 +393,7 @@ export default function ArticleViewPage() {
           )}
 
           {/* AI Explanation */}
+          <motion.div initial={{ opacity: 0, y: 12 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.3, delay: 0.24 }}>
           <GlassCard className="mb-4 overflow-hidden">
             <div className="flex items-center justify-between px-5 py-4"
               style={{ borderBottom: explanation || loadingExplanation ? '1px solid rgba(255,255,255,0.08)' : 'none' }}>
@@ -474,6 +483,8 @@ export default function ArticleViewPage() {
               </div>
             )}
           </GlassCard>
+
+          </motion.div>
 
           {/* Related articles */}
           {relatedArticles.length > 0 && (

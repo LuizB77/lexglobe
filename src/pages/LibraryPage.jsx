@@ -1,5 +1,6 @@
 import { useState, useEffect, useCallback } from 'react'
 import { useParams, useNavigate, Link } from 'react-router-dom'
+import { motion } from 'framer-motion'
 import { loadCode } from '../utils/searchEngine'
 import { search } from '../utils/searchEngine'
 import countries from '../data/countries.json'
@@ -458,9 +459,12 @@ function ArticleList({ codeKey, countryCode, onBack }) {
                   {searchResults.length} result{searchResults.length !== 1 ? 's' : ''} for "{query}"
                 </p>
               )}
-              {displayArticles.map(article => (
-                <button
+              {displayArticles.map((article, idx) => (
+                <motion.button
                   key={article.id}
+                  initial={{ opacity: 0, y: 8 }}
+                  animate={{ opacity: 1, y: 0 }}
+                  transition={{ duration: 0.18, delay: Math.min(idx * 0.03, 0.6) }}
                   onClick={() => navigate(`/article/${countryCode}/${article.id}`)}
                   className="text-left px-5 py-4 rounded-xl flex gap-4 transition-all duration-150"
                   style={{
@@ -481,7 +485,7 @@ function ArticleList({ codeKey, countryCode, onBack }) {
                       {article.text.slice(0, 130)}...
                     </p>
                   </div>
-                </button>
+                </motion.button>
               ))}
               {displayArticles.length === 0 && (
                 <div className="text-center py-20 text-white/40 text-sm">
@@ -568,7 +572,7 @@ export default function LibraryPage() {
             <div className="flex items-center gap-3">
               <span className="text-3xl">{country.flag}</span>
               <div>
-                <h1 className="text-xl font-bold text-white">
+                <h1 className="text-3xl font-display font-bold text-white leading-tight">
                   {country.nameLocal || country.name} Law Library
                 </h1>
                 <p className="text-xs text-white/60">{CODE_ORDER.length} legal codes available</p>

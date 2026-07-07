@@ -15,6 +15,10 @@ export default function PageBackground({ children, className = '' }) {
         className="fixed inset-0 z-0"
         style={{ background: 'rgba(5, 10, 20, 0.55)' }}
       />
+      <div
+        className="fixed inset-0 z-0 pointer-events-none"
+        style={{ background: 'radial-gradient(ellipse at center, transparent 40%, rgba(0,0,0,0.55) 100%)' }}
+      />
       <div className={`relative z-10 ${className}`}>
         {children}
       </div>
