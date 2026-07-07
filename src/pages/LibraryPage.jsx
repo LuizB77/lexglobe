@@ -1,4 +1,4 @@
-import { useState, useEffect, useCallback } from 'react'
+import { useState, useEffect } from 'react'
 import { useParams, useNavigate, Link } from 'react-router-dom'
 import { motion } from 'framer-motion'
 import { loadCode } from '../utils/searchEngine'
@@ -58,222 +58,189 @@ const CODE_ORDER_BY_COUNTRY = {
   ],
 }
 
-const SPINE_COLORS = [
-  'linear-gradient(to bottom, #1a3a5c, #0d2137)',
-  'linear-gradient(to bottom, #5c1a1a, #3a0d0d)',
-  'linear-gradient(to bottom, #1a4a2a, #0d2d18)',
-  'linear-gradient(to bottom, #3a2a5c, #1f1637)',
-  'linear-gradient(to bottom, #5c3a1a, #3a2010)',
-  'linear-gradient(to bottom, #1a4a4a, #0d2d2d)',
-]
-
 const CODE_META = {
   // ── BRAZIL ──
   constituicao: {
     label: 'Constituição Federal', shortLabel: 'Constituição', year: '1988',
-    color: '#6B8CAE', spine: '#FFD700', icon: '⚖️',
+    color: '#6B8CAE', spine: '#FFD700',
     desc: 'Lei maior da República Federativa do Brasil',
-    spineGradient: SPINE_COLORS[0], width: 68, leanDeg: 0,
+    fallbackGradient: 'linear-gradient(to bottom, #1a3a5c, #0d2137)',
   },
   codigoPenal: {
     label: 'Código Penal', shortLabel: 'Código Penal', year: '1940',
-    color: '#9B1C1C', spine: '#E53E3E', icon: '🔒',
+    color: '#9B1C1C', spine: '#E53E3E',
     desc: 'Crimes e penalidades no direito brasileiro',
-    spineGradient: SPINE_COLORS[1], width: 58, leanDeg: 0,
+    fallbackGradient: 'linear-gradient(to bottom, #5c1a1a, #3a0d0d)',
   },
   codigoCivil: {
     label: 'Código Civil', shortLabel: 'Código Civil', year: '2002',
-    color: '#4C3494', spine: '#7F77DD', icon: '📜',
+    color: '#4C3494', spine: '#7F77DD',
     desc: 'Relações civis, contratos, família e propriedade',
-    spineGradient: SPINE_COLORS[2], width: 80, leanDeg: -2,
+    fallbackGradient: 'linear-gradient(to bottom, #1a4a2a, #0d2d18)',
   },
   clt: {
     label: 'CLT', shortLabel: 'CLT', year: '1943',
-    color: '#145A3A', spine: '#1D9E75', icon: '👷',
+    color: '#145A3A', spine: '#1D9E75',
     desc: 'Consolidação das Leis do Trabalho',
-    spineGradient: SPINE_COLORS[3], width: 75, leanDeg: 0,
+    fallbackGradient: 'linear-gradient(to bottom, #3a2a5c, #1f1637)',
   },
   eca: {
     label: 'ECA', shortLabel: 'ECA', year: '1990',
-    color: '#923B05', spine: '#F6AD55', icon: '🧒',
+    color: '#923B05', spine: '#F6AD55',
     desc: 'Estatuto da Criança e do Adolescente',
-    spineGradient: SPINE_COLORS[4], width: 55, leanDeg: 8,
+    fallbackGradient: 'linear-gradient(to bottom, #5c3a1a, #3a2010)',
   },
   cdc: {
     label: 'CDC', shortLabel: 'CDC', year: '1990',
-    color: '#1a4a7a', spine: '#63B3ED', icon: '🛒',
+    color: '#1a4a7a', spine: '#63B3ED',
     desc: 'Código de Defesa do Consumidor',
-    spineGradient: SPINE_COLORS[5], width: 52, leanDeg: 2,
+    fallbackGradient: 'linear-gradient(to bottom, #1a4a4a, #0d2d2d)',
   },
   // ── PORTUGAL ──
   constituicaoPT: {
     label: 'Constituição da República', shortLabel: 'Constituição', year: '1976',
-    color: '#6B8CAE', spine: '#FFD700', icon: '⚖️',
+    color: '#6B8CAE', spine: '#FFD700',
     desc: 'Lei fundamental da República Portuguesa',
-    spineGradient: 'linear-gradient(to bottom, #1a3a5c, #0d2137)', width: 62, leanDeg: 0,
+    fallbackGradient: 'linear-gradient(to bottom, #1a3a5c, #0d2137)',
   },
   codigoPenalPT: {
     label: 'Código Penal', shortLabel: 'Código Penal', year: '1982',
-    color: '#9B1C1C', spine: '#E53E3E', icon: '🔒',
+    color: '#9B1C1C', spine: '#E53E3E',
     desc: 'Crimes e penalidades no direito português',
-    spineGradient: 'linear-gradient(to bottom, #5c1a1a, #3a0d0d)', width: 60, leanDeg: 0,
+    fallbackGradient: 'linear-gradient(to bottom, #5c1a1a, #3a0d0d)',
   },
   codigoCivilPT: {
     label: 'Código Civil', shortLabel: 'Código Civil', year: '1966',
-    color: '#4C3494', spine: '#7F77DD', icon: '📜',
+    color: '#4C3494', spine: '#7F77DD',
     desc: 'Relações civis, contratos e família',
-    spineGradient: 'linear-gradient(to bottom, #1a4a2a, #0d2d18)', width: 78, leanDeg: -1,
+    fallbackGradient: 'linear-gradient(to bottom, #1a4a2a, #0d2d18)',
   },
   codigoTrabalho: {
     label: 'Código do Trabalho', shortLabel: 'Cód. Trabalho', year: '2003',
-    color: '#145A3A', spine: '#1D9E75', icon: '👷',
+    color: '#145A3A', spine: '#1D9E75',
     desc: 'Lei laboral portuguesa',
-    spineGradient: 'linear-gradient(to bottom, #3a2a5c, #1f1637)', width: 70, leanDeg: 7,
+    fallbackGradient: 'linear-gradient(to bottom, #3a2a5c, #1f1637)',
   },
   codigoProcessoPenal: {
     label: 'Código de Processo Penal', shortLabel: 'Proc. Penal', year: '1987',
-    color: '#9B1C1C', spine: '#C53030', icon: '⚖️',
+    color: '#9B1C1C', spine: '#C53030',
     desc: 'Procedimento criminal português',
-    spineGradient: 'linear-gradient(to bottom, #3a1a2a, #200d18)', width: 63, leanDeg: 5,
+    fallbackGradient: 'linear-gradient(to bottom, #3a1a2a, #200d18)',
   },
   codigoProcessoCivil: {
     label: 'Código de Processo Civil', shortLabel: 'Proc. Civil', year: '2013',
-    color: '#1a365d', spine: '#2B6CB0', icon: '📋',
+    color: '#1a365d', spine: '#2B6CB0',
     desc: 'Procedimento civil português',
-    spineGradient: 'linear-gradient(to bottom, #1a4a4a, #0d2d2d)', width: 65, leanDeg: 0,
+    fallbackGradient: 'linear-gradient(to bottom, #1a4a4a, #0d2d2d)',
   },
   codigoComercial: {
     label: 'Código Comercial', shortLabel: 'Cód. Comercial', year: '1888',
-    color: '#744210', spine: '#D69E2E', icon: '⚓',
+    color: '#744210', spine: '#D69E2E',
     desc: 'Direito comercial e mercantil',
-    spineGradient: 'linear-gradient(to bottom, #4a3a1a, #2d2010)', width: 58, leanDeg: 3,
+    fallbackGradient: 'linear-gradient(to bottom, #4a3a1a, #2d2010)',
   },
   codigoEstrada: {
     label: 'Código da Estrada', shortLabel: 'Cód. Estrada', year: '1994',
-    color: '#7B341E', spine: '#C05621', icon: '🚗',
+    color: '#7B341E', spine: '#C05621',
     desc: 'Regulação do trânsito e condução',
-    spineGradient: 'linear-gradient(to bottom, #2a1a4a, #160d2d)', width: 60, leanDeg: 0,
+    fallbackGradient: 'linear-gradient(to bottom, #2a1a4a, #160d2d)',
   },
   // ── SPAIN ──
   constitucionES: {
     label: 'Constitución Española', shortLabel: 'Constitución', year: '1978',
-    color: '#8B6914', spine: '#C8A000', icon: '⚖️',
+    color: '#8B6914', spine: '#C8A000',
     desc: 'Ley fundamental del Reino de España',
-    spineGradient: 'linear-gradient(to bottom, #5c2a1a, #3a1508)', width: 58, leanDeg: 0,
+    fallbackGradient: 'linear-gradient(to bottom, #5c2a1a, #3a1508)',
   },
   codigoPenalES: {
     label: 'Código Penal', shortLabel: 'Código Penal', year: '1995',
-    color: '#9B1C1C', spine: '#C53030', icon: '🔒',
+    color: '#9B1C1C', spine: '#C53030',
     desc: 'Delitos y penas en el derecho español',
-    spineGradient: 'linear-gradient(to bottom, #4a1a1a, #2d0d0d)', width: 68, leanDeg: 0,
+    fallbackGradient: 'linear-gradient(to bottom, #4a1a1a, #2d0d0d)',
   },
   codigoCivilES: {
     label: 'Código Civil', shortLabel: 'Código Civil', year: '1889',
-    color: '#44337A', spine: '#553C9A', icon: '📜',
+    color: '#44337A', spine: '#553C9A',
     desc: 'Relaciones civiles, contratos y familia',
-    spineGradient: 'linear-gradient(to bottom, #1a4a2a, #0d2d18)', width: 75, leanDeg: -2,
+    fallbackGradient: 'linear-gradient(to bottom, #1a4a2a, #0d2d18)',
   },
   estatutoTrabajadores: {
     label: 'Estatuto de los Trabajadores', shortLabel: 'Estatuto', year: '2015',
-    color: '#1C4532', spine: '#276749', icon: '👷',
+    color: '#1C4532', spine: '#276749',
     desc: 'Derechos y deberes laborales en España',
-    spineGradient: 'linear-gradient(to bottom, #1a3a4a, #0d2030)', width: 62, leanDeg: 9,
+    fallbackGradient: 'linear-gradient(to bottom, #1a3a4a, #0d2030)',
   },
   // ── USA ──
   usConstitution: {
     label: 'U.S. Constitution', shortLabel: 'Constitution', year: '1788',
-    color: '#8B6914', spine: '#B7791F', icon: '🦅',
+    color: '#8B6914', spine: '#B7791F',
     desc: 'The supreme law of the United States',
-    spineGradient: 'linear-gradient(to bottom, #1a2a4a, #0d1830)', width: 52, leanDeg: 0,
+    fallbackGradient: 'linear-gradient(to bottom, #1a2a4a, #0d1830)',
   },
   title18Criminal: {
     label: 'Title 18 — Crimes', shortLabel: 'Criminal', year: '1948',
-    color: '#9B1C1C', spine: '#C53030', icon: '🔒',
+    color: '#9B1C1C', spine: '#C53030',
     desc: 'Federal crimes and criminal procedure',
-    spineGradient: 'linear-gradient(to bottom, #4a2a1a, #2d1508)', width: 65, leanDeg: 0,
+    fallbackGradient: 'linear-gradient(to bottom, #4a2a1a, #2d1508)',
   },
   title42CivilRights: {
     label: 'Title 42 — Civil Rights', shortLabel: 'Civil Rights', year: '1964',
-    color: '#1a365d', spine: '#2B6CB0', icon: '⚖️',
+    color: '#1a365d', spine: '#2B6CB0',
     desc: 'Civil rights, public health and welfare',
-    spineGradient: 'linear-gradient(to bottom, #2a3a1a, #182210)', width: 72, leanDeg: -3,
+    fallbackGradient: 'linear-gradient(to bottom, #2a3a1a, #182210)',
   },
   title29Labor: {
     label: 'Title 29 — Labor', shortLabel: 'Labor', year: '1938',
-    color: '#1C4532', spine: '#276749', icon: '👷',
+    color: '#1C4532', spine: '#276749',
     desc: 'Labor standards, unions and workplace rights',
-    spineGradient: 'linear-gradient(to bottom, #3a3a1a, #222210)', width: 58, leanDeg: 6,
+    fallbackGradient: 'linear-gradient(to bottom, #3a3a1a, #222210)',
   },
   title26Tax: {
     label: 'Title 26 — Tax Code', shortLabel: 'Tax Code', year: '1986',
-    color: '#744210', spine: '#D69E2E', icon: '💰',
+    color: '#744210', spine: '#D69E2E',
     desc: 'Internal Revenue Code and federal taxation',
-    spineGradient: SPINE_COLORS[4], width: 65, leanDeg: 0,
+    fallbackGradient: 'linear-gradient(to bottom, #5c3a1a, #3a2010)',
   },
   title15Commerce: {
     label: 'Title 15 — Commerce', shortLabel: 'Commerce', year: '1890',
-    color: '#44337A', spine: '#553C9A', icon: '🏛️',
+    color: '#44337A', spine: '#553C9A',
     desc: 'Commerce, trade and consumer protection',
-    spineGradient: SPINE_COLORS[5], width: 65, leanDeg: 0,
+    fallbackGradient: 'linear-gradient(to bottom, #1a4a4a, #0d2d2d)',
   },
   title8Immigration: {
     label: 'Title 8 — Immigration', shortLabel: 'Immigration', year: '1952',
-    color: '#1D4044', spine: '#2C7A7B', icon: '✈️',
+    color: '#1D4044', spine: '#2C7A7B',
     desc: 'Immigration and nationality law',
-    spineGradient: SPINE_COLORS[0], width: 65, leanDeg: 0,
+    fallbackGradient: 'linear-gradient(to bottom, #1a3a5c, #0d2137)',
   },
   title20Education: {
     label: 'Title 20 — Education', shortLabel: 'Education', year: '1965',
-    color: '#7B341E', spine: '#C05621', icon: '🎓',
+    color: '#7B341E', spine: '#C05621',
     desc: 'Federal education law and student rights',
-    spineGradient: SPINE_COLORS[1], width: 65, leanDeg: 0,
+    fallbackGradient: 'linear-gradient(to bottom, #5c1a1a, #3a0d0d)',
   },
   title31Finance: {
     label: 'Title 31 — Finance', shortLabel: 'Finance', year: '1982',
-    color: '#1A365D', spine: '#2B6CB0', icon: '🏦',
+    color: '#1A365D', spine: '#2B6CB0',
     desc: 'Money, banking and federal finance',
-    spineGradient: SPINE_COLORS[2], width: 65, leanDeg: 0,
+    fallbackGradient: 'linear-gradient(to bottom, #1a4a2a, #0d2d18)',
   },
   title49Transportation: {
     label: 'Title 49 — Transportation', shortLabel: 'Transportation', year: '1994',
-    color: '#2D3748', spine: '#4A5568', icon: '🚗',
+    color: '#2D3748', spine: '#4A5568',
     desc: 'Federal transportation law and safety',
-    spineGradient: SPINE_COLORS[3], width: 65, leanDeg: 0,
+    fallbackGradient: 'linear-gradient(to bottom, #3a2a5c, #1f1637)',
   },
 }
 
-function useIsMobile() {
-  const [mobile, setMobile] = useState(() => window.innerWidth < 640)
-  useEffect(() => {
-    const handler = () => setMobile(window.innerWidth < 640)
-    window.addEventListener('resize', handler)
-    return () => window.removeEventListener('resize', handler)
-  }, [])
-  return mobile
-}
-
-function BookSpine({ codeKey, meta, articleCount, onClick }) {
-  const isMobile = useIsMobile()
-  const width = isMobile ? 52 : (meta.width || 65)
-  const height = isMobile ? 160 : 220
-  const leanDeg = meta.leanDeg || 0
+function BookCard({ codeKey, meta, articleCount, onClick }) {
   const illustrationSrc = CODE_ILLUSTRATIONS[codeKey] || null
+
   return (
-    <div
-      className="group relative flex flex-col items-center cursor-pointer"
-      style={{
-        width: `${width}px`,
-        flexShrink: 0,
-        filter: 'drop-shadow(3px 0 6px rgba(0,0,0,0.5)) drop-shadow(-1px 0 2px rgba(0,0,0,0.3))',
-        transform: leanDeg !== 0 ? `rotate(${leanDeg}deg)` : undefined,
-        transformOrigin: 'bottom center',
-        marginTop: leanDeg !== 0 ? `${Math.abs(leanDeg) * 2}px` : undefined,
-      }}
-      onClick={onClick}
-    >
+    <div className="group relative cursor-pointer" onClick={onClick}>
       {/* Tooltip */}
       <div
-        className="absolute bottom-full mb-3 left-1/2 -translate-x-1/2
+        className="absolute bottom-full mb-2 left-1/2 -translate-x-1/2
           opacity-0 group-hover:opacity-100 transition-opacity duration-200
           pointer-events-none z-50"
         style={{
@@ -294,138 +261,48 @@ function BookSpine({ codeKey, meta, articleCount, onClick }) {
         )}
       </div>
 
-      {/* Book body */}
+      {/* Card body */}
       <div
-        className="relative transition-all duration-300 ease-out
-          group-hover:-translate-y-5 group-hover:brightness-125"
+        className="relative overflow-hidden transition-all duration-200 ease-out
+          group-hover:-translate-y-1 group-hover:shadow-[0_16px_40px_rgba(0,0,0,0.55)]"
         style={{
-          width: `${width}px`,
-          height: `${height}px`,
-          background: meta.spineGradient,
-          border: '1px solid rgba(255,255,255,0.08)',
-          boxShadow: '2px 0 8px rgba(0,0,0,0.4)',
-          borderRadius: '2px 2px 0 0',
+          aspectRatio: '3 / 4',
+          borderRadius: '12px',
+          background: meta.fallbackGradient || '#1a2a4a',
         }}
       >
-        {/* Illustration layer — sits beneath all overlays */}
+        {/* Illustration */}
         {illustrationSrc && (
           <img
             src={illustrationSrc}
             alt=""
             aria-hidden="true"
             className="absolute inset-0 w-full h-full object-cover pointer-events-none"
-            style={{ objectPosition: 'center top' }}
           />
         )}
-        {/* Darkening scrim so title text stays legible over illustration */}
-        {illustrationSrc && (
-          <div className="absolute inset-0 pointer-events-none" style={{
-            background: 'linear-gradient(to bottom, rgba(0,0,0,0.30) 0%, rgba(0,0,0,0.15) 50%, rgba(0,0,0,0.45) 100%)',
-          }} />
-        )}
 
-        {/* Page edge — top of book */}
-        <div className="absolute top-0 left-0 right-0 h-3 pointer-events-none" style={{
-          background: 'repeating-linear-gradient(90deg, #f5f0e8 0px, #f5f0e8 1px, #e8e0d0 1px, #e8e0d0 2px)',
-          opacity: 0.9,
-          borderRadius: '2px 2px 0 0',
-        }} />
-        {/* Left board edge (thick spine border) */}
-        <div className="absolute left-0 top-0 bottom-0 w-2 pointer-events-none" style={{
-          background: 'linear-gradient(to right, rgba(0,0,0,0.4), rgba(0,0,0,0.1), transparent)',
-        }} />
-        {/* Gold label strip */}
-        <div className="absolute left-0 top-3 bottom-0 w-1 pointer-events-none" style={{
-          background: 'linear-gradient(to bottom, rgba(107,140,174,0.60), rgba(107,140,174,0.20))',
-        }} />
-        {/* Cloth weave texture */}
-        <div className="absolute inset-0 pointer-events-none" style={{
-          backgroundImage: 'repeating-linear-gradient(0deg, transparent 0px, transparent 3px, rgba(0,0,0,0.08) 3px, rgba(0,0,0,0.08) 4px), repeating-linear-gradient(90deg, transparent 0px, transparent 3px, rgba(0,0,0,0.05) 3px, rgba(0,0,0,0.05) 4px)',
-          mixBlendMode: 'multiply',
-        }} />
-        {/* Worn center highlight */}
-        <div className="absolute inset-0 pointer-events-none" style={{
-          background: 'radial-gradient(ellipse 60% 80% at 50% 40%, rgba(255,255,255,0.12) 0%, transparent 70%)',
-          mixBlendMode: 'screen',
-        }} />
-        {/* Right edge highlight */}
-        <div className="absolute top-0 right-0 bottom-0 w-px pointer-events-none" style={{
-          background: 'linear-gradient(to bottom, rgba(255,255,255,0.2), rgba(255,255,255,0.05), transparent)',
-        }} />
-
-        {/* Rotated title */}
+        {/* Frosted footer strip */}
         <div
-          className="absolute inset-0 flex flex-col items-center justify-center gap-3"
-          style={{ transform: 'rotate(-90deg)' }}
+          className="absolute inset-x-0 bottom-0 flex flex-col justify-end"
+          style={{
+            height: '40%',
+            background: 'linear-gradient(to top, rgba(5,10,22,0.96) 0%, rgba(5,10,22,0.88) 55%, transparent 100%)',
+            padding: '0 10px 12px',
+          }}
         >
-          <span
-            className="text-white/90 font-semibold tracking-wide text-center leading-tight"
-            style={{
-              fontSize: '11px',
-              maxWidth: '180px',
-              overflow: 'hidden',
-              display: '-webkit-box',
-              WebkitLineClamp: 2,
-              WebkitBoxOrient: 'vertical',
-            }}
+          <p
+            className="text-white font-semibold leading-tight"
+            style={{ fontSize: '11px' }}
           >
             {meta.label}
-          </span>
-        </div>
-
-        {/* Year at bottom */}
-        <div className="absolute bottom-3 left-0 right-0 flex justify-center">
-          <span className="text-white/40 font-mono"
-            style={{ fontSize: '10px', transform: 'rotate(-90deg)', display: 'block' }}>
+          </p>
+          <p
+            className="text-white/45 font-mono mt-0.5"
+            style={{ fontSize: '10px' }}
+          >
             {meta.year}
-          </span>
+          </p>
         </div>
-      </div>
-
-      {/* Book shadow on shelf */}
-      <div className="w-full h-2 mb-1" style={{
-        background: 'radial-gradient(ellipse 80% 100% at 50% 0%, rgba(0,0,0,0.6) 0%, transparent 100%)',
-      }} />
-    </div>
-  )
-}
-
-function Shelf({ codes, countryCode, articleCounts, onCodeClick }) {
-  const isMobile = useIsMobile()
-  return (
-    <div className="flex flex-col">
-      {/* Books row */}
-      <div className={`flex items-end justify-between px-4 overflow-visible ${isMobile ? 'gap-2' : 'gap-3'}`}>
-        {codes.map(code => {
-          const meta = CODE_META[code]
-          if (!meta) return null
-          return (
-            <BookSpine
-              key={code}
-              codeKey={code}
-              meta={meta}
-              articleCount={articleCounts[code] || 0}
-              onClick={() => onCodeClick(code)}
-            />
-          )
-        })}
-      </div>
-      {/* Shelf plank */}
-      <div
-        className={`w-full rounded-sm mt-0 mb-8 relative overflow-hidden ${isMobile ? 'h-3' : 'h-6'}`}
-        style={{
-          background: 'linear-gradient(180deg, #c4832a 0%, #a06020 15%, #7a4a18 40%, #5c3610 70%, #3a200a 100%)',
-          boxShadow: '0 6px 20px rgba(0,0,0,0.8), 0 2px 6px rgba(0,0,0,0.9), inset 0 1px 0 rgba(255,220,120,0.2), inset 0 -1px 0 rgba(0,0,0,0.5)',
-        }}
-      >
-        {/* Wood grain lines */}
-        <div className="absolute inset-0" style={{
-          backgroundImage: 'repeating-linear-gradient(90deg, transparent 0px, transparent 12px, rgba(0,0,0,0.15) 12px, rgba(0,0,0,0.15) 13px, transparent 13px, transparent 28px, rgba(255,255,255,0.04) 28px, rgba(255,255,255,0.04) 29px, transparent 29px, transparent 45px, rgba(0,0,0,0.1) 45px, rgba(0,0,0,0.1) 46px)',
-        }} />
-        {/* Light reflection on top edge */}
-        <div className="absolute inset-x-0 top-0 h-1" style={{
-          background: 'linear-gradient(90deg, transparent, rgba(255,255,255,0.15), transparent)',
-        }} />
       </div>
     </div>
   )
@@ -604,12 +481,6 @@ export default function LibraryPage() {
     )
   }
 
-  // Split codes into rows of 3
-  const rows = []
-  for (let i = 0; i < CODE_ORDER.length; i += 3) {
-    rows.push(CODE_ORDER.slice(i, i + 3))
-  }
-
   return (
     <PageBackground>
       <div
@@ -653,7 +524,7 @@ export default function LibraryPage() {
         <div className="max-w-5xl mx-auto px-4 pb-6">
           <div className="flex flex-col sm:flex-row sm:items-center gap-3">
             <p className="text-xs uppercase tracking-widest text-white/40 font-medium">
-              Hover a book to preview · Click to open
+              Hover to preview · Click to open
             </p>
             <div className="sm:ml-auto relative w-full sm:w-72">
               <input
@@ -701,17 +572,29 @@ export default function LibraryPage() {
           </div>
         </div>
 
-        {/* Bookshelf */}
-        <div className="max-w-3xl mx-auto px-8 pt-6 pb-16">
-          {rows.map((rowCodes, i) => (
-            <Shelf
-              key={i}
-              codes={rowCodes}
-              countryCode={countryCode}
-              articleCounts={articleCounts}
-              onCodeClick={setOpenCode}
-            />
-          ))}
+        {/* Code grid */}
+        <div className="max-w-5xl mx-auto px-6 pt-2 pb-16">
+          <div
+            style={{
+              display: 'grid',
+              gridTemplateColumns: 'repeat(auto-fit, minmax(160px, 1fr))',
+              gap: '24px',
+            }}
+          >
+            {CODE_ORDER.map(code => {
+              const meta = CODE_META[code]
+              if (!meta) return null
+              return (
+                <BookCard
+                  key={code}
+                  codeKey={code}
+                  meta={meta}
+                  articleCount={articleCounts[code] || 0}
+                  onClick={() => setOpenCode(code)}
+                />
+              )
+            })}
+          </div>
         </div>
       </div>
     </PageBackground>
