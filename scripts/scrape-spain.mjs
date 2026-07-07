@@ -43,6 +43,7 @@ function cleanText(text) {
     .replace(/&gt;/g, '>')
     .replace(/&quot;/g, '"')
     .replace(/&#\d+;/g, ' ')
+    .replace(/<[^>]+>/g, ' ')
     .replace(/ /g, ' ')
     .replace(/\s+/g, ' ')
     .trim()
@@ -50,66 +51,87 @@ function cleanText(text) {
 
 function extractArticles(html, prefix) {
   const articles = []
+  // Keyed by div id (e.g. "a1", "a31bis") — only added after body quality check.
   const seen = new Set()
 
-  const stripTags = (str) => str
-    .replace(/<script[^>]*>[\s\S]*?<\/script>/gi, ' ')
-    .replace(/<style[^>]*>[\s\S]*?<\/style>/gi, ' ')
-    .replace(/<[^>]+>/g, ' ')
-    .replace(/\s+/g, ' ')
-    .trim()
-
-  const plain = stripTags(html)
-  const CHUNK_SIZE = 50000
-  const OVERLAP = 2000
-  let pos = 0
-
-  while (pos < plain.length) {
-    const end = Math.min(pos + CHUNK_SIZE, plain.length)
-    const chunk = plain.slice(pos, end)
-    const splits = chunk.split(/(?=Art(?:ículo|iculo|\.)\s*\d+(?:\s*bis)?\.?\s)/i)
-
-    for (const part of splits) {
-      const numMatch = part.match(/^Art(?:ículo|iculo|\.)\s*(\d+(?:\s*bis)?)[.\s]/i)
-      if (!numMatch) continue
-      const number = numMatch[1].trim().replace(/\s+/g, '')
-      if (seen.has(number)) continue
-      seen.add(number)
-
-      let text = cleanText(part)
-      if (text.length < 15) continue
-      if (text.length > 1500) text = text.slice(0, 1500) + '...'
-
-      const titleMatch = text.match(/Art(?:ículo|iculo|\.)\s*\d+[^\s]*\s*[-–.]?\s*([A-ZÁÉÍÓÚÀÈÌÒÙÑÜ][^.\n:;]{4,65})/)
-      let title = titleMatch
-        ? cleanText(titleMatch[1]).replace(/[.:;]+$/, '').trim()
-        : `Artículo ${number}`
-      if (title.length > 80 || title.length < 4) title = `Artículo ${number}`
-
-      const words = text.toLowerCase()
-        .replace(/[^a-záéíóúàèìòùñü\s]/g, ' ')
-        .split(/\s+/)
-        .filter(w => w.length > 5)
-      const freq = {}
-      words.forEach(w => { freq[w] = (freq[w] || 0) + 1 })
-      const tags = Object.entries(freq)
-        .sort((a, b) => b[1] - a[1])
-        .slice(0, 5)
-        .map(([w]) => w)
-
-      articles.push({
-        id: `${prefix}_${number}`,
-        number,
-        title,
-        text,
-        tags,
-        relatedArticles: [],
-      })
-    }
-    pos += CHUNK_SIZE - OVERLAP
+  // Locate every <div class="bloque" id="aN..."> — these are the article containers.
+  // Non-article bloques (sections, chapters) use ids like "s1", "c1", etc. and are skipped.
+  // BOE uses id="aN" on Penal/Estatuto and id="artN" on Civil — match both.
+  const BLOQUE_RX = /<div\b[^>]*\bclass="bloque"[^>]*\bid="(a(?:rt)?\d[^"]*)"[^>]*>/gi
+  const positions = []
+  let m
+  while ((m = BLOQUE_RX.exec(html)) !== null) {
+    positions.push({ divId: m[1], tagStart: m.index, tagEnd: m.index + m[0].length })
   }
 
-  articles.sort((a, b) => parseInt(a.number) - parseInt(b.number))
+  for (let i = 0; i < positions.length; i++) {
+    const { divId, tagEnd } = positions[i]
+    // Content runs from end of this bloque's opening tag to start of next bloque's opening tag.
+    const contentEnd = i + 1 < positions.length ? positions[i + 1].tagStart : html.length
+
+    // Grab the HTML segment for this bloque.
+    const segment = html.slice(tagEnd, contentEnd)
+
+    // Must have an h5.articulo header.
+    const h5m = segment.match(/<h5[^>]*class="articulo"[^>]*>([\s\S]*?)<\/h5>/i)
+    if (!h5m) continue
+    const headerRaw = cleanText(h5m[1])
+
+    // Only numeric articles: "Artículo 1", "Artículo 31 bis", etc.
+    const numMatch = headerRaw.match(/^Art(?:ículo|iculo)\s+(\d+(?:\s*(?:bis|ter|qu[áa]ter|qu[íi]nquies|sexies|septies|octies))?)\b/i)
+    if (!numMatch) continue
+    const number = numMatch[1].trim().replace(/\s+/g, '')
+
+    // Collect p.parrafo and p.parrafo_N body paragraphs; skip p.nota_pie and p.bloque.
+    const bodyParts = []
+    const pRx = /<p\b[^>]*class="parrafo(?:_\d+)?"[^>]*>([\s\S]*?)<\/p>/gi
+    let pm
+    while ((pm = pRx.exec(segment)) !== null) {
+      const t = cleanText(pm[1])
+      if (t) bodyParts.push(t)
+    }
+
+    const body = bodyParts.join(' ')
+    // Skip articles with no substantive body (repealed articles show empty or near-empty).
+    if (body.length < 10) continue
+
+    // Quality check passed — now commit to seen using the stable div id.
+    if (seen.has(divId)) continue
+    seen.add(divId)
+
+    let text = cleanText(`${headerRaw}. ${body}`)
+    if (text.length > 1500) text = text.slice(0, 1500) + '...'
+
+    // Title: strip the full article identifier from the header, keep whatever follows.
+    const articleLabel = `Artículo ${numMatch[1]}`  // e.g. "Artículo 127 bis"
+    const titleRest = headerRaw.slice(articleLabel.length).replace(/^[.\s\u2013\u2014-]+/, '').trim()
+    let title = (titleRest.length >= 4 && titleRest.length <= 80) ? titleRest.replace(/[.:;]+$/, '') : `Artículo ${number}`
+
+    const words = text.toLowerCase()
+      .replace(/[^a-záéíóúàèìòùñü\s]/g, ' ')
+      .split(/\s+/)
+      .filter(w => w.length > 5)
+    const freq = {}
+    words.forEach(w => { freq[w] = (freq[w] || 0) + 1 })
+    const tags = Object.entries(freq)
+      .sort((a, b) => b[1] - a[1])
+      .slice(0, 5)
+      .map(([w]) => w)
+
+    articles.push({
+      id: `${prefix}_${number}`,
+      number,
+      title,
+      text,
+      tags,
+      relatedArticles: [],
+    })
+  }
+
+  articles.sort((a, b) => {
+    const an = parseInt(a.number), bn = parseInt(b.number)
+    return an !== bn ? an - bn : a.number.localeCompare(b.number)
+  })
   return articles
 }
 
@@ -148,7 +170,13 @@ async function main() {
   const outputDir = join(__dirname, '..', 'src', 'data', 'spain')
   mkdirSync(outputDir, { recursive: true })
   const results = []
-  for (const code of CODES) {
+  const targetKey = process.argv[2] ?? null
+  const codesToRun = targetKey ? CODES.filter(c => c.key === targetKey) : CODES
+  if (targetKey && codesToRun.length === 0) {
+    console.error(`Unknown code key: ${targetKey}`)
+    process.exit(1)
+  }
+  for (const code of codesToRun) {
     const data = await scrapeCode(code)
     if (data && data.articles.length > 0) {
       const outputPath = join(outputDir, `${code.key}.json`)
