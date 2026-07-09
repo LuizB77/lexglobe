@@ -7,6 +7,8 @@ import PageBackground from '../components/ui/PageBackground'
 import GlassCard from '../components/ui/GlassCard'
 
 const CODE_META = {
+  constituicaoSP:  { label: 'Constituição do Estado de São Paulo', color: '#5B8DB8', spine: '#FFD700' },
+  constituicaoRJ:  { label: 'Constituição do Estado do Rio de Janeiro', color: '#2E7D32', spine: '#FFD700' },
   constituicao:    { label: 'Constituição Federal',          color: '#6B8CAE', spine: '#FFD700' },
   codigoPenal:     { label: 'Código Penal',                  color: '#9B1C1C', spine: '#E53E3E' },
   codigoCivil:     { label: 'Código Civil',                  color: '#4C3494', spine: '#7F77DD' },
@@ -38,6 +40,8 @@ const CODE_META = {
 }
 
 const PREFIX_TO_CODE = {
+  csp:  'constituicaoSP',
+  crj:  'constituicaoRJ',
   cf:   'constituicao',
   cp:   'codigoPenal',
   cc:   'codigoCivil',

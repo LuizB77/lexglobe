@@ -2,6 +2,7 @@ import Fuse from 'fuse.js'
 
 const CODE_MAP = {
   constituicaoSP: () => import('../data/brazil-states/sao-paulo/constituicaoSP.json'),
+  constituicaoRJ: () => import('../data/brazil-states/rio-de-janeiro/constituicaoRJ.json'),
   constituicao: () => import('../data/brazil/constituicao.json'),
   codigoPenal:  () => import('../data/brazil/codigoPenal.json'),
   codigoCivil:  () => import('../data/brazil/codigoCivil.json'),
@@ -33,7 +34,7 @@ const CODE_MAP = {
 }
 
 const COUNTRY_CODES = {
-  BR: ['constituicao', 'codigoPenal', 'codigoCivil', 'clt', 'eca', 'cdc', 'constituicaoSP'],
+  BR: ['constituicao', 'codigoPenal', 'codigoCivil', 'clt', 'eca', 'cdc', 'constituicaoSP', 'constituicaoRJ'],
   PT: [
     'constituicaoPT', 'codigoPenalPT', 'codigoCivilPT', 'codigoTrabalho',
     'codigoProcessoPenal', 'codigoProcessoCivil', 'codigoComercial',

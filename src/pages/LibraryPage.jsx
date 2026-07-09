@@ -62,7 +62,7 @@ const CODE_ORDER_BY_COUNTRY = {
 
 const SP_STATES = [
   { code: 'SP', name: 'São Paulo', flag: '🏙️', codes: ['constituicaoSP'] },
-  { code: 'RJ', name: 'Rio de Janeiro', flag: '🌊', codes: [], soon: true },
+  { code: 'RJ', name: 'Rio de Janeiro', flag: '🌊', codes: ['constituicaoRJ'] },
   { code: 'AL', name: 'Alagoas', flag: '🌴', codes: [], soon: true },
   { code: 'BA', name: 'Bahia', flag: '⭐', codes: [], soon: true },
 ]
@@ -74,6 +74,12 @@ const CODE_META = {
     color: '#5B8DB8', spine: '#FFD700',
     desc: 'Lei maior do Estado de São Paulo (ALESP)',
     fallbackGradient: 'linear-gradient(to bottom, #0f2a4a, #071828)',
+  },
+  constituicaoRJ: {
+    label: 'Constituição do Estado do Rio de Janeiro', shortLabel: 'Const. RJ', year: '1989',
+    color: '#2E7D32', spine: '#FFD700',
+    desc: 'Lei maior do Estado do Rio de Janeiro (ALERJ)',
+    fallbackGradient: 'linear-gradient(to bottom, #0d2e12, #061908)',
   },
   // ── BRAZIL ──
   constituicao: {
