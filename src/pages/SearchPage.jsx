@@ -13,6 +13,7 @@ const COUNTRIES = [
 
 const CODEKEY_TO_COUNTRY = {
   constituicao: 'BR', codigoPenal: 'BR', codigoCivil: 'BR', clt: 'BR', eca: 'BR', cdc: 'BR',
+  constituicaoSP: 'BR',
   constituicaoPT: 'PT', codigoPenalPT: 'PT', codigoCivilPT: 'PT', codigoTrabalho: 'PT',
   codigoProcessoPenal: 'PT', codigoProcessoCivil: 'PT', codigoComercial: 'PT', codigoEstrada: 'PT',
   constitucionES: 'ES', codigoPenalES: 'ES', codigoCivilES: 'ES', estatutoTrabajadores: 'ES',

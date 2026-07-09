@@ -33,7 +33,7 @@ const CODE_MAP = {
 }
 
 const COUNTRY_CODES = {
-  BR: ['constituicao', 'codigoPenal', 'codigoCivil', 'clt', 'eca', 'cdc'],
+  BR: ['constituicao', 'codigoPenal', 'codigoCivil', 'clt', 'eca', 'cdc', 'constituicaoSP'],
   PT: [
     'constituicaoPT', 'codigoPenalPT', 'codigoCivilPT', 'codigoTrabalho',
     'codigoProcessoPenal', 'codigoProcessoCivil', 'codigoComercial',

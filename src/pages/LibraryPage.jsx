@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useRef } from 'react'
 import { useParams, useNavigate, Link } from 'react-router-dom'
 import { motion } from 'framer-motion'
 import { loadCode } from '../utils/searchEngine'
@@ -455,6 +455,19 @@ export default function LibraryPage() {
   const [libraryResults, setLibraryResults] = useState([])
   const [searchOpen, setSearchOpen] = useState(false)
   const [selectedState, setSelectedState] = useState(null)
+  const [dropdownOpen, setDropdownOpen] = useState(false)
+  const dropdownRef = useRef(null)
+
+  useEffect(() => {
+    if (!dropdownOpen) return
+    function handleOutside(e) {
+      if (dropdownRef.current && !dropdownRef.current.contains(e.target)) {
+        setDropdownOpen(false)
+      }
+    }
+    document.addEventListener('mousedown', handleOutside)
+    return () => document.removeEventListener('mousedown', handleOutside)
+  }, [dropdownOpen])
 
   useEffect(() => {
     const t = setTimeout(() => setEntered(true), 50)
@@ -522,17 +535,105 @@ export default function LibraryPage() {
               className="text-white/60 hover:text-white transition-colors px-2 text-lg">
               ☆
             </Link>
-            <button
-              onClick={() => navigate(`/assistant/${countryCode}`)}
-              className="ml-auto px-4 py-2 rounded-full text-sm font-medium text-white
-                transition-colors backdrop-blur-sm"
-              style={{
-                border: '1px solid rgba(255,255,255,0.20)',
-                background: 'rgba(255,255,255,0.10)',
-              }}
-            >
-              AI Assistant
-            </button>
+            <div className="ml-auto flex items-center gap-2">
+              {/* State Law dropdown — Brazil only */}
+              {countryCode === 'BR' && (
+                <div className="relative" ref={dropdownRef}>
+                  <button
+                    onClick={() => setDropdownOpen(o => !o)}
+                    className="flex items-center gap-1.5 px-4 py-2 rounded-full text-sm font-medium text-white transition-colors backdrop-blur-sm"
+                    style={{
+                      border: selectedState
+                        ? '1px solid rgba(91,141,184,0.60)'
+                        : '1px solid rgba(255,255,255,0.20)',
+                      background: selectedState
+                        ? 'rgba(91,141,184,0.18)'
+                        : 'rgba(255,255,255,0.10)',
+                    }}
+                  >
+                    <span style={{ fontSize: '12px', opacity: 0.7 }}>🗺️</span>
+                    <span>
+                      {selectedState
+                        ? SP_STATES.find(s => s.code === selectedState)?.name
+                        : 'State Law'}
+                    </span>
+                    <span style={{ fontSize: '10px', opacity: 0.5 }}>{dropdownOpen ? '▲' : '▼'}</span>
+                  </button>
+
+                  {dropdownOpen && (
+                    <div
+                      className="absolute right-0 top-full mt-1.5 w-52 rounded-xl overflow-hidden shadow-2xl z-30"
+                      style={{
+                        background: 'rgba(8,14,28,0.96)',
+                        backdropFilter: 'blur(20px)',
+                        border: '1px solid rgba(255,255,255,0.12)',
+                      }}
+                    >
+                      {selectedState && (
+                        <button
+                          onClick={() => { setSelectedState(null); setDropdownOpen(false) }}
+                          className="w-full text-left px-4 py-2.5 text-xs text-white/40 transition-colors"
+                          style={{ borderBottom: '1px solid rgba(255,255,255,0.08)' }}
+                          onMouseEnter={e => e.currentTarget.style.background = 'rgba(255,255,255,0.05)'}
+                          onMouseLeave={e => e.currentTarget.style.background = 'transparent'}
+                        >
+                          ✕ Clear selection
+                        </button>
+                      )}
+                      {SP_STATES.map(st => (
+                        <button
+                          key={st.code}
+                          disabled={st.soon}
+                          onClick={() => {
+                            if (!st.soon) {
+                              setSelectedState(st.code)
+                              setDropdownOpen(false)
+                            }
+                          }}
+                          className="w-full text-left px-4 py-3 flex items-center gap-3 transition-colors"
+                          style={{
+                            borderBottom: '1px solid rgba(255,255,255,0.05)',
+                            cursor: st.soon ? 'default' : 'pointer',
+                          }}
+                          onMouseEnter={e => {
+                            if (!st.soon) e.currentTarget.style.background = 'rgba(255,255,255,0.06)'
+                          }}
+                          onMouseLeave={e => e.currentTarget.style.background = 'transparent'}
+                        >
+                          <span>{st.flag}</span>
+                          <span
+                            className="text-sm font-medium"
+                            style={{ color: st.soon ? 'rgba(255,255,255,0.25)' : 'white' }}
+                          >
+                            {st.name}
+                          </span>
+                          {st.soon && (
+                            <span className="ml-auto text-xs" style={{ color: 'rgba(255,255,255,0.18)' }}>
+                              em breve
+                            </span>
+                          )}
+                          {selectedState === st.code && (
+                            <span className="ml-auto text-xs" style={{ color: '#5B8DB8' }}>✓</span>
+                          )}
+                        </button>
+                      ))}
+                    </div>
+                  )}
+                </div>
+              )}
+
+              <button
+                onClick={() => navigate(`/assistant/${countryCode}`)}
+                className="px-4 py-2 rounded-full text-sm font-medium text-white
+                  transition-colors backdrop-blur-sm"
+                style={{
+                  border: '1px solid rgba(255,255,255,0.20)',
+                  background: 'rgba(255,255,255,0.10)',
+                }}
+              >
+                AI Assistant
+              </button>
+            </div>
           </div>
         </div>
 
@@ -589,7 +690,7 @@ export default function LibraryPage() {
         </div>
 
         {/* Code grid — max-w-5xl keeps 3 cols at desktop (3×280 + 2×28 = 896 < 976px avail) */}
-        <div className="max-w-5xl mx-auto px-6 pt-2 pb-16">
+        <div className={`max-w-5xl mx-auto px-6 pt-2 ${selectedState ? 'pb-4' : 'pb-16'}`}>
           <div
             style={{
               display: 'grid',
@@ -613,82 +714,45 @@ export default function LibraryPage() {
           </div>
         </div>
 
-        {/* State Law section — Brazil only */}
-        {countryCode === 'BR' && (
-          <div className="max-w-5xl mx-auto px-6 pb-20">
-            <div
-              className="mb-6 pt-6"
-              style={{ borderTop: '1px solid rgba(255,255,255,0.08)' }}
-            >
-              <p className="text-xs uppercase tracking-widest text-white/40 font-medium mb-1">
-                Legislação Estadual
-              </p>
-              <p className="text-white/60 text-sm">State constitutions and codes</p>
+        {/* State Law cards — shown below grid when a state is selected via dropdown */}
+        {countryCode === 'BR' && selectedState && (() => {
+          const st = SP_STATES.find(s => s.code === selectedState)
+          if (!st || st.codes.length === 0) return null
+          return (
+            <div className="max-w-5xl mx-auto px-6 pb-20">
+              <div
+                className="mb-6 pt-2"
+                style={{ borderTop: '1px solid rgba(255,255,255,0.08)' }}
+              >
+                <p className="text-xs uppercase tracking-widest font-medium mt-4" style={{ color: '#5B8DB8' }}>
+                  {st.flag} {st.name} · Legislação Estadual
+                </p>
+              </div>
+              <div
+                style={{
+                  display: 'grid',
+                  gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))',
+                  gap: '28px',
+                  maxWidth: '320px',
+                }}
+              >
+                {st.codes.map(code => {
+                  const meta = CODE_META[code]
+                  if (!meta) return null
+                  return (
+                    <BookCard
+                      key={code}
+                      codeKey={code}
+                      meta={meta}
+                      articleCount={articleCounts[code] || 0}
+                      onClick={() => setOpenCode(code)}
+                    />
+                  )
+                })}
+              </div>
             </div>
-
-            {/* State selector chips */}
-            <div className="flex flex-wrap gap-3 mb-8">
-              {SP_STATES.map(st => (
-                <button
-                  key={st.code}
-                  disabled={st.soon}
-                  onClick={() => setSelectedState(selectedState === st.code ? null : st.code)}
-                  className="flex items-center gap-2 px-4 py-2 rounded-full text-sm font-medium transition-all duration-150"
-                  style={{
-                    background: selectedState === st.code
-                      ? 'rgba(91,141,184,0.25)'
-                      : st.soon
-                        ? 'rgba(255,255,255,0.04)'
-                        : 'rgba(255,255,255,0.08)',
-                    border: selectedState === st.code
-                      ? '1px solid rgba(91,141,184,0.6)'
-                      : '1px solid rgba(255,255,255,0.12)',
-                    color: st.soon ? 'rgba(255,255,255,0.25)' : 'white',
-                    cursor: st.soon ? 'default' : 'pointer',
-                  }}
-                >
-                  <span>{st.flag}</span>
-                  <span>{st.name}</span>
-                  {st.soon && (
-                    <span className="text-xs" style={{ color: 'rgba(255,255,255,0.2)' }}>
-                      em breve
-                    </span>
-                  )}
-                </button>
-              ))}
-            </div>
-
-            {/* State codes grid */}
-            {selectedState && (() => {
-              const st = SP_STATES.find(s => s.code === selectedState)
-              if (!st || st.codes.length === 0) return null
-              return (
-                <div
-                  style={{
-                    display: 'grid',
-                    gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))',
-                    gap: '28px',
-                    maxWidth: '320px',
-                  }}
-                >
-                  {st.codes.map(code => {
-                    const meta = CODE_META[code]
-                    if (!meta) return null
-                    return (
-                      <BookCard
-                        key={code}
-                        codeKey={code}
-                        meta={meta}
-                        articleCount={articleCounts[code] || 0}
-                        onClick={() => setOpenCode(code)}
-                      />
-                    )
-                  })}
-                </div>
-              )
-            })()}
-          </div>
-        )}
+          )
+        })()}
       </div>
     </PageBackground>
   )
