@@ -8,8 +8,10 @@ import { useAuth } from '../context/AuthContext'
 import PageBackground from '../components/ui/PageBackground'
 
 const CODE_ILLUSTRATIONS = {
-  // Brazil
+  // Brazil (federal)
   constituicao:        '/illustrations/constituicao.png',
+  // Brazil (state — São Paulo)
+  constituicaoSP:      '/illustrations/constituicaoSP.png',
   codigoPenal:         '/illustrations/codigoPenal.png',
   codigoCivil:         '/illustrations/codigoCivil.png',
   clt:                 '/illustrations/clt.png',
@@ -58,7 +60,21 @@ const CODE_ORDER_BY_COUNTRY = {
   ],
 }
 
+const SP_STATES = [
+  { code: 'SP', name: 'São Paulo', flag: '🏙️', codes: ['constituicaoSP'] },
+  { code: 'RJ', name: 'Rio de Janeiro', flag: '🌊', codes: [], soon: true },
+  { code: 'AL', name: 'Alagoas', flag: '🌴', codes: [], soon: true },
+  { code: 'BA', name: 'Bahia', flag: '⭐', codes: [], soon: true },
+]
+
 const CODE_META = {
+  // ── BRAZIL STATE — SÃO PAULO ──
+  constituicaoSP: {
+    label: 'Constituição do Estado de São Paulo', shortLabel: 'Const. SP', year: '1989',
+    color: '#5B8DB8', spine: '#FFD700',
+    desc: 'Lei maior do Estado de São Paulo (ALESP)',
+    fallbackGradient: 'linear-gradient(to bottom, #0f2a4a, #071828)',
+  },
   // ── BRAZIL ──
   constituicao: {
     label: 'Constituição Federal', shortLabel: 'Constituição', year: '1988',
@@ -438,6 +454,7 @@ export default function LibraryPage() {
   const [libraryQuery, setLibraryQuery] = useState('')
   const [libraryResults, setLibraryResults] = useState([])
   const [searchOpen, setSearchOpen] = useState(false)
+  const [selectedState, setSelectedState] = useState(null)
 
   useEffect(() => {
     const t = setTimeout(() => setEntered(true), 50)
@@ -446,8 +463,12 @@ export default function LibraryPage() {
 
   useEffect(() => {
     setArticleCounts({})
+    const stateCodes = countryCode === 'BR'
+      ? SP_STATES.flatMap(s => s.codes)
+      : []
+    const allKeys = [...CODE_ORDER, ...stateCodes]
     Promise.all(
-      CODE_ORDER.map(async k => {
+      allKeys.map(async k => {
         const data = await loadCode(k)
         return [k, data?.articles?.length || 0]
       })
@@ -591,6 +612,83 @@ export default function LibraryPage() {
             })}
           </div>
         </div>
+
+        {/* State Law section — Brazil only */}
+        {countryCode === 'BR' && (
+          <div className="max-w-5xl mx-auto px-6 pb-20">
+            <div
+              className="mb-6 pt-6"
+              style={{ borderTop: '1px solid rgba(255,255,255,0.08)' }}
+            >
+              <p className="text-xs uppercase tracking-widest text-white/40 font-medium mb-1">
+                Legislação Estadual
+              </p>
+              <p className="text-white/60 text-sm">State constitutions and codes</p>
+            </div>
+
+            {/* State selector chips */}
+            <div className="flex flex-wrap gap-3 mb-8">
+              {SP_STATES.map(st => (
+                <button
+                  key={st.code}
+                  disabled={st.soon}
+                  onClick={() => setSelectedState(selectedState === st.code ? null : st.code)}
+                  className="flex items-center gap-2 px-4 py-2 rounded-full text-sm font-medium transition-all duration-150"
+                  style={{
+                    background: selectedState === st.code
+                      ? 'rgba(91,141,184,0.25)'
+                      : st.soon
+                        ? 'rgba(255,255,255,0.04)'
+                        : 'rgba(255,255,255,0.08)',
+                    border: selectedState === st.code
+                      ? '1px solid rgba(91,141,184,0.6)'
+                      : '1px solid rgba(255,255,255,0.12)',
+                    color: st.soon ? 'rgba(255,255,255,0.25)' : 'white',
+                    cursor: st.soon ? 'default' : 'pointer',
+                  }}
+                >
+                  <span>{st.flag}</span>
+                  <span>{st.name}</span>
+                  {st.soon && (
+                    <span className="text-xs" style={{ color: 'rgba(255,255,255,0.2)' }}>
+                      em breve
+                    </span>
+                  )}
+                </button>
+              ))}
+            </div>
+
+            {/* State codes grid */}
+            {selectedState && (() => {
+              const st = SP_STATES.find(s => s.code === selectedState)
+              if (!st || st.codes.length === 0) return null
+              return (
+                <div
+                  style={{
+                    display: 'grid',
+                    gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))',
+                    gap: '28px',
+                    maxWidth: '320px',
+                  }}
+                >
+                  {st.codes.map(code => {
+                    const meta = CODE_META[code]
+                    if (!meta) return null
+                    return (
+                      <BookCard
+                        key={code}
+                        codeKey={code}
+                        meta={meta}
+                        articleCount={articleCounts[code] || 0}
+                        onClick={() => setOpenCode(code)}
+                      />
+                    )
+                  })}
+                </div>
+              )
+            })()}
+          </div>
+        )}
       </div>
     </PageBackground>
   )

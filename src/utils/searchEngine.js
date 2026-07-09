@@ -1,6 +1,7 @@
 import Fuse from 'fuse.js'
 
 const CODE_MAP = {
+  constituicaoSP: () => import('../data/brazil-states/sao-paulo/constituicaoSP.json'),
   constituicao: () => import('../data/brazil/constituicao.json'),
   codigoPenal:  () => import('../data/brazil/codigoPenal.json'),
   codigoCivil:  () => import('../data/brazil/codigoCivil.json'),
